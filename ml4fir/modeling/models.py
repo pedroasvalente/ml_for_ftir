@@ -12,8 +12,8 @@ class BaseModelConfig:
     def __init__(
         self,
         name,
-        random_seed,
         model_fn,
+        random_seed=54,
         desc_name: Optional[str] = None,
         model_args: Optional[Dict] = None,
     ):
@@ -42,10 +42,10 @@ class BaseModelConfig:
         return param
 
     def get_param_grid(self, **kwargs):
-        return self._get_param_grid(param_type="param_grid_args", **kwargs)
+        return self._get_params(param_type="param_grid_args", **kwargs)
 
     def get_bayes_search_params(self, **kwargs):
-        return self._get_param_grid(param_type="bayes_search_params", **kwargs)
+        return self._get_params(param_type="bayes_search_params", **kwargs)
 
 
 class RandomForestConfig(BaseModelConfig):
