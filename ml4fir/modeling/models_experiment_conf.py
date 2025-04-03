@@ -96,9 +96,3 @@ xgboost_config = XGBoostConfig(
     min_child_weight=Integer(1, 10),
     gamma=Real(0, 5),
 )
-
-print("Random Forest Config:", random_forest_config)
-print("MLP Config:", mlp_config)
-print("Decision Tree Config:", decision_tree_config)
-print("XGBoost Config:", xgboost_config)
-print("XGBoost Config:", xgboost_config)

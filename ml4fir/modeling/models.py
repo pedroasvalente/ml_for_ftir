@@ -234,7 +234,7 @@ class XGBoostConfig(BaseModelConfig):
         )
 
 
-def get_model_config(model_type, random_seed):
+def get_model_config(model_type):
     """
     Factory function to retrieve the appropriate model configuration class.
 
@@ -256,4 +256,4 @@ def get_model_config(model_type, random_seed):
     if model_type not in config_classes:
         raise ValueError(f"Unsupported model_type: {model_type}")
 
-    return config_classes[model_type](random_seed)
+    return config_classes[model_type]
