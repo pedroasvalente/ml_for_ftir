@@ -11,8 +11,8 @@ from sklearn.metrics import (
 )
 from sklearn.model_selection import GridSearchCV
 from skopt import BayesSearchCV
-from zz_config_features_importance import func_back_projection
 
+from ml4fir.modeling.config_features_importance import func_back_projection
 from ml4fir.modeling.models import get_model_config
 from ml4fir.modeling.results_functions import func_cv_results, results_func
 from ml4fir.modeling.train_config import model_args_conf, search_args
