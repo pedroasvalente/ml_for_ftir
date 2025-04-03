@@ -5,6 +5,8 @@ from sklearn.neural_network import MLPClassifier
 from sklearn.tree import DecisionTreeClassifier
 from xgboost import XGBClassifier
 
+from ml4fir.modeling.conf import random_seed
+
 
 class BaseModelConfig:
     """Base class for model configurations."""
@@ -13,7 +15,7 @@ class BaseModelConfig:
         self,
         name,
         model_fn,
-        random_seed=54,
+        random_seed=random_seed,
         desc_name: Optional[str] = None,
         model_args: Optional[Dict] = None,
     ):

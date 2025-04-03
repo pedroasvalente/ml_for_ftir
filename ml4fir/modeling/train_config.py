@@ -1,4 +1,9 @@
-from zz_config_module import random_seed, stratified_cv
+from sklearn.model_selection import StratifiedKFold
+
+from ml4fir.modeling.conf import random_seed
+
+stratified_cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=random_seed)
+
 
 grid_search_args = {
     "scoring": "balanced_accuracy",
@@ -14,7 +19,6 @@ search_args = {
             "n_points": 10,
             "cv": stratified_cv,
             "scoring": "balanced_accuracy",
-            "random_state": random_seed,
         },
     },
     "mlp_classifier": {
@@ -24,7 +28,6 @@ search_args = {
             "n_points": 10,
             "cv": stratified_cv,
             "scoring": "balanced_accuracy",
-            "random_state": random_seed,
         },
     },
     "decision_tree": {
@@ -34,7 +37,6 @@ search_args = {
             "n_points": 100,
             "cv": stratified_cv,
             "scoring": "balanced_accuracy",
-            "random_state": random_seed,
         },
     },
     "xboost": {
@@ -43,7 +45,6 @@ search_args = {
             "n_iter": 50,
             "cv": stratified_cv,
             "scoring": "balanced_accuracy",
-            "random_state": random_seed,
         },
     },
 }
@@ -53,13 +54,11 @@ model_args_conf = {
     "mlp_classifier": {
         "GridSearchCV": {
             "max_iter": 3000,
-            "random_state": "random_seed",
             "learning_rate_init": 0.01,
             "early_stopping": True,
             "validation_fraction": 0.1,
         },
         "BayesSearchCV": {
-            "random_state": "random_seed",
             "validation_fraction": 0.1,
             "hidden_layer_sizes": (200,),
             "early_stopping": True,
