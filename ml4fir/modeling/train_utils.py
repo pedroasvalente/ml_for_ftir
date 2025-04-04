@@ -127,6 +127,70 @@ def generate_plots(
     )
 
 
+def perform_model_search_and_evaluation(
+    x_train,
+    y_train,
+    x_test,
+    y_test,
+    model_type,
+    search_type,
+):
+    """
+    Perform model search (GridSearchCV or BayesSearchCV), fit the model, and evaluate it.
+
+    Parameters:
+        x_train (array-like): Training features.
+        y_train (array-like): Training labels.
+        x_test (array-like): Testing features.
+        y_test (array-like): Testing labels.
+        model_type (str): Type of the model ('random_forest', 'mlp', 'decision_tree', 'xgboost').
+        search_type (str): Type of search to perform ("grid" or "bayes").
+
+    Returns:
+        tuple: Best model, predictions, probabilities, metrics, and feature importances.
+    """
+    # Get model configuration
+    config = get_model_config(model_type)
+    model_name = config.desc_name
+
+    # Determine search function and parameters
+    if search_type == "GridSearchCV":
+        search_function_name = "GridSearchCV"
+        search_fn = GridSearchCV
+        param_grid = config.get_param_grid()
+    elif search_type == "BayesSearchCV":
+        search_function_name = "BayesSearchCV"
+        search_fn = BayesSearchCV
+        param_grid = config.get_bayes_search_params()
+        param_grid.update({"random_state": config.random_seed})
+    else:
+        raise ValueError(
+            "Invalid search_type. Choose 'GridSearchCV' or 'BayesSearchCV'."
+        )
+
+    # Get model and search parameters
+    model_args = model_args_conf.get(model_type, {}).get(search_function_name, {})
+    model = config.get_model(**model_args)
+    search_params = search_args[config.name][search_function_name]
+
+    # Perform search
+    search = search_fn(model, param_grid, **search_params)
+    search.fit(x_train, y_train)
+    best_model = search.best_estimator_
+
+    # Make predictions
+    y_pred = best_model.predict(x_test)
+    y_prob = best_model.predict_proba(x_test)
+
+    # Calculate metrics
+    metrics = calculate_metrics(y_test, y_pred)
+
+    # Calculate feature importances
+    lv_importance = calculate_feature_importances(best_model, x_train, model_type)
+
+    return y_pred, y_prob, metrics, lv_importance
+
+
 def supervised_training_search(
     x_train,
     y_train,
@@ -169,40 +233,24 @@ def supervised_training_search(
     Returns:
         tuple: Updated results, cross-validation results, and back projection.
     """
-    config = get_model_config(model_type)
-    model_name = config.desc_name
-
+    # TODO: lazy fuck, think this better
     if search_type == "grid":
-        search_function_name = "GridSearchCV"
-        search_fn = GridSearchCV
-        param_grid = config.get_param_grid()
+        search_type = "GridSearchCV"
     elif search_type == "bayes":
-        search_function_name = "BayesSearchCV"
-        search_fn = BayesSearchCV
-        param_grid = config.get_bayes_search_params()
-        param_grid.update({"random_state": config.random_seed})
+        search_type = "BayesSearchCV"
     else:
         raise ValueError("Invalid search_type. Choose 'grid' or 'bayes'.")
 
-    # Get model and search parameters
-    model_args = model_args_conf.get(model_type, {}).get(search_function_name, {})
-    model = config.get_model(**model_args)
+    y_pred, y_prob, metrics, lv_importance = perform_model_search_and_evaluation(
+        x_train,
+        y_train,
+        x_test,
+        y_test,
+        model_type,
+        search_type,
+    )
 
-    search_params = search_args[config.name][search_function_name]
-    search = search_fn(model, param_grid, **search_params)
-    # Fit the search
-    search.fit(x_train, y_train)
-    best_model = search.best_estimator_
-
-    # Make predictions
-    y_pred = best_model.predict(x_test)
-    y_prob = best_model.predict_proba(x_test)
-
-    # Calculate metrics
-    metrics = calculate_metrics(y_test, y_pred)
-
-    # Calculate feature importances
-    lv_importance = calculate_feature_importances(best_model, x_train, model_type)
+    test_name = f"{model_name} ({search_type})"
 
     # Perform back projection
     top_wavenumbers, top_importances = func_back_projection(
@@ -213,7 +261,7 @@ def supervised_training_search(
         target_column,
         sample_type,
         train_percentage,
-        f"{model_name} ({'GridSearchCV' if search_type == 'grid' else 'BayesOpt'})",
+        test_name=test_name,
         group_fam_to_use=group_fam_to_use,
     )
 
@@ -229,7 +277,7 @@ def supervised_training_search(
         metrics["cm"],
         search,
         metrics["acc"],
-        f"{model_name} ({'GridSearchCV' if search_type == 'grid' else 'BayesOpt'})",
+        test_name,
     )
 
     # Generate plots
@@ -240,7 +288,7 @@ def supervised_training_search(
         label_encoder,
         sample_type,
         train_percentage,
-        f"{model_name} ({'GridSearchCV' if search_type == 'grid' else 'BayesOpt'})",
+        test_name,
         target_column,
         group_fam_to_use,
     )
@@ -250,7 +298,7 @@ def supervised_training_search(
         results,
         sample_type,
         train_percentage,
-        f"{model_name} ({'GridSearchCV' if search_type == 'grid' else 'BayesOpt'})",
+        test_name,
         metrics["test_acc"],
         metrics["f1"],
         metrics["roc_auc"],
