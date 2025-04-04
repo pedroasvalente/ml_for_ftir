@@ -7,7 +7,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import seaborn as sns
-from zz_config_module import global_threshold
+
+from ml4fir.config import global_threshold
 
 sns.set(style="whitegrid")
 
