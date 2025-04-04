@@ -5,7 +5,7 @@ from sklearn.neural_network import MLPClassifier
 from sklearn.tree import DecisionTreeClassifier
 from xgboost import XGBClassifier
 
-from ml4fir.modeling.conf import random_seed
+from ml4fir.config import random_seed
 
 
 class BaseModelConfig:

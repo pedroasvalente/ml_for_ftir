@@ -1,6 +1,6 @@
 from sklearn.model_selection import StratifiedKFold
 
-from ml4fir.modeling.conf import random_seed
+from ml4fir.config import random_seed
 
 stratified_cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=random_seed)
 

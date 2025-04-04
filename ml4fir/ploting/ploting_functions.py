@@ -8,8 +8,7 @@ from sklearn.metrics import (
     roc_auc_score,
     roc_curve,
 )
-
-global_threshold = 70
+from ml4fir.config import global_threshold
 
 
 def get_plot_path(base_path, target_name, group_fam_to_use=None):
