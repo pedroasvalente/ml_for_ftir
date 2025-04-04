@@ -8,6 +8,7 @@ from sklearn.metrics import (
     roc_auc_score,
     roc_curve,
 )
+
 from ml4fir.config import global_threshold
 
 
