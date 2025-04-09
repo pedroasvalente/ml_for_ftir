@@ -1,4 +1,3 @@
-
 from loguru import logger
 import pandas as pd
 from tqdm import tqdm
@@ -20,6 +19,49 @@ def main(
     # model_path: Path = MODELS_DIR / "model.pkl",
     # -----------------------------------------
 ):
+
+    # Prepare result containers
+    results = {
+        "Sample Type": [],
+        "Train Percentage": [],
+        "Model": [],
+        "Accuracy": [],
+        "F1 Score": [],
+        "ROC AUC": [],
+    }
+
+    cross_validation_results = {
+        "Sample Type": [],
+        "Train Percentage": [],
+        "Model": [],
+        "Balanced Accuracy": [],
+        "F1 Score": [],
+        "Recall": [],
+        "Precision": [],
+        "Confusion Matrix": [],
+        "Best Params": [],
+        "mean_test_score": [],
+        "std_test_score": [],
+        "rank_test_score": [],
+        "params": [],
+        "best_index": [],
+        "split0_test_score": [],
+        "split1_test_score": [],
+        "split2_test_score": [],
+        "split3_test_score": [],
+        "split4_test_score": [],
+        "accuracy_score": [],
+    }
+
+    back_projection = {
+        "Sample Type": [],
+        "Train Percentage": [],
+        "Model": [],
+        "Accuracy": [],
+        "Wavenumber (cm⁻¹)": [],
+        "Importance": [],
+    }
+
     # ---- REPLACE THIS WITH YOUR OWN CODE ----
     logger.info("Training some model...")
     for i in tqdm(range(10), total=10):
@@ -77,7 +119,7 @@ def main(
                             y_train=y_train,
                             x_test=X_test,
                             y_test=y_test,
-                            label_encoder=label_encoder,
+                            label_encoder=None,
                             sample_type=sample_type,
                             train_percentage=train_percentage,
                             loadings=loadings,
@@ -90,6 +132,7 @@ def main(
                             group_fam_to_use=selected_group_fam,
                         )
                     )
+
 
 # TODO: check ruff errors, they are the lead to next things to solve.
 # Dicts are being changed inside functions, too many things are passed into this supervised learning function., probably best to slip it further.abs

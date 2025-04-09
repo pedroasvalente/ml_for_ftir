@@ -1,10 +1,10 @@
 from skopt.space import Categorical, Integer, Real
 
 from ml4fir.modeling.models import (
-                                    DecisionTreeConfig,
-                                    MLPConfig,
-                                    RandomForestConfig,
-                                    XGBoostConfig,
+    DecisionTreeConfig,
+    MLPConfig,
+    RandomForestConfig,
+    XGBoostConfig,
 )
 
 random_forest_config = RandomForestConfig(
@@ -96,3 +96,11 @@ xgboost_config = XGBoostConfig(
     min_child_weight=Integer(1, 10),
     gamma=Real(0, 5),
 )
+
+
+models_experiment = {
+    "random_forest": random_forest_config,
+    "mlp_classifier": mlp_config,
+    "decision_tree": decision_tree_config,
+    "xgboost": xgboost_config,
+}
