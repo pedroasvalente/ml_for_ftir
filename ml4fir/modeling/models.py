@@ -1,5 +1,3 @@
-from typing import Dict, List, Optional, Union
-
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.neural_network import MLPClassifier
 from sklearn.tree import DecisionTreeClassifier
@@ -16,8 +14,8 @@ class BaseModelConfig:
         name,
         model_fn,
         random_seed=random_seed,
-        desc_name: Optional[str] = None,
-        model_args: Optional[Dict] = None,
+        desc_name: str | None = None,
+        model_args: dict | None = None,
     ):
 
         self.name = name or self.name
@@ -47,7 +45,18 @@ class BaseModelConfig:
         return self._get_params(param_type="param_grid_args", **kwargs)
 
     def get_bayes_search_params(self, **kwargs):
-        return self._get_params(param_type="bayes_search_params", **kwargs)
+        params = self._get_params(param_type="bayes_search_params", **kwargs)
+        params.update({"random_state": self.random_seed})
+        return params
+
+    def get_params(self, param_type, **kwargs):
+        if param_type in ["grid", "param_grid_args", "GridSearchCV"]:
+            param_type = "param_grid_args"
+        elif param_type in ["bayes", "bayes_search_params", "BayesSearchCV"]:
+            param_type = "bayes_search_params"
+        else:
+            raise ValueError(f"Unsupported param_type: {param_type}")
+        return self._get_params(param_type=param_type, **kwargs)
 
 
 class RandomForestConfig(BaseModelConfig):
@@ -64,13 +73,14 @@ class RandomForestConfig(BaseModelConfig):
         self,
         name="random_forest",
         desc_name="Random Forest",
-        n_estimators: Optional[Union[List, Dict]] = None,
-        max_depth: Optional[Union[List, Dict]] = None,
-        max_features: Optional[Union[List, Dict]] = None,
-        criterion: Optional[Union[List, Dict]] = None,
-        min_samples_split: Optional[Union[List, Dict]] = None,
-        min_samples_leaf: Optional[Union[List, Dict]] = None,
-        bootstrap: Optional[Union[List, Dict]] = None,
+        model_fn=RandomForestClassifier,
+        n_estimators: list | dict | None = None,
+        max_depth: list | dict | None = None,
+        max_features: list | dict | None = None,
+        criterion: list | dict | None = None,
+        min_samples_split: list | dict | None = None,
+        min_samples_leaf: list | dict | None = None,
+        bootstrap: list | dict | None = None,
         **kwargs,
     ):
         self.n_estimators = n_estimators or [100, 200]
@@ -81,9 +91,7 @@ class RandomForestConfig(BaseModelConfig):
         self.min_samples_leaf = min_samples_leaf or [1, 2, 4]
         self.bootstrap = bootstrap or [True, False]
 
-        super().__init__(
-            name=name, desc_name=desc_name, model_fn=RandomForestClassifier, **kwargs
-        )
+        super().__init__(name=name, desc_name=desc_name, model_fn=model_fn, **kwargs)
 
 
 class MLPConfig(BaseModelConfig):
@@ -107,14 +115,14 @@ class MLPConfig(BaseModelConfig):
         name="mlp",
         desc_name="MLP",
         model_fn=MLPClassifier,
-        model_args: Optional[Dict] = None,
-        hidden_layer_sizes: Optional[Union[List, Dict]] = None,
-        activation: Optional[Union[List, Dict]] = None,
-        solver: Optional[Union[List, Dict]] = None,
-        alpha: Optional[Union[List, Dict]] = None,
-        learning_rate: Optional[Union[List, Dict]] = None,
-        learning_rate_init: Optional[Union[List, Dict]] = None,
-        max_iter: Optional[Union[List, Dict]] = None,
+        model_args: dict | None = None,
+        hidden_layer_sizes: list | dict | None = None,
+        activation: list | dict | None = None,
+        solver: list | dict | None = None,
+        alpha: list | dict | None = None,
+        learning_rate: list | dict | None = None,
+        learning_rate_init: list | dict | None = None,
+        max_iter: list | dict | None = None,
         **kwargs,
     ):
         model_args = model_args or {}
@@ -164,12 +172,12 @@ class DecisionTreeConfig(BaseModelConfig):
         name="decision_tree",
         desc_name="Decision Tree",
         model_fn=DecisionTreeClassifier,
-        criterion: Optional[Union[List, Dict]] = None,
-        splitter: Optional[Union[List, Dict]] = None,
-        max_depth: Optional[Union[List, Dict]] = None,
-        min_samples_split: Optional[Union[List, Dict]] = None,
-        min_samples_leaf: Optional[Union[List, Dict]] = None,
-        max_features: Optional[Union[List, Dict]] = None,
+        criterion: list | dict | None = None,
+        splitter: list | dict | None = None,
+        max_depth: list | dict | None = None,
+        min_samples_split: list | dict | None = None,
+        min_samples_leaf: list | dict | None = None,
+        max_features: list | dict | None = None,
         **kwargs,
     ):
         self.criterion = criterion or ["gini", "entropy"]
@@ -205,14 +213,14 @@ class XGBoostConfig(BaseModelConfig):
         name="xgboost",
         desc_name="XGBoost",
         model_fn=XGBClassifier,
-        n_estimators: Optional[Union[List, Dict]] = None,
-        max_depth: Optional[Union[List, Dict]] = None,
-        learning_rate: Optional[Union[List, Dict]] = None,
-        subsample: Optional[Union[List, Dict]] = None,
-        colsample_bytree: Optional[Union[List, Dict]] = None,
-        min_child_weight: Optional[Union[List, Dict]] = None,
-        gamma: Optional[Union[List, Dict]] = None,
-        model_args: Optional[Dict] = None,
+        n_estimators: list | dict | None = None,
+        max_depth: list | dict | None = None,
+        learning_rate: list | dict | None = None,
+        subsample: list | dict | None = None,
+        colsample_bytree: list | dict | None = None,
+        min_child_weight: list | dict | None = None,
+        gamma: list | dict | None = None,
+        model_args: dict | None = None,
         **kwargs,
     ):
         model_args = model_args or {}
@@ -240,12 +248,14 @@ def get_model_config(model_type):
     """
     Factory function to retrieve the appropriate model configuration class.
 
-    Parameters:
+    Parameters
+    ----------
         model_type (str): The type of model. Options are:
                           'random_forest', 'mlp', 'decision_tree', 'xgboost'.
         random_seed (int): The random seed for reproducibility.
 
-    Returns:
+    Returns
+    -------
         BaseModelConfig: An instance of the appropriate configuration class.
     """
     config_classes = {

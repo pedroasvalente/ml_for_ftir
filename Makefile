@@ -32,6 +32,12 @@ lint:
 	ruff format --check
 	ruff check
 
+.PHONY: lint-fix
+lint-fix:
+	git diff --name-only HEAD | grep '\.py$$' | xargs black
+	git diff --name-only HEAD | grep '\.py$$' | xargs ruff check --fix
+
+
 ## Format source code with ruff
 .PHONY: format
 format:

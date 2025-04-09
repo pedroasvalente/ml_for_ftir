@@ -13,7 +13,7 @@ from sklearn.model_selection import GridSearchCV
 from skopt import BayesSearchCV
 
 from ml4fir.modeling.config_features_importance import func_back_projection
-from ml4fir.modeling.models import get_model_config
+from ml4fir.modeling.models_experiment_conf import models_experiment
 from ml4fir.modeling.results_functions import func_cv_results, results_func
 from ml4fir.modeling.train_config import model_args_conf, search_args
 from ml4fir.ploting import plot_confusion_matrix, plot_roc_curve
@@ -28,11 +28,13 @@ def calculate_metrics(y_test, y_pred):
     """
     Calculate evaluation metrics.
 
-    Parameters:
+    Parameters
+    ----------
         y_test (array-like): Ground truth labels.
         y_pred (array-like): Predicted labels.
 
-    Returns:
+    Returns
+    -------
         dict: A dictionary containing calculated metrics.
     """
     metrics = {
@@ -51,12 +53,14 @@ def calculate_feature_importances(model, x_train, model_type):
     """
     Calculate feature importances for the given model.
 
-    Parameters:
+    Parameters
+    ----------
         model (object): Trained model.
         x_train (array-like): Training data.
         model_type (str): Type of the model ('xgboost' or other).
 
-    Returns:
+    Returns
+    -------
         np.ndarray: An array of feature importances.
     """
     if model_type == "xgboost":
@@ -88,7 +92,8 @@ def generate_plots(
     """
     Generate confusion matrix and ROC curve plots.
 
-    Parameters:
+    Parameters
+    ----------
         y_test (array-like): Ground truth labels.
         y_pred (array-like): Predicted labels.
         y_prob (array-like): Predicted probabilities.
@@ -99,7 +104,8 @@ def generate_plots(
         target_column (str): Target column name.
         group_fam_to_use (optional): Optional grouping family.
 
-    Returns:
+    Returns
+    -------
         None
     """
     plot_confusion_matrix(
@@ -127,57 +133,71 @@ def generate_plots(
     )
 
 
-def perform_model_search_and_evaluation(
+def perform_model_search(
     x_train,
     y_train,
-    x_test,
-    y_test,
     model_type,
     search_type,
 ):
     """
     Perform model search (GridSearchCV or BayesSearchCV), fit the model, and evaluate it.
 
-    Parameters:
+    Parameters
+    ----------
         x_train (array-like): Training features.
         y_train (array-like): Training labels.
-        x_test (array-like): Testing features.
-        y_test (array-like): Testing labels.
         model_type (str): Type of the model ('random_forest', 'mlp', 'decision_tree', 'xgboost').
         search_type (str): Type of search to perform ("grid" or "bayes").
 
-    Returns:
+    Returns
+    -------
         tuple: Best model, predictions, probabilities, metrics, and feature importances.
     """
     # Get model configuration
-    config = get_model_config(model_type)
+    # TODO: we need to take this to the upper level.
+    config = models_experiment[model_type]
     model_name = config.desc_name
+    param_search_space = config.get_params(search_type)
 
     # Determine search function and parameters
     if search_type == "GridSearchCV":
-        search_function_name = "GridSearchCV"
         search_fn = GridSearchCV
-        param_grid = config.get_param_grid()
     elif search_type == "BayesSearchCV":
-        search_function_name = "BayesSearchCV"
         search_fn = BayesSearchCV
-        param_grid = config.get_bayes_search_params()
-        param_grid.update({"random_state": config.random_seed})
     else:
         raise ValueError(
             "Invalid search_type. Choose 'GridSearchCV' or 'BayesSearchCV'."
         )
 
     # Get model and search parameters
-    model_args = model_args_conf.get(model_type, {}).get(search_function_name, {})
+    model_args = model_args_conf.get(model_type, {}).get(search_type, {})
     model = config.get_model(**model_args)
-    search_params = search_args[config.name][search_function_name]
+    search_params = search_args[config.name][search_type]
 
     # Perform search
-    search = search_fn(model, param_grid, **search_params)
+    search = search_fn(model, param_search_space, **search_params)
     search.fit(x_train, y_train)
-    best_model = search.best_estimator_
+    # best_model = search.best_estimator_
 
+    return search
+
+
+def evaluate_model(best_model, x_test, y_test, x_train, model_type):
+    """
+    Evaluate the model by making predictions, calculating metrics, and feature importances.
+
+    Parameters
+    ----------
+        best_model (object): Trained model.
+        x_test (array-like): Testing features.
+        y_test (array-like): Testing labels.
+        x_train (array-like): Training features.
+        model_type (str): Type of the model ('random_forest', 'mlp', 'decision_tree', 'xgboost').
+
+    Returns
+    -------
+        tuple: Predictions, probabilities, metrics, and feature importances.
+    """
     # Make predictions
     y_pred = best_model.predict(x_test)
     y_prob = best_model.predict_proba(x_test)
@@ -212,7 +232,8 @@ def supervised_training_search(
     """
     Perform supervised training using either GridSearchCV or BayesSearchCV.
 
-    Parameters:
+    Parameters
+    ----------
         x_train (array-like): Training features.
         y_train (array-like): Training labels.
         x_test (array-like): Testing features.
@@ -230,7 +251,8 @@ def supervised_training_search(
         search_type (str): Type of search to perform ("grid" or "bayes").
         group_fam_to_use (optional): Optional grouping family.
 
-    Returns:
+    Returns
+    -------
         tuple: Updated results, cross-validation results, and back projection.
     """
     # TODO: lazy fuck, think this better
@@ -241,14 +263,20 @@ def supervised_training_search(
     else:
         raise ValueError("Invalid search_type. Choose 'grid' or 'bayes'.")
 
-    y_pred, y_prob, metrics, lv_importance = perform_model_search_and_evaluation(
-        x_train,
-        y_train,
-        x_test,
-        y_test,
-        model_type,
-        search_type,
+    # Perform search for best model, by training all configuration in models_experiment_conf
+    search = perform_model_search(x_train, y_train, model_type, search_type)
+
+    best_model = search.best_estimator_
+
+    # Evaluation
+    # TODO: this most likely does not need to be a function, but we might separete into the diferent evals there.
+    y_pred, y_prob, metrics, lv_importance = evaluate_model(
+        best_model, x_test, y_test, x_train, model_type
     )
+
+    # Get model configuration
+    config = models_experiment[model_type]
+    model_name = config.desc_name
 
     test_name = f"{model_name} ({search_type})"
 
@@ -331,7 +359,8 @@ def supervised_training(
     """
     Train a supervised model based on the specified model_type.
 
-    Parameters:
+    Parameters
+    ----------
         x_train (array-like): Training features.
         y_train (array-like): Training labels.
         x_test (array-like): Testing features.
@@ -349,7 +378,8 @@ def supervised_training(
                           'random_forest', 'mlp', 'decision_tree', 'xgboost'.
         group_fam_to_use (optional): Optional grouping family.
 
-    Returns:
+    Returns
+    -------
         tuple: Updated results, cross-validation results, and back projection.
     """
     search_to_use = search_to_use or ["grid", "bayes"]
