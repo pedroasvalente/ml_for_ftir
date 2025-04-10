@@ -39,7 +39,7 @@ search_args = {
             "scoring": "balanced_accuracy",
         },
     },
-    "xboost": {
+    "xgboost": {
         "GridSearchCV": grid_search_args,
         "BayesSearchCV": {
             "n_iter": 50,

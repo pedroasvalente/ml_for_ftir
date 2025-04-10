@@ -2,6 +2,7 @@ import os
 
 import numpy as np
 import pandas as pd
+from sklearn.inspection import permutation_importance
 from sklearn.metrics import (
     accuracy_score,
     balanced_accuracy_score,
@@ -13,7 +14,7 @@ from sklearn.metrics import (
 from sklearn.model_selection import GridSearchCV
 from skopt import BayesSearchCV
 
-from ml4fir.config import global_threshold
+from ml4fir.config import global_threshold, random_seed
 from ml4fir.modeling.models_experiment_conf import models_experiment
 from ml4fir.modeling.train_config import model_args_conf, search_args
 from ml4fir.ploting import (
@@ -61,7 +62,7 @@ def calculate_metrics(y_test, y_pred):
     return metrics
 
 
-def calculate_feature_importances(model, x_train, model_type):
+def calculate_feature_importances(model, x_train, model_type, x_test, y_test):
     """
     Calculate feature importances for the given model.
 
@@ -84,6 +85,12 @@ def calculate_feature_importances(model, x_train, model_type):
             if key in importance_dict:
                 lv_importance[i] = importance_dict[key]
         lv_importance /= lv_importance.sum()
+    elif model_type == "mlp_classifier":
+        perm_bayes = permutation_importance(
+            model, x_test, y_test, random_state=random_seed
+        )
+        lv_importance = perm_bayes.importances_mean
+
     else:
         lv_importance = model.feature_importances_
 
@@ -158,7 +165,7 @@ def perform_model_search(
     ----------
         x_train (array-like): Training features.
         y_train (array-like): Training labels.
-        model_type (str): Type of the model ('random_forest', 'mlp', 'decision_tree', 'xgboost').
+        model_type (str): Type of the model ('random_forest', 'mlp_classifier', 'decision_tree', 'xgboost').
         search_type (str): Type of search to perform ("grid" or "bayes").
 
     Returns
@@ -167,6 +174,8 @@ def perform_model_search(
     """
     # Get model configuration
     # TODO: we need to take this to the upper level.
+    if model_type == "mlp":
+        model_type = "mlp_classifier"
     config = models_experiment[model_type]
     model_name = config.desc_name
     param_search_space = config.get_params(search_type)
@@ -204,7 +213,7 @@ def evaluate_model(best_model, x_test, y_test, x_train, model_type):
         x_test (array-like): Testing features.
         y_test (array-like): Testing labels.
         x_train (array-like): Training features.
-        model_type (str): Type of the model ('random_forest', 'mlp', 'decision_tree', 'xgboost').
+        model_type (str): Type of the model ('random_forest', 'mlp_classifier', 'decision_tree', 'xgboost').
 
     Returns
     -------
@@ -218,7 +227,9 @@ def evaluate_model(best_model, x_test, y_test, x_train, model_type):
     metrics = calculate_metrics(y_test, y_pred)
 
     # Calculate feature importances
-    lv_importance = calculate_feature_importances(best_model, x_train, model_type)
+    lv_importance = calculate_feature_importances(
+        best_model, x_train, model_type, x_test, y_test
+    )
 
     return y_pred, y_prob, metrics, lv_importance
 
@@ -257,24 +268,11 @@ def save_wavenumber_importances(
     df_out = pd.DataFrame(
         {"Wavenumber (cm⁻¹)": valid_wavenumbers, "Importance": valid_importances}
     )
-
-    # Construct Excel filename and filepath
-    # WHY: pq que raio excel e nao csv????
-    excel_filename = (
-        f"{target_name}_wavenumbers_importance_{sample_type}_"
-        f"{int(train_percentage * 100)}pct_{test_name}_accuracy_"
-        f"{test_accuracy:.4f}{group_suffix}.xlsx"
-    )
-    excel_filepath = os.path.join(save_path, excel_filename)
-
-    # Save to Excel
-    df_out.to_excel(excel_filepath, index=False)
-    print(f"Excel file saved to: {excel_filepath}")
-
+    # TODO: instead of saving each one, we should save all of them in a single file?
     csv_filename = (
         f"{target_name}_wavenumbers_importance_{sample_type}_"
         f"{int(train_percentage * 100)}pct_{test_name}_accuracy_"
-        f"{test_accuracy:.4f}{group_suffix}.xlsx"
+        f"{test_accuracy:.4f}{group_suffix}.csv"
     )
     csv_filepath = os.path.join(save_path, csv_filename)
 
@@ -283,7 +281,7 @@ def save_wavenumber_importances(
     # TODO: make the prints inside the logger
     print(f"CSV file saved to: {csv_filepath}")
 
-    return excel_filepath
+    return csv_filepath
 
 
 def supervised_training(
@@ -317,7 +315,7 @@ def supervised_training(
         wavenumbers (array-like): Wavenumbers for back projection.
         target_column (str): Target column name.
         model_type (str): The type of model to train. Options are:
-                          'random_forest', 'mlp', 'decision_tree', 'xgboost'.
+                          'random_forest', 'mlp_classifier', 'decision_tree', 'xgboost'.
         group_fam_to_use (optional): Optional grouping family.
 
     Returns
@@ -428,6 +426,10 @@ def supervised_training(
         all_grid_params = pd.DataFrame(all_grid_params)
         grid_search_results.drop(columns=["params"], inplace=True)
         grid_search_results = grid_search_results.join(all_grid_params)
+        grid_search_results["target_variable"] = target_column
+        grid_search_results["Sample Type"] = sample_type
+        grid_search_results["Train Percentage"] = train_percentage
+        grid_search_results["Model"] = test_name
 
         cross_validation_results = {
             "Sample Type": sample_type,
@@ -447,29 +449,12 @@ def supervised_training(
             "params": [f for f in search.cv_results_["params"]],
             "best_index": int(search.best_index_),
             "accuracy_score": accuracy,
+            "target_variable": target_column,
         }
         for i in range(5):
             cross_validation_results[f"split{i}_test_score"] = [
                 float(f) for f in search.cv_results_[f"split{i}_test_score"]
             ]
-
-        # WHY: Aqui esta a meter no mesmo saco duas coisas diferentes.
-        # estas a guardar no mesmo sitio os resultados individuas (de cada parametro das searchs, aquelas lists) e o resuktado do melhor modelo daquela search.abs
-        # Isto devia de ser dois diferentes. TODO
-        # Update cross-validation results
-        # cross_validation_results = func_cv_results(
-        #     cross_validation_results,
-        #     sample_type,
-        #     train_percentage,
-        #     metrics["test_acc"],
-        #     metrics["f1"],
-        #     metrics["recall"],
-        #     metrics["precision"],
-        #     metrics["cm"],
-        #     search,
-        #     metrics["acc"],
-        #     test_name,
-        # )
 
         # Generate plots
         # FIX: label enconder? need to check what this is but I think it was something saying what is each class...
@@ -485,20 +470,6 @@ def supervised_training(
         #     group_fam_to_use,
         # )
 
-        # Update results
-        # results, back_projection = results_func(
-        #     results,
-        #     sample_type,
-        #     train_percentage,
-        #     test_name,
-        #     metrics["test_acc"],
-        #     metrics["f1"],
-        #     metrics["roc_auc"],
-        #     top_wavenumbers,
-        #     top_importances,
-        #     back_projection,
-        # )
-
     n_wavenumbers = len(top_wavenumbers)
 
     results = {
@@ -506,8 +477,9 @@ def supervised_training(
         "Train Percentage": train_percentage,
         "Model": model_name,
         "Accuracy": float(test_accuracy),
-        "F1 Score": float(f1_score_val),
+        "F1 Score": float(f1_grid),
         "ROC AUC": roc_auc,
+        "target_variable": target_column,
     }
     back_projection = {
         "Sample Type": [sample_type] * n_wavenumbers,
@@ -518,8 +490,27 @@ def supervised_training(
             float(wn) if isinstance(wn, str) else wn for wn in top_wavenumbers
         ],
         "Importance": top_importances,
+        "target_variable": target_column,
     }
+    back_projection_df = pd.DataFrame(
+        {
+            "Wavenumber (cm⁻¹)": [
+                float(wn) if isinstance(wn, str) else wn for wn in top_wavenumbers
+            ],
+            "Importance": top_importances,
+        }
+    )
+    back_projection_df["target_variable"] = target_column
+    back_projection_df["Sample Type"] = sample_type
+    back_projection_df["Train Percentage"] = train_percentage
+    back_projection_df["Model"] = model_name
+    # NOTE: this accuracy is the one from the model, not one for each wavenumber.
+    back_projection_df["Accuracy"] = float(test_accuracy)
 
-    # WHY: why return the results etc if they are overwritten?
-
-    return results, cross_validation_results, back_projection
+    return (
+        results,
+        cross_validation_results,
+        back_projection,
+        grid_search_results,
+        back_projection_df,
+    )
