@@ -15,7 +15,6 @@ from skopt import BayesSearchCV
 
 from ml4fir.config import global_threshold
 from ml4fir.modeling.models_experiment_conf import models_experiment
-from ml4fir.modeling.results_functions import results_func
 from ml4fir.modeling.train_config import model_args_conf, search_args
 from ml4fir.ploting import (
     plot_confusion_matrix,
@@ -272,7 +271,6 @@ def save_wavenumber_importances(
     df_out.to_excel(excel_filepath, index=False)
     print(f"Excel file saved to: {excel_filepath}")
 
-
     csv_filename = (
         f"{target_name}_wavenumbers_importance_{sample_type}_"
         f"{int(train_percentage * 100)}pct_{test_name}_accuracy_"
@@ -284,8 +282,6 @@ def save_wavenumber_importances(
     df_out.to_csv(csv_filepath, index=False)
     # TODO: make the prints inside the logger
     print(f"CSV file saved to: {csv_filepath}")
-
-
 
     return excel_filepath
 
@@ -300,10 +296,7 @@ def supervised_training(
     train_percentage,
     loadings,
     wavenumbers,
-    results,
-    cross_validation_results,
     target_column,
-    back_projection,
     model_type,
     group_fam_to_use=None,
     search_to_use=None,  # "grid" for GridSearchCV, "bayes" for BayesSearchCV
@@ -322,10 +315,7 @@ def supervised_training(
         train_percentage (float): Training percentage.
         loadings (array-like): Loadings for back projection.
         wavenumbers (array-like): Wavenumbers for back projection.
-        results (dict): Results dictionary to update.
-        cross_validation_results (dict): Cross-validation results dictionary to update.
         target_column (str): Target column name.
-        back_projection (dict): Back projection dictionary to update.
         model_type (str): The type of model to train. Options are:
                           'random_forest', 'mlp', 'decision_tree', 'xgboost'.
         group_fam_to_use (optional): Optional grouping family.
@@ -417,6 +407,7 @@ def supervised_training(
         precision_grid = metrics["precision"]
         conf_matrix_grid = metrics["cm"]
         accuracy = metrics["acc"]
+        roc_auc = metrics.get("roc_auc", None)
 
         # separate the results for the best model and the per experiment results, just save for now.
         best_model_results = {
@@ -481,31 +472,53 @@ def supervised_training(
         # )
 
         # Generate plots
-        generate_plots(
-            y_test,
-            y_pred,
-            y_prob,
-            label_encoder,
-            sample_type,
-            train_percentage,
-            test_name,
-            target_column,
-            group_fam_to_use,
-        )
+        # FIX: label enconder? need to check what this is but I think it was something saying what is each class...
+        # generate_plots(
+        #     y_test,
+        #     y_pred,
+        #     y_prob,
+        #     label_encoder,
+        #     sample_type,
+        #     train_percentage,
+        #     test_name,
+        #     target_column,
+        #     group_fam_to_use,
+        # )
 
         # Update results
-        results, back_projection = results_func(
-            results,
-            sample_type,
-            train_percentage,
-            test_name,
-            metrics["test_acc"],
-            metrics["f1"],
-            metrics["roc_auc"],
-            top_wavenumbers,
-            top_importances,
-            back_projection,
-        )
+        # results, back_projection = results_func(
+        #     results,
+        #     sample_type,
+        #     train_percentage,
+        #     test_name,
+        #     metrics["test_acc"],
+        #     metrics["f1"],
+        #     metrics["roc_auc"],
+        #     top_wavenumbers,
+        #     top_importances,
+        #     back_projection,
+        # )
+
+    n_wavenumbers = len(top_wavenumbers)
+
+    results = {
+        "Sample Type": sample_type,
+        "Train Percentage": train_percentage,
+        "Model": model_name,
+        "Accuracy": float(test_accuracy),
+        "F1 Score": float(f1_score_val),
+        "ROC AUC": roc_auc,
+    }
+    back_projection = {
+        "Sample Type": [sample_type] * n_wavenumbers,
+        "Train Percentage": [train_percentage] * n_wavenumbers,
+        "Model": [model_name] * n_wavenumbers,
+        "Accuracy": [float(test_accuracy)] * n_wavenumbers,
+        "Wavenumber (cm⁻¹)": [
+            float(wn) if isinstance(wn, str) else wn for wn in top_wavenumbers
+        ],
+        "Importance": top_importances,
+    }
 
     # WHY: why return the results etc if they are overwritten?
 
