@@ -30,28 +30,7 @@ def main(
         "ROC AUC": [],
     }
 
-    cross_validation_results = {
-        "Sample Type": [],
-        "Train Percentage": [],
-        "Model": [],
-        "Balanced Accuracy": [],
-        "F1 Score": [],
-        "Recall": [],
-        "Precision": [],
-        "Confusion Matrix": [],
-        "Best Params": [],
-        "mean_test_score": [],
-        "std_test_score": [],
-        "rank_test_score": [],
-        "params": [],
-        "best_index": [],
-        "split0_test_score": [],
-        "split1_test_score": [],
-        "split2_test_score": [],
-        "split3_test_score": [],
-        "split4_test_score": [],
-        "accuracy_score": [],
-    }
+    cross_validation_results_all = []
 
     back_projection = {
         "Sample Type": [],
@@ -132,6 +111,34 @@ def main(
                             group_fam_to_use=selected_group_fam,
                         )
                     )
+                    cross_validation_results_all.append(cross_validation_results)
+
+    # Create final results folder based on the target name
+    base_results_path = "000_final_results"
+    target_folder = targets_to_predict[0]  # You confirmed it's always one
+    final_results_path = os.path.join(base_results_path, target_folder)
+    os.makedirs(final_results_path, exist_ok=True)
+
+    # Define suffix for filenames (group_fam or just the target)
+    suffix_group = (
+        f"_{selected_group_fam}" if selected_group_fam else f"_{target_folder}"
+    )
+
+    # Save final results to Excel files in the correct path
+    pd.DataFrame(results).to_excel(
+        os.path.join(final_results_path, f"results_summary{suffix_group}.xlsx"),
+        index=False,
+    )
+    pd.DataFrame(cross_validation_results).to_excel(
+        os.path.join(final_results_path, f"results_summary{suffix_group}_cross.xlsx"),
+        index=False,
+    )
+    pd.DataFrame(back_projection).to_excel(
+        os.path.join(
+            final_results_path, f"results_summary{suffix_group}_back_projection.xlsx"
+        ),
+        index=False,
+    )
 
 
 # TODO: check ruff errors, they are the lead to next things to solve.

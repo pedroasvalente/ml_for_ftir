@@ -2,6 +2,7 @@ import os
 
 import matplotlib.pyplot as plt
 import numpy as np
+import seaborn as sns
 from sklearn.metrics import (
     ConfusionMatrixDisplay,
     confusion_matrix,
@@ -10,6 +11,9 @@ from sklearn.metrics import (
 )
 
 from ml4fir.config import global_threshold
+
+# TODO: Seaborn is not beaing used for anything?
+sns.set(style="whitegrid")
 
 
 def get_plot_path(base_path, target_name, group_fam_to_use=None):
@@ -21,7 +25,8 @@ def get_plot_path(base_path, target_name, group_fam_to_use=None):
         target_name (str): The name of the target variable.
         group_fam_to_use (str, optional): Additional grouping information to include in the folder name. Defaults to None.
 
-    Returns:
+    Returns
+    -------
         str: The full path to the directory.
     """
     subfolder = (
@@ -59,7 +64,8 @@ def plot_confusion_matrix(
         threshold (int, optional): Accuracy threshold for plotting. Defaults to global_threshold.
         group_fam_to_use (str, optional): Additional grouping information. Defaults to None.
 
-    Returns:
+    Returns
+    -------
         None
     """
     if threshold is None:
@@ -94,6 +100,7 @@ def plot_confusion_matrix(
         )
 
         # Dynamic path
+        # TODO: set pathas from project config
         save_path = get_plot_path("000_CM_plots", target_name, group_fam_to_use)
         plot_filename = f"{target_name}_ConfMatrix_{sample_type}_{int(train_percentage*100)}pct_{test_name}{group_info}.png"
         plot_filepath = os.path.join(save_path, plot_filename)
@@ -134,7 +141,8 @@ def plot_roc_curve(
         threshold (int, optional): Accuracy threshold for plotting. Defaults to global_threshold.
         group_fam_to_use (str, optional): Additional grouping information. Defaults to None.
 
-    Returns:
+    Returns
+    -------
         float: ROC AUC score if plotted, otherwise 0.0.
     """
     if threshold is None:
@@ -168,11 +176,91 @@ def plot_roc_curve(
             plt.close()
             print(f"ROC curve plot saved as: {plot_filepath}")
             return roc_auc
-        else:
-            print(
-                f"[Skipped] ROC curve (Acc: {test_accuracy * 100:.2f}%) < threshold ({threshold}%)"
-            )
-            return roc_auc
-    else:
-        print("Skipping ROC curve due to missing classes.")
-        return 0.0
+        print(
+            f"[Skipped] ROC curve (Acc: {test_accuracy * 100:.2f}%) < threshold ({threshold}%)"
+        )
+        return roc_auc
+    print("Skipping ROC curve due to missing classes.")
+    return 0.0
+
+
+def plot_wavenumber_importances(
+    valid_wavenumbers,
+    valid_importances,
+    target_name,
+    sample_type,
+    train_percentage,
+    test_name,
+    group_suffix,
+    save_path,
+):
+    """
+    Generate a plot with a broken x-axis for wavenumber importances.
+
+    Parameters
+    ----------
+        valid_wavenumbers (array-like): Array of valid wavenumbers.
+        valid_importances (array-like): Array of corresponding importances.
+        target_name (str): Name of the target variable.
+        sample_type (str): Type of the sample.
+        train_percentage (float): Training percentage (e.g., 0.8 for 80%).
+        test_name (str): Identifier for the test/model scenario.
+        group_suffix (str): Suffix for filenames (e.g., based on group family).
+        save_path (str): Path to save the plot.
+
+    Returns
+    -------
+        str: Path to the saved plot file.
+    """
+    # Mask the edges of the wavenumber range
+    mask_left = valid_wavenumbers > 2500
+    mask_right = valid_wavenumbers < 1850
+
+    wav_left = valid_wavenumbers[mask_left]
+    imp_left = valid_importances[mask_left]
+
+    wav_right = valid_wavenumbers[mask_right]
+    imp_right = valid_importances[mask_right]
+
+    # Create the plot with a broken x-axis
+    fig, (ax_left, ax_right) = plt.subplots(
+        1,
+        2,
+        figsize=(12, 6),
+        sharey=True,
+        gridspec_kw={"width_ratios": [1, 3], "wspace": 0.01},
+        constrained_layout=True,
+    )
+
+    # Plot left and right sections
+    ax_left.plot(wav_left, imp_left, color="b")
+    ax_left.set_xlim(np.max(wav_left), np.min(wav_left))
+    ax_left.set_ylim(0, np.max(valid_importances) * 1.05)
+    ax_left.grid(True)
+
+    ax_right.plot(wav_right, imp_right, color="b")
+    ax_right.set_xlim(np.max(wav_right), np.min(wav_right))
+    ax_right.set_ylim(0, np.max(valid_importances) * 1.05)
+    ax_right.grid(True)
+
+    # Invert x-axis for both sections
+    ax_left.invert_xaxis()
+    ax_right.invert_xaxis()
+
+    # Add labels and title
+    fig.text(0.04, 0.5, "Importance", va="center", rotation="vertical", fontsize=12)
+    fig.text(0.5, 0.02, r"Wavenumber (cm$^{-1}$)", ha="center", fontsize=12)
+
+    fig.suptitle(
+        f"{target_name} - Principal Wavenumber Importances\n{sample_type}, {int(train_percentage * 100)}% Train - {test_name}{group_suffix}",
+        fontsize=14,
+    )
+
+    # Save the plot
+    plot_filename = f"{target_name}_principal_wavenumbers_{sample_type}_{int(train_percentage * 100)}pct_{test_name}{group_suffix}.png"
+    plot_filepath = os.path.join(save_path, plot_filename)
+    plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
+    plt.close()
+    print(f"Plot saved to: {plot_filepath}")
+
+    return plot_filepath
