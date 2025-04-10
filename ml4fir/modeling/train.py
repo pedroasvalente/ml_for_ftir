@@ -21,25 +21,9 @@ def main(
 ):
 
     # Prepare result containers
-    results = {
-        "Sample Type": [],
-        "Train Percentage": [],
-        "Model": [],
-        "Accuracy": [],
-        "F1 Score": [],
-        "ROC AUC": [],
-    }
-
+    all_results = []
     cross_validation_results_all = []
-
-    back_projection = {
-        "Sample Type": [],
-        "Train Percentage": [],
-        "Model": [],
-        "Accuracy": [],
-        "Wavenumber (cm⁻¹)": [],
-        "Importance": [],
-    }
+    back_projection_all = []
 
     # ---- REPLACE THIS WITH YOUR OWN CODE ----
     logger.info("Training some model...")
@@ -103,16 +87,14 @@ def main(
                             train_percentage=train_percentage,
                             loadings=loadings,
                             wavenumbers=wavenumbers,
-                            results=results,
-                            cross_validation_results=cross_validation_results,
                             target_column=target,
-                            back_projection=back_projection,
                             model_type=model_type,
                             group_fam_to_use=selected_group_fam,
                         )
                     )
                     cross_validation_results_all.append(cross_validation_results)
-
+                    all_results.append(results)
+                    back_projection_all.append(back_projection)
     # Create final results folder based on the target name
     base_results_path = "000_final_results"
     target_folder = targets_to_predict[0]  # You confirmed it's always one
