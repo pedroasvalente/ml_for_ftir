@@ -112,7 +112,7 @@ class MLPConfig(BaseModelConfig):
 
     def __init__(
         self,
-        name="mlp",
+        name="mlp_classifier",
         desc_name="MLP",
         model_fn=MLPClassifier,
         model_args: dict | None = None,
@@ -251,7 +251,7 @@ def get_model_config(model_type):
     Parameters
     ----------
         model_type (str): The type of model. Options are:
-                          'random_forest', 'mlp', 'decision_tree', 'xgboost'.
+                          'random_forest', 'mlp_classifier', 'decision_tree', 'xgboost'.
         random_seed (int): The random seed for reproducibility.
 
     Returns
@@ -260,7 +260,7 @@ def get_model_config(model_type):
     """
     config_classes = {
         "random_forest": RandomForestConfig,
-        "mlp": MLPConfig,
+        "mlp_classifier": MLPConfig,
         "decision_tree": DecisionTreeConfig,
         "xgboost": XGBoostConfig,
     }

@@ -1,5 +1,6 @@
 import os
 
+import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
@@ -14,6 +15,7 @@ from ml4fir.config import global_threshold
 
 # TODO: Seaborn is not beaing used for anything?
 sns.set(style="whitegrid")
+matplotlib.use("Agg")
 
 
 def get_plot_path(base_path, target_name, group_fam_to_use=None):
