@@ -317,12 +317,22 @@ def supervised_training(
     -------
         tuple: Updated results, cross-validation results, and back projection.
     """
+    # TODO: this function needs a full on refactor after model handler.
     x_train = datahandler.x_train
     y_train = datahandler.y_train
     x_test = datahandler.x_test
     y_test = datahandler.y_test
     loadings = datahandler.loadings
     wavenumbers = datahandler.wavenumbers
+
+    # TODO: temporary way to pass results out the function
+    returning_results = {
+        "results": [],
+        "cross_validation_results": [],
+        "back_projection": [],
+        "grid_search_results": [],
+        "back_projection_df": [],
+    }
 
     search_to_use = search_to_use or ["grid", "bayes"]
     if not isinstance(search_to_use, list):
@@ -459,18 +469,17 @@ def supervised_training(
             ]
 
         # Generate plots
-        # FIX: label enconder? need to check what this is but I think it was something saying what is each class...
-        # roc_auc=generate_plots(
-        #     y_test,
-        #     y_pred,
-        #     y_prob,
-        #     label_encoder,
-        #     sample_type,
-        #     train_percentage,
-        #     test_name,
-        #     target_column,
-        #     group_fam_to_use,
-        # )
+        roc_auc = generate_plots(
+            y_test,
+            y_pred,
+            y_prob,
+            datahandler.labels,
+            sample_type,
+            train_percentage,
+            test_name,
+            target_column,
+            group_fam_to_use,
+        )
 
         n_wavenumbers = len(top_wavenumbers)
 
@@ -508,11 +517,22 @@ def supervised_training(
         back_projection_df["Model"] = model_name
         # NOTE: this accuracy is the one from the model, not one for each wavenumber.
         back_projection_df["Accuracy"] = float(test_accuracy)
+        returning_results["results"].append(results)
+        returning_results["cross_validation_results"].append(cross_validation_results)
+        returning_results["back_projection"].append(back_projection)
+        returning_results["grid_search_results"].append(grid_search_results)
+        returning_results["back_projection_df"].append(back_projection_df)
+    # Concatenate all results
 
-    return (
-        results,
-        cross_validation_results,
-        back_projection,
-        grid_search_results,
-        back_projection_df,
-    )
+    results_to_return = {
+        "results": pd.DataFrame(returning_results["results"]),
+        "cross_validation_results": pd.DataFrame(
+            returning_results["cross_validation_results"]
+        ),
+        "back_projection": pd.DataFrame(returning_results["back_projection"]),
+        "grid_search_results": pd.concat(returning_results["grid_search_results"]),
+        "back_projection_df": pd.concat(returning_results["back_projection_df"]),
+    }
+    # Save the results
+
+    return results_to_return

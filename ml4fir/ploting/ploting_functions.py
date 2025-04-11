@@ -74,9 +74,7 @@ def plot_confusion_matrix(
         threshold = global_threshold
     if accuracy_score >= threshold / 100:
         cm = confusion_matrix(y_test, y_pred)
-        disp = ConfusionMatrixDisplay(
-            confusion_matrix=cm, display_labels=label_encoder.classes_
-        )
+        disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=label_encoder)
 
         fig, ax = plt.subplots()
         disp.plot(cmap=plt.cm.Blues, ax=ax, colorbar=False)
@@ -149,16 +147,16 @@ def plot_roc_curve(
     """
     if threshold is None:
         threshold = global_threshold
-    if len(np.unique(y_test)) == len(label_encoder.classes_):
+    if len(np.unique(y_test)) == len(label_encoder):
         roc_auc = roc_auc_score(y_test, y_prob, multi_class="ovr")
         if test_accuracy >= threshold / 100:
             print(f"ROC AUC: {roc_auc:.4f}")
-            for i in range(len(label_encoder.classes_)):
+            for i in range(len(label_encoder)):
                 fpr, tpr, _ = roc_curve(y_test, y_prob[:, i], pos_label=i)
                 plt.plot(
                     fpr,
                     tpr,
-                    label=f"Class {label_encoder.classes_[i]} (AUC={roc_auc:.2f})",
+                    label=f"Class {label_encoder[i]} (AUC={roc_auc:.2f})",
                 )
 
             plt.xlabel("False Positive Rate")

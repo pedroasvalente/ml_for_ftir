@@ -42,7 +42,6 @@ def main(
     # These seem like configurations
     targets_to_predict = ["group_fam"]
     train_percentages = [0.8, 0.7, 0.6]
-    train_percentages = [0.8]
 
     # This is to choose if you want to train on a specific group family or not
     # WHY? if this is your target?
@@ -50,7 +49,14 @@ def main(
 
     # Sample types are trained separately.
     sample_types = df["sample_type"].unique()
-    sample_types = sample_types[:1]
+
+    # model types to train
+    model_types_to_train = [
+        "random_forest",
+        "mlp_classifier",
+        "decision_tree",
+        "xgboost",
+    ]
 
     ftir_columns = df.columns[~df.columns.isin(data_cols)]
     for target in targets_to_predict:
@@ -77,19 +83,8 @@ def main(
                     n_components=10,
                 )
 
-                for model_type in [
-                    "random_forest",
-                    "mlp_classifier",
-                    "decision_tree",
-                    "xgboost",
-                ]:
-                    (
-                        results,
-                        cross_validation_results,
-                        back_projection,
-                        grid_search_results,
-                        back_projection_df_iso,
-                    ) = supervised_training(
+                for model_type in model_types_to_train:
+                    training_results = supervised_training(
                         datahandler=datahandler,
                         sample_type=sample_type,
                         train_percentage=train_percentage,
@@ -97,6 +92,15 @@ def main(
                         model_type=model_type,
                         group_fam_to_use=selected_group_fam,
                     )
+
+                    results = training_results["results"]
+                    cross_validation_results = training_results[
+                        "cross_validation_results"
+                    ]
+                    back_projection = training_results["back_projection"]
+                    grid_search_results = training_results["grid_search_results"]
+                    back_projection_df_iso = training_results["back_projection_df"]
+
                     cross_validation_results_all.append(cross_validation_results)
                     all_results.append(results)
                     back_projection_all.append(back_projection)
@@ -105,9 +109,9 @@ def main(
     # Create final results folder based on the target name
     base_results_path = "000_final_results"
     target_folder = targets_to_predict[0]  # You confirmed it's always one
-    results_df = pd.DataFrame(all_results)
-    cross_validation_results_df = pd.DataFrame(cross_validation_results_all)
-    back_projection_df = pd.DataFrame(back_projection_all)
+    results_df = pd.concat(all_results)
+    cross_validation_results_df = pd.concat(cross_validation_results_all)
+    back_projection_df = pd.concat(back_projection_all)
     grid_search_results_df = pd.concat(grid_search_results_all)
     back_projection_df_iso = pd.concat(back_projection_df_iso_all)
     for target_folder in targets_to_predict:
@@ -175,11 +179,9 @@ def main(
         )
 
 
-# TODO: check ruff errors, they are the lead to next things to solve.
-# Dicts are being changed inside functions, too many things are passed into this supervised learning function., probably best to slip it further.abs
 # TODO: make this loop not a loop but entrie points for tqdm
 # TODO: isolate each step..abs
 # TODO: add mlflow tracking
-
+# TODO: only train the model once, and save the focker, probably done with mlflow implement it 1st
 if __name__ == "__main__":
     app()
