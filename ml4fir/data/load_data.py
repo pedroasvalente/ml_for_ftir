@@ -1,4 +1,3 @@
-from typing import Optional, Tuple, Union
 
 from imblearn.over_sampling import SMOTE
 import numpy as np
@@ -10,25 +9,34 @@ from sklearn.preprocessing import StandardScaler
 from ml4fir.config import random_seed
 
 
-def process_sample_data(
+def filter_sample_data(
     sample_data: pd.DataFrame,
     target: str,
     sample_type: str,
     ftir_columns: list,
-    selected_group_fam: Optional[str] = None,
-) -> Tuple[Optional[pd.DataFrame], Optional[np.ndarray], Optional[np.ndarray]]:
+    selected_group_fam: str | None = None,
+) -> tuple[pd.DataFrame | None, np.ndarray | None, np.ndarray | None]:
     """
-    Process a single combination of sample_data, target, and sample_type.
+    Filter and preprocess the sample data for a specific sample type and target.
 
-    Parameters:
-        sample_data (pd.DataFrame): The data for the current sample type.
-        target (str): The target column to predict.
-        sample_type (str): The type of sample being processed.
+    This function filters the input data based on the specified sample type and
+    optionally by a group family. It ensures that the target column and spectral
+    data are valid and free of missing or invalid values.
+
+    Parameters
+    ----------
+        sample_data (pd.DataFrame): The input data containing samples and features.
+        target (str): The name of the target column to predict.
+        sample_type (str): The type of sample to filter (e.g., "solid", "liquid").
         ftir_columns (list): List of FTIR columns to use as features.
         selected_group_fam (str, optional): Specific group family to filter by.
+            If None, no group family filtering is applied.
 
-    Returns:
-        tuple: Processed X (features), y_encoded (encoded target), wavenumbers (feature names).
+    Returns
+    -------
+        tuple: A tuple containing:
+            - X (pd.DataFrame or None): The filtered feature matrix.
+            - y (pd.Series or None): The filtered target values.
     """
     print(f"\n--- Processing Sample Type: {sample_type} ---")
     sample_data = sample_data[sample_data["sample_type"] == sample_type].copy()
@@ -56,6 +64,39 @@ def process_sample_data(
     # Apply masks to filter valid data
     y = y[valid_mask]
     X = spectral_data.loc[valid_mask]
+    return X, y
+
+
+def process_sample_data(
+    sample_data: pd.DataFrame,
+    target: str,
+    sample_type: str,
+    ftir_columns: list,
+    selected_group_fam: str | None = None,
+) -> tuple[pd.DataFrame | None, np.ndarray | None, np.ndarray | None]:
+    """
+    Process a single combination of sample_data, target, and sample_type.
+
+    Parameters
+    ----------
+        sample_data (pd.DataFrame): The data for the current sample type.
+        target (str): The target column to predict.
+        sample_type (str): The type of sample being processed.
+        ftir_columns (list): List of FTIR columns to use as features.
+        selected_group_fam (str, optional): Specific group family to filter by.
+
+    Returns
+    -------
+        tuple: Processed X (features), y_encoded (encoded target), wavenumbers (feature names).
+    """
+    X, y = filter_sample_data(
+        sample_data,
+        target,
+        sample_type,
+        ftir_columns,
+        selected_group_fam,
+    )
+
     wavenumbers = X.columns.values.astype(float)
 
     # Encode target labels
@@ -66,17 +107,19 @@ def process_sample_data(
 
 def split_data(
     X: pd.DataFrame, y_encoded: np.ndarray, train_percentage: float, random_seed: int
-) -> Tuple[pd.DataFrame, pd.DataFrame, np.ndarray, np.ndarray]:
+) -> tuple[pd.DataFrame, pd.DataFrame, np.ndarray, np.ndarray]:
     """
     Split the data into training and testing sets.
 
-    Parameters:
+    Parameters
+    ----------
         X (pd.DataFrame): The feature matrix.
         y_encoded (np.ndarray): The encoded target labels.
         train_percentage (float): The percentage of data to use for training (e.g., 0.8 for 80%).
         random_seed (int): The random seed for reproducibility.
 
-    Returns:
+    Returns
+    -------
         tuple: X_train, X_test, y_train, y_test
     """
     print(f"Training with {train_percentage * 100:.0f}% of the data")
@@ -90,16 +133,18 @@ def split_data(
 
 
 def scale_data(
-    X_train: Union[pd.DataFrame, np.ndarray], X_test: Union[pd.DataFrame, np.ndarray]
-) -> Tuple[np.ndarray, np.ndarray]:
+    X_train: pd.DataFrame | np.ndarray, X_test: pd.DataFrame | np.ndarray
+) -> tuple[np.ndarray, np.ndarray]:
     """
     Scale the training and testing data using StandardScaler.
 
-    Parameters:
+    Parameters
+    ----------
         X_train (pd.DataFrame or np.ndarray): The training feature matrix.
         X_test (pd.DataFrame or np.ndarray): The testing feature matrix.
 
-    Returns:
+    Returns
+    -------
         tuple: Scaled X_train and X_test.
     """
     # NOTE: scaling is good and all, but I am always more adept to using real values.
@@ -117,17 +162,19 @@ def apply_pls_da(
     X_test_scaled: np.ndarray,
     y_train: np.ndarray,
     n_components: int = 10,
-) -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
+) -> tuple[np.ndarray, np.ndarray, np.ndarray]:
     """
     Apply Partial Least Squares Discriminant Analysis (PLS-DA) to the data.
 
-    Parameters:
+    Parameters
+    ----------
         X_train_scaled (np.ndarray): Scaled training feature matrix.
         X_test_scaled (np.ndarray): Scaled testing feature matrix.
         y_train (np.ndarray): Training target labels.
         n_components (int): Number of components to use in PLS-DA.
 
-    Returns:
+    Returns
+    -------
         tuple: Transformed X_train_pls, X_test_pls, and loadings.
     """
     # NOTE: this i myself need to learn more about. I dont really see how mathematicaly we win from this instead of raw data.
@@ -139,17 +186,19 @@ def apply_pls_da(
 
 
 def apply_smote(
-    X_train: Union[np.ndarray, pd.DataFrame], y_train: np.ndarray, random_seed: int
-) -> Tuple[np.ndarray, np.ndarray]:
+    X_train: np.ndarray | pd.DataFrame, y_train: np.ndarray, random_seed: int
+) -> tuple[np.ndarray, np.ndarray]:
     """
     Apply SMOTE to oversample the minority class in the training data.
 
-    Parameters:
+    Parameters
+    ----------
         X_train (np.ndarray or pd.DataFrame): The training feature matrix.
         y_train (np.ndarray): The training target labels.
         random_seed (int): The random seed for reproducibility.
 
-    Returns:
+    Returns
+    -------
         tuple: Resampled X_train and y_train.
     """
     smote = SMOTE(random_state=random_seed)
@@ -158,7 +207,7 @@ def apply_smote(
 
 
 def preprocess_data(
-    X: Union[pd.DataFrame, np.ndarray],
+    X: pd.DataFrame | np.ndarray,
     y_encoded: np.ndarray,
     train_percentage: float,
     random_seed: int = random_seed,
@@ -166,11 +215,12 @@ def preprocess_data(
     apply_pls: bool = True,
     apply_smote_resampling: bool = True,
     n_components: int = 10,
-) -> Tuple[np.ndarray, np.ndarray, np.ndarray, np.ndarray, Optional[np.ndarray]]:
+) -> tuple[np.ndarray, np.ndarray, np.ndarray, np.ndarray, np.ndarray | None]:
     """
     Preprocess the data by splitting, scaling, applying PLS-DA, and optionally applying SMOTE.
 
-    Parameters:
+    Parameters
+    ----------
         X (pd.DataFrame or np.ndarray): The feature matrix.
         y_encoded (np.ndarray): The encoded target labels.
         train_percentage (float): The percentage of data to use for training (e.g., 0.8 for 80%).
@@ -180,7 +230,8 @@ def preprocess_data(
         apply_smote_resampling (bool): Whether to apply SMOTE for oversampling. Default is True.
         n_components (int): Number of components to use in PLS-DA. Default is 10.
 
-    Returns:
+    Returns
+    -------
         tuple: Preprocessed X_train, X_test, y_train, y_test, and optionally loadings.
     """
     # Split the data into training and testing sets

@@ -6,8 +6,8 @@ from tqdm import tqdm
 import typer
 
 from ml4fir.config import PROCESSED_TRAINING_DATA_FILEPATH, random_seed
+from ml4fir.data import DataHandler
 from ml4fir.data.config import data_cols
-from ml4fir.data.load_data import preprocess_data, process_sample_data
 from ml4fir.modeling.train_utils import supervised_training
 
 app = typer.Typer()
@@ -38,7 +38,7 @@ def main(
     # -----------------------------------------
 
     df = pd.read_csv(PROCESSED_TRAINING_DATA_FILEPATH)
-
+    datahandler = DataHandler(data_path=PROCESSED_TRAINING_DATA_FILEPATH)
     # These seem like configurations
     targets_to_predict = ["group_fam"]
     train_percentages = [0.8, 0.7, 0.6]
@@ -57,8 +57,7 @@ def main(
         print(f"\n>>> Starting Target: {target}\n")
 
         for sample_type in sample_types:
-            X, y_encoded, wavenumbers = process_sample_data(
-                sample_data=df,
+            X, y_encoded, wavenumbers = datahandler.process_sample_data(
                 target=target,
                 sample_type=sample_type,
                 ftir_columns=ftir_columns,
@@ -69,15 +68,17 @@ def main(
                 continue
             for train_percentage in train_percentages:
                 # Preprocess the data
-                X_train, X_test, y_train, y_test, loadings = preprocess_data(
-                    X=X,
-                    y_encoded=y_encoded,
-                    train_percentage=train_percentage,
-                    random_seed=random_seed,
-                    scale=True,  # Enable scaling
-                    apply_pls=True,  # Enable PLS-DA
-                    apply_smote_resampling=True,  # Enable SMOTE
-                    n_components=10,  # Number of PLS components
+                X_train, X_test, y_train, y_test, loadings = (
+                    datahandler.preprocess_data(
+                        X=X,
+                        y_encoded=y_encoded,
+                        train_percentage=train_percentage,
+                        random_seed=random_seed,
+                        scale=True,
+                        apply_pls=True,
+                        apply_smote_resampling=True,
+                        n_components=10,
+                    )
                 )
 
                 for model_type in [
