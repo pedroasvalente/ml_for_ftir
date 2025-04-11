@@ -138,8 +138,8 @@ def generate_plots(
         target_column,
         group_fam_to_use=group_fam_to_use,
     )
-
-    plot_roc_curve(
+    # TODO: a metric should not be coming from the plot function.
+    roc_auc = plot_roc_curve(
         y_test,
         y_prob,
         label_encoder,
@@ -150,6 +150,7 @@ def generate_plots(
         target_column,
         group_fam_to_use=group_fam_to_use,
     )
+    return roc_auc
 
 
 def perform_model_search(
@@ -458,7 +459,7 @@ def supervised_training(
 
         # Generate plots
         # FIX: label enconder? need to check what this is but I think it was something saying what is each class...
-        # generate_plots(
+        # roc_auc=generate_plots(
         #     y_test,
         #     y_pred,
         #     y_prob,
@@ -470,42 +471,42 @@ def supervised_training(
         #     group_fam_to_use,
         # )
 
-    n_wavenumbers = len(top_wavenumbers)
+        n_wavenumbers = len(top_wavenumbers)
 
-    results = {
-        "Sample Type": sample_type,
-        "Train Percentage": train_percentage,
-        "Model": model_name,
-        "Accuracy": float(test_accuracy),
-        "F1 Score": float(f1_grid),
-        "ROC AUC": roc_auc,
-        "target_variable": target_column,
-    }
-    back_projection = {
-        "Sample Type": [sample_type] * n_wavenumbers,
-        "Train Percentage": [train_percentage] * n_wavenumbers,
-        "Model": [model_name] * n_wavenumbers,
-        "Accuracy": [float(test_accuracy)] * n_wavenumbers,
-        "Wavenumber (cm⁻¹)": [
-            float(wn) if isinstance(wn, str) else wn for wn in top_wavenumbers
-        ],
-        "Importance": top_importances,
-        "target_variable": target_column,
-    }
-    back_projection_df = pd.DataFrame(
-        {
+        results = {
+            "Sample Type": sample_type,
+            "Train Percentage": train_percentage,
+            "Model": model_name,
+            "Accuracy": float(test_accuracy),
+            "F1 Score": float(f1_grid),
+            "ROC AUC": roc_auc,
+            "target_variable": target_column,
+        }
+        back_projection = {
+            "Sample Type": [sample_type] * n_wavenumbers,
+            "Train Percentage": [train_percentage] * n_wavenumbers,
+            "Model": [model_name] * n_wavenumbers,
+            "Accuracy": [float(test_accuracy)] * n_wavenumbers,
             "Wavenumber (cm⁻¹)": [
                 float(wn) if isinstance(wn, str) else wn for wn in top_wavenumbers
             ],
             "Importance": top_importances,
+            "target_variable": target_column,
         }
-    )
-    back_projection_df["target_variable"] = target_column
-    back_projection_df["Sample Type"] = sample_type
-    back_projection_df["Train Percentage"] = train_percentage
-    back_projection_df["Model"] = model_name
-    # NOTE: this accuracy is the one from the model, not one for each wavenumber.
-    back_projection_df["Accuracy"] = float(test_accuracy)
+        back_projection_df = pd.DataFrame(
+            {
+                "Wavenumber (cm⁻¹)": [
+                    float(wn) if isinstance(wn, str) else wn for wn in top_wavenumbers
+                ],
+                "Importance": top_importances,
+            }
+        )
+        back_projection_df["target_variable"] = target_column
+        back_projection_df["Sample Type"] = sample_type
+        back_projection_df["Train Percentage"] = train_percentage
+        back_projection_df["Model"] = model_name
+        # NOTE: this accuracy is the one from the model, not one for each wavenumber.
+        back_projection_df["Accuracy"] = float(test_accuracy)
 
     return (
         results,
