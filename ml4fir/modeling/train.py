@@ -57,28 +57,24 @@ def main(
         print(f"\n>>> Starting Target: {target}\n")
 
         for sample_type in sample_types:
-            X, y_encoded, wavenumbers = datahandler.process_sample_data(
+            datahandler.process_sample_data(
                 target=target,
                 sample_type=sample_type,
                 ftir_columns=ftir_columns,
                 selected_group_fam=selected_group_fam,
             )
             # Skip if no valid data
-            if X is None or y_encoded is None:
+            if datahandler.X is None or datahandler.y_encoded is None:
                 continue
             for train_percentage in train_percentages:
                 # Preprocess the data
-                X_train, X_test, y_train, y_test, loadings = (
-                    datahandler.preprocess_data(
-                        X=X,
-                        y_encoded=y_encoded,
-                        train_percentage=train_percentage,
-                        random_seed=random_seed,
-                        scale=True,
-                        apply_pls=True,
-                        apply_smote_resampling=True,
-                        n_components=10,
-                    )
+                datahandler.preprocess_data(
+                    train_percentage=train_percentage,
+                    random_seed=random_seed,
+                    scale=True,
+                    apply_pls=True,
+                    apply_smote_resampling=True,
+                    n_components=10,
                 )
 
                 for model_type in [
@@ -94,15 +90,9 @@ def main(
                         grid_search_results,
                         back_projection_df_iso,
                     ) = supervised_training(
-                        x_train=X_train,
-                        y_train=y_train,
-                        x_test=X_test,
-                        y_test=y_test,
-                        label_encoder=None,
+                        datahandler=datahandler,
                         sample_type=sample_type,
                         train_percentage=train_percentage,
-                        loadings=loadings,
-                        wavenumbers=wavenumbers,
                         target_column=target,
                         model_type=model_type,
                         group_fam_to_use=selected_group_fam,

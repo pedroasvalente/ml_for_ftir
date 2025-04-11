@@ -286,15 +286,9 @@ def save_wavenumber_importances(
 
 
 def supervised_training(
-    x_train,
-    y_train,
-    x_test,
-    y_test,
-    label_encoder,
+    datahandler,
     sample_type,
     train_percentage,
-    loadings,
-    wavenumbers,
     target_column,
     model_type,
     group_fam_to_use=None,
@@ -323,6 +317,13 @@ def supervised_training(
     -------
         tuple: Updated results, cross-validation results, and back projection.
     """
+    x_train = datahandler.x_train
+    y_train = datahandler.y_train
+    x_test = datahandler.x_test
+    y_test = datahandler.y_test
+    loadings = datahandler.loadings
+    wavenumbers = datahandler.wavenumbers
+
     search_to_use = search_to_use or ["grid", "bayes"]
     if not isinstance(search_to_use, list):
         search_to_use = [search_to_use]
