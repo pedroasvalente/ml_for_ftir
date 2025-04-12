@@ -515,6 +515,7 @@ def supervised_training(
         back_projection_df["Sample Type"] = sample_type
         back_projection_df["Train Percentage"] = train_percentage
         back_projection_df["Model"] = model_name
+        back_projection_df["Search Type"] = search_type
         # NOTE: this accuracy is the one from the model, not one for each wavenumber.
         back_projection_df["Accuracy"] = float(test_accuracy)
         returning_results["results"].append(results)
