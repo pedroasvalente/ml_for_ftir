@@ -6,6 +6,38 @@
 
 Short desc
 
+## Running the Training Script
+
+To run the `train.py` script, follow these steps:
+
+1. **Create a Virtual Environment**:
+   ```bash
+   python3 -m venv name_venv
+   ```
+
+2. **Activate the Virtual Environment**:
+   - On Linux/Mac:
+     ```bash
+     source name_venv/bin/activate
+     ```
+   - On Windows:
+     ```bash
+     name_venv\Scripts\activate
+     ```
+
+3. **Install the Project in Editable Mode**:
+    With the terminal inside the project.
+   ```bash
+   pip install -e .
+   ```
+
+4. **Run the Training Script**:
+   ```bash
+   python ml4fir/modeling/train.py
+   ```
+
+This will execute the training process as defined in `train.py`. Make sure to configure any necessary parameters or dependencies before running the script.
+
 ## Project Organization
 
 ```
