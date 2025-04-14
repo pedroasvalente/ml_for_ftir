@@ -42,18 +42,20 @@ def main(
     # These seem like configurations
     targets_to_predict = ["group_fam"]
     train_percentages = [0.8, 0.7, 0.6]
+    train_percentages =[0.8]
     # This is to choose if you want to train on a specific group family or not
     # WHY? if this is your target?
     selected_group_fam = None
 
     # Sample types are trained separately.
     sample_types = df["sample_type"].unique()
+    sample_types = ["CAPILAR", "PLASMA"]
     # model types to train
     model_types_to_train = [
         "random_forest",
         "mlp_classifier",
-        "decision_tree",
-        "xgboost",
+        # "decision_tree",
+        # "xgboost",
     ]
 
     ftir_columns = df.columns[~df.columns.isin(data_cols)]
@@ -95,13 +97,11 @@ def main(
                     cross_validation_results = training_results[
                         "cross_validation_results"
                     ]
-                    back_projection = training_results["back_projection"]
                     grid_search_results = training_results["grid_search_results"]
                     back_projection_df_iso = training_results["back_projection_df"]
 
                     cross_validation_results_all.append(cross_validation_results)
                     all_results.append(results)
-                    back_projection_all.append(back_projection)
                     grid_search_results_all.append(grid_search_results)
                     back_projection_df_iso_all.append(back_projection_df_iso)
     # Create final results folder based on the target name
@@ -109,16 +109,12 @@ def main(
     target_folder = targets_to_predict[0]  # You confirmed it's always one
     results_df = pd.concat(all_results)
     cross_validation_results_df = pd.concat(cross_validation_results_all)
-    back_projection_df = pd.concat(back_projection_all)
     grid_search_results_df = pd.concat(grid_search_results_all)
     back_projection_df_iso = pd.concat(back_projection_df_iso_all)
     for target_folder in targets_to_predict:
         target_results = results_df[results_df["target_variable"] == target_folder]
         target_cross_validation_results = cross_validation_results_df[
             cross_validation_results_df["target_variable"] == target_folder
-        ]
-        target_back_projection = back_projection_df[
-            back_projection_df["target_variable"] == target_folder
         ]
         target_grid_search_results = grid_search_results_df[
             grid_search_results_df["target_variable"] == target_folder
@@ -165,13 +161,6 @@ def main(
         target_cross_validation_results.to_excel(
             os.path.join(
                 final_results_path, f"results_summary{suffix_group}_cross.xlsx"
-            ),
-            index=False,
-        )
-        target_back_projection.to_excel(
-            os.path.join(
-                final_results_path,
-                f"results_summary{suffix_group}_back_projection.xlsx",
             ),
             index=False,
         )
