@@ -1,5 +1,7 @@
 import os
+
 import pandas as pd
+
 
 def save_results(
     targets_to_predict,
@@ -39,12 +41,7 @@ def save_results(
             os.path.join(final_results_path, f"results_summary{suffix_group}.csv"),
             index=False,
         )
-        target_cross_validation_results.to_csv(
-            os.path.join(
-                final_results_path, f"results_summary{suffix_group}_cross.csv"
-            ),
-            index=False,
-        )
+
         target_back_projection_iso.to_csv(
             os.path.join(
                 final_results_path, f"results_summary{suffix_group}_back_projection.csv"
@@ -60,9 +57,18 @@ def save_results(
         )
 
         # Save results to Excel
-        target_cross_validation_results.to_excel(
+        # target_cross_validation_results.to_excel(
+        #     os.path.join(
+        #         final_results_path, f"results_summary{suffix_group}_cross.xlsx"
+        #     ),
+        #     index=False,
+        # )
+        # TODO: probably get this were in another way.
+        # TODO: get some sort of ID. mlflow?
+        # Save results to JSON
+        target_cross_validation_results.T.to_json(
             os.path.join(
-                final_results_path, f"results_summary{suffix_group}_cross.xlsx"
+                final_results_path, f"results_summary{suffix_group}_cross.json"
             ),
-            index=False,
+            orient="columns",
         )
