@@ -235,56 +235,6 @@ def evaluate_model(best_model, x_test, y_test, x_train, model_type):
     return y_pred, y_prob, metrics, lv_importance
 
 
-def save_wavenumber_importances(
-    valid_wavenumbers,
-    valid_importances,
-    target_name,
-    sample_type,
-    train_percentage,
-    test_name,
-    test_accuracy,
-    group_suffix,
-    save_path,
-):
-    """
-    Save wavenumber importances to an Excel file.
-
-    Parameters
-    ----------
-        valid_wavenumbers (array-like): Array of valid wavenumbers.
-        valid_importances (array-like): Array of corresponding importances.
-        target_name (str): Name of the target variable.
-        sample_type (str): Type of the sample.
-        train_percentage (float): Training percentage (e.g., 0.8 for 80%).
-        test_name (str): Name of the test or model configuration.
-        test_accuracy (float): Test accuracy of the model.
-        group_suffix (str): Suffix for filenames (e.g., based on group family).
-        save_path (str): Path to save the Excel file.
-
-    Returns
-    -------
-        str: Path to the saved Excel file.
-    """
-    # Create DataFrame
-    df_out = pd.DataFrame(
-        {"Wavenumber (cm⁻¹)": valid_wavenumbers, "Importance": valid_importances}
-    )
-    # TODO: instead of saving each one, we should save all of them in a single file?
-    csv_filename = (
-        f"{target_name}_wavenumbers_importance_{sample_type}_"
-        f"{int(train_percentage * 100)}pct_{test_name}_accuracy_"
-        f"{test_accuracy:.4f}{group_suffix}.csv"
-    )
-    csv_filepath = os.path.join(save_path, csv_filename)
-
-    # Save to csv
-    df_out.to_csv(csv_filepath, index=False)
-    # TODO: make the prints inside the logger
-    print(f"CSV file saved to: {csv_filepath}")
-
-    return csv_filepath
-
-
 def supervised_training(
     datahandler,
     sample_type,
