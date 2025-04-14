@@ -329,7 +329,6 @@ def supervised_training(
     returning_results = {
         "results": [],
         "cross_validation_results": [],
-        "back_projection": [],
         "grid_search_results": [],
         "back_projection_df": [],
     }
@@ -389,17 +388,6 @@ def supervised_training(
 
         # Guardar Excel
         if test_accuracy >= global_threshold / 100:
-            save_wavenumber_importances(
-                valid_wavenumbers,
-                valid_importances,
-                target_column,
-                sample_type,
-                train_percentage,
-                test_name,
-                test_accuracy,
-                group_suffix,
-                save_path,
-            )
 
             plot_wavenumber_importances(
                 valid_wavenumbers,
@@ -492,17 +480,6 @@ def supervised_training(
             "ROC AUC": roc_auc,
             "target_variable": target_column,
         }
-        back_projection = {
-            "Sample Type": [sample_type] * n_wavenumbers,
-            "Train Percentage": [train_percentage] * n_wavenumbers,
-            "Model": [model_name] * n_wavenumbers,
-            "Accuracy": [float(test_accuracy)] * n_wavenumbers,
-            "Wavenumber (cm⁻¹)": [
-                float(wn) if isinstance(wn, str) else wn for wn in top_wavenumbers
-            ],
-            "Importance": top_importances,
-            "target_variable": target_column,
-        }
         back_projection_df = pd.DataFrame(
             {
                 "Wavenumber (cm⁻¹)": [
@@ -520,7 +497,6 @@ def supervised_training(
         back_projection_df["Accuracy"] = float(test_accuracy)
         returning_results["results"].append(results)
         returning_results["cross_validation_results"].append(cross_validation_results)
-        returning_results["back_projection"].append(back_projection)
         returning_results["grid_search_results"].append(grid_search_results)
         returning_results["back_projection_df"].append(back_projection_df)
     # Concatenate all results
@@ -530,7 +506,6 @@ def supervised_training(
         "cross_validation_results": pd.DataFrame(
             returning_results["cross_validation_results"]
         ),
-        "back_projection": pd.DataFrame(returning_results["back_projection"]),
         "grid_search_results": pd.concat(returning_results["grid_search_results"]),
         "back_projection_df": pd.concat(returning_results["back_projection_df"]),
     }
