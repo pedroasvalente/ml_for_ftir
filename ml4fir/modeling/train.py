@@ -42,14 +42,12 @@ def main(
     # These seem like configurations
     targets_to_predict = ["group_fam"]
     train_percentages = [0.8, 0.7, 0.6]
-
     # This is to choose if you want to train on a specific group family or not
     # WHY? if this is your target?
     selected_group_fam = None
 
     # Sample types are trained separately.
     sample_types = df["sample_type"].unique()
-
     # model types to train
     model_types_to_train = [
         "random_forest",
