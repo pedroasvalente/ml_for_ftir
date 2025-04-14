@@ -1,5 +1,5 @@
-
 from imblearn.over_sampling import SMOTE
+from loguru import logger
 import numpy as np
 import pandas as pd
 from sklearn.cross_decomposition import PLSRegression
@@ -38,7 +38,7 @@ def filter_sample_data(
             - X (pd.DataFrame or None): The filtered feature matrix.
             - y (pd.Series or None): The filtered target values.
     """
-    print(f"\n--- Processing Sample Type: {sample_type} ---")
+    logger.info(f"\n--- Processing Sample Type: {sample_type} ---")
     sample_data = sample_data[sample_data["sample_type"] == sample_type].copy()
 
     # Filter by selected group family if specified
@@ -47,7 +47,7 @@ def filter_sample_data(
 
     # Skip if no valid data for the target
     if sample_data[target].dropna().empty:
-        print(f"[!] Skipping: No data for {target} in {sample_type}")
+        logger.info(f"[!] Skipping: No data for {target} in {sample_type}")
         return None, None, None
 
     # Extract spectral data and target
@@ -122,7 +122,7 @@ def split_data(
     -------
         tuple: X_train, X_test, y_train, y_test
     """
-    print(f"Training with {train_percentage * 100:.0f}% of the data")
+    logger.info(f"Training with {train_percentage * 100:.0f}% of the data")
     test_size = 1 - train_percentage
 
     X_train, X_test, y_train, y_test = train_test_split(

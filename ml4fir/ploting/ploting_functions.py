@@ -1,5 +1,6 @@
 import os
 
+from loguru import logger
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
@@ -107,9 +108,9 @@ def plot_confusion_matrix(
 
         plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
         plt.close()
-        print(f"Confusion Matrix plot saved as: {plot_filepath}")
+        logger.info(f"Confusion Matrix plot saved as: {plot_filepath}")
     else:
-        print(
+        logger.info(
             f"[Skipped] Confusion matrix (Acc: {accuracy_score * 100:.2f}%) < threshold ({threshold}%)"
         )
 
@@ -150,7 +151,7 @@ def plot_roc_curve(
     if len(np.unique(y_test)) == len(label_encoder):
         roc_auc = roc_auc_score(y_test, y_prob, multi_class="ovr")
         if test_accuracy >= threshold / 100:
-            print(f"ROC AUC: {roc_auc:.4f}")
+            logger.info(f"ROC AUC: {roc_auc:.4f}")
             for i in range(len(label_encoder)):
                 fpr, tpr, _ = roc_curve(y_test, y_prob[:, i], pos_label=i)
                 plt.plot(
@@ -174,13 +175,13 @@ def plot_roc_curve(
 
             plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
             plt.close()
-            print(f"ROC curve plot saved as: {plot_filepath}")
+            logger.info(f"ROC curve plot saved as: {plot_filepath}")
             return roc_auc
-        print(
+        logger.info(
             f"[Skipped] ROC curve (Acc: {test_accuracy * 100:.2f}%) < threshold ({threshold}%)"
         )
         return roc_auc
-    print("Skipping ROC curve due to missing classes.")
+    logger.info("Skipping ROC curve due to missing classes.")
     return 0.0
 
 
@@ -261,6 +262,6 @@ def plot_wavenumber_importances(
     plot_filepath = os.path.join(save_path, plot_filename)
     plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
     plt.close()
-    print(f"Plot saved to: {plot_filepath}")
+    logger.info(f"Plot saved to: {plot_filepath}")
 
     return plot_filepath
