@@ -27,6 +27,9 @@ roc_plot_path = "000_ROC_plots/"
 confusion_matrix_plot_path = "000_CM_plots/"
 os.makedirs(roc_plot_path, exist_ok=True)
 os.makedirs(confusion_matrix_plot_path, exist_ok=True)
+import mlflow
+
+mlflow.autolog()
 
 
 def get_principal_wavenumber_path(target_name, group_fam_to_use=None):
@@ -199,7 +202,6 @@ def perform_model_search(
     # Perform search
     search = search_fn(model, param_search_space, **search_params)
     search.fit(x_train, y_train)
-    # best_model = search.best_estimator_
     # TODO: this function gots to save the models, maybe just the best, and maybe using mlflow
     return search
 
