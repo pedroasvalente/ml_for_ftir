@@ -23,6 +23,7 @@ class BaseModelConfig:
         self.random_seed = random_seed
         self.model_args = model_args or {}
         self.model_fn = model_fn
+        # self._set_model_fn()
 
     def get_model(self, **kwargs):
         model_args = self.model_args.copy()
@@ -57,6 +58,9 @@ class BaseModelConfig:
         else:
             raise ValueError(f"Unsupported param_type: {param_type}")
         return self._get_params(param_type=param_type, **kwargs)
+
+    # def _set_model_fn(self):
+    #     self.model_fn = with_callback(self.model_fn)
 
 
 class RandomForestConfig(BaseModelConfig):
@@ -242,6 +246,9 @@ class XGBoostConfig(BaseModelConfig):
             model_args=model_args,
             **kwargs,
         )
+
+    def _set_model_fn(self):
+        self.model_fn = self.model_fn
 
 
 def get_model_config(model_type):
