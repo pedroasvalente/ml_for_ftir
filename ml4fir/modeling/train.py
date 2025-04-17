@@ -4,13 +4,16 @@ import pandas as pd
 from tqdm import tqdm
 import typer
 
+# logging.getLogger("mlflow").setLevel(logging.DEBUG)
+mlflow.autolog(log_datasets=False)
+
+
 from ml4fir.config import PROCESSED_TRAINING_DATA_FILEPATH, random_seed
 from ml4fir.data import DataHandler
 from ml4fir.data.config import data_cols
 from ml4fir.modeling.train_utils import supervised_training
 from ml4fir.modeling.utils import save_results
 
-mlflow.autolog()
 app = typer.Typer()
 
 
@@ -48,38 +51,47 @@ def main(
     ]
     selected_group_fam = None
     ftir_columns = df.columns[~df.columns.isin(data_cols)]
+    searchs_hipermetrics = ["grid", "bayes"]
 
     # Create a list of configurations
     configurations = [
         {
-            "target": target,
-            "sample_type": sample_type,
-            "train_percentage": train_percentage,
+            "search_to_use": search_to_use,
             "model_type": model_type,
+            "train_percentage": train_percentage,
+            "sample_type": sample_type,
+            "target": target,
         }
-        for target in targets_to_predict
-        for sample_type in sample_types
-        for train_percentage in train_percentages
+        for search_to_use in searchs_hipermetrics
         for model_type in model_types_to_train
+        for train_percentage in train_percentages
+        for sample_type in sample_types
+        for target in targets_to_predict
     ]
+    with tqdm(configurations, desc="Training Configurations") as progress_bar:
+        for config in progress_bar:
+            print(config)
+
     mlflow.set_experiment("FTIR Supervised Training - Phase 1")
-    with mlflow.start_run(run_name="demo") as run:
+    with mlflow.start_run(run_name="demo", nested=True) as run:
 
         # Process each configuration
         with tqdm(configurations, desc="Training Configurations") as progress_bar:
             for config in progress_bar:
                 # Update the progress bar with the current configuration
                 progress_bar.set_postfix(
-                    target=config["target"],
-                    sample_type=config["sample_type"],
-                    train_percentage=config["train_percentage"],
+                    search_to_use=config["search_to_use"],
                     model_type=config["model_type"],
+                    train_percentage=config["train_percentage"],
+                    sample_type=config["sample_type"],
+                    target=config["target"],
                 )
 
                 target = config["target"]
                 sample_type = config["sample_type"]
                 train_percentage = config["train_percentage"]
                 model_type = config["model_type"]
+                search_to_use = config["search_to_use"]
                 logger.info(f"\n>>> Starting Target: {target}\n")
 
                 # Process sample data
@@ -89,15 +101,15 @@ def main(
                     ftir_columns=ftir_columns,
                     selected_group_fam=selected_group_fam,
                 )
-                dataset = datahandler.get_mlflow_dataset_complete()
-                mlflow.log_input(
-                    dataset,
-                    context="Complete",
-                    tags={
-                        "target": target,
-                        "sample_type": sample_type,
-                    },
-                )
+                # dataset = datahandler.get_mlflow_dataset_complete()
+                # mlflow.log_input(
+                #     dataset,
+                #     context="Complete",
+                #     tags={
+                #         "target": target,
+                #         "sample_type": sample_type,
+                #     },
+                # )
 
                 # Skip if no valid data
                 if datahandler.X is None or datahandler.y_encoded is None:
@@ -111,6 +123,7 @@ def main(
                 apply_pls = True
                 apply_smote_resampling = True
                 n_components = 10
+                mlflow.autolog(disable=True)
                 datahandler.preprocess_data(
                     train_percentage=train_percentage,
                     random_seed=random_seed,
@@ -119,19 +132,21 @@ def main(
                     apply_smote_resampling=apply_smote_resampling,
                     n_components=n_components,
                 )
-                dataset_train, dataset_test = datahandler.get_mlflow_dataset()
-                tags = {
-                    "parent_dataset": dataset.name,
-                    "random_seed": random_seed,
-                    "scale": scale,
-                    "apply_pls": apply_pls,
-                    "apply_smote_resampling": apply_smote_resampling,
-                    "n_components": n_components,
-                    "train_percentage": train_percentage,
-                }
-                tags = {k: str(v) for k, v in tags.items()}
-                mlflow.log_input(dataset_train, context="Train", tags=tags)
-                mlflow.log_input(dataset_test, context="Eval", tags=tags)
+                mlflow.autolog(log_datasets=False)
+
+                # dataset_train, dataset_test = datahandler.get_mlflow_dataset()
+                # tags = {
+                #     "parent_dataset": dataset.name,
+                #     "random_seed": random_seed,
+                #     "scale": scale,
+                #     "apply_pls": apply_pls,
+                #     "apply_smote_resampling": apply_smote_resampling,
+                #     "n_components": n_components,
+                #     "train_percentage": train_percentage,
+                # }
+                # tags = {k: str(v) for k, v in tags.items()}
+                # mlflow.log_input(dataset_train, context="Train", tags=tags)
+                # mlflow.log_input(dataset_test, context="Eval", tags=tags)
 
                 # Train the model
                 training_results = supervised_training(
@@ -141,6 +156,8 @@ def main(
                     target_column=target,
                     model_type=model_type,
                     group_fam_to_use=selected_group_fam,
+                    mlflow_run=run,
+                    search_to_use=search_to_use,
                 )
 
                 # Collect results

@@ -150,7 +150,6 @@ def scale_data(
     # NOTE: scaling is good and all, but I am always more adept to using real values.
     # In this case the scaling might be just a *1000 or something like that.
     # But whatever is best in academia. For production code, I would use the real values.
-
     scaler = StandardScaler()
     X_train_scaled = scaler.fit_transform(X_train)
     X_test_scaled = scaler.transform(X_test)
