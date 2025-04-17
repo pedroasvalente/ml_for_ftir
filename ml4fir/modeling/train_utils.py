@@ -1,5 +1,8 @@
 import os
 
+import mlflow
+from mlflow.models import infer_signature
+from mlflow.tracking import MlflowClient
 import numpy as np
 import pandas as pd
 from sklearn.inspection import permutation_importance
@@ -23,13 +26,14 @@ from ml4fir.ploting import (
     plot_wavenumber_importances,
 )
 
+client = MlflowClient()
+
 roc_plot_path = "000_ROC_plots/"
 confusion_matrix_plot_path = "000_CM_plots/"
 os.makedirs(roc_plot_path, exist_ok=True)
 os.makedirs(confusion_matrix_plot_path, exist_ok=True)
-import mlflow
 
-mlflow.autolog()
+# mlflow.autolog()
 
 
 def get_principal_wavenumber_path(target_name, group_fam_to_use=None):
@@ -156,12 +160,7 @@ def generate_plots(
     return roc_auc
 
 
-def perform_model_search(
-    x_train,
-    y_train,
-    model_type,
-    search_type,
-):
+def perform_model_search(x_train, y_train, model_type, search_type, datahandler):
     """
     Perform model search (GridSearchCV or BayesSearchCV), fit the model, and evaluate it.
 
@@ -201,7 +200,18 @@ def perform_model_search(
 
     # Perform search
     search = search_fn(model, param_search_space, **search_params)
+    # mlflow.autolog()
+    # dataset_train = mlflow.data.from_numpy(
+    #         x_train,
+    #         source=datahandler.data_path,
+    #         name=f"{datahandler.name}_train_halllo",
+    #         targets=y_train,
+    #     )
+
+    # mlflow.log_input(dataset_train, context="Train")
+
     search.fit(x_train, y_train)
+
     # TODO: this function gots to save the models, maybe just the best, and maybe using mlflow
     return search
 
@@ -245,6 +255,7 @@ def supervised_training(
     model_type,
     group_fam_to_use=None,
     search_to_use=None,  # "grid" for GridSearchCV, "bayes" for BayesSearchCV
+    mlflow_run=None,
 ):
     """
     Train a supervised model based on the specified model_type.
@@ -290,7 +301,6 @@ def supervised_training(
         search_to_use = [search_to_use]
 
     for search_type in search_to_use:
-
         # TODO: lazy fuck, think this better
         if search_type == "grid":
             search_type = "GridSearchCV"
@@ -299,158 +309,208 @@ def supervised_training(
         else:
             raise ValueError("Invalid search_type. Choose 'grid' or 'bayes'.")
 
-        # Perform search for best model, by training all configuration in models_experiment_conf
-        search = perform_model_search(x_train, y_train, model_type, search_type)
+        run_args = {
+            "run_name": f"{search_type}",
+            "nested": True,
+            "parent_run_id": mlflow_run.info.run_id,
+        }
 
-        best_model = search.best_estimator_
-
-        # Evaluation
-        # TODO: this most likely does not need to be a function, but we might separete into the diferent evals there.
-        y_pred, y_prob, metrics, lv_importance = evaluate_model(
-            best_model, x_test, y_test, x_train, model_type
+        # Search for child runs using the parent run ID
+        child_runs = client.search_runs(
+            experiment_ids=[mlflow_run.info.experiment_id],
+            filter_string=f"tags.mlflow.parentRunId = '{mlflow_run.info.run_id}'",
         )
+        search_run = [f for f in child_runs if f.info.run_name == search_type]
+        if len(search_run) > 0:
+            run_args["run_id"] = search_run[0].info.run_id
 
-        # Get model configuration
-        config = models_experiment[model_type]
-        model_name = config.desc_name
+        with mlflow.start_run(**run_args) as search_mlflow_run:
+            config = models_experiment[model_type]
+            model_name = config.desc_name
 
-        test_name = f"{model_name} ({search_type})"
-
-        # TODO: write better coments, and in english.
-        # Transpor os loadings
-        pls_loadings = loadings.transpose()
-        wavenumber_importances = np.abs(lv_importance @ pls_loadings)
-        wavenumber_importances /= wavenumber_importances.sum()
-
-        # Remover zona da água
-        valid_mask = (wavenumbers < 1850) | (wavenumbers > 2500)
-        valid_wavenumbers = wavenumbers[valid_mask]
-        valid_importances = wavenumber_importances[valid_mask]
-
-        top_indices = np.argsort(valid_importances)[-20:][::-1]
-        top_wavenumbers = valid_wavenumbers[top_indices]
-        top_importances = valid_importances[top_indices]
-
-        test_accuracy = metrics["test_acc"]
-
-        # TODO: check these paths.
-        # Determine group suffix and save path
-        group_suffix = f"_{group_fam_to_use}" if group_fam_to_use else ""
-        save_path = get_principal_wavenumber_path(target_column, group_fam_to_use)
-
-        # Guardar Excel
-        if test_accuracy >= global_threshold / 100:
-
-            plot_wavenumber_importances(
-                valid_wavenumbers,
-                valid_importances,
-                target_column,
-                sample_type,
-                train_percentage,
-                test_name,
-                group_suffix,
-                save_path,
-            )
-
-        f1_grid = metrics["f1"]
-        recall_grid = metrics["recall"]
-        precision_grid = metrics["precision"]
-        conf_matrix_grid = metrics["cm"]
-        accuracy = metrics["acc"]
-        roc_auc = metrics.get("roc_auc", None)
-
-        # separate the results for the best model and the per experiment results, just save for now.
-        best_model_results = {
-            "Sample Type": sample_type,
-            "Train Percentage": train_percentage,
-            "Model": test_name,
-            "Balanced Accuracy": float(test_accuracy),
-            "F1 Score": float(f1_grid),
-            "Recall": float(recall_grid),
-            "Precision": float(precision_grid),
-            "Confusion Matrix": conf_matrix_grid.tolist(),
-            # "Best Params":search.best_params_,
-            **search.best_params_,
-        }
-
-        grid_search_results = pd.DataFrame(search.cv_results_)
-        all_grid_params = grid_search_results["params"].to_list()
-        all_grid_params = pd.DataFrame(all_grid_params)
-        grid_search_results.drop(columns=["params"], inplace=True)
-        grid_search_results = grid_search_results.join(all_grid_params)
-        grid_search_results["target_variable"] = target_column
-        grid_search_results["Sample Type"] = sample_type
-        grid_search_results["Train Percentage"] = train_percentage
-        grid_search_results["Model"] = test_name
-
-        cross_validation_results = {
-            "Sample Type": sample_type,
-            "Train Percentage": train_percentage,
-            "Model": test_name,
-            "Balanced Accuracy": float(test_accuracy),
-            "F1 Score": float(f1_grid),
-            "Recall": float(recall_grid),
-            "Precision": float(precision_grid),
-            "Confusion Matrix": conf_matrix_grid.tolist(),
-            "Best Params": search.best_params_,
-            "mean_test_score": [
-                float(f) for f in search.cv_results_["mean_test_score"]
-            ],
-            "std_test_score": [float(f) for f in search.cv_results_["std_test_score"]],
-            "rank_test_score": [int(f) for f in search.cv_results_["rank_test_score"]],
-            "params": [f for f in search.cv_results_["params"]],
-            "best_index": int(search.best_index_),
-            "accuracy_score": accuracy,
-            "target_variable": target_column,
-        }
-        for i in range(5):
-            cross_validation_results[f"split{i}_test_score"] = [
-                float(f) for f in search.cv_results_[f"split{i}_test_score"]
-            ]
-
-        # Generate plots
-        roc_auc = generate_plots(
-            y_test,
-            y_pred,
-            y_prob,
-            datahandler.labels,
-            sample_type,
-            train_percentage,
-            test_name,
-            target_column,
-            group_fam_to_use,
-        )
-
-        n_wavenumbers = len(top_wavenumbers)
-
-        results = {
-            "Sample Type": sample_type,
-            "Train Percentage": train_percentage,
-            "Model": model_name,
-            "Accuracy": float(test_accuracy),
-            "F1 Score": float(f1_grid),
-            "ROC AUC": roc_auc,
-            "target_variable": target_column,
-        }
-        back_projection_df = pd.DataFrame(
-            {
-                "Wavenumber (cm⁻¹)": [
-                    float(wn) if isinstance(wn, str) else wn for wn in top_wavenumbers
-                ],
-                "Importance": top_importances,
+            model_run_args = {
+                "run_name": f"{model_name}",
+                "nested": True,
+                "parent_run_id": search_mlflow_run.info.run_id,
             }
-        )
-        back_projection_df["target_variable"] = target_column
-        back_projection_df["Sample Type"] = sample_type
-        back_projection_df["Train Percentage"] = train_percentage
-        back_projection_df["Model"] = model_name
-        back_projection_df["Search Type"] = search_type
-        # NOTE: this accuracy is the one from the model, not one for each wavenumber.
-        back_projection_df["Accuracy"] = float(test_accuracy)
-        returning_results["results"].append(results)
-        returning_results["cross_validation_results"].append(cross_validation_results)
-        returning_results["grid_search_results"].append(grid_search_results)
-        returning_results["back_projection_df"].append(back_projection_df)
+            with mlflow.start_run(**model_run_args):
+
+                # Perform search for best model, by training all configuration in models_experiment_conf
+                search = perform_model_search(
+                    x_train, y_train, model_type, search_type, datahandler
+                )
+
+                best_model = search.best_estimator_
+
+                # Evaluation
+                # TODO: this most likely does not need to be a function, but we might separete into the diferent evals there.
+                y_pred, y_prob, metrics, lv_importance = evaluate_model(
+                    best_model, x_test, y_test, x_train, model_type
+                )
+
+                # Get model configuration
+                signature = infer_signature(x_test, y_pred)
+                test_name = f"{model_name} ({search_type})"
+                try:
+                    mlflow.sklearn.log_model(
+                        search.best_estimator_, "best model", signature=signature
+                    )
+                except:
+                    mlflow.xgboost.log_model(
+                        search.best_estimator_, "best model", signature=signature
+                    )
+                for met, val in metrics.items():
+                    if met in ["cm", "roc_auc"]:
+                        continue
+                    mlflow.log_metric(met, val)
+                mlflow.log_metric("best score", search.best_score_)
+                for k in search.best_params_.keys():
+                    mlflow.log_param(k, search.best_params_[k])
+
+                # TODO: write better coments, and in english.
+                # Transpor os loadings
+                pls_loadings = loadings.transpose()
+                wavenumber_importances = np.abs(lv_importance @ pls_loadings)
+                wavenumber_importances /= wavenumber_importances.sum()
+
+                # Remover zona da água
+                valid_mask = (wavenumbers < 1850) | (wavenumbers > 2500)
+                valid_wavenumbers = wavenumbers[valid_mask]
+                valid_importances = wavenumber_importances[valid_mask]
+
+                top_indices = np.argsort(valid_importances)[-20:][::-1]
+                top_wavenumbers = valid_wavenumbers[top_indices]
+                top_importances = valid_importances[top_indices]
+
+                test_accuracy = metrics["test_acc"]
+
+                # TODO: check these paths.
+                # Determine group suffix and save path
+                group_suffix = f"_{group_fam_to_use}" if group_fam_to_use else ""
+                save_path = get_principal_wavenumber_path(
+                    target_column, group_fam_to_use
+                )
+
+                # Guardar Excel
+                if test_accuracy >= global_threshold / 100:
+
+                    plot_wavenumber_importances(
+                        valid_wavenumbers,
+                        valid_importances,
+                        target_column,
+                        sample_type,
+                        train_percentage,
+                        test_name,
+                        group_suffix,
+                        save_path,
+                    )
+
+                f1_grid = metrics["f1"]
+                recall_grid = metrics["recall"]
+                precision_grid = metrics["precision"]
+                conf_matrix_grid = metrics["cm"]
+                accuracy = metrics["acc"]
+                roc_auc = metrics.get("roc_auc", None)
+
+                # separate the results for the best model and the per experiment results, just save for now.
+                best_model_results = {
+                    "Sample Type": sample_type,
+                    "Train Percentage": train_percentage,
+                    "Model": test_name,
+                    "Balanced Accuracy": float(test_accuracy),
+                    "F1 Score": float(f1_grid),
+                    "Recall": float(recall_grid),
+                    "Precision": float(precision_grid),
+                    "Confusion Matrix": conf_matrix_grid.tolist(),
+                    # "Best Params":search.best_params_,
+                    **search.best_params_,
+                }
+
+                grid_search_results = pd.DataFrame(search.cv_results_)
+                all_grid_params = grid_search_results["params"].to_list()
+                all_grid_params = pd.DataFrame(all_grid_params)
+                grid_search_results.drop(columns=["params"], inplace=True)
+                grid_search_results = grid_search_results.join(all_grid_params)
+                grid_search_results["target_variable"] = target_column
+                grid_search_results["Sample Type"] = sample_type
+                grid_search_results["Train Percentage"] = train_percentage
+                grid_search_results["Model"] = test_name
+
+                cross_validation_results = {
+                    "Sample Type": sample_type,
+                    "Train Percentage": train_percentage,
+                    "Model": test_name,
+                    "Balanced Accuracy": float(test_accuracy),
+                    "F1 Score": float(f1_grid),
+                    "Recall": float(recall_grid),
+                    "Precision": float(precision_grid),
+                    "Confusion Matrix": conf_matrix_grid.tolist(),
+                    "Best Params": search.best_params_,
+                    "mean_test_score": [
+                        float(f) for f in search.cv_results_["mean_test_score"]
+                    ],
+                    "std_test_score": [
+                        float(f) for f in search.cv_results_["std_test_score"]
+                    ],
+                    "rank_test_score": [
+                        int(f) for f in search.cv_results_["rank_test_score"]
+                    ],
+                    "params": [f for f in search.cv_results_["params"]],
+                    "best_index": int(search.best_index_),
+                    "accuracy_score": accuracy,
+                    "target_variable": target_column,
+                }
+                for i in range(5):
+                    cross_validation_results[f"split{i}_test_score"] = [
+                        float(f) for f in search.cv_results_[f"split{i}_test_score"]
+                    ]
+
+                # Generate plots
+                roc_auc = generate_plots(
+                    y_test,
+                    y_pred,
+                    y_prob,
+                    datahandler.labels,
+                    sample_type,
+                    train_percentage,
+                    test_name,
+                    target_column,
+                    group_fam_to_use,
+                )
+
+                n_wavenumbers = len(top_wavenumbers)
+
+                results = {
+                    "Sample Type": sample_type,
+                    "Train Percentage": train_percentage,
+                    "Model": model_name,
+                    "Accuracy": float(test_accuracy),
+                    "F1 Score": float(f1_grid),
+                    "ROC AUC": roc_auc,
+                    "target_variable": target_column,
+                }
+                back_projection_df = pd.DataFrame(
+                    {
+                        "Wavenumber (cm⁻¹)": [
+                            float(wn) if isinstance(wn, str) else wn
+                            for wn in top_wavenumbers
+                        ],
+                        "Importance": top_importances,
+                    }
+                )
+                back_projection_df["target_variable"] = target_column
+                back_projection_df["Sample Type"] = sample_type
+                back_projection_df["Train Percentage"] = train_percentage
+                back_projection_df["Model"] = model_name
+                back_projection_df["Search Type"] = search_type
+                # NOTE: this accuracy is the one from the model, not one for each wavenumber.
+                back_projection_df["Accuracy"] = float(test_accuracy)
+                returning_results["results"].append(results)
+                returning_results["cross_validation_results"].append(
+                    cross_validation_results
+                )
+                returning_results["grid_search_results"].append(grid_search_results)
+                returning_results["back_projection_df"].append(back_projection_df)
     # Concatenate all results
 
     results_to_return = {
