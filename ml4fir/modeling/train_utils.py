@@ -306,6 +306,7 @@ def supervised_training(
             search_type = "GridSearchCV"
         elif search_type == "bayes":
             search_type = "BayesSearchCV"
+            mlflow.autolog(disable=True)
         else:
             raise ValueError("Invalid search_type. Choose 'grid' or 'bayes'.")
 
@@ -366,6 +367,8 @@ def supervised_training(
                 mlflow.log_metric("best score", search.best_score_)
                 for k in search.best_params_.keys():
                     mlflow.log_param(k, search.best_params_[k])
+                if search_type == "BayesSearchCV":
+                    mlflow.autolog(log_datasets=False)
 
                 # TODO: write better coments, and in english.
                 # Transpor os loadings
@@ -477,7 +480,7 @@ def supervised_training(
                     target_column,
                     group_fam_to_use,
                 )
-
+                mlflow.log_metric("roc_auc", roc_auc)
                 n_wavenumbers = len(top_wavenumbers)
 
                 results = {

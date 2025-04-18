@@ -12,10 +12,14 @@ def save_results(
     selected_group_fam,
 ):
     base_results_path = "000_final_results"
-    results_df = pd.concat(all_results)
-    cross_validation_results_df = pd.concat(cross_validation_results_all)
-    grid_search_results_df = pd.concat(grid_search_results_all)
-    back_projection_df_iso = pd.concat(back_projection_df_iso_all)
+    results_df = pd.concat(all_results).reset_index(drop=True)
+    cross_validation_results_df = pd.concat(cross_validation_results_all).reset_index(
+        drop=True
+    )
+    grid_search_results_df = pd.concat(grid_search_results_all).reset_index(drop=True)
+    back_projection_df_iso = pd.concat(back_projection_df_iso_all).reset_index(
+        drop=True
+    )
 
     for target_folder in targets_to_predict:
         target_results = results_df[results_df["target_variable"] == target_folder]
