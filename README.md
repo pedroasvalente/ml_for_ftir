@@ -38,6 +38,15 @@ To run the `train.py` script, follow these steps:
 
 This will execute the training process as defined in `train.py`. Make sure to configure any necessary parameters or dependencies before running the script.
 
+5. **Open the MLflow UI**:
+   To monitor and visualize your training runs, open the MLflow UI:
+
+   ```bash
+   mlflow ui
+   ```
+
+This will start the MLflow tracking server. By default, the UI will be accessible at http://localhost:5000. Open this link in your browser to explore your experiment runs, metrics, parameters, and artifacts.
+
 ## Project Organization
 
 ```

@@ -3,6 +3,7 @@ import os
 from loguru import logger
 import matplotlib
 import matplotlib.pyplot as plt
+import mlflow
 import numpy as np
 import seaborn as sns
 from sklearn.metrics import (
@@ -107,6 +108,7 @@ def plot_confusion_matrix(
         plot_filepath = os.path.join(save_path, plot_filename)
 
         plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
+        mlflow.log_figure(fig, plot_filename)
         plt.close()
         logger.info(f"Confusion Matrix plot saved as: {plot_filepath}")
     else:
@@ -152,9 +154,12 @@ def plot_roc_curve(
         roc_auc = roc_auc_score(y_test, y_prob, multi_class="ovr")
         if test_accuracy >= threshold / 100:
             logger.info(f"ROC AUC: {roc_auc:.4f}")
+            # Create a figure object
+            fig, ax = plt.subplots()
+
             for i in range(len(label_encoder)):
                 fpr, tpr, _ = roc_curve(y_test, y_prob[:, i], pos_label=i)
-                plt.plot(
+                ax.plot(
                     fpr,
                     tpr,
                     label=f"Class {label_encoder[i]} (AUC={roc_auc:.2f})",
@@ -174,6 +179,7 @@ def plot_roc_curve(
             plot_filepath = os.path.join(save_path, plot_filename)
 
             plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
+            mlflow.log_figure(fig, plot_filename)
             plt.close()
             logger.info(f"ROC curve plot saved as: {plot_filepath}")
             return roc_auc
@@ -261,6 +267,7 @@ def plot_wavenumber_importances(
     plot_filename = f"{target_name}_principal_wavenumbers_{sample_type}_{int(train_percentage * 100)}pct_{test_name}{group_suffix}.png"
     plot_filepath = os.path.join(save_path, plot_filename)
     plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
+    mlflow.log_figure(fig, plot_filename)
     plt.close()
     logger.info(f"Plot saved to: {plot_filepath}")
 

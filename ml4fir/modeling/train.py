@@ -46,8 +46,8 @@ def main(
     model_types_to_train = [
         "random_forest",
         "mlp_classifier",
-        "decision_tree",
-        "xgboost",
+        # "decision_tree",
+        # "xgboost",
     ]
     selected_group_fam = None
     ftir_columns = df.columns[~df.columns.isin(data_cols)]
