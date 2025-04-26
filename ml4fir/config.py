@@ -1,3 +1,4 @@
+import logging
 import os
 from pathlib import Path
 
@@ -35,5 +36,44 @@ try:
 
     logger.remove(0)
     logger.add(lambda msg: tqdm.write(msg, end=""), colorize=True)
+except ModuleNotFoundError:
+    pass
+
+
+try:
+    import mlflow
+
+    mlflow_logger = logging.getLogger("mlflow")
+
+    # Create a custom handler to redirect MLflow logs to Loguru
+    class LoguruHandler(logging.Handler):
+        def emit(self, record):
+            # Convert the LogRecord to a Loguru-compatible message
+            log_entry = self.format(record)
+            level = record.levelname.lower()
+            mlflow_logging_level = os.environ.get("MLFLOW_LOGGING_LEVEL", None)
+            if mlflow_logging_level is not None:
+                if level == "warning":
+                    logger.warning(log_entry)
+                elif level == "error":
+                    logger.error(log_entry)
+                elif level == "critical":
+                    logger.critical(log_entry)
+                elif level == "info":
+                    logger.info(log_entry)
+                elif level == "debug":
+                    logger.debug(log_entry)
+                else:
+                    logger.info(log_entry)
+                # mlflow_logger.setLevel(logging.DEBUG)  # Set the desired logging level
+
+    # Attach the custom handler to the MLflow logger
+    mlflow_logger.addHandler(LoguruHandler())
+    # Remove all default handlers from the MLflow logger
+    for handler in mlflow_logger.handlers[:]:
+        if not isinstance(handler, LoguruHandler):  # Keep only the LoguruHandler
+            mlflow_logger.removeHandler(handler)
+
+
 except ModuleNotFoundError:
     pass
