@@ -33,7 +33,7 @@ To run the `train.py` script, follow these steps:
 
 4. **Run the Training Script**:
    ```bash
-   python ml4fir/modeling/train.py
+   ml4fir train path_to_training.json
    ```
 
 This will execute the training process as defined in `train.py`. Make sure to configure any necessary parameters or dependencies before running the script.

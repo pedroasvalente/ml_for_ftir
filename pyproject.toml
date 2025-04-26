@@ -103,3 +103,6 @@ skip-magic-trailing-comma = false
 
 [tool.ruff.lint.pydocstyle]
 convention = "numpy" # Accepts: "google", "numpy" or "pep257"
+
+[project.scripts]
+ml4fir = "ml4fir.cli:app"
