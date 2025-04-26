@@ -1,6 +1,5 @@
 import os
 
-from loguru import logger
 import matplotlib
 import matplotlib.pyplot as plt
 import mlflow
@@ -13,7 +12,7 @@ from sklearn.metrics import (
     roc_curve,
 )
 
-from ml4fir.config import global_threshold
+from ml4fir.config import global_threshold, logger
 
 # TODO: Seaborn is not beaing used for anything?
 sns.set(style="whitegrid")

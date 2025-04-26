@@ -5,6 +5,7 @@ from ml4fir.data.load_data import (
     filter_sample_data,
     preprocess_data,
 )
+from ml4fir.data.config import data_cols
 
 # TODO: rename modules: from ml4fir.data.process import process_sample_data
 
@@ -14,10 +15,13 @@ class DataHandler:
     Class to handle data loading and preprocessing.
     """
 
-    def __init__(self, data_path: str, name: str = "FTIR", target: str = None):
+    def __init__(self, data_path: str, name: str = "FTIR", target: str = None, ftir_columns=None, data_cols_name=None):
         self.data_path = data_path
         self.name = name
         self.target = target
+        self.ftir_columns = None
+        self.data_cols_name = data_cols_name or data_cols
+        self.set_ftrir_columns()
 
     def load_data(self):
         """
@@ -25,16 +29,25 @@ class DataHandler:
         """
         return pd.read_csv(self.data_path)
 
+    def set_ftrir_columns(self):
+        """
+        Set the FTIR columns.
+        """
+        df = self.load_data()
+        ftir_columns = df.columns[~df.columns.isin(self.data_cols_name)]
+
+        self.ftir_columns = ftir_columns
+
     def filter_sample_data(
         self,
         target: str,
         sample_type: str,
-        ftir_columns: list,
         selected_group_fam: str | None = None,
     ):
         """
         Preprocess the loaded data.
         """
+        ftir_columns = self.ftir_columns
         X, y = filter_sample_data(
             sample_data=self.load_data(),
             target=target,
@@ -67,14 +80,12 @@ class DataHandler:
         self,
         target: str,
         sample_type: str,
-        ftir_columns: list,
         selected_group_fam: str | None = None,
     ):
         target = target or self.target
         X, y = self.filter_sample_data(
             target=target,
             sample_type=sample_type,
-            ftir_columns=ftir_columns,
             selected_group_fam=selected_group_fam,
         )
         y_encoded, wavenumbers, labels = self.encode_sample_data(X=X, y=y)

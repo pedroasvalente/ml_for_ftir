@@ -1,29 +1,24 @@
-from loguru import logger
 import mlflow
+from mlflow.tracking import MlflowClient
 import pandas as pd
 from tqdm import tqdm
-import typer
-
+import json
 # logging.getLogger("mlflow").setLevel(logging.DEBUG)
 mlflow.autolog(log_datasets=False)
 
 
-from ml4fir.config import PROCESSED_TRAINING_DATA_FILEPATH, random_seed
+from ml4fir.config import PROCESSED_TRAINING_DATA_FILEPATH, random_seed, logger
 from ml4fir.data import DataHandler
 from ml4fir.data.config import data_cols
 from ml4fir.modeling.train_utils import supervised_training
 from ml4fir.modeling.utils import save_results
 
-app = typer.Typer()
+client = MlflowClient()
 
 
-@app.command()
-def main(
-    # ---- REPLACE DEFAULT PATHS AS APPROPRIATE ----
-    # features_path: Path = PROCESSED_DATA_DIR / "features.csv",
-    # labels_path: Path = PROCESSED_DATA_DIR / "labels.csv",
-    # model_path: Path = MODELS_DIR / "model.pkl",
-    # -----------------------------------------
+def train(
+    experiment_config: str = None,
+
 ):
 
     # Prepare result containers
@@ -33,25 +28,20 @@ def main(
     grid_search_results_all = []
     back_projection_df_iso_all = []
 
-    df = pd.read_csv(PROCESSED_TRAINING_DATA_FILEPATH)
     datahandler = DataHandler(data_path=PROCESSED_TRAINING_DATA_FILEPATH)
 
-    # Define configurations
-    targets_to_predict = ["group_fam"]
-    train_percentages = [0.8, 0.7, 0.6]
-    train_percentages = [0.8]
+    with open(experiment_config, "r") as config_file:
+        config = json.load(config_file)
 
-    sample_types = df["sample_type"].unique()
-    sample_types = ["CAPILAR"]
-    model_types_to_train = [
-        "random_forest",
-        "mlp_classifier",
-        # "decision_tree",
-        # "xgboost",
-    ]
-    selected_group_fam = None
-    ftir_columns = df.columns[~df.columns.isin(data_cols)]
-    searchs_hipermetrics = ["grid", "bayes"]
+    selected_group_fam = config.get("selected_group_fam", None)
+    searchs_hipermetrics = config.get("searchs_hipermetrics", [])
+    model_types_to_train = config.get("model_types_to_train", [])
+    train_percentages = config.get("train_percentages", [])
+    sample_types = config.get("sample_types", [])
+    targets_to_predict = config.get("targets_to_predict", [])
+    experiment_name = config.get("experiment_name", "FTIR Supervised Training")
+    run_name = config.get("run_name", "demo")
+
 
     # Create a list of configurations
     configurations = [
@@ -68,12 +58,9 @@ def main(
         for sample_type in sample_types
         for target in targets_to_predict
     ]
-    with tqdm(configurations, desc="Training Configurations") as progress_bar:
-        for config in progress_bar:
-            print(config)
 
-    mlflow.set_experiment("FTIR Supervised Training - Phase 1")
-    with mlflow.start_run(run_name="demo", nested=True) as run:
+    mlflow.set_experiment(experiment_name)
+    with mlflow.start_run(run_name=run_name, nested=True) as run:
 
         # Process each configuration
         with tqdm(configurations, desc="Training Configurations") as progress_bar:
@@ -92,84 +79,101 @@ def main(
                 train_percentage = config["train_percentage"]
                 model_type = config["model_type"]
                 search_to_use = config["search_to_use"]
-                logger.info(f"\n>>> Starting Target: {target}\n")
+                logger.info(f">>> Starting Target: {target}")
 
-                # Process sample data
-                datahandler.process_sample_data(
-                    target=target,
-                    sample_type=sample_type,
-                    ftir_columns=ftir_columns,
-                    selected_group_fam=selected_group_fam,
+                run_args = {
+                    "run_name": f"{sample_type}",
+                    "nested": True,
+                    "parent_run_id": run.info.run_id,
+                }
+
+                # Search for child runs using the parent run ID
+                child_runs = client.search_runs(
+                    experiment_ids=[run.info.experiment_id],
+                    filter_string=f"tags.mlflow.parentRunId = '{run.info.run_id}'",
                 )
-                # dataset = datahandler.get_mlflow_dataset_complete()
-                # mlflow.log_input(
-                #     dataset,
-                #     context="Complete",
-                #     tags={
-                #         "target": target,
-                #         "sample_type": sample_type,
-                #     },
-                # )
+                search_run = [f for f in child_runs if f.info.run_name == sample_type]
+                if len(search_run) > 0:
+                    run_args["run_id"] = search_run[0].info.run_id
 
-                # Skip if no valid data
-                if datahandler.X is None or datahandler.y_encoded is None:
-                    logger.warning(
-                        f"Skipping configuration due to invalid data: {config}"
+
+                with mlflow.start_run(run_name=sample_type, nested=True) as sample_type_run:
+
+                    # Process sample data
+                    datahandler.process_sample_data(
+                        target=target,
+                        sample_type=sample_type,
+                        selected_group_fam=selected_group_fam,
                     )
-                    continue
+                    # dataset = datahandler.get_mlflow_dataset_complete()
+                    # mlflow.log_input(
+                    #     dataset,
+                    #     context="Complete",
+                    #     tags={
+                    #         "target": target,
+                    #         "sample_type": sample_type,
+                    #     },
+                    # )
 
-                # Preprocess the data
-                scale = True
-                apply_pls = True
-                apply_smote_resampling = True
-                n_components = 10
-                mlflow.autolog(disable=True)
-                datahandler.preprocess_data(
-                    train_percentage=train_percentage,
-                    random_seed=random_seed,
-                    scale=scale,
-                    apply_pls=apply_pls,
-                    apply_smote_resampling=apply_smote_resampling,
-                    n_components=n_components,
-                )
-                mlflow.autolog(log_datasets=False)
+                    # Skip if no valid data
+                    if datahandler.X is None or datahandler.y_encoded is None:
+                        logger.warning(
+                            f"Skipping configuration due to invalid data: {config}"
+                        )
+                        continue
 
-                # dataset_train, dataset_test = datahandler.get_mlflow_dataset()
-                # tags = {
-                #     "parent_dataset": dataset.name,
-                #     "random_seed": random_seed,
-                #     "scale": scale,
-                #     "apply_pls": apply_pls,
-                #     "apply_smote_resampling": apply_smote_resampling,
-                #     "n_components": n_components,
-                #     "train_percentage": train_percentage,
-                # }
-                # tags = {k: str(v) for k, v in tags.items()}
-                # mlflow.log_input(dataset_train, context="Train", tags=tags)
-                # mlflow.log_input(dataset_test, context="Eval", tags=tags)
+                    # Preprocess the data
+                    scale = True
+                    apply_pls = True
+                    apply_smote_resampling = True
+                    n_components = 10
+                    mlflow.autolog(disable=True)
+                    datahandler.preprocess_data(
+                        train_percentage=train_percentage,
+                        random_seed=random_seed,
+                        scale=scale,
+                        apply_pls=apply_pls,
+                        apply_smote_resampling=apply_smote_resampling,
+                        n_components=n_components,
+                    )
+                    mlflow.autolog(log_datasets=False)
 
-                # Train the model
-                training_results = supervised_training(
-                    datahandler=datahandler,
-                    sample_type=sample_type,
-                    train_percentage=train_percentage,
-                    target_column=target,
-                    model_type=model_type,
-                    group_fam_to_use=selected_group_fam,
-                    mlflow_run=run,
-                    search_to_use=search_to_use,
-                )
+                    # dataset_train, dataset_test = datahandler.get_mlflow_dataset()
+                    # tags = {
+                    #     "parent_dataset": dataset.name,
+                    #     "random_seed": random_seed,
+                    #     "scale": scale,
+                    #     "apply_pls": apply_pls,
+                    #     "apply_smote_resampling": apply_smote_resampling,
+                    #     "n_components": n_components,
+                    #     "train_percentage": train_percentage,
+                    # }
+                    # tags = {k: str(v) for k, v in tags.items()}
+                    # mlflow.log_input(dataset_train, context="Train", tags=tags)
+                    # mlflow.log_input(dataset_test, context="Eval", tags=tags)
 
-                # Collect results
-                results = training_results["results"]
-                cross_validation_results = training_results["cross_validation_results"]
-                grid_search_results = training_results["grid_search_results"]
-                back_projection_df_iso = training_results["back_projection_df"]
+                    # Train the model
+                    training_results = supervised_training(
+                        datahandler=datahandler,
+                        sample_type=sample_type,
+                        train_percentage=train_percentage,
+                        target_column=target,
+                        model_type=model_type,
+                        group_fam_to_use=selected_group_fam,
+                        mlflow_run=sample_type_run,
+                        search_to_use=search_to_use,
+                    )
 
-                all_results.append(results)
-                cross_validation_results_all.append(cross_validation_results)
-                grid_search_results_all.append(grid_search_results)
-                back_projection_df_iso_all.append(back_projection_df_iso)
+                    # Collect results
+                    results = training_results["results"]
+                    cross_validation_results = training_results["cross_validation_results"]
+                    grid_search_results = training_results["grid_search_results"]
+                    back_projection_df_iso = training_results["back_projection_df"]
+
+                    all_results.append(results)
+                    cross_validation_results_all.append(cross_validation_results)
+                    grid_search_results_all.append(grid_search_results)
+                    back_projection_df_iso_all.append(back_projection_df_iso)
 
             # Save results
             save_results(
@@ -186,5 +190,3 @@ def main(
 # TODO: isolate each step..abs
 # TODO: add mlflow tracking
 # TODO: only train the model once, and save the focker, probably done with mlflow implement it 1st
-if __name__ == "__main__":
-    app()

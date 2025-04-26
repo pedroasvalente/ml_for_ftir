@@ -1,12 +1,11 @@
 from imblearn.over_sampling import SMOTE
-from loguru import logger
 import numpy as np
 import pandas as pd
 from sklearn.cross_decomposition import PLSRegression
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
-from ml4fir.config import random_seed
+from ml4fir.config import random_seed, logger
 
 
 def filter_sample_data(
@@ -38,7 +37,7 @@ def filter_sample_data(
             - X (pd.DataFrame or None): The filtered feature matrix.
             - y (pd.Series or None): The filtered target values.
     """
-    logger.info(f"\n--- Processing Sample Type: {sample_type} ---")
+    logger.info(f"--- Processing Sample Type: {sample_type} ---")
     sample_data = sample_data[sample_data["sample_type"] == sample_type].copy()
 
     # Filter by selected group family if specified
