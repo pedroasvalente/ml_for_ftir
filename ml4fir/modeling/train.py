@@ -186,7 +186,4 @@ def train(
             )
 
 
-# Change the logging stuff, like the line where the log is
-# TODO: isolate each step..abs
-# TODO: add mlflow tracking
 # TODO: only train the model once, and save the focker, probably done with mlflow implement it 1st
