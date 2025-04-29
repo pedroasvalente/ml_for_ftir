@@ -17,7 +17,11 @@ from sklearn.metrics import (
 from sklearn.model_selection import GridSearchCV
 from skopt import BayesSearchCV
 
-from ml4fir.config import global_threshold, random_seed
+from ml4fir.config import (
+    global_threshold,
+    principal_wavenumber_path,
+    random_seed,
+)
 from ml4fir.modeling.models_experiment_conf import models_experiment
 from ml4fir.modeling.train_config import model_args_conf, search_args
 from ml4fir.ploting import (
@@ -28,16 +32,12 @@ from ml4fir.ploting import (
 
 client = MlflowClient()
 
-roc_plot_path = "000_ROC_plots/"
-confusion_matrix_plot_path = "000_CM_plots/"
-os.makedirs(roc_plot_path, exist_ok=True)
-os.makedirs(confusion_matrix_plot_path, exist_ok=True)
 
 # mlflow.autolog()
 
 
 def get_principal_wavenumber_path(target_name, group_fam_to_use=None):
-    folder = f"000_principal_wavenumber/{target_name}"
+    folder = os.path.join(principal_wavenumber_path, target_name)
     if group_fam_to_use:
         folder += f"_{group_fam_to_use}"
     os.makedirs(folder, exist_ok=True)

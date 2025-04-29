@@ -12,7 +12,12 @@ from sklearn.metrics import (
     roc_curve,
 )
 
-from ml4fir.config import global_threshold, logger
+from ml4fir.config import (
+    confusion_matrix_plot_path,
+    global_threshold,
+    logger,
+    roc_plot_path,
+)
 
 # TODO: Seaborn is not beaing used for anything?
 sns.set(style="whitegrid")
@@ -102,7 +107,9 @@ def plot_confusion_matrix(
 
         # Dynamic path
         # TODO: set pathas from project config
-        save_path = get_plot_path("000_CM_plots", target_name, group_fam_to_use)
+        save_path = get_plot_path(
+            confusion_matrix_plot_path, target_name, group_fam_to_use
+        )
         plot_filename = f"{target_name}_ConfMatrix_{sample_type}_{int(train_percentage*100)}pct_{test_name}{group_info}.png"
         plot_filepath = os.path.join(save_path, plot_filename)
 
@@ -173,7 +180,7 @@ def plot_roc_curve(
             plt.legend(loc="best")
 
             # Dynamic path
-            save_path = get_plot_path("000_ROC_plots", target_name, group_fam_to_use)
+            save_path = get_plot_path(roc_plot_path, target_name, group_fam_to_use)
             plot_filename = f"{target_name}_ROC_{sample_type}_{int(train_percentage*100)}pct_{test_name}{group_info}.png"
             plot_filepath = os.path.join(save_path, plot_filename)
 
