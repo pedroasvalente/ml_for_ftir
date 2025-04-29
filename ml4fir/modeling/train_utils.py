@@ -24,6 +24,7 @@ from ml4fir.config import (
 )
 from ml4fir.modeling.models_experiment_conf import models_experiment
 from ml4fir.modeling.train_config import model_args_conf, search_args
+from ml4fir.modeling.utils import log_best_child
 from ml4fir.ploting import (
     plot_confusion_matrix,
     plot_roc_curve,
@@ -233,8 +234,12 @@ def evaluate_model(best_model, x_test, y_test, x_train, model_type):
         tuple: Predictions, probabilities, metrics, and feature importances.
     """
     # Make predictions
-    y_pred = best_model.predict(x_test)
-    y_prob = best_model.predict_proba(x_test)
+    if hasattr(best_model, "predict_proba"):
+        y_pred = best_model.predict(x_test)
+        y_prob = best_model.predict_proba(x_test)
+    else:
+        y_prob = best_model.predict(x_test)
+        y_pred = np.argmax(y_prob, axis=1)
 
     # Calculate metrics
     metrics = calculate_metrics(y_test, y_pred)
@@ -288,6 +293,10 @@ def supervised_training(
     loadings = datahandler.loadings
     wavenumbers = datahandler.wavenumbers
 
+    # update the object
+    mlflow_run = client.get_run(mlflow_run.info.run_id)
+    parent_params = mlflow_run.data.params
+
     # TODO: temporary way to pass results out the function
     returning_results = {
         "results": [],
@@ -326,6 +335,10 @@ def supervised_training(
             run_args["run_id"] = search_run[0].info.run_id
 
         with mlflow.start_run(**run_args) as search_mlflow_run:
+            mlflow.log_param("search_type", search_type)
+            for key, val in parent_params.items():
+                mlflow.log_param(key, val)
+
             config = models_experiment[model_type]
             model_name = config.desc_name
 
@@ -335,6 +348,11 @@ def supervised_training(
                 "parent_run_id": search_mlflow_run.info.run_id,
             }
             with mlflow.start_run(**model_run_args):
+                mlflow.log_param("model_name", model_name)
+                search_mlflow_run = client.get_run(search_mlflow_run.info.run_id)
+                parent_params = search_mlflow_run.data.params
+                for key, val in parent_params.items():
+                    mlflow.log_param(key, val)
 
                 # Perform search for best model, by training all configuration in models_experiment_conf
                 search = perform_model_search(
@@ -360,6 +378,7 @@ def supervised_training(
                     mlflow.xgboost.log_model(
                         search.best_estimator_, "best model", signature=signature
                     )
+
                 for met, val in metrics.items():
                     if met in ["cm", "roc_auc"]:
                         continue
@@ -507,13 +526,17 @@ def supervised_training(
                 back_projection_df["Model"] = model_name
                 back_projection_df["Search Type"] = search_type
                 # NOTE: this accuracy is the one from the model, not one for each wavenumber.
-                back_projection_df["Accuracy"] = float(test_accuracy)
+                back_projection_df["Balanced Accuracy"] = float(test_accuracy)
+                back_projection_df["Accuracy"] = float(accuracy)
                 returning_results["results"].append(results)
                 returning_results["cross_validation_results"].append(
                     cross_validation_results
                 )
                 returning_results["grid_search_results"].append(grid_search_results)
                 returning_results["back_projection_df"].append(back_projection_df)
+            log_best_child(search_mlflow_run)
+        log_best_child(mlflow_run)
+
     # Concatenate all results
 
     results_to_return = {
