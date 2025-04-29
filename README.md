@@ -26,19 +26,37 @@ To run the `train.py` script, follow these steps:
      ```
 
 3. **Install the Project in Editable Mode**:
-    With the terminal inside the project.
+
+   With the terminal inside the project.
    ```bash
    pip install -e .
    ```
 
-4. **Run the Training Script**:
+4. **Create experiment json**:
+
+   Example:
+   ```json
+   {
+      "experiment_name": "FTIR Supervised Training - Phase 1",
+      "run_name": "experiment_test",
+      "searchs_hipermetrics": ["grid", "bayes"],
+      "model_types_to_train": ["random_forest", "mlp_classifier"],
+      "train_percentages": [0.8],
+      "sample_types": ["CAPILAR", "PLASMA"],
+      "targets_to_predict": ["group_fam"]
+   }
+
+   ```
+
+5. **Run the Training Script**:
    ```bash
    ml4fir train path_to_training.json
    ```
 
 This will execute the training process as defined in `train.py`. Make sure to configure any necessary parameters or dependencies before running the script.
 
-5. **Open the MLflow UI**:
+6. **Open the MLflow UI**:
+
    To monitor and visualize your training runs, open the MLflow UI:
 
    ```bash
