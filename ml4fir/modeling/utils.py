@@ -1,8 +1,12 @@
 import os
 
+import mlflow
+from mlflow.tracking import MlflowClient
 import pandas as pd
 
 from ml4fir.config import RESULTS_DIR
+
+client = MlflowClient()
 
 
 def save_results(
@@ -78,3 +82,24 @@ def save_results(
             ),
             orient="columns",
         )
+
+
+def log_best_child(mlflow_run_obj, metric_to_choose="acc", best_is_max=True):
+    child_runs = client.search_runs(
+        experiment_ids=[mlflow_run_obj.info.experiment_id],
+        filter_string=f"tags.mlflow.parentRunId = '{mlflow_run_obj.info.run_id}'",
+    )
+
+    # Collect metrics from child runs
+    child_run_metrics = {}
+    for child_run in child_runs:
+        run_id = child_run.info.run_id
+        metrics = child_run.data.metrics  # Get metrics from the child run
+        child_run_metrics[run_id] = metrics
+    child_run_metrics_df = pd.DataFrame(child_run_metrics).T
+    # TODO: probably make a metrics handler
+    if best_is_max:
+        best_child = child_run_metrics_df[metric_to_choose].idxmax()
+    else:
+        best_child = child_run_metrics_df[metric_to_choose].idxmin()
+    mlflow.log_metrics(child_run_metrics[best_child], run_id=mlflow_run_obj.info.run_id)

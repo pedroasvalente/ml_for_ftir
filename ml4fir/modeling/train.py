@@ -216,3 +216,4 @@ def train(
 
 
 # TODO: only train the model once, and save the focker, probably done with mlflow implement it 1st
+# train("experiment_test.json")
