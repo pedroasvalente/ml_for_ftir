@@ -201,7 +201,6 @@ def perform_model_search(x_train, y_train, model_type, search_type, datahandler)
 
     # Perform search
     search = search_fn(model, param_search_space, **search_params)
-    # mlflow.autolog()
     # dataset_train = mlflow.data.from_numpy(
     #         x_train,
     #         source=datahandler.data_path,
@@ -261,6 +260,7 @@ def supervised_training(
     group_fam_to_use=None,
     search_to_use=None,  # "grid" for GridSearchCV, "bayes" for BayesSearchCV
     mlflow_run=None,
+    main_run_id=None,
 ):
     """
     Train a supervised model based on the specified model_type.
@@ -303,7 +303,9 @@ def supervised_training(
         "cross_validation_results": [],
         "grid_search_results": [],
         "back_projection_df": [],
+        "configs": [],
     }
+    model_to_return = None, None
 
     search_to_use = search_to_use or ["grid", "bayes"]
     if not isinstance(search_to_use, list):
@@ -347,7 +349,7 @@ def supervised_training(
                 "nested": True,
                 "parent_run_id": search_mlflow_run.info.run_id,
             }
-            with mlflow.start_run(**model_run_args):
+            with mlflow.start_run(**model_run_args) as run:
                 mlflow.log_param("model_name", model_name)
                 search_mlflow_run = client.get_run(search_mlflow_run.info.run_id)
                 parent_params = search_mlflow_run.data.params
@@ -370,6 +372,20 @@ def supervised_training(
                 # Get model configuration
                 signature = infer_signature(x_test, y_pred)
                 test_name = f"{model_name} ({search_type})"
+                for met, val in metrics.items():
+                    if met in ["cm", "roc_auc"]:
+                        continue
+                    mlflow.log_metric(met, val)
+
+                mlflow.log_metric("best score", search.best_score_)
+                for k in search.best_params_.keys():
+                    mlflow.log_param(k, search.best_params_[k])
+
+                # mlflow_run = client.get_run(mlflow_run.info.run_id)
+                # old_acc = mlflow_run.data.metrics.get("acc", 0)
+                # if old_acc < metrics["test_acc"]:
+                #     run_id = run.info.run_id
+
                 try:
                     mlflow.sklearn.log_model(
                         search.best_estimator_, "best model", signature=signature
@@ -379,13 +395,10 @@ def supervised_training(
                         search.best_estimator_, "best model", signature=signature
                     )
 
-                for met, val in metrics.items():
-                    if met in ["cm", "roc_auc"]:
-                        continue
-                    mlflow.log_metric(met, val)
-                mlflow.log_metric("best score", search.best_score_)
-                for k in search.best_params_.keys():
-                    mlflow.log_param(k, search.best_params_[k])
+                # TODO: save the current run id somewheree
+                # mlflow.pyfunc.log_model(
+                #         search.best_estimator_, "best model", signature=signature
+                #     )
                 if search_type == "BayesSearchCV":
                     mlflow.autolog(log_datasets=False)
 
@@ -413,7 +426,6 @@ def supervised_training(
                     target_column, group_fam_to_use
                 )
 
-                # Guardar Excel
                 if test_accuracy >= global_threshold / 100:
 
                     plot_wavenumber_importances(
@@ -534,8 +546,27 @@ def supervised_training(
                 )
                 returning_results["grid_search_results"].append(grid_search_results)
                 returning_results["back_projection_df"].append(back_projection_df)
+
+                # Run configuration with id:
+                run_config = {
+                    "target": target_column,
+                    "sample_type": sample_type,
+                    "train_percentage": train_percentage,
+                    "model_type": model_name,
+                    "search_to_use": search_type,
+                    "scale": datahandler.scale,
+                    "apply_pls": datahandler.apply_pls,
+                    "apply_smote_resampling": datahandler.apply_smote_resampling,
+                    "n_components": datahandler.n_components,
+                    "run_id": run.info.run_id,
+                    "main_run_id": main_run_id,
+                }
+                returning_results["configs"].append(run_config)
+                metrics_config = {**run_config, **metrics}
+                mlflow.log_table(metrics_config, "run_results.json")
+
             log_best_child(search_mlflow_run)
-        log_best_child(mlflow_run)
+        log_best_child(mlflow_run, save_model=True)
 
     # Concatenate all results
 
@@ -546,6 +577,7 @@ def supervised_training(
         ),
         "grid_search_results": pd.concat(returning_results["grid_search_results"]),
         "back_projection_df": pd.concat(returning_results["back_projection_df"]),
+        "configs": pd.DataFrame(returning_results["configs"]),
     }
     # Save the results
 

@@ -20,6 +20,7 @@ EXTERNAL_DATA_DIR = DATA_DIR / "external"
 
 MODELS_DIR = PROJ_ROOT / "models"
 RESULTS_DIR = PROJ_ROOT / "results"
+EXPERIMENTS_DIR = PROJ_ROOT / "experiments"
 
 REPORTS_DIR = PROJ_ROOT / "reports"
 FIGURES_DIR = REPORTS_DIR / "figures"

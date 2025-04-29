@@ -150,6 +150,9 @@ class DataHandler:
         self.loadings = loadings
         self.train_percentage = train_percentage
         self.n_components = n_components
+        self.scale = scale
+        self.apply_pls = apply_pls
+        self.apply_smote_resampling = apply_smote_resampling
         return X_train, X_test, y_train, y_test, loadings
 
     def get_mlflow_dataset_complete(self):
