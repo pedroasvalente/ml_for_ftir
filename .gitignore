@@ -186,3 +186,6 @@ cython_debug/
 .pypirc
 mlruns*
 mlartifacts*
+**.png
+**.csv
+**.json
