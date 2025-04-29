@@ -1,11 +1,11 @@
 import mlflow
 import pandas as pd
 
+from ml4fir.data.config import data_cols
 from ml4fir.data.load_data import (
     filter_sample_data,
     preprocess_data,
 )
-from ml4fir.data.config import data_cols
 
 # TODO: rename modules: from ml4fir.data.process import process_sample_data
 
@@ -15,12 +15,28 @@ class DataHandler:
     Class to handle data loading and preprocessing.
     """
 
-    def __init__(self, data_path: str, name: str = "FTIR", target: str = None, ftir_columns=None, data_cols_name=None):
+    def __init__(
+        self,
+        data_path: str,
+        name: str = "FTIR",
+        target: str = None,
+        ftir_columns=None,
+        data_cols_name=None,
+        scale=None,
+        apply_pls=None,
+        apply_smote_resampling=None,
+        n_components=None,
+    ):
         self.data_path = data_path
         self.name = name
         self.target = target
         self.ftir_columns = None
         self.data_cols_name = data_cols_name or data_cols
+        self.scale = scale
+        self.apply_pls = apply_pls
+        self.apply_smote_resampling = apply_smote_resampling
+        self.n_components = n_components
+
         self.set_ftrir_columns()
 
     def load_data(self):
@@ -99,10 +115,10 @@ class DataHandler:
         y_encoded=None,
         train_percentage=0.8,
         random_seed=42,
-        scale=True,
-        apply_pls=True,
-        apply_smote_resampling=True,
-        n_components=10,
+        scale=None,
+        apply_pls=None,
+        apply_smote_resampling=None,
+        n_components=None,
     ):
         """
         Preprocess the loaded data.
@@ -112,15 +128,20 @@ class DataHandler:
         if y_encoded is None:
             y_encoded = self.y_encoded
 
+        scale = scale or self.scale
+        apply_pls = apply_pls or self.apply_pls
+        apply_smote_resampling = apply_smote_resampling or self.apply_smote_resampling
+        n_components = n_components or self.n_components
+
         X_train, X_test, y_train, y_test, loadings = preprocess_data(
             X=X,
             y_encoded=y_encoded,
             train_percentage=train_percentage,
             random_seed=random_seed,
-            scale=scale,  # Enable scaling
-            apply_pls=apply_pls,  # Enable PLS-DA
-            apply_smote_resampling=apply_smote_resampling,  # Enable SMOTE
-            n_components=n_components,  # Number of PLS components
+            scale=scale,
+            apply_pls=apply_pls,
+            apply_smote_resampling=apply_smote_resampling,
+            n_components=n_components,
         )
         self.x_train = X_train
         self.x_test = X_test
