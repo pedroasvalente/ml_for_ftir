@@ -1,15 +1,16 @@
+import json
+
 import mlflow
 from mlflow.tracking import MlflowClient
-import pandas as pd
+import numpy as np
 from tqdm import tqdm
-import json
+
 # logging.getLogger("mlflow").setLevel(logging.DEBUG)
 mlflow.autolog(log_datasets=False)
 
 
-from ml4fir.config import PROCESSED_TRAINING_DATA_FILEPATH, random_seed, logger
+from ml4fir.config import PROCESSED_TRAINING_DATA_FILEPATH, logger, random_seed
 from ml4fir.data import DataHandler
-from ml4fir.data.config import data_cols
 from ml4fir.modeling.train_utils import supervised_training
 from ml4fir.modeling.utils import save_results
 
@@ -18,7 +19,6 @@ client = MlflowClient()
 
 def train(
     experiment_config: str = None,
-
 ):
 
     # Prepare result containers
@@ -30,7 +30,7 @@ def train(
 
     datahandler = DataHandler(data_path=PROCESSED_TRAINING_DATA_FILEPATH)
 
-    with open(experiment_config, "r") as config_file:
+    with open(experiment_config) as config_file:
         config = json.load(config_file)
 
     selected_group_fam = config.get("selected_group_fam", None)
@@ -42,6 +42,24 @@ def train(
     experiment_name = config.get("experiment_name", "FTIR Supervised Training")
     run_name = config.get("run_name", "demo")
 
+    scale_normalization = config.get("scale", [True])
+    PLS_regression = config.get("apply_pls", [True])
+    smote_resampling = config.get("apply_smote_resampling", [True])
+    n_components_list = config.get("n_components", [10])
+    if not np.any(PLS_regression):
+        n_components_list = [None]
+
+    configurations_dict = {
+        "search_to_use": searchs_hipermetrics,
+        "model_type": model_types_to_train,
+        "train_percentage": train_percentages,
+        "sample_type": sample_types,
+        "target": targets_to_predict,
+        "scale": scale_normalization,
+        "apply_pls": PLS_regression,
+        "apply_smote_resampling": smote_resampling,
+        "n_components": n_components_list,
+    }
 
     # Create a list of configurations
     configurations = [
@@ -51,16 +69,25 @@ def train(
             "train_percentage": train_percentage,
             "sample_type": sample_type,
             "target": target,
+            "scale": scale,
+            "apply_pls": apply_pls,
+            "apply_smote_resampling": apply_smote_resampling,
+            "n_components": n_c,
         }
         for search_to_use in searchs_hipermetrics
         for model_type in model_types_to_train
         for train_percentage in train_percentages
         for sample_type in sample_types
         for target in targets_to_predict
+        for scale in scale_normalization
+        for apply_pls in PLS_regression
+        for apply_smote_resampling in smote_resampling
+        for n_c in n_components_list
     ]
 
     mlflow.set_experiment(experiment_name)
     with mlflow.start_run(run_name=run_name, nested=True) as run:
+        mlflow.log_params(configurations_dict)
 
         # Process each configuration
         with tqdm(configurations, desc="Training Configurations") as progress_bar:
@@ -79,6 +106,11 @@ def train(
                 train_percentage = config["train_percentage"]
                 model_type = config["model_type"]
                 search_to_use = config["search_to_use"]
+                scale = config["scale"]
+                apply_pls = config["apply_pls"]
+                apply_smote_resampling = config["apply_smote_resampling"]
+                n_components = config["n_components"]
+
                 logger.info(f">>> Starting Target: {target}")
 
                 run_args = {
@@ -96,9 +128,8 @@ def train(
                 if len(search_run) > 0:
                     run_args["run_id"] = search_run[0].info.run_id
 
-
-                with mlflow.start_run(run_name=sample_type, nested=True) as sample_type_run:
-
+                with mlflow.start_run(**run_args) as sample_type_run:
+                    mlflow.log_param("sample_type", config["sample_type"])
                     # Process sample data
                     datahandler.process_sample_data(
                         target=target,
@@ -123,10 +154,6 @@ def train(
                         continue
 
                     # Preprocess the data
-                    scale = True
-                    apply_pls = True
-                    apply_smote_resampling = True
-                    n_components = 10
                     mlflow.autolog(disable=True)
                     datahandler.preprocess_data(
                         train_percentage=train_percentage,
@@ -166,7 +193,9 @@ def train(
 
                     # Collect results
                     results = training_results["results"]
-                    cross_validation_results = training_results["cross_validation_results"]
+                    cross_validation_results = training_results[
+                        "cross_validation_results"
+                    ]
                     grid_search_results = training_results["grid_search_results"]
                     back_projection_df_iso = training_results["back_projection_df"]
 
