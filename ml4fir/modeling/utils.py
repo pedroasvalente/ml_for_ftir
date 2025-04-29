@@ -2,6 +2,8 @@ import os
 
 import pandas as pd
 
+from ml4fir.config import RESULTS_DIR
+
 
 def save_results(
     targets_to_predict,
@@ -11,7 +13,7 @@ def save_results(
     back_projection_df_iso_all,
     selected_group_fam,
 ):
-    base_results_path = "000_final_results"
+    base_results_path = RESULTS_DIR
     results_df = pd.concat(all_results).reset_index(drop=True)
     cross_validation_results_df = pd.concat(cross_validation_results_all).reset_index(
         drop=True

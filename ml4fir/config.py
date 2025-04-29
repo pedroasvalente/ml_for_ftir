@@ -19,6 +19,7 @@ PROCESSED_DATA_DIR = DATA_DIR / "processed"
 EXTERNAL_DATA_DIR = DATA_DIR / "external"
 
 MODELS_DIR = PROJ_ROOT / "models"
+RESULTS_DIR = PROJ_ROOT / "results"
 
 REPORTS_DIR = PROJ_ROOT / "reports"
 FIGURES_DIR = REPORTS_DIR / "figures"
@@ -28,6 +29,14 @@ PROCESSED_TRAINING_DATA_FILEPATH = PROCESSED_DATA_DIR / TRAINING_DATA_FILENAME
 
 random_seed = int(os.environ.get("RANDOM_SEED", 52))
 global_threshold = int(os.environ.get("GLOBAL_THRESHOLD", 70))
+
+roc_plot_path = os.path.join(FIGURES_DIR, "ROC")
+confusion_matrix_plot_path = os.path.join(FIGURES_DIR, "Confusion_Matrix")
+principal_wavenumber_path = os.path.join(FIGURES_DIR, "Principal_Wavenumber")
+
+
+os.makedirs(roc_plot_path, exist_ok=True)
+os.makedirs(confusion_matrix_plot_path, exist_ok=True)
 
 # If tqdm is installed, configure loguru with tqdm.write
 # https://github.com/Delgan/loguru/issues/135
