@@ -251,6 +251,14 @@ class XGBoostConfig(BaseModelConfig):
         self.model_fn = self.model_fn
 
 
+names_dict = {
+    "random_forest": "Random Forest",
+    "mlp_classifier": "MLP",
+    "decision_tree": "Decision Tree",
+    "xgboost": "XGBoost",
+}
+
+
 def get_model_config(model_type):
     """
     Factory function to retrieve the appropriate model configuration class.

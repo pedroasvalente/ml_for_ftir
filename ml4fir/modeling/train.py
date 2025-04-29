@@ -1,16 +1,23 @@
 import json
+import os
 
 import mlflow
 from mlflow.tracking import MlflowClient
 import numpy as np
+import pandas as pd
 from tqdm import tqdm
 
-# logging.getLogger("mlflow").setLevel(logging.DEBUG)
 mlflow.autolog(log_datasets=False)
 
 
-from ml4fir.config import PROCESSED_TRAINING_DATA_FILEPATH, logger, random_seed
+from ml4fir.config import (
+    EXPERIMENTS_DIR,
+    PROCESSED_TRAINING_DATA_FILEPATH,
+    logger,
+    random_seed,
+)
 from ml4fir.data import DataHandler
+from ml4fir.modeling.models import names_dict
 from ml4fir.modeling.train_utils import supervised_training
 from ml4fir.modeling.utils import save_results
 
@@ -27,6 +34,7 @@ def train(
     back_projection_all = []
     grid_search_results_all = []
     back_projection_df_iso_all = []
+    configurations_done = []
 
     datahandler = DataHandler(data_path=PROCESSED_TRAINING_DATA_FILEPATH)
 
@@ -86,12 +94,48 @@ def train(
     ]
 
     mlflow.set_experiment(experiment_name)
-    with mlflow.start_run(run_name=run_name, nested=True) as run:
+    run_name = f"{run_name}_{"_".join(targets_to_predict)}"
+    main_run_args = {
+        "run_name": run_name,
+        "nested": True,
+    }
+
+    done_mask = None
+    # TODO: each experiment can only have one target!
+    target_exp_res_path = os.path.join(
+        EXPERIMENTS_DIR, targets_to_predict[0], "experiment_configs.csv"
+    )
+    if os.path.exists(target_exp_res_path):
+        target_exp_res = pd.read_csv(target_exp_res_path)
+        main_run_id = target_exp_res["main_run_id"].values[0]
+        main_run_args["run_id"] = main_run_id
+        new_confs = pd.DataFrame(configurations)
+        new_confs["model_type"] = new_confs["model_type"].map(names_dict)
+        new_confs["search_to_use"] = new_confs["search_to_use"].map(
+            {"grid": "GridSearchCV", "bayes": "BayesSearchCV"}
+        )
+
+        done_mask = (
+            target_exp_res.drop(["run_id", "main_run_id"], axis=1)
+            .isin(new_confs)
+            .all(axis=1)
+        )
+        done_mask = done_mask.to_numpy()
+        # configurations=list(np.array(configurations)[~done_mask])
+    if done_mask is not None:
+        if done_mask.all():
+            logger.info("All configurations already done.")
+            return
+
+    with mlflow.start_run(**main_run_args) as run:
         mlflow.log_params(configurations_dict)
 
         # Process each configuration
         with tqdm(configurations, desc="Training Configurations") as progress_bar:
-            for config in progress_bar:
+            for i, config in enumerate(progress_bar):
+                if done_mask is not None:
+                    if done_mask[i]:
+                        continue
                 # Update the progress bar with the current configuration
                 progress_bar.set_postfix(
                     search_to_use=config["search_to_use"],
@@ -189,6 +233,7 @@ def train(
                         group_fam_to_use=selected_group_fam,
                         mlflow_run=sample_type_run,
                         search_to_use=search_to_use,
+                        main_run_id=run.info.run_id,
                     )
 
                     # Collect results
@@ -198,12 +243,16 @@ def train(
                     ]
                     grid_search_results = training_results["grid_search_results"]
                     back_projection_df_iso = training_results["back_projection_df"]
+                    configs_done = training_results["configs"]
 
                     all_results.append(results)
                     cross_validation_results_all.append(cross_validation_results)
                     grid_search_results_all.append(grid_search_results)
                     back_projection_df_iso_all.append(back_projection_df_iso)
+                    configurations_done.append(configs_done)
 
+            if len(configurations_done) == 0:
+                return
             # Save results
             save_results(
                 targets_to_predict,
@@ -212,6 +261,7 @@ def train(
                 grid_search_results_all,
                 back_projection_df_iso_all,
                 selected_group_fam,
+                configurations_done,
             )
 
 
