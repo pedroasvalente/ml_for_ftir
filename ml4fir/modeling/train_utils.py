@@ -238,7 +238,7 @@ def evaluate_model(best_model, x_test, y_test, x_train, model_type):
         y_prob = best_model.predict_proba(x_test)
     else:
         y_prob = best_model.predict(x_test)
-        y_pred = np.argmax(y_prob, axis=1)
+        y_pred = np.argmax(y_prob, axis=-1)
 
     # Calculate metrics
     metrics = calculate_metrics(y_test, y_pred)
@@ -511,6 +511,7 @@ def supervised_training(
                     target_column,
                     group_fam_to_use,
                 )
+                metrics["roc_auc"] = roc_auc
                 mlflow.log_metric("roc_auc", roc_auc)
                 n_wavenumbers = len(top_wavenumbers)
 
@@ -560,10 +561,11 @@ def supervised_training(
                     "n_components": datahandler.n_components,
                     "run_id": run.info.run_id,
                     "main_run_id": main_run_id,
+                    "experiment_id": run.info.experiment_id,
                 }
+                run_config = {**run_config, **metrics}
                 returning_results["configs"].append(run_config)
-                metrics_config = {**run_config, **metrics}
-                mlflow.log_table(metrics_config, "run_results.json")
+                mlflow.log_table(run_config, "run_results.json")
 
             log_best_child(search_mlflow_run)
         log_best_child(mlflow_run, save_model=True)

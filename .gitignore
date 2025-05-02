@@ -189,3 +189,4 @@ mlartifacts*
 **.png
 **.csv
 **.json
+models/**

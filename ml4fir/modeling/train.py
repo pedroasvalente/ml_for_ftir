@@ -114,12 +114,11 @@ def train(
         new_confs["search_to_use"] = new_confs["search_to_use"].map(
             {"grid": "GridSearchCV", "bayes": "BayesSearchCV"}
         )
-
-        done_mask = (
-            target_exp_res.drop(["run_id", "main_run_id"], axis=1)
-            .isin(new_confs)
-            .all(axis=1)
+        equal_columns = new_confs.columns
+        merged = new_confs.merge(
+            target_exp_res[equal_columns].drop_duplicates(), how="left", indicator=True
         )
+        done_mask = merged["_merge"] == "both"
         done_mask = done_mask.to_numpy()
         # configurations=list(np.array(configurations)[~done_mask])
     if done_mask is not None:
@@ -128,7 +127,6 @@ def train(
             return
 
     with mlflow.start_run(**main_run_args) as run:
-        mlflow.log_params(configurations_dict)
 
         # Process each configuration
         with tqdm(configurations, desc="Training Configurations") as progress_bar:

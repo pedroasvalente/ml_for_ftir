@@ -1,6 +1,9 @@
+import os
+
 import mlflow
 import pandas as pd
 
+from ml4fir.config import EXPERIMENTS_DIR
 from ml4fir.data.config import data_cols
 from ml4fir.data.load_data import (
     filter_sample_data,
@@ -26,6 +29,7 @@ class DataHandler:
         apply_pls=None,
         apply_smote_resampling=None,
         n_components=None,
+        train=True,
     ):
         self.data_path = data_path
         self.name = name
@@ -36,8 +40,16 @@ class DataHandler:
         self.apply_pls = apply_pls
         self.apply_smote_resampling = apply_smote_resampling
         self.n_components = n_components
+        self.train = train
 
         self.set_ftrir_columns()
+
+    def create_example(self):
+        df = self.load_data()
+        df = df.iloc[:1]
+        example_path = os.path.join(EXPERIMENTS_DIR, self.target, "example.csv")
+        os.makedirs(os.path.dirname(example_path), exist_ok=True)
+        df.to_csv(example_path, index=False)
 
     def load_data(self):
         """
@@ -64,6 +76,11 @@ class DataHandler:
         Preprocess the loaded data.
         """
         ftir_columns = self.ftir_columns
+        df = self.load_data()
+        if sample_type not in df["sample_type"].unique():
+            raise ValueError(
+                f"Sample type '{sample_type}' not found in the data. Available types: {df['sample_type'].unique()}"
+            )
         X, y = filter_sample_data(
             sample_data=self.load_data(),
             target=target,
@@ -153,6 +170,8 @@ class DataHandler:
         self.scale = scale
         self.apply_pls = apply_pls
         self.apply_smote_resampling = apply_smote_resampling
+        if self.train:
+            self.create_example()
         return X_train, X_test, y_train, y_test, loadings
 
     def get_mlflow_dataset_complete(self):
