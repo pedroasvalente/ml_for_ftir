@@ -80,43 +80,50 @@ def plot_confusion_matrix(
         threshold = global_threshold
     if accuracy_score >= threshold / 100:
         cm = confusion_matrix(y_test, y_pred)
-        disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=label_encoder)
 
-        fig, ax = plt.subplots()
-        disp.plot(cmap=plt.cm.Blues, ax=ax, colorbar=False)
+        fig, ax = plt.subplots(figsize=(6, 5))
 
-        for spine in ax.spines.values():
-            spine.set_visible(False)
-        ax.grid(False)
-        ax.tick_params(length=0)
+        sns.heatmap(
+            cm,
+            annot=True,
+            fmt='d',
+            cmap='Blues',
+            linewidths=0.5,
+            linecolor='gray',
+            cbar=False,
+            xticklabels=label_encoder,
+            yticklabels=label_encoder,
+            ax=ax
+        )
 
         group_info = f"_{group_fam_to_use}" if group_fam_to_use else ""
-
         ax.set_title(
-            f"{target_name} - Confusion Matrix ({sample_type} | {train_percentage*100:.0f}%)\n{test_name}{group_info}",
+            f"{target_name} - Confusion Matrix ({sample_type} | {train_percentage * 100:.0f}%)\n{test_name}{group_info}",
             pad=20,
         )
+
         plt.text(
             0.5,
-            1.02,
+            1.05,
             f"Accuracy: {accuracy_score * 100:.2f}%",
             fontsize=10,
             ha="center",
             transform=ax.transAxes,
         )
 
-        # Dynamic path
+        ax.set_xlabel("Predicted Label")
+        ax.set_ylabel("True Label")
+
+        plt.tight_layout()
         # TODO: set pathas from project config
-        save_path = get_plot_path(
-            confusion_matrix_plot_path, target_name, group_fam_to_use
-        )
-        plot_filename = f"{target_name}_ConfMatrix_{sample_type}_{int(train_percentage*100)}pct_{test_name}{group_info}.png"
+        save_path = get_plot_path(confusion_matrix_plot_path, target_name, group_fam_to_use)
+        plot_filename = f"{target_name}_ConfMatrix_{sample_type}_{int(train_percentage * 100)}pct_{test_name}{group_info}.png"
         plot_filepath = os.path.join(save_path, plot_filename)
 
         plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
         mlflow.log_figure(fig, plot_filename)
         plt.close()
-        logger.info(f"Confusion Matrix plot saved as: {plot_filepath}")
+        logger.info(f"Seaborn Confusion Matrix saved as: {plot_filepath}")
     else:
         logger.info(
             f"[Skipped] Confusion matrix (Acc: {accuracy_score * 100:.2f}%) < threshold ({threshold}%)"
