@@ -6,7 +6,6 @@ import mlflow
 import numpy as np
 import seaborn as sns
 from sklearn.metrics import (
-    ConfusionMatrixDisplay,
     confusion_matrix,
     roc_auc_score,
     roc_curve,
@@ -56,6 +55,7 @@ def plot_confusion_matrix(
     target_name,
     threshold=None,
     group_fam_to_use=None,
+    plot_filepath=None,
 ):
     """
     Plot and save a confusion matrix if the accuracy score meets the threshold.
@@ -86,14 +86,14 @@ def plot_confusion_matrix(
         sns.heatmap(
             cm,
             annot=True,
-            fmt='d',
-            cmap='Blues',
+            fmt="d",
+            cmap="Blues",
             linewidths=0.5,
-            linecolor='gray',
+            linecolor="gray",
             cbar=False,
             xticklabels=label_encoder,
             yticklabels=label_encoder,
-            ax=ax
+            ax=ax,
         )
 
         group_info = f"_{group_fam_to_use}" if group_fam_to_use else ""
@@ -116,9 +116,11 @@ def plot_confusion_matrix(
 
         plt.tight_layout()
         # TODO: set pathas from project config
-        save_path = get_plot_path(confusion_matrix_plot_path, target_name, group_fam_to_use)
+        save_path = get_plot_path(
+            confusion_matrix_plot_path, target_name, group_fam_to_use
+        )
         plot_filename = f"{target_name}_ConfMatrix_{sample_type}_{int(train_percentage * 100)}pct_{test_name}{group_info}.png"
-        plot_filepath = os.path.join(save_path, plot_filename)
+        plot_filepath = plot_filepath or os.path.join(save_path, plot_filename)
 
         plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
         mlflow.log_figure(fig, plot_filename)
@@ -141,6 +143,7 @@ def plot_roc_curve(
     target_name,
     threshold=None,
     group_fam_to_use=None,
+    plot_filepath=None,
 ):
     """
     Plot and save a ROC curve if the accuracy score meets the threshold.
@@ -189,7 +192,7 @@ def plot_roc_curve(
             # Dynamic path
             save_path = get_plot_path(roc_plot_path, target_name, group_fam_to_use)
             plot_filename = f"{target_name}_ROC_{sample_type}_{int(train_percentage*100)}pct_{test_name}{group_info}.png"
-            plot_filepath = os.path.join(save_path, plot_filename)
+            plot_filepath = plot_filepath or os.path.join(save_path, plot_filename)
 
             plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
             mlflow.log_figure(fig, plot_filename)
@@ -213,6 +216,7 @@ def plot_wavenumber_importances(
     test_name,
     group_suffix,
     save_path,
+    plot_filepath=None,
 ):
     """
     Generate a plot with a broken x-axis for wavenumber importances.
@@ -278,7 +282,7 @@ def plot_wavenumber_importances(
 
     # Save the plot
     plot_filename = f"{target_name}_principal_wavenumbers_{sample_type}_{int(train_percentage * 100)}pct_{test_name}{group_suffix}.png"
-    plot_filepath = os.path.join(save_path, plot_filename)
+    plot_filepath = plot_filepath or os.path.join(save_path, plot_filename)
     plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
     mlflow.log_figure(fig, plot_filename)
     plt.close()
