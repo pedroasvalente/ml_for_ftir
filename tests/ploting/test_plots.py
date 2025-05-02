@@ -5,10 +5,10 @@ from ml4fir.ploting import (
     plot_roc_curve,
     plot_wavenumber_importances,
 )
-
+from ml4fir.config import TESTS_DIR
 
 def test_plot_confusion_matrix():
-    npz_path = "tests/ploting/test_data/plot_confusion_matrix.npz"
+    npz_path = os.path.join(TESTS_DIR, "ploting", "test_data", "plot_confusion_matrix.npz")
     npz = np.load(npz_path, allow_pickle=True)
     npz_dict = dict(npz)
     for key in [   'accuracy_score',
@@ -21,7 +21,7 @@ def test_plot_confusion_matrix():
 
 
 def test_plot_roc_curve():
-    npz_path = "tests/ploting/test_data/plot_roc_curve.npz"
+    npz_path = os.path.join(TESTS_DIR, "ploting", "test_data", "plot_roc_curve.npz")
     npz = np.load(npz_path, allow_pickle=True)
     npz_dict = dict(npz)
     for key in [ 'sample_type', 'train_percentage', 'test_name', 'target_name',
@@ -33,7 +33,7 @@ def test_plot_roc_curve():
 
 
 def test_plot_wavenumber_importances():
-    npz_path = "tests/ploting/test_data/plot_wavenumber_importances.npz"
+    npz_path = os.path.join(TESTS_DIR, "ploting", "test_data", "plot_wavenumber_importances.npz")
     npz = np.load(npz_path, allow_pickle=True)
     npz_dict = dict(npz)
     for key in [ 'sample_type', 'train_percentage', 'test_name',
