@@ -6,6 +6,30 @@
 
 Short desc
 
+## Running the Prediction Script
+
+To run the `predict.py` script and make predictions using a trained model, follow these steps:
+
+1. **Prepare the Input File**:
+
+- Ensure you have a CSV file containing the data for prediction. The file should include all the features required by the trained model.
+
+2. **Run the Prediction Command**:
+
+- Use the following command to make predictions:
+   
+   ```bash
+   ml4fir predict example.csv --target-to-predict=group_fam
+   ```
+- Replace example.csv with the path to your input file and group_fam with the target variable you want to predict.
+
+   - ***Optional: Specify Sample Type:***
+   If your model requires a specific sample type (e.g., saliva, plasma), you can include the --sample-type option
+
+3. **Output**:
+
+The predictions will be saved or displayed as defined in the predict.py script. Check the logs or output directory for the results.
+
 ## Running the Training Script
 
 To run the `train.py` script, follow these steps:

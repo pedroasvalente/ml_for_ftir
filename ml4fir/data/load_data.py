@@ -5,7 +5,7 @@ from sklearn.cross_decomposition import PLSRegression
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
-from ml4fir.config import random_seed, logger
+from ml4fir.config import logger, random_seed
 
 
 def filter_sample_data(
@@ -44,14 +44,16 @@ def filter_sample_data(
     if selected_group_fam:
         sample_data = sample_data[sample_data["group_fam"] == selected_group_fam]
 
-    # Skip if no valid data for the target
-    if sample_data[target].dropna().empty:
-        logger.info(f"[!] Skipping: No data for {target} in {sample_type}")
-        return None, None, None
-
     # Extract spectral data and target
     spectral_data = sample_data[ftir_columns]
-    y = sample_data[target]
+    if target not in sample_data.columns:
+        y = np.ones(spectral_data.shape[0])
+    else:
+        y = sample_data[target]
+        # Skip if no valid data for the target
+        if sample_data[target].dropna().empty:
+            error_msg = f"[!] Skipping: No data for {target} in {sample_type}"
+            raise ValueError(error_msg)
 
     # Create masks for valid data
     y_valid_mask = y.notna()
@@ -232,13 +234,22 @@ def preprocess_data(
     -------
         tuple: Preprocessed X_train, X_test, y_train, y_test, and optionally loadings.
     """
-    # Split the data into training and testing sets
-    X_train, X_test, y_train, y_test = split_data(
-        X=X,
-        y_encoded=y_encoded,
-        train_percentage=train_percentage,
-        random_seed=random_seed,
-    )
+    if train_percentage < 1:
+        # Split the data into training and testing sets
+        X_train, X_test, y_train, y_test = split_data(
+            X=X,
+            y_encoded=y_encoded,
+            train_percentage=train_percentage,
+            random_seed=random_seed,
+        )
+    elif train_percentage == 1:
+        # If train_percentage is 1, use all data for training
+        X_train = X
+        X_test = np.ones(X.iloc[:1].shape)
+        y_train = y_encoded
+        y_test = np.ones(y_encoded.shape)
+    else:
+        raise ValueError("train_percentage must be between 0 and 1")
 
     loadings = None
 
