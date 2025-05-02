@@ -30,11 +30,14 @@ PROCESSED_TRAINING_DATA_FILEPATH = PROCESSED_DATA_DIR / TRAINING_DATA_FILENAME
 
 random_seed = int(os.environ.get("RANDOM_SEED", 52))
 global_threshold = int(os.environ.get("GLOBAL_THRESHOLD", 70))
+main_metric = str(os.environ.get("MAIN_METRIC", "acc"))
 
 roc_plot_path = os.path.join(FIGURES_DIR, "ROC")
 confusion_matrix_plot_path = os.path.join(FIGURES_DIR, "Confusion_Matrix")
 principal_wavenumber_path = os.path.join(FIGURES_DIR, "Principal_Wavenumber")
 
+MLFLOW_ARTIFACTS_DIR = PROJ_ROOT / "mlartifacts"
+TESTS_DIR = PROJ_ROOT / "tests"
 
 os.makedirs(roc_plot_path, exist_ok=True)
 os.makedirs(confusion_matrix_plot_path, exist_ok=True)
