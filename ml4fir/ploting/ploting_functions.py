@@ -56,6 +56,7 @@ def plot_confusion_matrix(
     threshold=None,
     group_fam_to_use=None,
     plot_filepath=None,
+    mlflow_is_running=True,
 ):
     """
     Plot and save a confusion matrix if the accuracy score meets the threshold.
@@ -123,7 +124,8 @@ def plot_confusion_matrix(
         plot_filepath = plot_filepath or os.path.join(save_path, plot_filename)
 
         plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
-        mlflow.log_figure(fig, plot_filename)
+        if mlflow_is_running:
+            mlflow.log_figure(fig, plot_filename)
         plt.close()
         logger.info(f"Seaborn Confusion Matrix saved as: {plot_filepath}")
     else:
@@ -144,6 +146,7 @@ def plot_roc_curve(
     threshold=None,
     group_fam_to_use=None,
     plot_filepath=None,
+    mlflow_is_running=True,
 ):
     """
     Plot and save a ROC curve if the accuracy score meets the threshold.
@@ -195,7 +198,8 @@ def plot_roc_curve(
             plot_filepath = plot_filepath or os.path.join(save_path, plot_filename)
 
             plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
-            mlflow.log_figure(fig, plot_filename)
+            if mlflow_is_running:
+                mlflow.log_figure(fig, plot_filename)
             plt.close()
             logger.info(f"ROC curve plot saved as: {plot_filepath}")
             return roc_auc
@@ -217,6 +221,7 @@ def plot_wavenumber_importances(
     group_suffix,
     save_path,
     plot_filepath=None,
+    mlflow_is_running=True,
 ):
     """
     Generate a plot with a broken x-axis for wavenumber importances.
@@ -284,7 +289,8 @@ def plot_wavenumber_importances(
     plot_filename = f"{target_name}_principal_wavenumbers_{sample_type}_{int(train_percentage * 100)}pct_{test_name}{group_suffix}.png"
     plot_filepath = plot_filepath or os.path.join(save_path, plot_filename)
     plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
-    mlflow.log_figure(fig, plot_filename)
+    if mlflow_is_running:
+        mlflow.log_figure(fig, plot_filename)
     plt.close()
     logger.info(f"Plot saved to: {plot_filepath}")
 
