@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/43400243e75e4c9898adcbbd47e1bbdc/artifacts
+end_time: 1746215830840
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 43400243e75e4c9898adcbbd47e1bbdc
+run_name: delightful-crab-857
+run_uuid: 43400243e75e4c9898adcbbd47e1bbdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215800964
+status: 3
+tags: []
+user_id: joao

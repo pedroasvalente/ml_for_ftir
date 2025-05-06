@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/dce51272f3dd4604a2d3c9ea595f516e/artifacts
+end_time: 1746216211442
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: dce51272f3dd4604a2d3c9ea595f516e
+run_name: languid-snipe-666
+run_uuid: dce51272f3dd4604a2d3c9ea595f516e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216174168
+status: 3
+tags: []
+user_id: joao

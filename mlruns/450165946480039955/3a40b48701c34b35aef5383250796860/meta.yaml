@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/3a40b48701c34b35aef5383250796860/artifacts
+end_time: 1746216246925
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 3a40b48701c34b35aef5383250796860
+run_name: rare-eel-423
+run_uuid: 3a40b48701c34b35aef5383250796860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216217216
+status: 3
+tags: []
+user_id: joao

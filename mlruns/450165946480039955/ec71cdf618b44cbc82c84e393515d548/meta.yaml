@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/ec71cdf618b44cbc82c84e393515d548/artifacts
+end_time: 1746216129616
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: ec71cdf618b44cbc82c84e393515d548
+run_name: popular-bird-526
+run_uuid: ec71cdf618b44cbc82c84e393515d548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216089530
+status: 3
+tags: []
+user_id: joao

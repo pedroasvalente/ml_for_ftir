@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/67cd2fa4f2ad4882bef4664e0b29296f/artifacts
+end_time: 1746215734870
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 67cd2fa4f2ad4882bef4664e0b29296f
+run_name: indecisive-kite-926
+run_uuid: 67cd2fa4f2ad4882bef4664e0b29296f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215728483
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/ebf71a35fa264923ad61d4b067c9bb81/artifacts
+end_time: 1746215479915
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: ebf71a35fa264923ad61d4b067c9bb81
+run_name: resilient-wren-855
+run_uuid: ebf71a35fa264923ad61d4b067c9bb81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215465093
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/75efb68efb4742359eb8ec00c2ad31de/artifacts
+end_time: 1746216129616
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 75efb68efb4742359eb8ec00c2ad31de
+run_name: intrigued-skink-8
+run_uuid: 75efb68efb4742359eb8ec00c2ad31de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216089530
+status: 3
+tags: []
+user_id: joao

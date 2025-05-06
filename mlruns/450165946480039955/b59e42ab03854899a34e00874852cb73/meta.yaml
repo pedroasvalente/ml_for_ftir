@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/b59e42ab03854899a34e00874852cb73/artifacts
+end_time: 1746215189822
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: b59e42ab03854899a34e00874852cb73
+run_name: chill-sponge-907
+run_uuid: b59e42ab03854899a34e00874852cb73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215164129
+status: 3
+tags: []
+user_id: joao

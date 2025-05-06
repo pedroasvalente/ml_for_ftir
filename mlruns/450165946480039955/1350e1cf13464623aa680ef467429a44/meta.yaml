@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/1350e1cf13464623aa680ef467429a44/artifacts
+end_time: 1746215556911
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 1350e1cf13464623aa680ef467429a44
+run_name: unleashed-loon-835
+run_uuid: 1350e1cf13464623aa680ef467429a44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215542888
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/2062eebdd4574ea2a69cd89e3eea8f74/artifacts
+end_time: 1746216281822
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 2062eebdd4574ea2a69cd89e3eea8f74
+run_name: dazzling-shad-33
+run_uuid: 2062eebdd4574ea2a69cd89e3eea8f74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216253803
+status: 3
+tags: []
+user_id: joao

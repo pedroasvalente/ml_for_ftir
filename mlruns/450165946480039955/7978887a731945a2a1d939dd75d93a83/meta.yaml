@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/7978887a731945a2a1d939dd75d93a83/artifacts
+end_time: 1746215746494
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 7978887a731945a2a1d939dd75d93a83
+run_name: incongruous-elk-226
+run_uuid: 7978887a731945a2a1d939dd75d93a83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215740062
+status: 3
+tags: []
+user_id: joao

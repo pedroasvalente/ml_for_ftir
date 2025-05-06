@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/30d7a50bb5db49969b5469ee0f98aff7/artifacts
+end_time: 1746215674047
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 30d7a50bb5db49969b5469ee0f98aff7
+run_name: treasured-donkey-444
+run_uuid: 30d7a50bb5db49969b5469ee0f98aff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215667510
+status: 3
+tags: []
+user_id: joao

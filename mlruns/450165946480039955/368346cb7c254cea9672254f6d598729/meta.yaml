@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/368346cb7c254cea9672254f6d598729/artifacts
+end_time: 1746215614524
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 368346cb7c254cea9672254f6d598729
+run_name: languid-whale-788
+run_uuid: 368346cb7c254cea9672254f6d598729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215600868
+status: 3
+tags: []
+user_id: joao

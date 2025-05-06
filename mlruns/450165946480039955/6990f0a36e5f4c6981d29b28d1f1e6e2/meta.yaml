@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/6990f0a36e5f4c6981d29b28d1f1e6e2/artifacts
+end_time: 1746215378582
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 6990f0a36e5f4c6981d29b28d1f1e6e2
+run_name: welcoming-goose-174
+run_uuid: 6990f0a36e5f4c6981d29b28d1f1e6e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215362366
+status: 3
+tags: []
+user_id: joao

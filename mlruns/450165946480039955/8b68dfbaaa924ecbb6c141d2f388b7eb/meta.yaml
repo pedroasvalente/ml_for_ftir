@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/8b68dfbaaa924ecbb6c141d2f388b7eb/artifacts
+end_time: 1746215922118
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 8b68dfbaaa924ecbb6c141d2f388b7eb
+run_name: handsome-worm-54
+run_uuid: 8b68dfbaaa924ecbb6c141d2f388b7eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215879375
+status: 3
+tags: []
+user_id: joao

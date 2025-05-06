@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/e92c19cd43a24fbaabc680e50982ef82/artifacts
+end_time: 1746215063503
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: e92c19cd43a24fbaabc680e50982ef82
+run_name: valuable-lynx-57
+run_uuid: e92c19cd43a24fbaabc680e50982ef82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215036607
+status: 3
+tags: []
+user_id: joao

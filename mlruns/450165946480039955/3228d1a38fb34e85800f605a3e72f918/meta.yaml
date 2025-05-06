@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/3228d1a38fb34e85800f605a3e72f918/artifacts
+end_time: 1746216167124
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 3228d1a38fb34e85800f605a3e72f918
+run_name: fearless-yak-900
+run_uuid: 3228d1a38fb34e85800f605a3e72f918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216135179
+status: 3
+tags: []
+user_id: joao

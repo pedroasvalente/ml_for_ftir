@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/c0b2ab071bbf462299b0d2197604b78a/artifacts
+end_time: 1746214962650
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: c0b2ab071bbf462299b0d2197604b78a
+run_name: legendary-asp-58
+run_uuid: c0b2ab071bbf462299b0d2197604b78a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214933135
+status: 3
+tags: []
+user_id: joao

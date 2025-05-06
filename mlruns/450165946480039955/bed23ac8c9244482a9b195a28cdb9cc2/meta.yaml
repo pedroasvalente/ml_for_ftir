@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/bed23ac8c9244482a9b195a28cdb9cc2/artifacts
+end_time: 1746214998883
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: bed23ac8c9244482a9b195a28cdb9cc2
+run_name: trusting-carp-95
+run_uuid: bed23ac8c9244482a9b195a28cdb9cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214968448
+status: 3
+tags: []
+user_id: joao

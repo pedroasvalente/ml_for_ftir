@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/dd9b875e57d34d979cf768db6d3deb87/artifacts
+end_time: 1746215594913
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: dd9b875e57d34d979cf768db6d3deb87
+run_name: loud-yak-293
+run_uuid: dd9b875e57d34d979cf768db6d3deb87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215581365
+status: 3
+tags: []
+user_id: joao

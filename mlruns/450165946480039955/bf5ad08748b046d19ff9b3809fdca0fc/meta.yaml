@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/bf5ad08748b046d19ff9b3809fdca0fc/artifacts
+end_time: 1746215759434
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: bf5ad08748b046d19ff9b3809fdca0fc
+run_name: enthused-ray-239
+run_uuid: bf5ad08748b046d19ff9b3809fdca0fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215753159
+status: 3
+tags: []
+user_id: joao

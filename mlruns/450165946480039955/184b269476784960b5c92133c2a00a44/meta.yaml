@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/184b269476784960b5c92133c2a00a44/artifacts
+end_time: 1746216403319
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 184b269476784960b5c92133c2a00a44
+run_name: gregarious-chimp-297
+run_uuid: 184b269476784960b5c92133c2a00a44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216368081
+status: 3
+tags: []
+user_id: joao

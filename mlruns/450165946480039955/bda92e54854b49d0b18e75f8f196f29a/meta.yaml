@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/bda92e54854b49d0b18e75f8f196f29a/artifacts
+end_time: 1746215159820
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: bda92e54854b49d0b18e75f8f196f29a
+run_name: thoughtful-fish-29
+run_uuid: bda92e54854b49d0b18e75f8f196f29a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215132883
+status: 3
+tags: []
+user_id: joao

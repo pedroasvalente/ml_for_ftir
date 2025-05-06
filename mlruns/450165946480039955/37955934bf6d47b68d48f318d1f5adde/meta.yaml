@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/37955934bf6d47b68d48f318d1f5adde/artifacts
+end_time: 1746215031263
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 37955934bf6d47b68d48f318d1f5adde
+run_name: brawny-hen-213
+run_uuid: 37955934bf6d47b68d48f318d1f5adde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215003198
+status: 3
+tags: []
+user_id: joao

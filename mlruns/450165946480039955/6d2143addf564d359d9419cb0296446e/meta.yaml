@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/6d2143addf564d359d9419cb0296446e/artifacts
+end_time: 1746214998883
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 6d2143addf564d359d9419cb0296446e
+run_name: valuable-chimp-361
+run_uuid: 6d2143addf564d359d9419cb0296446e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214968448
+status: 3
+tags: []
+user_id: joao

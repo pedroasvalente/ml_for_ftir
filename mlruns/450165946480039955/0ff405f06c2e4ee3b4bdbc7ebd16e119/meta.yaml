@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/0ff405f06c2e4ee3b4bdbc7ebd16e119/artifacts
+end_time: 1746215220986
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 0ff405f06c2e4ee3b4bdbc7ebd16e119
+run_name: merciful-lynx-733
+run_uuid: 0ff405f06c2e4ee3b4bdbc7ebd16e119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215195405
+status: 3
+tags: []
+user_id: joao

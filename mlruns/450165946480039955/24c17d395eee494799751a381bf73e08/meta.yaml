@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/24c17d395eee494799751a381bf73e08/artifacts
+end_time: 1746215335602
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 24c17d395eee494799751a381bf73e08
+run_name: rare-ox-419
+run_uuid: 24c17d395eee494799751a381bf73e08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215319539
+status: 3
+tags: []
+user_id: joao

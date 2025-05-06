@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/5cb4f137ce924e30b050644392dfa4b0/artifacts
+end_time: 1746215795735
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 5cb4f137ce924e30b050644392dfa4b0
+run_name: abundant-fowl-818
+run_uuid: 5cb4f137ce924e30b050644392dfa4b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215789493
+status: 3
+tags: []
+user_id: joao

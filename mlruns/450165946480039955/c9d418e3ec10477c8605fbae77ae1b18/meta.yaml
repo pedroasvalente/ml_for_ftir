@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/c9d418e3ec10477c8605fbae77ae1b18/artifacts
+end_time: 1746216360906
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: c9d418e3ec10477c8605fbae77ae1b18
+run_name: rogue-slug-346
+run_uuid: c9d418e3ec10477c8605fbae77ae1b18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216331848
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/d6bba52847dd4b1f81a86f22fdd04e4f/artifacts
+end_time: 1746214998883
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: d6bba52847dd4b1f81a86f22fdd04e4f
+run_name: flawless-donkey-642
+run_uuid: d6bba52847dd4b1f81a86f22fdd04e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214968448
+status: 3
+tags: []
+user_id: joao

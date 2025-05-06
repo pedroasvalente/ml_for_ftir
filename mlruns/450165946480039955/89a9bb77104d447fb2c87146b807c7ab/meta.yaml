@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/89a9bb77104d447fb2c87146b807c7ab/artifacts
+end_time: 1746215782920
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 89a9bb77104d447fb2c87146b807c7ab
+run_name: stylish-shrew-257
+run_uuid: 89a9bb77104d447fb2c87146b807c7ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215776614
+status: 3
+tags: []
+user_id: joao

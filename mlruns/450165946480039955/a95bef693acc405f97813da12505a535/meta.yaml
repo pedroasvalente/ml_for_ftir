@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/a95bef693acc405f97813da12505a535/artifacts
+end_time: 1746215479915
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: a95bef693acc405f97813da12505a535
+run_name: likeable-wren-433
+run_uuid: a95bef693acc405f97813da12505a535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215465093
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/2eb9af5dc4a54e358f3298f3866901ab/artifacts
+end_time: 1746216211442
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 2eb9af5dc4a54e358f3298f3866901ab
+run_name: abrasive-doe-244
+run_uuid: 2eb9af5dc4a54e358f3298f3866901ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216174168
+status: 3
+tags: []
+user_id: joao

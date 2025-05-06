@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/ffd6fc11a6244b158ae093d0aa059148/artifacts
+end_time: 1746216211442
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: ffd6fc11a6244b158ae093d0aa059148
+run_name: colorful-shad-27
+run_uuid: ffd6fc11a6244b158ae093d0aa059148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216174168
+status: 3
+tags: []
+user_id: joao

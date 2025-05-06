@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/0123705081f64c44a6ee740fc3675f72/artifacts
+end_time: 1746215576826
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 0123705081f64c44a6ee740fc3675f72
+run_name: unruly-perch-899
+run_uuid: 0123705081f64c44a6ee740fc3675f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215562758
+status: 3
+tags: []
+user_id: joao

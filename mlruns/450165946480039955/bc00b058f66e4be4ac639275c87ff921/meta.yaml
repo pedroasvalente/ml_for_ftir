@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/bc00b058f66e4be4ac639275c87ff921/artifacts
+end_time: 1746215063503
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: bc00b058f66e4be4ac639275c87ff921
+run_name: brawny-calf-900
+run_uuid: bc00b058f66e4be4ac639275c87ff921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215036607
+status: 3
+tags: []
+user_id: joao

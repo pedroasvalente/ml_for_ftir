@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/9c7fe0c05df2457382f03a153e09b1bf/artifacts
+end_time: 1746215518751
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 9c7fe0c05df2457382f03a153e09b1bf
+run_name: serious-snail-158
+run_uuid: 9c7fe0c05df2457382f03a153e09b1bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215504389
+status: 3
+tags: []
+user_id: joao

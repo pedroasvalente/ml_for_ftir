@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/94fc7bf98da2429fba889c60152df841/artifacts
+end_time: 1746216082566
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 94fc7bf98da2429fba889c60152df841
+run_name: grandiose-gull-394
+run_uuid: 94fc7bf98da2429fba889c60152df841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216051022
+status: 3
+tags: []
+user_id: joao

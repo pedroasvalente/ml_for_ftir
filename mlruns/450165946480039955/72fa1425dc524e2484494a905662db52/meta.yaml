@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/72fa1425dc524e2484494a905662db52/artifacts
+end_time: 1746215438998
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 72fa1425dc524e2484494a905662db52
+run_name: classy-snail-947
+run_uuid: 72fa1425dc524e2484494a905662db52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215423801
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/955ba1c7049a4c08bc521ff8fa9db50a/artifacts
+end_time: 1746215063503
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 955ba1c7049a4c08bc521ff8fa9db50a
+run_name: charming-doe-905
+run_uuid: 955ba1c7049a4c08bc521ff8fa9db50a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215036607
+status: 3
+tags: []
+user_id: joao

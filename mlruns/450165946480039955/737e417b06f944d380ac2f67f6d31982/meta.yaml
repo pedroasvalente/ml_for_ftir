@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/737e417b06f944d380ac2f67f6d31982/artifacts
+end_time: 1746214928865
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 737e417b06f944d380ac2f67f6d31982
+run_name: zealous-kite-767
+run_uuid: 737e417b06f944d380ac2f67f6d31982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214898393
+status: 3
+tags: []
+user_id: joao

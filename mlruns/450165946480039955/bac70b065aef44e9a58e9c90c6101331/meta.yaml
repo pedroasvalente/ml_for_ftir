@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/bac70b065aef44e9a58e9c90c6101331/artifacts
+end_time: 1746215537188
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: bac70b065aef44e9a58e9c90c6101331
+run_name: rumbling-crab-127
+run_uuid: bac70b065aef44e9a58e9c90c6101331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215523356
+status: 3
+tags: []
+user_id: joao

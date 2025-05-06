@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/444216289aac47a48366c7e4d11dcf8b/artifacts
+end_time: 1746215771460
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 444216289aac47a48366c7e4d11dcf8b
+run_name: bittersweet-deer-30
+run_uuid: 444216289aac47a48366c7e4d11dcf8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215764648
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/e73edc9b83e043b7b7cb9485e13a6b69/artifacts
+end_time: 1746215419366
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: e73edc9b83e043b7b7cb9485e13a6b69
+run_name: debonair-deer-620
+run_uuid: e73edc9b83e043b7b7cb9485e13a6b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215403964
+status: 3
+tags: []
+user_id: joao

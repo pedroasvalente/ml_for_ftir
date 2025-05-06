@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/0c412126d4ac4f3d9280e5bf85fe0a76/artifacts
+end_time: 1746214962650
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 0c412126d4ac4f3d9280e5bf85fe0a76
+run_name: burly-gnat-995
+run_uuid: 0c412126d4ac4f3d9280e5bf85fe0a76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214933135
+status: 3
+tags: []
+user_id: joao

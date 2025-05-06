@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/a849e93dea2948abb0a1486891a4bbd9/artifacts
+end_time: 1746215872510
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: a849e93dea2948abb0a1486891a4bbd9
+run_name: blushing-lark-827
+run_uuid: a849e93dea2948abb0a1486891a4bbd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215837829
+status: 3
+tags: []
+user_id: joao

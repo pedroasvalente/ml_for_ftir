@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/0b77b6e06be145cbab2134c253489547/artifacts
+end_time: 1746215721947
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 0b77b6e06be145cbab2134c253489547
+run_name: nebulous-perch-940
+run_uuid: 0b77b6e06be145cbab2134c253489547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215715639
+status: 3
+tags: []
+user_id: joao

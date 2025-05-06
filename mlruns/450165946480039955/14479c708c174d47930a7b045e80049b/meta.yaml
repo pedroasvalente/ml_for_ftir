@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/14479c708c174d47930a7b045e80049b/artifacts
+end_time: 1746215220986
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 14479c708c174d47930a7b045e80049b
+run_name: auspicious-snail-292
+run_uuid: 14479c708c174d47930a7b045e80049b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215195405
+status: 3
+tags: []
+user_id: joao

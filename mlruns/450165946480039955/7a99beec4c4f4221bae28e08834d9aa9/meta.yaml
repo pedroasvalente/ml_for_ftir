@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/7a99beec4c4f4221bae28e08834d9aa9/artifacts
+end_time: 1746215498688
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 7a99beec4c4f4221bae28e08834d9aa9
+run_name: colorful-squid-979
+run_uuid: 7a99beec4c4f4221bae28e08834d9aa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215484624
+status: 3
+tags: []
+user_id: joao

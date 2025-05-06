@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/89796b374edc48c282f10e54e1873f15/artifacts
+end_time: 1746215438998
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 89796b374edc48c282f10e54e1873f15
+run_name: funny-hen-355
+run_uuid: 89796b374edc48c282f10e54e1873f15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215423801
+status: 3
+tags: []
+user_id: joao

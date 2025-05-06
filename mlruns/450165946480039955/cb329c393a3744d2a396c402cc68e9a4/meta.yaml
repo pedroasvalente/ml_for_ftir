@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/cb329c393a3744d2a396c402cc68e9a4/artifacts
+end_time: 1746214928865
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: cb329c393a3744d2a396c402cc68e9a4
+run_name: treasured-ray-565
+run_uuid: cb329c393a3744d2a396c402cc68e9a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214898393
+status: 3
+tags: []
+user_id: joao

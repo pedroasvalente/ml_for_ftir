@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/2f0a9f46008d4c09a6df353c10b3ab38/artifacts
+end_time: 1746215096801
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 2f0a9f46008d4c09a6df353c10b3ab38
+run_name: carefree-bird-818
+run_uuid: 2f0a9f46008d4c09a6df353c10b3ab38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215069077
+status: 3
+tags: []
+user_id: joao

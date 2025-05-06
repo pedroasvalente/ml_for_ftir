@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/740f999b0f474f719e84c5563ef7594f/artifacts
+end_time: 1746215419366
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 740f999b0f474f719e84c5563ef7594f
+run_name: magnificent-lark-520
+run_uuid: 740f999b0f474f719e84c5563ef7594f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215403964
+status: 3
+tags: []
+user_id: joao

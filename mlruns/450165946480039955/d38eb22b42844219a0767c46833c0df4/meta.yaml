@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/d38eb22b42844219a0767c46833c0df4/artifacts
+end_time: 1746215721947
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: d38eb22b42844219a0767c46833c0df4
+run_name: stately-duck-531
+run_uuid: d38eb22b42844219a0767c46833c0df4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215715639
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/bfa893bc11f14cde81dae2a1c75ffb20/artifacts
+end_time: 1746215759434
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: bfa893bc11f14cde81dae2a1c75ffb20
+run_name: victorious-bug-356
+run_uuid: bfa893bc11f14cde81dae2a1c75ffb20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215753159
+status: 3
+tags: []
+user_id: joao

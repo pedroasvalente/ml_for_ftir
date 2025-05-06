@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/1c6a1ad631f743f08876ee80a68a37f9/artifacts
+end_time: 1746215518751
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 1c6a1ad631f743f08876ee80a68a37f9
+run_name: upbeat-grouse-509
+run_uuid: 1c6a1ad631f743f08876ee80a68a37f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215504389
+status: 3
+tags: []
+user_id: joao
