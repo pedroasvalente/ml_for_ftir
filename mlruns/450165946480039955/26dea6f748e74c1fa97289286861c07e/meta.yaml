@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/26dea6f748e74c1fa97289286861c07e/artifacts
+end_time: 1746216044278
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 26dea6f748e74c1fa97289286861c07e
+run_name: nervous-jay-334
+run_uuid: 26dea6f748e74c1fa97289286861c07e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216011133
+status: 3
+tags: []
+user_id: joao

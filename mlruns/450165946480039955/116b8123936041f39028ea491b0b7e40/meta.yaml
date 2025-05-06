@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/116b8123936041f39028ea491b0b7e40/artifacts
+end_time: 1746215378582
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 116b8123936041f39028ea491b0b7e40
+run_name: victorious-hound-601
+run_uuid: 116b8123936041f39028ea491b0b7e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215362366
+status: 3
+tags: []
+user_id: joao

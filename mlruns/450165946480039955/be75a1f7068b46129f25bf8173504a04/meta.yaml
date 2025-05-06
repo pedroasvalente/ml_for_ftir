@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/be75a1f7068b46129f25bf8173504a04/artifacts
+end_time: 1746216326122
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: be75a1f7068b46129f25bf8173504a04
+run_name: traveling-ant-767
+run_uuid: be75a1f7068b46129f25bf8173504a04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216289347
+status: 3
+tags: []
+user_id: joao

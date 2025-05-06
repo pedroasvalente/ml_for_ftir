@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/b43a4d4a8bab4ef8bdee9361223cd874/artifacts
+end_time: 1746215335602
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: b43a4d4a8bab4ef8bdee9361223cd874
+run_name: kindly-cub-758
+run_uuid: b43a4d4a8bab4ef8bdee9361223cd874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215319539
+status: 3
+tags: []
+user_id: joao

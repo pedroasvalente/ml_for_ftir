@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/60cce650ecb042c1976e87348687289a/artifacts
+end_time: 1746215438998
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 60cce650ecb042c1976e87348687289a
+run_name: intrigued-vole-831
+run_uuid: 60cce650ecb042c1976e87348687289a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215423801
+status: 3
+tags: []
+user_id: joao

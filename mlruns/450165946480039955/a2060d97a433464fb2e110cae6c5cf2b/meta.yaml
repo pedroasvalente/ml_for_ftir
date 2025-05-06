@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/a2060d97a433464fb2e110cae6c5cf2b/artifacts
+end_time: 1746215127196
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: a2060d97a433464fb2e110cae6c5cf2b
+run_name: bouncy-bug-664
+run_uuid: a2060d97a433464fb2e110cae6c5cf2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215100993
+status: 3
+tags: []
+user_id: joao

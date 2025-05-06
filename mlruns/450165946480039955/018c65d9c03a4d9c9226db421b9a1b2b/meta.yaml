@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/018c65d9c03a4d9c9226db421b9a1b2b/artifacts
+end_time: 1746214892633
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 018c65d9c03a4d9c9226db421b9a1b2b
+run_name: dapper-mink-987
+run_uuid: 018c65d9c03a4d9c9226db421b9a1b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214863196
+status: 3
+tags: []
+user_id: joao

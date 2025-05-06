@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/913e5e56d2fb4511bb27a0dab0f51c0a/artifacts
+end_time: 1746215356808
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 913e5e56d2fb4511bb27a0dab0f51c0a
+run_name: caring-gull-26
+run_uuid: 913e5e56d2fb4511bb27a0dab0f51c0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215340942
+status: 3
+tags: []
+user_id: joao

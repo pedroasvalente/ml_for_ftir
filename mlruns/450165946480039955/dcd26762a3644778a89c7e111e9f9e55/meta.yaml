@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/dcd26762a3644778a89c7e111e9f9e55/artifacts
+end_time: 1746214857259
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: dcd26762a3644778a89c7e111e9f9e55
+run_name: bald-shrike-359
+run_uuid: dcd26762a3644778a89c7e111e9f9e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214823927
+status: 3
+tags: []
+user_id: joao

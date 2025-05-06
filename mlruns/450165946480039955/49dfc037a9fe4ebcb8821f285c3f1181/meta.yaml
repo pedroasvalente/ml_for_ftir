@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/49dfc037a9fe4ebcb8821f285c3f1181/artifacts
+end_time: 1746215518751
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 49dfc037a9fe4ebcb8821f285c3f1181
+run_name: persistent-worm-90
+run_uuid: 49dfc037a9fe4ebcb8821f285c3f1181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215504389
+status: 3
+tags: []
+user_id: joao

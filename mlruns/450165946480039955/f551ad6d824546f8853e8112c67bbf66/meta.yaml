@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/f551ad6d824546f8853e8112c67bbf66/artifacts
+end_time: 1746215339681
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: f551ad6d824546f8853e8112c67bbf66
+run_name: MLP
+run_uuid: f551ad6d824546f8853e8112c67bbf66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215319539
+status: 3
+tags: []
+user_id: joao

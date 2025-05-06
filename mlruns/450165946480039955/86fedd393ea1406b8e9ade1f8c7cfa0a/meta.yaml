@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/86fedd393ea1406b8e9ade1f8c7cfa0a/artifacts
+end_time: 1746214892633
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 86fedd393ea1406b8e9ade1f8c7cfa0a
+run_name: mercurial-chimp-542
+run_uuid: 86fedd393ea1406b8e9ade1f8c7cfa0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214863196
+status: 3
+tags: []
+user_id: joao

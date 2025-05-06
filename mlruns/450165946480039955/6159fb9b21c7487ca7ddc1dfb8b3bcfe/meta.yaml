@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/6159fb9b21c7487ca7ddc1dfb8b3bcfe/artifacts
+end_time: 1746215498688
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 6159fb9b21c7487ca7ddc1dfb8b3bcfe
+run_name: exultant-fox-441
+run_uuid: 6159fb9b21c7487ca7ddc1dfb8b3bcfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215484624
+status: 3
+tags: []
+user_id: joao

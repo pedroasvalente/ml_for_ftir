@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/3adc814a8d9a4ff488cc190f5a46c812/artifacts
+end_time: 1746215419366
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 3adc814a8d9a4ff488cc190f5a46c812
+run_name: unruly-ox-180
+run_uuid: 3adc814a8d9a4ff488cc190f5a46c812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215403964
+status: 3
+tags: []
+user_id: joao

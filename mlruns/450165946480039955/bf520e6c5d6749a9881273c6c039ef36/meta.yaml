@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/bf520e6c5d6749a9881273c6c039ef36/artifacts
+end_time: 1746215253479
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: bf520e6c5d6749a9881273c6c039ef36
+run_name: painted-crow-598
+run_uuid: bf520e6c5d6749a9881273c6c039ef36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215227206
+status: 3
+tags: []
+user_id: joao

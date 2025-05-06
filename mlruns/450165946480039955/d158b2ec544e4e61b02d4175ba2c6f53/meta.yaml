@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/d158b2ec544e4e61b02d4175ba2c6f53/artifacts
+end_time: 1746215625933
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: d158b2ec544e4e61b02d4175ba2c6f53
+run_name: unique-tern-452
+run_uuid: d158b2ec544e4e61b02d4175ba2c6f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215619273
+status: 3
+tags: []
+user_id: joao

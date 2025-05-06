@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/8a9814e60cfe47c2bed7ce010eb50970/artifacts
+end_time: 1746216360906
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 8a9814e60cfe47c2bed7ce010eb50970
+run_name: amazing-worm-623
+run_uuid: 8a9814e60cfe47c2bed7ce010eb50970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216331848
+status: 3
+tags: []
+user_id: joao

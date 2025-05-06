@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/73b92ea794744192b8e304af84f8383b/artifacts
+end_time: 1746215096801
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 73b92ea794744192b8e304af84f8383b
+run_name: sedate-asp-303
+run_uuid: 73b92ea794744192b8e304af84f8383b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215069077
+status: 3
+tags: []
+user_id: joao

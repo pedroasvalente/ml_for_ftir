@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/b9a534f5a90f4d9f8c125b1b4f697a0b/artifacts
+end_time: 1746216044278
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: b9a534f5a90f4d9f8c125b1b4f697a0b
+run_name: overjoyed-rook-124
+run_uuid: b9a534f5a90f4d9f8c125b1b4f697a0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216011133
+status: 3
+tags: []
+user_id: joao

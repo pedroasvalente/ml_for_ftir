@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/86ccaa1de6b541adbdceddd0a21186dc/artifacts
+end_time: 1746216005703
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 86ccaa1de6b541adbdceddd0a21186dc
+run_name: respected-stoat-879
+run_uuid: 86ccaa1de6b541adbdceddd0a21186dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215967485
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,2 @@
+MLPClassifier(early_stopping=True, learning_rate_init=0.01, max_iter=3000,
+              random_state=52)

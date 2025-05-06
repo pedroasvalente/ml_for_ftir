@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/9648e2d3dc3243c4944d7496114b85f9/artifacts
+end_time: 1746215638345
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 9648e2d3dc3243c4944d7496114b85f9
+run_name: capricious-kit-776
+run_uuid: 9648e2d3dc3243c4944d7496114b85f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215631897
+status: 3
+tags: []
+user_id: joao

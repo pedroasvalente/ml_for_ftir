@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/f250217316724fdca72729774da4f408/artifacts
+end_time: 1746216281822
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: f250217316724fdca72729774da4f408
+run_name: sophisticated-ox-766
+run_uuid: f250217316724fdca72729774da4f408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216253803
+status: 3
+tags: []
+user_id: joao

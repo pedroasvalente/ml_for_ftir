@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/4abfd9235d654d418a37068e18d674d9/artifacts
+end_time: 1746215356808
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 4abfd9235d654d418a37068e18d674d9
+run_name: amusing-whale-494
+run_uuid: 4abfd9235d654d418a37068e18d674d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215340942
+status: 3
+tags: []
+user_id: joao

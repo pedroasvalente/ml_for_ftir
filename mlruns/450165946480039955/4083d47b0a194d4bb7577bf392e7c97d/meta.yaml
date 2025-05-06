@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/4083d47b0a194d4bb7577bf392e7c97d/artifacts
+end_time: 1746216281822
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 4083d47b0a194d4bb7577bf392e7c97d
+run_name: worried-hen-329
+run_uuid: 4083d47b0a194d4bb7577bf392e7c97d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216253803
+status: 3
+tags: []
+user_id: joao

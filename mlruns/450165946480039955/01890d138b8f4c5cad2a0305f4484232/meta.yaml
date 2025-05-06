@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/01890d138b8f4c5cad2a0305f4484232/artifacts
+end_time: 1746216326122
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 01890d138b8f4c5cad2a0305f4484232
+run_name: kindly-shad-119
+run_uuid: 01890d138b8f4c5cad2a0305f4484232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746216289347
+status: 3
+tags: []
+user_id: joao

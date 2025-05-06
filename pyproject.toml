@@ -30,19 +30,79 @@ dependencies = [
     "scikit-learn",
     "tqdm",
     "typer",
+    "imblearn",
+    "scikit-optimize",
+    "xgboost",
+    "seaborn",
+    "mlflow",
 ]
-requires-python = "~=3.13.0"
+requires-python = ">=3.11.0"
 
 
 [tool.ruff]
-line-length = 79
+line-length = 80
 src = ["ml4fir"]
 include = ["pyproject.toml", "ml4fir/**/*.py"]
+indent-width = 4
+
 
 [tool.ruff.lint]
+select = [
+    "A",
+    "ARG",
+    "B",   # flake8-bugbear
+    "C",
+    "C4",  # flake8-comprehensions
+    "D",   # pydocstyle
+    "E",   # pycodestyle
+    "E501",  # Line too long
+    "ERA",
+    "F",   # pyflakes
+    "I001",   # isort
+    "N",
+    "PLC", # pylint-convention
+    "PLE", # pylint-error
+    "PLR", # pylint-refactor
+    "PLW", # pylint-warning
+    "RET",
+    "S",
+    "T10", # flake8-debugger
+    "UP",  # pyupgrade
+    "W",   # pycodestyle
+]
+
 extend-select = ["I"]  # Add import sorting
+fixable = ["ALL"]
 
 [tool.ruff.lint.isort]
 known-first-party = ["ml4fir"]
 force-sort-within-sections = true
+section-order = [
+    "future",
+    "standard-library",
+    "third-party",
+    "first-party",
+    "local-folder",
+]
 
+# [tool.ruff.lint.per-file-ignores]
+# "__init__.py" = ["F401"]
+# "test/**" = ["ARG", "S"]
+
+[tool.ruff.lint.pycodestyle]
+max-doc-length = 120
+
+[tool.ruff.lint.mccabe]
+max-complexity = 10
+
+[tool.ruff.format]
+# Like Black, indent with spaces, rather than tabs.
+indent-style = "space"
+# Like Black, respect magic trailing commas.
+skip-magic-trailing-comma = false
+
+[tool.ruff.lint.pydocstyle]
+convention = "numpy" # Accepts: "google", "numpy" or "pep257"
+
+[project.scripts]
+ml4fir = "ml4fir.cli:app"

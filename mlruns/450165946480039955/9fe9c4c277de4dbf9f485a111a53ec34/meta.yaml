@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/9fe9c4c277de4dbf9f485a111a53ec34/artifacts
+end_time: 1746215625933
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 9fe9c4c277de4dbf9f485a111a53ec34
+run_name: debonair-shrew-365
+run_uuid: 9fe9c4c277de4dbf9f485a111a53ec34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215619273
+status: 3
+tags: []
+user_id: joao

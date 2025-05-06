@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/a914049b8f6b4cd381df92ab4ef61f4f/artifacts
+end_time: 1746215746494
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: a914049b8f6b4cd381df92ab4ef61f4f
+run_name: glamorous-shoat-157
+run_uuid: a914049b8f6b4cd381df92ab4ef61f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215740062
+status: 3
+tags: []
+user_id: joao

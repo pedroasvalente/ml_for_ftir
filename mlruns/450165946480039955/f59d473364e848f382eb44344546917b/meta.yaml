@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/f59d473364e848f382eb44344546917b/artifacts
+end_time: 1746215159820
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: f59d473364e848f382eb44344546917b
+run_name: intrigued-hen-780
+run_uuid: f59d473364e848f382eb44344546917b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215132883
+status: 3
+tags: []
+user_id: joao

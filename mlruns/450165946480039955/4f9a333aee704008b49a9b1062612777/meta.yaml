@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/4f9a333aee704008b49a9b1062612777/artifacts
+end_time: 1746215063503
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 4f9a333aee704008b49a9b1062612777
+run_name: blushing-asp-98
+run_uuid: 4f9a333aee704008b49a9b1062612777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215036607
+status: 3
+tags: []
+user_id: joao

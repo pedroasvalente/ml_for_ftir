@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/de4d64624d7e4e2eb22af7399f81fd63/artifacts
+end_time: 1746215315113
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: de4d64624d7e4e2eb22af7399f81fd63
+run_name: capricious-fish-815
+run_uuid: de4d64624d7e4e2eb22af7399f81fd63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215289045
+status: 3
+tags: []
+user_id: joao

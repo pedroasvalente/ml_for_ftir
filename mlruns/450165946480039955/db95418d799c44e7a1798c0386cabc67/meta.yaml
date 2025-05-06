@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/db95418d799c44e7a1798c0386cabc67/artifacts
+end_time: 1746215674047
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: db95418d799c44e7a1798c0386cabc67
+run_name: efficient-whale-196
+run_uuid: db95418d799c44e7a1798c0386cabc67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215667510
+status: 3
+tags: []
+user_id: joao

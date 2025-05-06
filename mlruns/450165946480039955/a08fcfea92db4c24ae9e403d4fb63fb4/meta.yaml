@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/a08fcfea92db4c24ae9e403d4fb63fb4/artifacts
+end_time: 1746215759434
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: a08fcfea92db4c24ae9e403d4fb63fb4
+run_name: luminous-wolf-374
+run_uuid: a08fcfea92db4c24ae9e403d4fb63fb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215753159
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/ac48e729a1714cd3a3ec8425eee54c0f/artifacts
+end_time: 1746215795735
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: ac48e729a1714cd3a3ec8425eee54c0f
+run_name: nimble-pug-734
+run_uuid: ac48e729a1714cd3a3ec8425eee54c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215789493
+status: 3
+tags: []
+user_id: joao

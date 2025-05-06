@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/d031c40618f5431083e6122fe8a95b47/artifacts
+end_time: 1746219528095
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: d031c40618f5431083e6122fe8a95b47
+run_name: URINE
+run_uuid: d031c40618f5431083e6122fe8a95b47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214967744
+status: 3
+tags: []
+user_id: joao

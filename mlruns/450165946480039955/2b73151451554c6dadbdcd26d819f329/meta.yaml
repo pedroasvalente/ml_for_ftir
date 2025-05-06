@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/2b73151451554c6dadbdcd26d819f329/artifacts
+end_time: 1746215356808
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 2b73151451554c6dadbdcd26d819f329
+run_name: placid-wolf-763
+run_uuid: 2b73151451554c6dadbdcd26d819f329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215340942
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/fe91dc5b0097413e8b71292238a6b6e4/artifacts
+end_time: 1746214962650
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: fe91dc5b0097413e8b71292238a6b6e4
+run_name: amazing-carp-305
+run_uuid: fe91dc5b0097413e8b71292238a6b6e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214933135
+status: 3
+tags: []
+user_id: joao

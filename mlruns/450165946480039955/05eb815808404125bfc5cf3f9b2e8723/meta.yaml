@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/05eb815808404125bfc5cf3f9b2e8723/artifacts
+end_time: 1746215459306
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 05eb815808404125bfc5cf3f9b2e8723
+run_name: likeable-foal-881
+run_uuid: 05eb815808404125bfc5cf3f9b2e8723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215444894
+status: 3
+tags: []
+user_id: joao

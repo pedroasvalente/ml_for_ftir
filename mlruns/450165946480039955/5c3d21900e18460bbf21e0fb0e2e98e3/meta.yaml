@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/5c3d21900e18460bbf21e0fb0e2e98e3/artifacts
+end_time: 1746214892633
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 5c3d21900e18460bbf21e0fb0e2e98e3
+run_name: handsome-finch-0
+run_uuid: 5c3d21900e18460bbf21e0fb0e2e98e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746214863196
+status: 3
+tags: []
+user_id: joao

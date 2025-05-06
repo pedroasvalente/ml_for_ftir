@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/106872b921014287bd36588d05c94ecc/artifacts
+end_time: 1746215685513
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 106872b921014287bd36588d05c94ecc
+run_name: salty-fawn-696
+run_uuid: 106872b921014287bd36588d05c94ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215679084
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/07265f4af29a41b5b6a8b7adc5d513c5/artifacts
+end_time: 1746215698031
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: 07265f4af29a41b5b6a8b7adc5d513c5
+run_name: bedecked-shark-855
+run_uuid: 07265f4af29a41b5b6a8b7adc5d513c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215691742
+status: 3
+tags: []
+user_id: joao

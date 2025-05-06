@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/450165946480039955/ac6ad209416447059824fde272747a9e/artifacts
+end_time: 1746215771460
+entry_point_name: ''
+experiment_id: '450165946480039955'
+lifecycle_stage: active
+run_id: ac6ad209416447059824fde272747a9e
+run_name: exultant-hound-141
+run_uuid: ac6ad209416447059824fde272747a9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746215764648
+status: 3
+tags: []
+user_id: joao
