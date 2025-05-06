@@ -295,3 +295,73 @@ def plot_wavenumber_importances(
     logger.info(f"Plot saved to: {plot_filepath}")
 
     return plot_filepath
+
+
+def plot_metrics_per_group(
+    metric_df,
+    metric,
+    groupby,
+    target_name,
+    save_path=None,
+    mlflow_is_running=True,
+    plot_filepath=None,
+    save_to_file=True,
+    bigger_is_better=True,
+):
+    """
+    Plot metrics per group and save the figure.
+
+    Args:
+        metric_df (pd.DataFrame): DataFrame containing metrics.
+        metric (str): Metric to plot.
+        groupby (str): Column name to group by.
+        target_name (str): Name of the target variable.
+        save_path (str): Path to save the plot.
+
+    Returns
+    -------
+        None
+    """
+    fig, ax = plt.subplots(figsize=(10, 6))
+    if bigger_is_better:
+        estimator = "max"
+    else:
+        estimator = "min"
+
+    sns.barplot(
+        data=metric_df,
+        x=groupby,
+        y=metric,
+        hue=groupby,
+        ax=ax,
+        palette="viridis",
+        estimator=estimator,
+        errorbar=None,  # Disable error bars
+    )
+    for bar in ax.patches:
+        bar_height = bar.get_height()
+        ax.text(
+            bar.get_x() + bar.get_width() / 2,  # X-coordinate (center of the bar)
+            bar_height,  # Y-coordinate (top of the bar)
+            f"{bar_height:.2f}",  # Format the value
+            ha="center",  # Horizontal alignment
+            va="bottom",  # Vertical alignment
+            fontsize=10,  # Font size
+            color="black",  # Text color
+        )
+
+    ax.set_title(f"{target_name} - {metric} per {groupby}")
+    ax.set_xlabel(groupby)
+    ax.set_ylabel(metric)
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.grid(False)
+    plot_filename = f"{target_name}_{metric}_per_{groupby}.png"
+    plot_filepath = plot_filepath or os.path.join(save_path, plot_filename)
+    if save_to_file:
+        os.makedirs(os.path.dirname(plot_filepath), exist_ok=True)
+        plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
+    if mlflow_is_running:
+        mlflow.log_figure(fig, plot_filename)
+
+    plt.close()

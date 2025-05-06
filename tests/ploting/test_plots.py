@@ -1,10 +1,12 @@
 import os
 
 import numpy as np
+import pandas as pd
 
-from ml4fir.config import TESTS_DIR
+from ml4fir.config import EXPERIMENTS_DIR, TESTS_DIR
 from ml4fir.ploting import (
     plot_confusion_matrix,
+    plot_metrics_per_group,
     plot_roc_curve,
     plot_wavenumber_importances,
 )
@@ -80,6 +82,31 @@ def test_plot_wavenumber_importances():
     )
 
 
+def test_plot_metrics_per_group():
+
+    metric = "acc"
+    target_name = "group_fam"
+    experiment_file = os.path.join(
+        EXPERIMENTS_DIR, target_name, "experiment_configs.csv"
+    )
+    metric_df = pd.read_csv(experiment_file)
+    groupby = "sample_type"
+
+    png_path = os.path.join(
+        TESTS_DIR, "ploting", "test_data", "plot_metrics_per_group.png"
+    )
+
+    plot_metrics_per_group(
+        metric_df,
+        metric,
+        groupby,
+        target_name,
+        mlflow_is_running=False,
+        plot_filepath=png_path,
+    )
+
+
 test_plot_confusion_matrix()
 test_plot_roc_curve()
 test_plot_wavenumber_importances()
+test_plot_metrics_per_group()
