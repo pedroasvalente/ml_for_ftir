@@ -84,7 +84,7 @@ def calculate_feature_importances(model, x_train, model_type, x_test, y_test):
     -------
         np.ndarray: An array of feature importances.
     """
-    if model_type == "xgboost":
+    if model_type.lower() in ["xgboost"]:
         booster = model.get_booster()
         importance_dict = booster.get_score(importance_type="gain")
         lv_importance = np.zeros(x_train.shape[1])
@@ -93,7 +93,7 @@ def calculate_feature_importances(model, x_train, model_type, x_test, y_test):
             if key in importance_dict:
                 lv_importance[i] = importance_dict[key]
         lv_importance /= lv_importance.sum()
-    elif model_type == "mlp_classifier":
+    elif model_type.lower() in ["mlp_classifier", "mlp"]:
         perm_bayes = permutation_importance(
             model, x_test, y_test, random_state=random_seed
         )
@@ -161,7 +161,9 @@ def generate_plots(
     return roc_auc
 
 
-def perform_model_search(x_train, y_train, model_type, search_type, datahandler):
+def perform_model_search(
+    x_train, y_train, model_type, search_type, datahandler
+):
     """
     Perform model search (GridSearchCV or BayesSearchCV), fit the model, and evaluate it.
 
@@ -351,7 +353,9 @@ def supervised_training(
             }
             with mlflow.start_run(**model_run_args) as run:
                 mlflow.log_param("model_name", model_name)
-                search_mlflow_run = client.get_run(search_mlflow_run.info.run_id)
+                search_mlflow_run = client.get_run(
+                    search_mlflow_run.info.run_id
+                )
                 parent_params = search_mlflow_run.data.params
                 for key, val in parent_params.items():
                     mlflow.log_param(key, val)
@@ -388,11 +392,15 @@ def supervised_training(
 
                 try:
                     mlflow.sklearn.log_model(
-                        search.best_estimator_, "best model", signature=signature
+                        search.best_estimator_,
+                        "best model",
+                        signature=signature,
                     )
                 except:
                     mlflow.xgboost.log_model(
-                        search.best_estimator_, "best model", signature=signature
+                        search.best_estimator_,
+                        "best model",
+                        signature=signature,
                     )
 
                 # TODO: save the current run id somewheree
@@ -421,13 +429,14 @@ def supervised_training(
 
                 # TODO: check these paths.
                 # Determine group suffix and save path
-                group_suffix = f"_{group_fam_to_use}" if group_fam_to_use else ""
+                group_suffix = (
+                    f"_{group_fam_to_use}" if group_fam_to_use else ""
+                )
                 save_path = get_principal_wavenumber_path(
                     target_column, group_fam_to_use
                 )
 
                 if test_accuracy >= global_threshold / 100:
-
                     plot_wavenumber_importances(
                         valid_wavenumbers,
                         valid_importances,
@@ -496,7 +505,8 @@ def supervised_training(
                 }
                 for i in range(5):
                     cross_validation_results[f"split{i}_test_score"] = [
-                        float(f) for f in search.cv_results_[f"split{i}_test_score"]
+                        float(f)
+                        for f in search.cv_results_[f"split{i}_test_score"]
                     ]
 
                 # Generate plots
@@ -545,8 +555,12 @@ def supervised_training(
                 returning_results["cross_validation_results"].append(
                     cross_validation_results
                 )
-                returning_results["grid_search_results"].append(grid_search_results)
-                returning_results["back_projection_df"].append(back_projection_df)
+                returning_results["grid_search_results"].append(
+                    grid_search_results
+                )
+                returning_results["back_projection_df"].append(
+                    back_projection_df
+                )
 
                 # Run configuration with id:
                 run_config = {
@@ -577,8 +591,12 @@ def supervised_training(
         "cross_validation_results": pd.DataFrame(
             returning_results["cross_validation_results"]
         ),
-        "grid_search_results": pd.concat(returning_results["grid_search_results"]),
-        "back_projection_df": pd.concat(returning_results["back_projection_df"]),
+        "grid_search_results": pd.concat(
+            returning_results["grid_search_results"]
+        ),
+        "back_projection_df": pd.concat(
+            returning_results["back_projection_df"]
+        ),
         "configs": pd.DataFrame(returning_results["configs"]),
     }
     # Save the results

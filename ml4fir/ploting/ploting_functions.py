@@ -37,7 +37,9 @@ def get_plot_path(base_path, target_name, group_fam_to_use=None):
         str: The full path to the directory.
     """
     subfolder = (
-        f"{target_name}_{group_fam_to_use}" if group_fam_to_use else f"{target_name}"
+        f"{target_name}_{group_fam_to_use}"
+        if group_fam_to_use
+        else f"{target_name}"
     )
     full_path = os.path.join(base_path, subfolder)
     os.makedirs(full_path, exist_ok=True)
@@ -57,6 +59,7 @@ def plot_confusion_matrix(
     group_fam_to_use=None,
     plot_filepath=None,
     mlflow_is_running=True,
+    save_path=None,
 ):
     """
     Plot and save a confusion matrix if the accuracy score meets the threshold.
@@ -117,7 +120,7 @@ def plot_confusion_matrix(
 
         plt.tight_layout()
         # TODO: set pathas from project config
-        save_path = get_plot_path(
+        save_path = save_path or get_plot_path(
             confusion_matrix_plot_path, target_name, group_fam_to_use
         )
         plot_filename = f"{target_name}_ConfMatrix_{sample_type}_{int(train_percentage * 100)}pct_{test_name}{group_info}.png"
@@ -146,6 +149,7 @@ def plot_roc_curve(
     threshold=None,
     group_fam_to_use=None,
     plot_filepath=None,
+    save_path=None,
     mlflow_is_running=True,
 ):
     """
@@ -189,14 +193,18 @@ def plot_roc_curve(
             plt.ylabel("True Positive Rate")
             group_info = f"_{group_fam_to_use}" if group_fam_to_use else ""
             plt.title(
-                f"{target_name} - ROC Curve ({sample_type} | {train_percentage*100:.0f}%)\n{test_name}{group_info}"
+                f"{target_name} - ROC Curve ({sample_type} | {train_percentage * 100:.0f}%)\n{test_name}{group_info}"
             )
             plt.legend(loc="best")
 
             # Dynamic path
-            save_path = get_plot_path(roc_plot_path, target_name, group_fam_to_use)
-            plot_filename = f"{target_name}_ROC_{sample_type}_{int(train_percentage*100)}pct_{test_name}{group_info}.png"
-            plot_filepath = plot_filepath or os.path.join(save_path, plot_filename)
+            save_path = save_path or get_plot_path(
+                roc_plot_path, target_name, group_fam_to_use
+            )
+            plot_filename = f"{target_name}_ROC_{sample_type}_{int(train_percentage * 100)}pct_{test_name}{group_info}.png"
+            plot_filepath = plot_filepath or os.path.join(
+                save_path, plot_filename
+            )
 
             plt.savefig(plot_filepath, dpi=300, bbox_inches="tight")
             if mlflow_is_running:
@@ -278,7 +286,9 @@ def plot_wavenumber_importances(
     ax_right.invert_xaxis()
 
     # Add labels and title
-    fig.text(0.04, 0.5, "Importance", va="center", rotation="vertical", fontsize=12)
+    fig.text(
+        0.04, 0.5, "Importance", va="center", rotation="vertical", fontsize=12
+    )
     fig.text(0.5, 0.02, r"Wavenumber (cm$^{-1}$)", ha="center", fontsize=12)
 
     fig.suptitle(
@@ -296,7 +306,6 @@ def plot_wavenumber_importances(
     logger.info(f"Plot saved to: {plot_filepath}")
 
     return plot_filepath
-
 
 
 def plot_metrics_per_group(
@@ -343,7 +352,8 @@ def plot_metrics_per_group(
     for bar in ax.patches:
         bar_height = bar.get_height()
         ax.text(
-            bar.get_x() + bar.get_width() / 2,  # X-coordinate (center of the bar)
+            bar.get_x()
+            + bar.get_width() / 2,  # X-coordinate (center of the bar)
             bar_height,  # Y-coordinate (top of the bar)
             f"{bar_height:.2f}",  # Format the value
             ha="center",  # Horizontal alignment
@@ -367,3 +377,4 @@ def plot_metrics_per_group(
         mlflow.log_figure(fig, plot_filename)
 
     plt.close()
+    return plot_filepath
