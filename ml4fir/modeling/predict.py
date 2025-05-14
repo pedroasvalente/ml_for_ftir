@@ -22,7 +22,6 @@ def save_best_model(
     metric: str = main_metric,
     sample_type: str = None,
 ):
-
     mlflow_best_model_path = os.path.join(
         MLFLOW_ARTIFACTS_DIR,
         str(main_experiment),
@@ -47,7 +46,9 @@ def save_best_model(
 def check_predict_data(file_for_prediction, target_to_predict: str):
     # TODO: only needs saliva or uirne or etcs
     # Check if the example file exists
-    example_path = os.path.join(EXPERIMENTS_DIR, target_to_predict, "example.csv")
+    example_path = os.path.join(
+        EXPERIMENTS_DIR, target_to_predict, "example.csv"
+    )
     if not os.path.exists(example_path):
         raise FileNotFoundError(f"Example file not found: {example_path}")
 
@@ -58,7 +59,9 @@ def check_predict_data(file_for_prediction, target_to_predict: str):
 
     # Check if the columns in the prediction data match the example data
     if set(prediction_data.columns) != set(example_data.columns):
-        raise ValueError("Prediction data columns do not match example data columns.")
+        raise ValueError(
+            "Prediction data columns do not match example data columns."
+        )
 
     return True
 
@@ -71,7 +74,6 @@ def predict(
     sample_type: str = None,
     file_to_save: str = None,
 ):
-
     experiment_results_file = os.path.join(
         EXPERIMENTS_DIR, target_to_predict, "experiment_configs.csv"
     )
@@ -89,7 +91,12 @@ def predict(
 
     check_predict_data(file_for_prediction, target_to_predict)
 
-    columns_for_data = ["scale", "apply_pls", "apply_smote_resampling", "n_components"]
+    columns_for_data = [
+        "scale",
+        "apply_pls",
+        "apply_smote_resampling",
+        "n_components",
+    ]
     row_best_experiment = experiment_results.loc[best_experiment]
     data_args = row_best_experiment[columns_for_data].to_dict()
 
@@ -140,21 +147,3 @@ def predict(
     pd.DataFrame({"predictions": predictions}).to_csv(file_to_save, index=False)
 
     return predictions
-
-
-# predict("example.csv", target_to_predict="group_fam")
-# def prediction_pipeline(file_for_prediction, target_to_predict: str, metric: str = main_metric):
-#     logger.info(f"Predicting {target_to_predict} using the best model.")
-
-
-#     experiment_results_file = os.path.join(
-#         EXPERIMENTS_DIR, target_to_predict,"experiment_configs.csv"
-#     )
-#     experiment_results = pd.read_csv(experiment_results_file)
-
-
-#     datahandler = DataHandler(data_path=file_for_prediction)
-
-
-#     predictions = predict(x_for_prediction, target_to_predict, metric)
-#     return predictions

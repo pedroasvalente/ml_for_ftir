@@ -89,6 +89,15 @@ This will execute the training process as defined in `train.py`. Make sure to co
 
 This will start the MLflow tracking server. By default, the UI will be accessible at http://localhost:5000. Open this link in your browser to explore your experiment runs, metrics, parameters, and artifacts.
 
+
+## Remake the plots
+
+
+   ```bash
+   ml4fir plot group_fam
+   ```
+
+
 ## Project Organization
 
 ```
