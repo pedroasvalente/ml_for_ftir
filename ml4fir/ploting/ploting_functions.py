@@ -100,7 +100,7 @@ def plot_confusion_matrix(
         group_info = f"_{group_fam_to_use}" if group_fam_to_use else ""
         ax.set_title(
             f"{target_name} - Confusion Matrix ({sample_type} | {train_percentage * 100:.0f}%)\n{test_name}{group_info}",
-            pad=20,
+            pad=30,
         )
 
         plt.text(
@@ -175,6 +175,7 @@ def plot_roc_curve(
             logger.info(f"ROC AUC: {roc_auc:.4f}")
             # Create a figure object
             fig, ax = plt.subplots()
+            ax.grid(False)
 
             for i in range(len(label_encoder)):
                 fpr, tpr, _ = roc_curve(y_test, y_prob[:, i], pos_label=i)
@@ -295,6 +296,7 @@ def plot_wavenumber_importances(
     logger.info(f"Plot saved to: {plot_filepath}")
 
     return plot_filepath
+
 
 
 def plot_metrics_per_group(
