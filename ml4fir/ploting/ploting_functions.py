@@ -179,7 +179,6 @@ def plot_roc_curve(
             logger.info(f"ROC AUC: {roc_auc:.4f}")
             # Create a figure object
             fig, ax = plt.subplots()
-            ax.grid(False)
 
             for i in range(len(label_encoder)):
                 fpr, tpr, _ = roc_curve(y_test, y_prob[:, i], pos_label=i)
@@ -196,6 +195,7 @@ def plot_roc_curve(
                 f"{target_name} - ROC Curve ({sample_type} | {train_percentage * 100:.0f}%)\n{test_name}{group_info}"
             )
             plt.legend(loc="best")
+            plt.grid(False)
 
             # Dynamic path
             save_path = save_path or get_plot_path(
