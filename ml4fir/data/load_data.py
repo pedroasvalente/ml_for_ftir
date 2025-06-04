@@ -41,8 +41,13 @@ def filter_sample_data(
     sample_data = sample_data[sample_data["sample_type"] == sample_type].copy()
 
     # Filter by selected group family if specified
-    if selected_group_fam:
-        sample_data = sample_data[sample_data["group_fam"] == selected_group_fam]
+    if selected_group_fam is not None:
+        if not isinstance(selected_group_fam, list):
+            selected_group_fam = [selected_group_fam]
+        logger.info(f"Filtering by group family: {selected_group_fam}")
+        sample_data = sample_data[
+            sample_data["group_fam"].isin(selected_group_fam)
+        ]
 
     # Extract spectral data and target
     spectral_data = sample_data[ftir_columns]
@@ -107,7 +112,10 @@ def process_sample_data(
 
 
 def split_data(
-    X: pd.DataFrame, y_encoded: np.ndarray, train_percentage: float, random_seed: int
+    X: pd.DataFrame,
+    y_encoded: np.ndarray,
+    train_percentage: float,
+    random_seed: int,
 ) -> tuple[pd.DataFrame, pd.DataFrame, np.ndarray, np.ndarray]:
     """
     Split the data into training and testing sets.
@@ -127,7 +135,11 @@ def split_data(
     test_size = 1 - train_percentage
 
     X_train, X_test, y_train, y_test = train_test_split(
-        X, y_encoded, test_size=test_size, random_state=random_seed, stratify=y_encoded
+        X,
+        y_encoded,
+        test_size=test_size,
+        random_state=random_seed,
+        stratify=y_encoded,
     )
 
     return X_train, X_test, y_train, y_test
