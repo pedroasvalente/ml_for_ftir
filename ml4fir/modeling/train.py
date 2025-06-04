@@ -27,7 +27,6 @@ client = MlflowClient()
 def train(
     experiment_config: str = None,
 ):
-
     # Prepare result containers
     all_results = []
     cross_validation_results_all = []
@@ -94,7 +93,7 @@ def train(
     ]
 
     mlflow.set_experiment(experiment_name)
-    run_name = f"{run_name}_{"_".join(targets_to_predict)}"
+    run_name = f"{run_name}_{'_'.join(targets_to_predict)}"
     main_run_args = {
         "run_name": run_name,
         "nested": True,
@@ -103,7 +102,10 @@ def train(
     done_mask = None
     # TODO: each experiment can only have one target!
     target_exp_res_path = os.path.join(
-        EXPERIMENTS_DIR, targets_to_predict[0], "experiment_configs.csv"
+        EXPERIMENTS_DIR,
+        run_name,
+        targets_to_predict[0],
+        "experiment_configs.csv",
     )
     if os.path.exists(target_exp_res_path):
         target_exp_res = pd.read_csv(target_exp_res_path)
@@ -116,7 +118,9 @@ def train(
         )
         equal_columns = new_confs.columns
         merged = new_confs.merge(
-            target_exp_res[equal_columns].drop_duplicates(), how="left", indicator=True
+            target_exp_res[equal_columns].drop_duplicates(),
+            how="left",
+            indicator=True,
         )
         done_mask = merged["_merge"] == "both"
         done_mask = done_mask.to_numpy()
@@ -127,9 +131,10 @@ def train(
             return
 
     with mlflow.start_run(**main_run_args) as run:
-
         # Process each configuration
-        with tqdm(configurations, desc="Training Configurations") as progress_bar:
+        with tqdm(
+            configurations, desc="Training Configurations"
+        ) as progress_bar:
             for i, config in enumerate(progress_bar):
                 if done_mask is not None:
                     if done_mask[i]:
@@ -166,7 +171,9 @@ def train(
                     experiment_ids=[run.info.experiment_id],
                     filter_string=f"tags.mlflow.parentRunId = '{run.info.run_id}'",
                 )
-                search_run = [f for f in child_runs if f.info.run_name == sample_type]
+                search_run = [
+                    f for f in child_runs if f.info.run_name == sample_type
+                ]
                 if len(search_run) > 0:
                     run_args["run_id"] = search_run[0].info.run_id
 
@@ -239,12 +246,18 @@ def train(
                     cross_validation_results = training_results[
                         "cross_validation_results"
                     ]
-                    grid_search_results = training_results["grid_search_results"]
-                    back_projection_df_iso = training_results["back_projection_df"]
+                    grid_search_results = training_results[
+                        "grid_search_results"
+                    ]
+                    back_projection_df_iso = training_results[
+                        "back_projection_df"
+                    ]
                     configs_done = training_results["configs"]
 
                     all_results.append(results)
-                    cross_validation_results_all.append(cross_validation_results)
+                    cross_validation_results_all.append(
+                        cross_validation_results
+                    )
                     grid_search_results_all.append(grid_search_results)
                     back_projection_df_iso_all.append(back_projection_df_iso)
                     configurations_done.append(configs_done)
@@ -264,4 +277,4 @@ def train(
 
 
 # TODO: only train the model once, and save the focker, probably done with mlflow implement it 1st
-# train("experiment_test.json")
+# train("experiment_sedentarios.json")
