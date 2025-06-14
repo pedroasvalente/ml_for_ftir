@@ -1,5 +1,5 @@
 {
-    "experiment_name": "FTIR Supervised Training - Sedentarios",
+    "experiment_name": "FTIR Supervised Training - sedentarios",
     "run_name": "experiment_sendentarios",
     "searchs_hipermetrics": ["grid", "bayes"],
     "model_types_to_train": ["random_forest", "mlp_classifier", "decision_tree", "xgboost"],

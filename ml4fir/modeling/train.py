@@ -7,6 +7,7 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
+mlflow.set_tracking_uri("http://127.0.0.1:5000")
 mlflow.autolog(log_datasets=False)
 
 
@@ -92,7 +93,7 @@ def train(
         for n_c in n_components_list
     ]
 
-    mlflow.set_experiment(experiment_name)
+    mlflow.set_experiment(experiment_name=experiment_name)
     run_name = f"{run_name}_{'_'.join(targets_to_predict)}"
     main_run_args = {
         "run_name": run_name,
