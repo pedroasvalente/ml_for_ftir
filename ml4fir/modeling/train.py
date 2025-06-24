@@ -7,6 +7,7 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
+# TODO: set this is a config file
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
 mlflow.autolog(log_datasets=False)
 
@@ -36,8 +37,6 @@ def train(
     back_projection_df_iso_all = []
     configurations_done = []
 
-    datahandler = DataHandler(data_path=PROCESSED_TRAINING_DATA_FILEPATH)
-
     with open(experiment_config) as config_file:
         config = json.load(config_file)
 
@@ -49,6 +48,7 @@ def train(
     targets_to_predict = config.get("targets_to_predict", [])
     experiment_name = config.get("experiment_name", "FTIR Supervised Training")
     run_name = config.get("run_name", "demo")
+    num_classes = config.get("num_classes", [])
 
     scale_normalization = config.get("scale", [True])
     PLS_regression = config.get("apply_pls", [True])
@@ -67,6 +67,7 @@ def train(
         "apply_pls": PLS_regression,
         "apply_smote_resampling": smote_resampling,
         "n_components": n_components_list,
+        "num_classes": num_classes,
     }
 
     # Create a list of configurations
@@ -81,6 +82,7 @@ def train(
             "apply_pls": apply_pls,
             "apply_smote_resampling": apply_smote_resampling,
             "n_components": n_c,
+            "num_classes": n_classes,
         }
         for search_to_use in searchs_hipermetrics
         for model_type in model_types_to_train
@@ -91,7 +93,12 @@ def train(
         for apply_pls in PLS_regression
         for apply_smote_resampling in smote_resampling
         for n_c in n_components_list
+        for n_classes in num_classes
     ]
+    # NOTE: each experiment can only have one target!
+    datahandler = DataHandler(
+        data_path=PROCESSED_TRAINING_DATA_FILEPATH, target=targets_to_predict[0]
+    )
 
     mlflow.set_experiment(experiment_name=experiment_name)
     run_name = f"{run_name}_{'_'.join(targets_to_predict)}"
@@ -133,9 +140,7 @@ def train(
 
     with mlflow.start_run(**main_run_args) as run:
         # Process each configuration
-        with tqdm(
-            configurations, desc="Training Configurations"
-        ) as progress_bar:
+        with tqdm(configurations, desc="Training Configurations") as progress_bar:
             for i, config in enumerate(progress_bar):
                 if done_mask is not None:
                     if done_mask[i]:
@@ -158,6 +163,7 @@ def train(
                 apply_pls = config["apply_pls"]
                 apply_smote_resampling = config["apply_smote_resampling"]
                 n_components = config["n_components"]
+                n_classes = config["num_classes"]
 
                 logger.info(f">>> Starting Target: {target}")
 
@@ -172,9 +178,7 @@ def train(
                     experiment_ids=[run.info.experiment_id],
                     filter_string=f"tags.mlflow.parentRunId = '{run.info.run_id}'",
                 )
-                search_run = [
-                    f for f in child_runs if f.info.run_name == sample_type
-                ]
+                search_run = [f for f in child_runs if f.info.run_name == sample_type]
                 if len(search_run) > 0:
                     run_args["run_id"] = search_run[0].info.run_id
 
@@ -185,6 +189,7 @@ def train(
                         target=target,
                         sample_type=sample_type,
                         selected_group_fam=selected_group_fam,
+                        num_classes=n_classes,
                     )
                     # dataset = datahandler.get_mlflow_dataset_complete()
                     # mlflow.log_input(
@@ -247,18 +252,12 @@ def train(
                     cross_validation_results = training_results[
                         "cross_validation_results"
                     ]
-                    grid_search_results = training_results[
-                        "grid_search_results"
-                    ]
-                    back_projection_df_iso = training_results[
-                        "back_projection_df"
-                    ]
+                    grid_search_results = training_results["grid_search_results"]
+                    back_projection_df_iso = training_results["back_projection_df"]
                     configs_done = training_results["configs"]
 
                     all_results.append(results)
-                    cross_validation_results_all.append(
-                        cross_validation_results
-                    )
+                    cross_validation_results_all.append(cross_validation_results)
                     grid_search_results_all.append(grid_search_results)
                     back_projection_df_iso_all.append(back_projection_df_iso)
                     configurations_done.append(configs_done)
@@ -279,3 +278,4 @@ def train(
 
 # TODO: only train the model once, and save the focker, probably done with mlflow implement it 1st
 # train("experiment_sedentarios.json")
+train("experiment_linear.json")

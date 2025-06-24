@@ -45,9 +45,7 @@ def filter_sample_data(
         if not isinstance(selected_group_fam, list):
             selected_group_fam = [selected_group_fam]
         logger.info(f"Filtering by group family: {selected_group_fam}")
-        sample_data = sample_data[
-            sample_data["group_fam"].isin(selected_group_fam)
-        ]
+        sample_data = sample_data[sample_data["group_fam"].isin(selected_group_fam)]
 
     # Extract spectral data and target
     spectral_data = sample_data[ftir_columns]
@@ -71,44 +69,6 @@ def filter_sample_data(
     y = y[valid_mask]
     X = spectral_data.loc[valid_mask]
     return X, y
-
-
-def process_sample_data(
-    sample_data: pd.DataFrame,
-    target: str,
-    sample_type: str,
-    ftir_columns: list,
-    selected_group_fam: str | None = None,
-) -> tuple[pd.DataFrame | None, np.ndarray | None, np.ndarray | None]:
-    """
-    Process a single combination of sample_data, target, and sample_type.
-
-    Parameters
-    ----------
-        sample_data (pd.DataFrame): The data for the current sample type.
-        target (str): The target column to predict.
-        sample_type (str): The type of sample being processed.
-        ftir_columns (list): List of FTIR columns to use as features.
-        selected_group_fam (str, optional): Specific group family to filter by.
-
-    Returns
-    -------
-        tuple: Processed X (features), y_encoded (encoded target), wavenumbers (feature names).
-    """
-    X, y = filter_sample_data(
-        sample_data,
-        target,
-        sample_type,
-        ftir_columns,
-        selected_group_fam,
-    )
-
-    wavenumbers = X.columns.values.astype(float)
-
-    # Encode target labels
-    y_encoded = pd.Categorical(y).codes
-
-    return X, y_encoded, wavenumbers
 
 
 def split_data(
