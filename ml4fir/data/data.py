@@ -1,6 +1,7 @@
 import os
 
 import mlflow
+import numpy as np
 import pandas as pd
 
 from ml4fir.config import EXPERIMENTS_DIR
@@ -29,6 +30,7 @@ class DataHandler:
         apply_pls=None,
         apply_smote_resampling=None,
         n_components=None,
+        num_classes=None,
         train=True,
     ):
         self.data_path = data_path
@@ -43,6 +45,8 @@ class DataHandler:
         self.train = train
 
         self.set_ftrir_columns()
+        if num_classes is not None:
+            self.set_num_classes(num_classes)
 
     def create_example(self):
         df = self.load_data()
@@ -65,6 +69,16 @@ class DataHandler:
         ftir_columns = df.columns[~df.columns.isin(self.data_cols_name)]
 
         self.ftir_columns = ftir_columns
+
+    def set_num_classes(self, num_classes=None):
+        """
+        Set the number of classes based on the target variable.
+        """
+        if num_classes is not None:
+            self.num_classes = num_classes
+            return
+        df = self.load_data()
+        self.num_classes = len(df[self.target].unique())
 
     def filter_sample_data(
         self,
@@ -92,36 +106,54 @@ class DataHandler:
         self.Y = y
         return X, y
 
-    def encode_sample_data(self, X=None, y=None):
+    def get_wavenumbers(self, X=None):
+        """
+        Get the wavenumbers from the loaded data.
+        """
         if X is None:
             X = self.X
+
+        if hasattr(self, "X"):
+            return self.X.columns.values.astype(float)
+        raise ValueError("Data not loaded. Please load data first.")
+
+    def encode_sample_data(self, y=None):
         if y is None:
             y = self.Y
 
-        wavenumbers = X.columns.values.astype(float)
+        # Make categorical if not already
+        if y.unique().size != self.num_classes:
+            y = pd.cut(y, bins=self.num_classes, labels=np.arange(self.num_classes))
         # Encode target labels
-        y_encoded = pd.Categorical(y).codes
-        labels = pd.Categorical(y).categories
+        categorical_array = pd.Categorical(y)
+        y_encoded = categorical_array.codes
+        labels = categorical_array.categories
 
-        self.wavenumbers = wavenumbers
         self.y_encoded = y_encoded
         self.labels = labels
 
-        return y_encoded, wavenumbers, labels
+        return y_encoded, labels
 
     def process_sample_data(
         self,
         target: str,
         sample_type: str,
         selected_group_fam: str | None = None,
+        num_classes: int | None = None,
     ):
         target = target or self.target
+        self.set_num_classes(num_classes)
         X, y = self.filter_sample_data(
             target=target,
             sample_type=sample_type,
             selected_group_fam=selected_group_fam,
         )
-        y_encoded, wavenumbers, labels = self.encode_sample_data(X=X, y=y)
+        if self.num_classes == 1:
+            y_encoded = y.to_numpy()
+        else:
+            y_encoded, labels = self.encode_sample_data(y=y)
+        wavenumbers = self.get_wavenumbers(X=X)
+        self.wavenumbers = wavenumbers
         if not self.target:
             self.target = target
         return X, y_encoded, wavenumbers
@@ -180,7 +212,10 @@ class DataHandler:
         """
         # Create an instance of a PandasDataset
         return mlflow.data.from_pandas(
-            self.load_data(), source=self.data_path, name=self.name, targets=self.target
+            self.load_data(),
+            source=self.data_path,
+            name=self.name,
+            targets=self.target,
         )
 
     def get_mlflow_dataset(self):
