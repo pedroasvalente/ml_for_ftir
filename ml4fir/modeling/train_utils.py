@@ -1,3 +1,4 @@
+import math
 import os
 
 import mlflow
@@ -11,7 +12,10 @@ from sklearn.metrics import (
     balanced_accuracy_score,
     confusion_matrix,
     f1_score,
+    mean_absolute_error,
+    mean_squared_error,
     precision_score,
+    r2_score,
     recall_score,
 )
 from sklearn.model_selection import GridSearchCV
@@ -45,7 +49,47 @@ def get_principal_wavenumber_path(target_name, group_fam_to_use=None):
     return folder
 
 
-def calculate_metrics(y_test, y_pred):
+def mean_absolute_percentage_error(y_true, y_pred):
+    """Compute MAPE (Mean Absolute Percentage Error)."""
+    y_true, y_pred = np.array(y_true), np.array(y_pred)
+    # Avoid division by zero
+    nonzero_mask = y_true != 0
+    if not np.any(nonzero_mask):
+        return np.nan
+    return (
+        np.mean(
+            np.abs(
+                (y_true[nonzero_mask] - y_pred[nonzero_mask])
+                / y_true[nonzero_mask]
+            )
+        )
+        * 100
+    )
+
+
+def calculate_linear_metrics(y_test, y_pred):
+    """
+    Calculate regression evaluation metrics.
+
+    Parameters
+    ----------
+        y_test (array-like): Ground truth values.
+        y_pred (array-like): Predicted values.
+
+    Returns
+    -------
+        dict: A dictionary containing calculated metrics.
+    """
+    metrics = {
+        "rmse": math.sqrt(mean_squared_error(y_test, y_pred)),
+        "mae": mean_absolute_error(y_test, y_pred),
+        "mape": float(mean_absolute_percentage_error(y_test, y_pred)),
+        "r2": r2_score(y_test, y_pred),
+    }
+    return metrics
+
+
+def calculate_categorical_metrics(y_test, y_pred):
     """
     Calculate evaluation metrics.
 
@@ -180,8 +224,11 @@ def perform_model_search(
     """
     # Get model configuration
     # TODO: we need to take this to the upper level.
-    if model_type == "mlp":
-        model_type = "mlp_classifier"
+    if "mlp" in model_type:
+        if datahandler.num_classes == 1:
+            model_type = "mlp_regressor"
+        else:
+            model_type = "mlp_classifier"
     config = models_experiment[model_type]
     model_name = config.desc_name
     param_search_space = config.get_params(search_type)
@@ -235,7 +282,10 @@ def evaluate_model(best_model, x_test, y_test, x_train, model_type):
         tuple: Predictions, probabilities, metrics, and feature importances.
     """
     # Make predictions
-    if hasattr(best_model, "predict_proba"):
+    if "regressor" in model_type:
+        y_pred = best_model.predict(x_test)
+        y_prob = None
+    elif hasattr(best_model, "predict_proba"):
         y_pred = best_model.predict(x_test)
         y_prob = best_model.predict_proba(x_test)
     else:
@@ -243,7 +293,10 @@ def evaluate_model(best_model, x_test, y_test, x_train, model_type):
         y_pred = np.argmax(y_prob, axis=-1)
 
     # Calculate metrics
-    metrics = calculate_metrics(y_test, y_pred)
+    if "regressor" in model_type:
+        metrics = calculate_linear_metrics(y_test, y_pred)
+    else:
+        metrics = calculate_categorical_metrics(y_test, y_pred)
 
     # Calculate feature importances
     lv_importance = calculate_feature_importances(

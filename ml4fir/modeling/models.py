@@ -1,7 +1,7 @@
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.neural_network import MLPClassifier
-from sklearn.tree import DecisionTreeClassifier
-from xgboost import XGBClassifier
+from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
+from sklearn.neural_network import MLPClassifier, MLPRegressor
+from sklearn.tree import DecisionTreeClassifier, DecisionTreeRegressor
+from xgboost import XGBClassifier, XGBRegressor
 
 from ml4fir.config import random_seed
 
@@ -17,7 +17,6 @@ class BaseModelConfig:
         desc_name: str | None = None,
         model_args: dict | None = None,
     ):
-
         self.name = name or self.name
         self.desc_name = desc_name or self.name.replace("_", " ").title()
         self.random_seed = random_seed
@@ -95,7 +94,9 @@ class RandomForestConfig(BaseModelConfig):
         self.min_samples_leaf = min_samples_leaf or [1, 2, 4]
         self.bootstrap = bootstrap or [True, False]
 
-        super().__init__(name=name, desc_name=desc_name, model_fn=model_fn, **kwargs)
+        super().__init__(
+            name=name, desc_name=desc_name, model_fn=model_fn, **kwargs
+        )
 
 
 class MLPConfig(BaseModelConfig):
@@ -138,7 +139,11 @@ class MLPConfig(BaseModelConfig):
         }
         model_args.update(defaul_model_args)
 
-        self.hidden_layer_sizes = hidden_layer_sizes or [(50,), (100,), (50, 50)]
+        self.hidden_layer_sizes = hidden_layer_sizes or [
+            (50,),
+            (100,),
+            (50, 50),
+        ]
         self.activation = activation or ["tanh", "relu"]
         self.solver = solver or ["sgd", "adam"]
         self.alpha = alpha or [0.0001, 0.001]
@@ -191,7 +196,9 @@ class DecisionTreeConfig(BaseModelConfig):
         self.min_samples_leaf = min_samples_leaf or [1, 2, 4]
         self.max_features = max_features or [None, "sqrt", "log2"]
 
-        super().__init__(name=name, desc_name=desc_name, model_fn=model_fn, **kwargs)
+        super().__init__(
+            name=name, desc_name=desc_name, model_fn=model_fn, **kwargs
+        )
 
 
 class XGBoostConfig(BaseModelConfig):
@@ -251,6 +258,49 @@ class XGBoostConfig(BaseModelConfig):
         self.model_fn = self.model_fn
 
 
+class RandomForestRegressorConfig(RandomForestConfig):
+    def __init__(self, **kwargs):
+        super().__init__(
+            name="random_forest_regressor",
+            desc_name="Random Forest Regressor",
+            model_fn=RandomForestRegressor,
+            **kwargs,
+        )
+
+
+class DecisionTreeRegressorConfig(DecisionTreeConfig):
+    def __init__(self, **kwargs):
+        super().__init__(
+            name="decision_tree_regressor",
+            desc_name="Decision Tree Regressor",
+            model_fn=DecisionTreeRegressor,
+            **kwargs,
+        )
+
+
+class MLPRegressorConfig(MLPConfig):
+    def __init__(self, **kwargs):
+        super().__init__(
+            name="mlp_regressor",
+            desc_name="MLP Regressor",
+            model_fn=MLPRegressor,
+            **kwargs,
+        )
+
+
+class XGBoostRegressorConfig(XGBoostConfig):
+    def __init__(self, **kwargs):
+        model_args = kwargs.get("model_args", {})
+        model_args.update({"objective": "reg:squarederror"})
+        kwargs["model_args"] = model_args
+        super().__init__(
+            name="xgboost_regressor",
+            desc_name="XGBoost Regressor",
+            model_fn=XGBRegressor,
+            **kwargs,
+        )
+
+
 names_dict = {
     "random_forest": "Random Forest",
     "mlp_classifier": "MLP",
@@ -278,6 +328,10 @@ def get_model_config(model_type):
         "mlp_classifier": MLPConfig,
         "decision_tree": DecisionTreeConfig,
         "xgboost": XGBoostConfig,
+        "random_forest_regressor": RandomForestRegressorConfig,
+        "mlp_regressor": MLPRegressorConfig,
+        "decision_tree_regressor": DecisionTreeRegressorConfig,
+        "xgboost_regressor": XGBoostRegressorConfig,
     }
 
     if model_type not in config_classes:
