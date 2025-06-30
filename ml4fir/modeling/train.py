@@ -140,7 +140,9 @@ def train(
 
     with mlflow.start_run(**main_run_args) as run:
         # Process each configuration
-        with tqdm(configurations, desc="Training Configurations") as progress_bar:
+        with tqdm(
+            configurations, desc="Training Configurations"
+        ) as progress_bar:
             for i, config in enumerate(progress_bar):
                 if done_mask is not None:
                     if done_mask[i]:
@@ -164,6 +166,8 @@ def train(
                 apply_smote_resampling = config["apply_smote_resampling"]
                 n_components = config["n_components"]
                 n_classes = config["num_classes"]
+                if n_classes == 1:
+                    model_type = f"{model_type}_regressor"
 
                 logger.info(f">>> Starting Target: {target}")
 
@@ -178,7 +182,9 @@ def train(
                     experiment_ids=[run.info.experiment_id],
                     filter_string=f"tags.mlflow.parentRunId = '{run.info.run_id}'",
                 )
-                search_run = [f for f in child_runs if f.info.run_name == sample_type]
+                search_run = [
+                    f for f in child_runs if f.info.run_name == sample_type
+                ]
                 if len(search_run) > 0:
                     run_args["run_id"] = search_run[0].info.run_id
 
@@ -252,12 +258,18 @@ def train(
                     cross_validation_results = training_results[
                         "cross_validation_results"
                     ]
-                    grid_search_results = training_results["grid_search_results"]
-                    back_projection_df_iso = training_results["back_projection_df"]
+                    grid_search_results = training_results[
+                        "grid_search_results"
+                    ]
+                    back_projection_df_iso = training_results[
+                        "back_projection_df"
+                    ]
                     configs_done = training_results["configs"]
 
                     all_results.append(results)
-                    cross_validation_results_all.append(cross_validation_results)
+                    cross_validation_results_all.append(
+                        cross_validation_results
+                    )
                     grid_search_results_all.append(grid_search_results)
                     back_projection_df_iso_all.append(back_projection_df_iso)
                     configurations_done.append(configs_done)
