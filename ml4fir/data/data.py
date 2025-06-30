@@ -123,7 +123,9 @@ class DataHandler:
 
         # Make categorical if not already
         if y.unique().size != self.num_classes:
-            y = pd.cut(y, bins=self.num_classes, labels=np.arange(self.num_classes))
+            y = pd.cut(
+                y, bins=self.num_classes, labels=np.arange(self.num_classes)
+            )
         # Encode target labels
         categorical_array = pd.Categorical(y)
         y_encoded = categorical_array.codes
@@ -152,6 +154,7 @@ class DataHandler:
             y_encoded = y.to_numpy()
         else:
             y_encoded, labels = self.encode_sample_data(y=y)
+        self.y_encoded = y_encoded
         wavenumbers = self.get_wavenumbers(X=X)
         self.wavenumbers = wavenumbers
         if not self.target:
@@ -179,7 +182,9 @@ class DataHandler:
 
         scale = scale or self.scale
         apply_pls = apply_pls or self.apply_pls
-        apply_smote_resampling = apply_smote_resampling or self.apply_smote_resampling
+        apply_smote_resampling = (
+            apply_smote_resampling or self.apply_smote_resampling
+        )
         n_components = n_components or self.n_components
 
         X_train, X_test, y_train, y_test, loadings = preprocess_data(
