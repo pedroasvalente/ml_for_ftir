@@ -29,7 +29,10 @@ TRAINING_DATA_FILENAME = os.environ.get("TRAINING_DATA_FILENAME", "training_data
 PROCESSED_TRAINING_DATA_FILEPATH = PROCESSED_DATA_DIR / TRAINING_DATA_FILENAME
 
 random_seed = int(os.environ.get("RANDOM_SEED", 52))
-global_threshold = int(os.environ.get("GLOBAL_THRESHOLD", 70))
+global_threshold_acc = int(os.environ.get("GLOBAL_THRESHOLD_ACC", 70))
+global_threshold_error = os.environ.get("GLOBAL_THRESHOLD_ERROR", None)
+global_threshold = {"acc": global_threshold_acc, "error": global_threshold_error}
+
 main_metric = str(os.environ.get("MAIN_METRIC", "acc"))
 
 roc_plot_path = os.path.join(FIGURES_DIR, "ROC")

@@ -478,7 +478,7 @@ def supervised_training(
                 top_wavenumbers = valid_wavenumbers[top_indices]
                 top_importances = valid_importances[top_indices]
 
-                test_accuracy = metrics["test_acc"]
+                test_accuracy = metrics.get("test_acc", None)
 
                 # TODO: check these paths.
                 # Determine group suffix and save path
@@ -488,24 +488,19 @@ def supervised_training(
                 save_path = get_principal_wavenumber_path(
                     target_column, group_fam_to_use
                 )
+                if test_accuracy is not None:
+                    if test_accuracy >= global_threshold["acc"] / 100:
+                        plot_wavenumber_importances(
+                            valid_wavenumbers,
+                            valid_importances,
+                            target_column,
+                            sample_type,
+                            train_percentage,
+                            test_name,
+                            group_suffix,
+                            save_path,
+                        )
 
-                if test_accuracy >= global_threshold / 100:
-                    plot_wavenumber_importances(
-                        valid_wavenumbers,
-                        valid_importances,
-                        target_column,
-                        sample_type,
-                        train_percentage,
-                        test_name,
-                        group_suffix,
-                        save_path,
-                    )
-
-                f1_grid = metrics["f1"]
-                recall_grid = metrics["recall"]
-                precision_grid = metrics["precision"]
-                conf_matrix_grid = metrics["cm"]
-                accuracy = metrics["acc"]
                 roc_auc = metrics.get("roc_auc", None)
 
                 # separate the results for the best model and the per experiment results, just save for now.
@@ -513,14 +508,27 @@ def supervised_training(
                     "Sample Type": sample_type,
                     "Train Percentage": train_percentage,
                     "Model": test_name,
-                    "Balanced Accuracy": float(test_accuracy),
-                    "F1 Score": float(f1_grid),
-                    "Recall": float(recall_grid),
-                    "Precision": float(precision_grid),
-                    "Confusion Matrix": conf_matrix_grid.tolist(),
-                    # "Best Params":search.best_params_,
+                    **metrics,
                     **search.best_params_,
                 }
+                key_map = {
+                    "test_acc": "Balanced Accuracy",
+                    "f1": "F1 Score",
+                    "recall": "Recall",
+                    "precision": "Precision",
+                    "cm": "Confusion Matrix",
+                    "roc_auc": "ROC AUC",
+                    "acc": "Accuracy",
+                    "rmse": "RMSE",
+                    "mae": "MAE",
+                    "mape": "MAPE",
+                    "r2": "R²",
+                }
+
+                best_model_results = {
+                    key_map.get(k, k): v for k, v in best_model_results.items()
+                }
+                metrics_keys_renamed = [key_map[f] for f in list(metrics.keys())]
 
                 grid_search_results = pd.DataFrame(search.cv_results_)
                 all_grid_params = grid_search_results["params"].to_list()
@@ -533,27 +541,14 @@ def supervised_training(
                 grid_search_results["Model"] = test_name
 
                 cross_validation_results = {
-                    "Sample Type": sample_type,
-                    "Train Percentage": train_percentage,
-                    "Model": test_name,
-                    "Balanced Accuracy": float(test_accuracy),
-                    "F1 Score": float(f1_grid),
-                    "Recall": float(recall_grid),
-                    "Precision": float(precision_grid),
-                    "Confusion Matrix": conf_matrix_grid.tolist(),
+                    **best_model_results,
                     "Best Params": search.best_params_,
-                    "mean_test_score": [
-                        float(f) for f in search.cv_results_["mean_test_score"]
-                    ],
-                    "std_test_score": [
-                        float(f) for f in search.cv_results_["std_test_score"]
-                    ],
-                    "rank_test_score": [
-                        int(f) for f in search.cv_results_["rank_test_score"]
-                    ],
+                    "mean_test_score": [float(f) for f in search.cv_results_["mean_test_score"]],
+                    "std_test_score": [float(f) for f in search.cv_results_["std_test_score"]],
+                    "rank_test_score": [int(f) for f in search.cv_results_["rank_test_score"]],
                     "params": [f for f in search.cv_results_["params"]],
                     "best_index": int(search.best_index_),
-                    "accuracy_score": accuracy,
+                    "accuracy_score": best_model_results.get("Accuracy", best_model_results.get("Balanced Accuracy", best_model_results.get("MAPE"))),
                     "target_variable": target_column,
                 }
                 for i in range(5):
@@ -561,30 +556,25 @@ def supervised_training(
                         float(f)
                         for f in search.cv_results_[f"split{i}_test_score"]
                     ]
-
-                # Generate plots
-                roc_auc = generate_plots(
-                    y_test,
-                    y_pred,
-                    y_prob,
-                    datahandler.labels,
-                    sample_type,
-                    train_percentage,
-                    test_name,
-                    target_column,
-                    group_fam_to_use,
-                )
-                metrics["roc_auc"] = roc_auc
-                mlflow.log_metric("roc_auc", roc_auc)
+                if getattr(datahandler, "labels", None):
+                    # Generate plots
+                    roc_auc = generate_plots(
+                        y_test,
+                        y_pred,
+                        y_prob,
+                        datahandler.labels,
+                        sample_type,
+                        train_percentage,
+                        test_name,
+                        target_column,
+                        group_fam_to_use,
+                    )
+                    metrics["roc_auc"] = roc_auc
+                    mlflow.log_metric("roc_auc", roc_auc)
                 n_wavenumbers = len(top_wavenumbers)
 
                 results = {
-                    "Sample Type": sample_type,
-                    "Train Percentage": train_percentage,
-                    "Model": model_name,
-                    "Accuracy": float(test_accuracy),
-                    "F1 Score": float(f1_grid),
-                    "ROC AUC": roc_auc,
+                    **best_model_results,
                     "target_variable": target_column,
                 }
                 back_projection_df = pd.DataFrame(
@@ -602,8 +592,10 @@ def supervised_training(
                 back_projection_df["Model"] = model_name
                 back_projection_df["Search Type"] = search_type
                 # NOTE: this accuracy is the one from the model, not one for each wavenumber.
-                back_projection_df["Balanced Accuracy"] = float(test_accuracy)
-                back_projection_df["Accuracy"] = float(accuracy)
+                for metric in metrics_keys_renamed:
+                    metric_val = best_model_results.get(metric, None)
+                    if metric_val is not None:
+                        back_projection_df[metric] = metric_val
                 returning_results["results"].append(results)
                 returning_results["cross_validation_results"].append(
                     cross_validation_results

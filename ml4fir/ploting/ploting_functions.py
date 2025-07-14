@@ -81,7 +81,7 @@ def plot_confusion_matrix(
         None
     """
     if threshold is None:
-        threshold = global_threshold
+        threshold = global_threshold["acc"]
     if accuracy_score >= threshold / 100:
         cm = confusion_matrix(y_test, y_pred)
 
@@ -172,7 +172,7 @@ def plot_roc_curve(
         float: ROC AUC score if plotted, otherwise 0.0.
     """
     if threshold is None:
-        threshold = global_threshold
+        threshold = global_threshold["acc"]
     if len(np.unique(y_test)) == len(label_encoder):
         roc_auc = roc_auc_score(y_test, y_prob, multi_class="ovr")
         if test_accuracy >= threshold / 100:
