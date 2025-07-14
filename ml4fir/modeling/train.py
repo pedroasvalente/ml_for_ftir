@@ -287,7 +287,3 @@ def train(
                 configurations_done,
             )
 
-
-# TODO: only train the model once, and save the focker, probably done with mlflow implement it 1st
-# train("experiment_sedentarios.json")
-train("experiment_linear.json")
