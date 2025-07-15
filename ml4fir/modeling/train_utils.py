@@ -350,7 +350,7 @@ def supervised_training(
     loadings = datahandler.loadings
     wavenumbers = datahandler.wavenumbers
     if datahandler.num_classes == 1:
-        metric_to_use = (main_metric_linear,)
+        metric_to_use = main_metric_lineart
     else:
         metric_to_use = main_metric
     best_is_max = True if metric_to_use in ["acc", "roc_auc"] else False
