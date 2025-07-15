@@ -184,10 +184,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-mlruns*
-mlartifacts*
+# mlruns*
+# mlartifacts*
 **.png
 **.csv
-**.json
+# **.json
 models/**
 .idea/
+.vscode/
