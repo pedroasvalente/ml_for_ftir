@@ -23,6 +23,8 @@ from skopt import BayesSearchCV
 
 from ml4fir.config import (
     global_threshold,
+    main_metric,
+    main_metric_linear,
     principal_wavenumber_path,
     random_seed,
 )
@@ -347,6 +349,11 @@ def supervised_training(
     y_test = datahandler.y_test
     loadings = datahandler.loadings
     wavenumbers = datahandler.wavenumbers
+    if datahandler.num_classes == 1:
+        metric_to_use = (main_metric_linear,)
+    else:
+        metric_to_use = main_metric
+    best_is_max = True if metric_to_use in ["acc", "roc_auc"] else False
 
     # update the object
     mlflow_run = client.get_run(mlflow_run.info.run_id)
@@ -528,7 +535,9 @@ def supervised_training(
                 best_model_results = {
                     key_map.get(k, k): v for k, v in best_model_results.items()
                 }
-                metrics_keys_renamed = [key_map[f] for f in list(metrics.keys())]
+                metrics_keys_renamed = [
+                    key_map[f] for f in list(metrics.keys())
+                ]
 
                 grid_search_results = pd.DataFrame(search.cv_results_)
                 all_grid_params = grid_search_results["params"].to_list()
@@ -543,12 +552,23 @@ def supervised_training(
                 cross_validation_results = {
                     **best_model_results,
                     "Best Params": search.best_params_,
-                    "mean_test_score": [float(f) for f in search.cv_results_["mean_test_score"]],
-                    "std_test_score": [float(f) for f in search.cv_results_["std_test_score"]],
-                    "rank_test_score": [int(f) for f in search.cv_results_["rank_test_score"]],
+                    "mean_test_score": [
+                        float(f) for f in search.cv_results_["mean_test_score"]
+                    ],
+                    "std_test_score": [
+                        float(f) for f in search.cv_results_["std_test_score"]
+                    ],
+                    "rank_test_score": [
+                        int(f) for f in search.cv_results_["rank_test_score"]
+                    ],
                     "params": [f for f in search.cv_results_["params"]],
                     "best_index": int(search.best_index_),
-                    "accuracy_score": best_model_results.get("Accuracy", best_model_results.get("Balanced Accuracy", best_model_results.get("MAPE"))),
+                    "accuracy_score": best_model_results.get(
+                        "Accuracy",
+                        best_model_results.get(
+                            "Balanced Accuracy", best_model_results.get("MAPE")
+                        ),
+                    ),
                     "target_variable": target_column,
                 }
                 for i in range(5):
@@ -625,9 +645,17 @@ def supervised_training(
                 run_config = {**run_config, **metrics}
                 returning_results["configs"].append(run_config)
                 mlflow.log_table(run_config, "run_results.json")
-
-            log_best_child(search_mlflow_run)
-        log_best_child(mlflow_run, save_model=True)
+            log_best_child(
+                search_mlflow_run,
+                metric_to_choose=metric_to_use,
+                best_is_max=best_is_max,
+            )
+        log_best_child(
+            mlflow_run,
+            metric_to_choose=metric_to_use,
+            save_model=True,
+            best_is_max=best_is_max,
+        )
 
     # Concatenate all results
 

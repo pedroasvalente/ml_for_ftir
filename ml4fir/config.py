@@ -25,15 +25,21 @@ EXPERIMENTS_DIR = PROJ_ROOT / "experiments"
 REPORTS_DIR = PROJ_ROOT / "reports"
 FIGURES_DIR = REPORTS_DIR / "figures"
 
-TRAINING_DATA_FILENAME = os.environ.get("TRAINING_DATA_FILENAME", "training_data.csv")
+TRAINING_DATA_FILENAME = os.environ.get(
+    "TRAINING_DATA_FILENAME", "training_data.csv"
+)
 PROCESSED_TRAINING_DATA_FILEPATH = PROCESSED_DATA_DIR / TRAINING_DATA_FILENAME
 
 random_seed = int(os.environ.get("RANDOM_SEED", 52))
 global_threshold_acc = int(os.environ.get("GLOBAL_THRESHOLD_ACC", 70))
 global_threshold_error = os.environ.get("GLOBAL_THRESHOLD_ERROR", None)
-global_threshold = {"acc": global_threshold_acc, "error": global_threshold_error}
+global_threshold = {
+    "acc": global_threshold_acc,
+    "error": global_threshold_error,
+}
 
 main_metric = str(os.environ.get("MAIN_METRIC", "acc"))
+main_metric_linear = str(os.environ.get("MAIN_METRIC_LINEAR", "rmse"))
 
 roc_plot_path = os.path.join(FIGURES_DIR, "ROC")
 confusion_matrix_plot_path = os.path.join(FIGURES_DIR, "Confusion_Matrix")
@@ -87,7 +93,9 @@ try:
     mlflow_logger.addHandler(LoguruHandler())
     # Remove all default handlers from the MLflow logger
     for handler in mlflow_logger.handlers[:]:
-        if not isinstance(handler, LoguruHandler):  # Keep only the LoguruHandler
+        if not isinstance(
+            handler, LoguruHandler
+        ):  # Keep only the LoguruHandler
             mlflow_logger.removeHandler(handler)
 
 
