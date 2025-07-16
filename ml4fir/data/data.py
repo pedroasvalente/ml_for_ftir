@@ -47,6 +47,13 @@ class DataHandler:
         self.set_ftrir_columns()
         if num_classes is not None:
             self.set_num_classes(num_classes)
+            if self.num_classes == 1:
+                logger.info(
+                    "Setting smote to False because is a "
+                    "linear regression problem"
+                )
+
+                self.apply_smote_resampling = False
 
     def create_example(self):
         df = self.load_data()
@@ -196,6 +203,7 @@ class DataHandler:
             apply_pls=apply_pls,
             apply_smote_resampling=apply_smote_resampling,
             n_components=n_components,
+            num_classes=self.num_classes,
         )
         self.x_train = X_train
         self.x_test = X_test
