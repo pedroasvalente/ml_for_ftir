@@ -45,7 +45,9 @@ def filter_sample_data(
         if not isinstance(selected_group_fam, list):
             selected_group_fam = [selected_group_fam]
         logger.info(f"Filtering by group family: {selected_group_fam}")
-        sample_data = sample_data[sample_data["group_fam"].isin(selected_group_fam)]
+        sample_data = sample_data[
+            sample_data["group_fam"].isin(selected_group_fam)
+        ]
 
     # Extract spectral data and target
     spectral_data = sample_data[ftir_columns]
@@ -76,6 +78,7 @@ def split_data(
     y_encoded: np.ndarray,
     train_percentage: float,
     random_seed: int,
+    num_classes: int = 1,
 ) -> tuple[pd.DataFrame, pd.DataFrame, np.ndarray, np.ndarray]:
     """
     Split the data into training and testing sets.
@@ -94,12 +97,16 @@ def split_data(
     logger.info(f"Training with {train_percentage * 100:.0f}% of the data")
     test_size = 1 - train_percentage
 
+    extra_args = {}
+    if num_classes > 1:
+        extra_args.update({"stratify": y_encoded})
+
     X_train, X_test, y_train, y_test = train_test_split(
         X,
         y_encoded,
         test_size=test_size,
         random_state=random_seed,
-        stratify=y_encoded,
+        **extra_args,
     )
 
     return X_train, X_test, y_train, y_test
@@ -187,6 +194,7 @@ def preprocess_data(
     apply_pls: bool = True,
     apply_smote_resampling: bool = True,
     n_components: int = 10,
+    num_classes: int = 1,
 ) -> tuple[np.ndarray, np.ndarray, np.ndarray, np.ndarray, np.ndarray | None]:
     """
     Preprocess the data by splitting, scaling, applying PLS-DA, and optionally applying SMOTE.
@@ -213,6 +221,7 @@ def preprocess_data(
             y_encoded=y_encoded,
             train_percentage=train_percentage,
             random_seed=random_seed,
+            num_classes=num_classes,
         )
     elif train_percentage == 1:
         # If train_percentage is 1, use all data for training

@@ -168,6 +168,7 @@ def train(
                 n_classes = config["num_classes"]
                 if n_classes == 1:
                     model_type = f"{model_type}_regressor"
+                    apply_smote_resampling = False
 
                 logger.info(f">>> Starting Target: {target}")
 
@@ -287,3 +288,5 @@ def train(
                 configurations_done,
             )
 
+
+train("exp_vo2_01.json")
