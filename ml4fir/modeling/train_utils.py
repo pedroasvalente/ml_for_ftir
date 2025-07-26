@@ -139,7 +139,7 @@ def calculate_feature_importances(model, x_train, model_type, x_test, y_test):
             if key in importance_dict:
                 lv_importance[i] = importance_dict[key]
         lv_importance /= lv_importance.sum()
-    elif model_type.lower() in ["mlp_classifier", "mlp"]:
+    elif model_type.lower() in ["mlp_classifier", "mlp", "mlp_regressor"]:
         perm_bayes = permutation_importance(
             model, x_test, y_test, random_state=random_seed
         )
