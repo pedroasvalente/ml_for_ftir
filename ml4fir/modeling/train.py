@@ -167,6 +167,7 @@ def train(
                 n_components = config["n_components"]
                 n_classes = config["num_classes"]
                 if n_classes == 1:
+                    model_type = model_type.replace("_classifier", "")
                     model_type = f"{model_type}_regressor"
                     apply_smote_resampling = False
 
@@ -288,5 +289,3 @@ def train(
                 configurations_done,
             )
 
-
-train("exp_vo2_01.json")

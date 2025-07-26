@@ -187,7 +187,7 @@ cython_debug/
 # mlruns*
 # mlartifacts*
 **.png
-**.csv
+# **.csv
 # **.json
 models/**
 .idea/
