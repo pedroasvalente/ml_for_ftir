@@ -18,23 +18,22 @@ def save_results(
     selected_group_fam,
     configs_done,
 ):
-
     configs_done_df = pd.concat(configs_done)
     # mlflow.log_table(configs_done_df, "experiment_configs_done.json")
-    configs_done_df = configs_done_df.set_index("run_id")
 
     base_results_path = RESULTS_DIR
     results_df = pd.concat(all_results).reset_index(drop=True)
-    cross_validation_results_df = pd.concat(cross_validation_results_all).reset_index(
+    cross_validation_results_df = pd.concat(
+        cross_validation_results_all
+    ).reset_index(drop=True)
+    grid_search_results_df = pd.concat(grid_search_results_all).reset_index(
         drop=True
     )
-    grid_search_results_df = pd.concat(grid_search_results_all).reset_index(drop=True)
     back_projection_df_iso = pd.concat(back_projection_df_iso_all).reset_index(
         drop=True
     )
 
     for target_folder in targets_to_predict:
-
         experiment_target_folder = os.path.join(EXPERIMENTS_DIR, target_folder)
         os.makedirs(experiment_target_folder, exist_ok=True)
         experiment_target_file = os.path.join(
@@ -42,11 +41,15 @@ def save_results(
         )
         if os.path.exists(experiment_target_file):
             configs_done_df_old = pd.read_csv(experiment_target_file)
-            configs_done_df = pd.concat([configs_done_df_old, configs_done])
+            configs_done_df = pd.concat(
+                [configs_done_df_old, configs_done_df]
+            ).reset_index(drop=True)
             configs_done_df = configs_done_df.drop_duplicates(subset=["run_id"])
         configs_done_df.to_csv(experiment_target_file)
 
-        target_results = results_df[results_df["target_variable"] == target_folder]
+        target_results = results_df[
+            results_df["target_variable"] == target_folder
+        ]
         target_cross_validation_results = cross_validation_results_df[
             cross_validation_results_df["target_variable"] == target_folder
         ]
@@ -61,18 +64,23 @@ def save_results(
         os.makedirs(final_results_path, exist_ok=True)
 
         suffix_group = (
-            f"_{selected_group_fam}" if selected_group_fam else f"_{target_folder}"
+            f"_{selected_group_fam}"
+            if selected_group_fam
+            else f"_{target_folder}"
         )
 
         # Save results to CSV
         target_results.to_csv(
-            os.path.join(final_results_path, f"results_summary{suffix_group}.csv"),
+            os.path.join(
+                final_results_path, f"results_summary{suffix_group}.csv"
+            ),
             index=False,
         )
 
         target_back_projection_iso.to_csv(
             os.path.join(
-                final_results_path, f"results_summary{suffix_group}_back_projection.csv"
+                final_results_path,
+                f"results_summary{suffix_group}_back_projection.csv",
             ),
             index=False,
         )
@@ -122,7 +130,9 @@ def log_best_child(
         best_child = child_run_metrics_df[metric_to_choose].idxmax()
     else:
         best_child = child_run_metrics_df[metric_to_choose].idxmin()
-    mlflow.log_metrics(child_run_metrics[best_child], run_id=mlflow_run_obj.info.run_id)
+    mlflow.log_metrics(
+        child_run_metrics[best_child], run_id=mlflow_run_obj.info.run_id
+    )
     # if save_model:
     #     best_child_run = client.get_run(best_child)
     #     [f for f in mlflow.artifacts.list_artifacts(run_id=best_child) if f.path=="best model"][0]
