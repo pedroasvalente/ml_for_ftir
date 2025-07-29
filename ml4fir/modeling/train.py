@@ -1,6 +1,8 @@
 import json
 import os
 
+os.environ["KERAS_BACKEND"] = "torch"
+
 import mlflow
 from mlflow.tracking import MlflowClient
 import numpy as np
@@ -95,6 +97,11 @@ def train(
         for n_c in n_components_list
         for n_classes in num_classes
     ]
+    new_confs = pd.DataFrame(configurations)
+    new_confs.loc[new_confs["num_classes"] == 1, "apply_smote_resampling"]=False
+    new_confs.loc[new_confs["apply_pls"] == False, "n_components"]=None
+    new_confs=new_confs.drop_duplicates() 
+    configurations=new_confs.to_dict(orient="records")
     # NOTE: each experiment can only have one target!
     datahandler = DataHandler(
         data_path=PROCESSED_TRAINING_DATA_FILEPATH, target=targets_to_predict[0]
@@ -111,7 +118,6 @@ def train(
     # TODO: each experiment can only have one target!
     target_exp_res_path = os.path.join(
         EXPERIMENTS_DIR,
-        run_name,
         targets_to_predict[0],
         "experiment_configs.csv",
     )
@@ -121,11 +127,17 @@ def train(
         main_run_args["run_id"] = main_run_id
         new_confs = pd.DataFrame(configurations)
         new_confs["model_type"] = new_confs["model_type"].map(names_dict)
+        mask = new_confs["num_classes"] == 1
+        new_confs.loc[mask, "model_type"] = new_confs.loc[mask, "model_type"].astype(str) + " Regressor"
+        mask = new_confs["n_components"] != new_confs["n_components"]
+        new_confs.loc[mask, "n_components"] = np.nan
         new_confs["search_to_use"] = new_confs["search_to_use"].map(
             {"grid": "GridSearchCV", "bayes": "BayesSearchCV"}
         )
-        equal_columns = new_confs.columns
-        merged = new_confs.merge(
+        equal_columns = [
+            f for f in new_confs.columns if f in target_exp_res.columns
+        ]
+        merged = new_confs[equal_columns].merge(
             target_exp_res[equal_columns].drop_duplicates(),
             how="left",
             indicator=True,
@@ -164,7 +176,11 @@ def train(
                 scale = config["scale"]
                 apply_pls = config["apply_pls"]
                 apply_smote_resampling = config["apply_smote_resampling"]
-                n_components = config["n_components"]
+                n_components = config.get("n_components", None)
+                if n_components != n_components:
+                    n_components = None
+                if n_components is not None:
+                    n_components = int(n_components)
                 n_classes = config["num_classes"]
                 if n_classes == 1:
                     model_type = model_type.replace("_classifier", "")
@@ -288,4 +304,3 @@ def train(
                 selected_group_fam,
                 configurations_done,
             )
-

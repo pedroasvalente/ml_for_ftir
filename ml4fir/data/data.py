@@ -187,11 +187,14 @@ class DataHandler:
         if y_encoded is None:
             y_encoded = self.y_encoded
 
-        scale = scale or self.scale
-        apply_pls = apply_pls or self.apply_pls
-        apply_smote_resampling = (
-            apply_smote_resampling or self.apply_smote_resampling
-        )
+        if scale is None:
+            scale = self.scale
+        if apply_pls is None:
+            apply_pls = self.apply_pls
+        if apply_smote_resampling is None:
+            apply_smote_resampling = self.apply_smote_resampling
+            if self.num_classes == 1:
+                apply_smote_resampling = False
         n_components = n_components or self.n_components
 
         X_train, X_test, y_train, y_test, loadings = preprocess_data(
