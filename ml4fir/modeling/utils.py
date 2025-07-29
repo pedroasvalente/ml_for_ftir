@@ -9,6 +9,57 @@ from ml4fir.config import EXPERIMENTS_DIR, RESULTS_DIR
 client = MlflowClient()
 
 
+def append_and_save_csv(
+    new_df, csv_path, index_col=None, dedup_col=None, index=False, json=False
+):
+    """
+    Reads an existing CSV (if present), appends new_df, drops duplicates, and saves back to csv_path.
+
+    Args:
+        new_df (pd.DataFrame): The new data to append.
+        csv_path (str): Path to the CSV file.
+        index_col (str, optional): Column to set as index before saving.
+        dedup_col (str, optional): Column to drop duplicates on.
+        index (bool, optional): Whether to write row names (index). Default is False.
+    """
+    if os.path.exists(csv_path):
+        old_df = pd.read_csv(csv_path)
+        combined_df = pd.concat([old_df, new_df]).reset_index(drop=True)
+        if dedup_col is not None:
+            if not isinstance(dedup_col, list):
+                dedup_col = [dedup_col]
+            combined_df = combined_df.drop_duplicates(subset=dedup_col)
+    else:
+        combined_df = new_df.copy()
+    if index_col:
+        index = True
+        combined_df.set_index(index_col, inplace=True)
+    if not json:
+        combined_df.to_csv(csv_path, index=index)
+    else:
+        combined_df.T.to_json(csv_path, orient="columns")
+
+
+def save_df_with_lists_as_strings(
+    df, csv_path, dedup_col=None, index=False, json=False
+):
+    """
+    Converts all columns containing lists or dicts to strings, deduplicates, and saves to CSV.
+    Args:
+        df (pd.DataFrame): DataFrame to save.
+        csv_path (str): Path to save CSV.
+        dedup_col (str or list, optional): Column(s) to drop duplicates on.
+        index (bool, optional): Whether to write row names (index). Default is False.
+    """
+    df = df.copy()
+    for col in df.columns:
+        if df[col].apply(lambda x: isinstance(x, (list, dict))).any():
+            df[col] = df[col].apply(str)
+    append_and_save_csv(
+        df, csv_path, dedup_col=dedup_col, index=index, json=json
+    )
+
+
 def save_results(
     targets_to_predict,
     all_results,
@@ -39,13 +90,12 @@ def save_results(
         experiment_target_file = os.path.join(
             experiment_target_folder, "experiment_configs.csv"
         )
-        if os.path.exists(experiment_target_file):
-            configs_done_df_old = pd.read_csv(experiment_target_file)
-            configs_done_df = pd.concat(
-                [configs_done_df_old, configs_done_df]
-            ).reset_index(drop=True)
-            configs_done_df = configs_done_df.drop_duplicates(subset=["run_id"])
-        configs_done_df.to_csv(experiment_target_file)
+        append_and_save_csv(
+            configs_done_df,
+            experiment_target_file,
+            index_col="run_id",
+            dedup_col="run_id",
+        )
 
         target_results = results_df[
             results_df["target_variable"] == target_folder
@@ -69,26 +119,35 @@ def save_results(
             else f"_{target_folder}"
         )
 
-        # Save results to CSV
-        target_results.to_csv(
-            os.path.join(
-                final_results_path, f"results_summary{suffix_group}.csv"
-            ),
+        target_results_path = os.path.join(
+            final_results_path, f"results_summary{suffix_group}.csv"
+        )
+        save_df_with_lists_as_strings(
+            target_results,
+            target_results_path,
+            dedup_col=target_results.columns.to_list(),
             index=False,
         )
 
-        target_back_projection_iso.to_csv(
-            os.path.join(
-                final_results_path,
-                f"results_summary{suffix_group}_back_projection.csv",
-            ),
+        target_back_projection_iso_path = os.path.join(
+            final_results_path,
+            f"results_summary{suffix_group}_back_projection.csv",
+        )
+        save_df_with_lists_as_strings(
+            target_back_projection_iso,
+            target_back_projection_iso_path,
+            dedup_col=target_back_projection_iso.columns.to_list(),
             index=False,
         )
-        target_grid_search_results.to_csv(
-            os.path.join(
-                final_results_path,
-                f"grid_search_results_{suffix_group}_back_projection.csv",
-            ),
+
+        target_grid_search_results_path = os.path.join(
+            final_results_path,
+            f"grid_search_results_{suffix_group}_back_projection.csv",
+        )
+        save_df_with_lists_as_strings(
+            target_grid_search_results,
+            target_grid_search_results_path,
+            dedup_col=target_grid_search_results.columns.to_list(),
             index=False,
         )
 
@@ -102,12 +161,15 @@ def save_results(
         # TODO: probably get this were in another way.
         # TODO: get some sort of ID. mlflow?
         # Save results to JSON
-        target_cross_validation_results.T.to_json(
-            os.path.join(
-                final_results_path, f"results_summary{suffix_group}_cross.json"
-            ),
-            orient="columns",
-        )
+        # save_df_with_lists_as_strings(
+        #     target_cross_validation_results,
+        #     os.path.join(
+        #         final_results_path, f"results_summary{suffix_group}_cross.json"
+        #     ),
+        #     dedup_col=target_cross_validation_results.columns.to_list(),
+        #     index=False,
+        #     json=True,
+        # )
 
 
 def log_best_child(

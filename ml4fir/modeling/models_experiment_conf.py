@@ -3,6 +3,7 @@ from skopt.space import Categorical, Integer, Real
 from ml4fir.modeling.models import (
     DecisionTreeConfig,
     DecisionTreeRegressorConfig,
+    KerasMagiaRegressor,
     MLPConfig,
     MLPRegressorConfig,
     RandomForestConfig,
@@ -194,6 +195,134 @@ xgboost_reg_config = XGBoostRegressorConfig(
 )
 
 
+# cnn_config = KerasMagiaClassifier(
+#     name="cnn",
+#     desc_name="Convolutional Neural Network",
+#     model_arch="CNN",
+#     model_kwargs={
+#         "filters": [16, 32, 64],
+#         "kernel_size": [3, 5],
+#         "pool_size": [2, 3],
+#         "dropout": [0.3, 0.5],
+#         "num_sequences": [1, 2, 3],
+#     },
+#     compile_kwargs={
+#         "optimizer": ["adam", "rmsprop"],
+#         "loss": ["categorical_crossentropy", "binary_crossentropy"],
+#         "metrics": ["accuracy"],
+#     },
+#     fit_kwargs={
+#         "epochs": [50, 100],
+#     },
+# )
+
+# fcnn_config = KerasMagiaClassifier(
+#     name="fcnn",
+#     desc_name="Fully Connected Neural Network",
+#     model_arch="FCNN",
+#     model_kwargs={
+#         "input_dim": [16, 32, 64],
+#         "activation": ["relu"],
+#         "division_base_power": [2, 3],
+#         "num_sequences": [1, 2, 3],
+#     },
+#     compile_kwargs={
+#         "optimizer": "adam",
+#         "loss": "categorical_crossentropy",
+#         "metrics": ["accuracy"],
+#     },
+#     fit_kwargs={
+#         "epochs": [50, 100],
+#     },
+# )
+
+# unet_config = KerasMagiaClassifier(
+#     name="unet",
+#     desc_name="UNet",
+#     model_arch="UNET",
+#     model_kwargs={
+#         "input_shape": [(64, 64, 1), (128, 128, 1)],
+#         "num_classes": [2, 3],
+#         "filters": [[32, 64, 128], [64, 128, 256]],
+#         "dropout": [0.3, 0.5],
+#     },
+#     compile_kwargs={
+#         "optimizer": ["adam", "rmsprop"],
+#         "loss": ["categorical_crossentropy", "binary_crossentropy"],
+#         "metrics": ["accuracy"],
+#     },
+#     fit_kwargs={
+#         "epochs": [50, 100],
+#     },
+# )
+
+
+cnn_regressor_config = KerasMagiaRegressor(
+    name="cnn_regressor",
+    desc_name="CNN Regressor",
+    model_arch="CNN",
+    model_kwargs={
+        "num_classes": [1],
+        "filters": [None, [16, 32, 64], [32, 64, 128]],
+        "kernel_size": [3, 5],
+        "pool_size": [2, 3],
+    },
+    compile_kwargs={
+        "optimizer": ["adam"],
+        "loss": ["mse"],
+        "metrics": [["mae", "mape"]],
+    },
+    fit_kwargs={
+        "epochs": [500],
+        "verbose": [0],
+    },
+)
+
+fcnn_regressor_config = KerasMagiaRegressor(
+    name="fcnn_regressor",
+    desc_name="FCNN Regressor",
+    model_arch="FCNN",
+    model_kwargs={
+        # "filters": [None,16, 32, 64],
+        "filters": [None,16],
+
+        # "num_sequences": [1, 2, 4, 8],
+        # "interpretation_filters": [4, 8, 16],
+        # "double_interpretation": [True, False],
+        # "division_per_dim": [False, True],
+    },
+    compile_kwargs={
+        "optimizer": ["adam"],
+        "loss": ["mse"],
+        "metrics": [["mae", "mape"]],
+    },
+    fit_kwargs={
+        "epochs": [300],
+        "verbose": [0],
+    },
+)
+
+# unet_regressor_config = KerasMagiaRegressor(
+#     name="unet_regressor",
+#     desc_name="UNet Regressor",
+#     model_arch="UNET",
+#     model_kwargs={
+#         "input_shape": [(64, 64, 1), (128, 128, 1)],
+#         "num_classes": [1],
+#         "filters": [[32, 64, 128], [64, 128, 256]],
+#         "dropout": [0.3, 0.5],
+#     },
+#     compile_kwargs={
+#         "optimizer": ["adam", "rmsprop"],
+#         "loss": ["mse", "mae"],
+#         "metrics": [["mae", "mape"]],
+#     },
+#     fit_kwargs={
+#         "epochs": [50, 100],
+#     },
+# )
+
+
 models_experiment = {
     "random_forest": random_forest_config,
     "mlp_classifier": mlp_config,
@@ -203,4 +332,10 @@ models_experiment = {
     "mlp_regressor": mlp_reg_config,
     "decision_tree_regressor": decision_tree_reg_config,
     "xgboost_regressor": xgboost_reg_config,
+    # "cnn": cnn_config,
+    # "fcnn": fcnn_config,
+    # "unet": unet_config,
+    "cnn_regressor": cnn_regressor_config,
+    "fcnn_regressor": fcnn_regressor_config,
+    # "unet_regressor": unet_regressor_config,
 }

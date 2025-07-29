@@ -1,6 +1,10 @@
 import math
 import os
 
+from keras.wrappers import (
+    SKLearnClassifier,
+    SKLearnRegressor,
+)
 import mlflow
 from mlflow.models import infer_signature
 from mlflow.tracking import MlflowClient
@@ -28,6 +32,7 @@ from ml4fir.config import (
     principal_wavenumber_path,
     random_seed,
 )
+from ml4fir.modeling.models import KerasMagiaConfig
 from ml4fir.modeling.models_experiment_conf import models_experiment
 from ml4fir.modeling.train_config import model_args_conf, search_args
 from ml4fir.modeling.utils import log_best_child
@@ -130,7 +135,16 @@ def calculate_feature_importances(model, x_train, model_type, x_test, y_test):
     -------
         np.ndarray: An array of feature importances.
     """
-    if model_type.lower() in ["xgboost"]:
+    model_is_mlp = model_type.lower() in [
+        "mlp_classifier",
+        "mlp",
+        "mlp_regressor",
+    ]
+    model_is_xgboost = model_type.lower() in ["xgboost"]
+    model_is_keras = isinstance(model, SKLearnClassifier) or isinstance(
+        model, SKLearnRegressor
+    )
+    if model_is_xgboost:
         booster = model.get_booster()
         importance_dict = booster.get_score(importance_type="gain")
         lv_importance = np.zeros(x_train.shape[1])
@@ -139,7 +153,7 @@ def calculate_feature_importances(model, x_train, model_type, x_test, y_test):
             if key in importance_dict:
                 lv_importance[i] = importance_dict[key]
         lv_importance /= lv_importance.sum()
-    elif model_type.lower() in ["mlp_classifier", "mlp", "mlp_regressor"]:
+    elif model_is_mlp or model_is_keras:
         perm_bayes = permutation_importance(
             model, x_test, y_test, random_state=random_seed
         )
@@ -252,18 +266,8 @@ def perform_model_search(
 
     # Perform search
     search = search_fn(model, param_search_space, **search_params)
-    # dataset_train = mlflow.data.from_numpy(
-    #         x_train,
-    #         source=datahandler.data_path,
-    #         name=f"{datahandler.name}_train_halllo",
-    #         targets=y_train,
-    #     )
-
-    # mlflow.log_input(dataset_train, context="Train")
 
     search.fit(x_train, y_train)
-
-    # TODO: this function gots to save the models, maybe just the best, and maybe using mlflow
     return search
 
 
@@ -404,6 +408,9 @@ def supervised_training(
                 mlflow.log_param(key, val)
 
             config = models_experiment[model_type]
+
+            if issubclass(config.__class__, KerasMagiaConfig):
+                config.set_databasedatributes(datahandler)
             model_name = config.desc_name
 
             model_run_args = {
@@ -450,18 +457,34 @@ def supervised_training(
                 # if old_acc < metrics["test_acc"]:
                 #     run_id = run.info.run_id
 
-                try:
-                    mlflow.sklearn.log_model(
-                        search.best_estimator_,
-                        "best model",
-                        signature=signature,
-                    )
-                except:
-                    mlflow.xgboost.log_model(
-                        search.best_estimator_,
-                        "best model",
-                        signature=signature,
-                    )
+                if isinstance(best_model, SKLearnClassifier) or isinstance(
+                    best_model, SKLearnRegressor
+                ):
+                    try:
+                        # Log the best model
+                        mlflow.keras.save.log_model(
+                            best_model.model(),
+                            "best model",
+                            signature=signature,
+                        )
+                    except Exception as e:
+                        mlflow.keras.save.log_model(
+                            best_model.model(),
+                            "best model",
+                        )
+                else:
+                    try:
+                        mlflow.sklearn.log_model(
+                            search.best_estimator_,
+                            "best model",
+                            signature=signature,
+                        )
+                    except:
+                        mlflow.xgboost.log_model(
+                            search.best_estimator_,
+                            "best model",
+                            signature=signature,
+                        )
 
                 # TODO: save the current run id somewheree
                 # mlflow.pyfunc.log_model(
@@ -472,8 +495,11 @@ def supervised_training(
 
                 # TODO: write better coments, and in english.
                 # Transpor os loadings
-                pls_loadings = loadings.transpose()
-                wavenumber_importances = np.abs(lv_importance @ pls_loadings)
+                if loadings is not None:
+                    pls_loadings = loadings.transpose()
+                    wavenumber_importances = np.abs(lv_importance @ pls_loadings)
+                else:
+                    wavenumber_importances = np.abs(lv_importance)
                 wavenumber_importances /= wavenumber_importances.sum()
 
                 # Remover zona da água
@@ -571,7 +597,14 @@ def supervised_training(
                     ),
                     "target_variable": target_column,
                 }
-                for i in range(5):
+                num_split = len(
+                    [
+                        f
+                        for f in search.cv_results_.keys()
+                        if f.startswith("split")
+                    ]
+                )
+                for i in range(min(num_split, 2)):
                     cross_validation_results[f"split{i}_test_score"] = [
                         float(f)
                         for f in search.cv_results_[f"split{i}_test_score"]

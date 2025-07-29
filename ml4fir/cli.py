@@ -1,8 +1,13 @@
 import typer
+import os
+import pandas as pd
+import shutil
+from pathlib import Path
 
 from ml4fir.config import logger
 from ml4fir.modeling.predict import predict as predict_main
 from ml4fir.modeling.train import train as train_main
+from ml4fir.ploting.plots import plot as plot_main
 
 app = typer.Typer()
 
@@ -18,6 +23,33 @@ def train(
     """
     logger.info(f"Running training with config: {experiment_config}")
     train_main(experiment_config=experiment_config)
+
+
+
+@app.command()
+def clear_runs():
+    """
+    For each experiment_configs.csv under experiments/*/,
+    keeps only mlartifacts/{run_id} and mlruns/{run_id} folders that are present in the CSV run_id column.
+    Removes all others for each experiment_id.
+    """
+    base_dir = Path("experiments")
+    for csv_path in base_dir.glob("*/experiment_configs.csv"):
+        df = pd.read_csv(csv_path)
+        run_ids = set(df["run_id"].dropna().astype(str))
+        experiment_ids = set(df["experiment_id"].dropna().astype(str))
+
+        for experiment_id in experiment_ids:
+            # the experiment csv was not complete
+            if experiment_id == "450165946480039955":
+                continue
+            for folder_type in ["mlartifacts", "mlruns"]:
+                exp_folder = Path(folder_type) / experiment_id
+                if exp_folder.exists():
+                    for run_folder in exp_folder.iterdir():
+                        if run_folder.is_dir() and run_folder.name not in run_ids:
+                            print(f"Deleting {run_folder}")
+                            shutil.rmtree(run_folder)
 
 
 @app.command()
