@@ -283,13 +283,11 @@ fcnn_regressor_config = KerasMagiaRegressor(
     desc_name="FCNN Regressor",
     model_arch="FCNN",
     model_kwargs={
-        # "filters": [None,16, 32, 64],
-        "filters": [None,16],
-
-        # "num_sequences": [1, 2, 4, 8],
-        # "interpretation_filters": [4, 8, 16],
-        # "double_interpretation": [True, False],
-        # "division_per_dim": [False, True],
+        "filters": [None,16, 32, 64],
+        "num_sequences": [1, 2, 4, 8],
+        "interpretation_filters": [4, 8, 16],
+        "double_interpretation": [True, False],
+        "division_per_dim": [False, True],
     },
     compile_kwargs={
         "optimizer": ["adam"],
