@@ -262,10 +262,12 @@ cnn_regressor_config = KerasMagiaRegressor(
     desc_name="CNN Regressor",
     model_arch="CNN",
     model_kwargs={
-        "num_classes": [1],
-        "filters": [None, [16, 32, 64], [32, 64, 128]],
+        "filters": [None,16, 32, 64],
         "kernel_size": [3, 5],
         "pool_size": [2, 3],
+        "num_sequences": [1, 2, 4, 8],
+        "interpretation_filters": [4, 8, 16],
+        "double_interpretation": [True, False],
     },
     compile_kwargs={
         "optimizer": ["adam"],
