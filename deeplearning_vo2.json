@@ -2,7 +2,7 @@
     "experiment_name": "FTIR Supervised Training - VO2MAX",
     "run_name": "experiment_linear_vo2max",
     "searchs_hipermetrics": ["grid"],
-    "model_types_to_train": ["fcnn"],
+    "model_types_to_train": ["fcnn", "cnn"],
     "train_percentages": [0.8, 0.7, 0.6],
     "sample_types": ["CAPILAR", "PLASMA", "SALIVA", "SERUM", "URINE"],
     "targets_to_predict": ["vo2max_relative"],
