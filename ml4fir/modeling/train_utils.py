@@ -463,13 +463,13 @@ def supervised_training(
                     try:
                         # Log the best model
                         mlflow.keras.save.log_model(
-                            best_model.model(),
+                            best_model.model(**best_model.model_kwargs),
                             "best model",
                             signature=signature,
                         )
                     except Exception as e:
                         mlflow.keras.save.log_model(
-                            best_model.model(),
+                            best_model.model(**best_model.model_kwargs),
                             "best model",
                         )
                 else:

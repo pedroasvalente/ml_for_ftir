@@ -456,4 +456,7 @@ names_dict = {
     "cnn": "CNN",
     "transformer": "Transformer",
     "unet": "UNet",
+    "attresunet": "AttResUNet",
+    "resunet": "ResUNet",
+    "resnet": "ResNet",
 }
