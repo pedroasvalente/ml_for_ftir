@@ -262,12 +262,24 @@ cnn_regressor_config = KerasMagiaRegressor(
     desc_name="CNN Regressor",
     model_arch="CNN",
     model_kwargs={
-        "filters": [None,16, 32, 64],
+        "filters": [16, 32, 64],
         "kernel_size": [3, 5],
         "pool_size": [2, 3],
         "num_sequences": [1, 2, 4, 8],
         "interpretation_filters": [4, 8, 16],
         "double_interpretation": [True, False],
+        "sklearn_wrapper":[True],
+        "activation_end": ["linear", "relu"],
+
+    # "filters": [16],
+    # "kernel_size": [3],
+    # "pool_size": [2],
+    # "num_sequences": [1],
+    # "interpretation_filters": [4],
+    # "double_interpretation": [True],
+    # "sklearn_wrapper": [True],
+    # "activation_end": ["linear"],
+
     },
     compile_kwargs={
         "optimizer": ["adam"],
@@ -275,7 +287,7 @@ cnn_regressor_config = KerasMagiaRegressor(
         "metrics": [["mae", "mape"]],
     },
     fit_kwargs={
-        "epochs": [500],
+        "epochs": [300],
         "verbose": [0],
     },
 )
@@ -290,6 +302,7 @@ fcnn_regressor_config = KerasMagiaRegressor(
         "interpretation_filters": [4, 8, 16],
         "double_interpretation": [True, False],
         "division_per_dim": [False, True],
+        "activation_end": ["linear", "relu"],
     },
     compile_kwargs={
         "optimizer": ["adam"],
@@ -302,26 +315,132 @@ fcnn_regressor_config = KerasMagiaRegressor(
     },
 )
 
-# unet_regressor_config = KerasMagiaRegressor(
-#     name="unet_regressor",
-#     desc_name="UNet Regressor",
-#     model_arch="UNET",
-#     model_kwargs={
-#         "input_shape": [(64, 64, 1), (128, 128, 1)],
-#         "num_classes": [1],
-#         "filters": [[32, 64, 128], [64, 128, 256]],
-#         "dropout": [0.3, 0.5],
-#     },
-#     compile_kwargs={
-#         "optimizer": ["adam", "rmsprop"],
-#         "loss": ["mse", "mae"],
-#         "metrics": [["mae", "mape"]],
-#     },
-#     fit_kwargs={
-#         "epochs": [50, 100],
-#     },
-# )
+unet_regressor_config = KerasMagiaRegressor(
+    name="unet_regressor",
+    desc_name="UNet Regressor",
+    model_arch="UNET",
+    model_kwargs={
+        "n_filters": [16,32, 64],
+        "classes_method":["dense", "fcnn", "conv"],
+        "activation_end": ["linear", "relu"],
+        "interpretation_filters": [4, 8, 16],
+        "sklearn_wrapper":[True],
+        "interpretation_filters": [4, 8, 16],
+        "double_interpretation": [True, False],
+        # "n_filters": [16],
+        # "classes_method": ["dense"],
+        # "activation_end": ["linear"],
+        # "interpretation_filters": [4],
+        # "sklearn_wrapper": [True],
+        # "double_interpretation": [True],
 
+    },
+    compile_kwargs={
+        "optimizer": ["adam"],
+        "loss": ["mse"],
+        "metrics": [["mae", "mape"]],
+    },
+    fit_kwargs={
+        "epochs": [300],
+        "verbose": [0],
+    },
+)
+
+
+resnet_regressor_config = KerasMagiaRegressor(
+    name="resnet_regressor",
+    desc_name="ResNET Regressor",
+    model_arch="ResNET",
+    model_kwargs={
+        "n_filters": [16,32, 64],
+        "classes_method":["dense", "fcnn", "conv"],
+        "activation_end": ["linear", "relu"],
+        "interpretation_filters": [4, 8, 16],
+        "sklearn_wrapper":[True],
+        "interpretation_filters": [4, 8, 16],
+        "double_interpretation": [True, False],
+        # "n_filters": [16],
+        # "classes_method":["dense", "fcnn", "conv"],
+        # "activation_end": ["linear"],
+        # "interpretation_filters": [4],
+        # "sklearn_wrapper": [True],
+        # "double_interpretation": [True],
+
+    },
+    compile_kwargs={
+        "optimizer": ["adam"],
+        "loss": ["mse"],
+        "metrics": [["mae", "mape"]],
+    },
+    fit_kwargs={
+        "epochs": [300],
+        "verbose": [0],
+    },
+)
+
+
+attresnet_regressor_config = KerasMagiaRegressor(
+    name="attresnet_regressor",
+    desc_name="AttResUNet Regressor",
+    model_arch="AttResUNet",
+    model_kwargs={
+        "n_filters": [16,32, 64],
+        "classes_method":["dense", "fcnn", "conv"],
+        "activation_end": ["linear", "relu"],
+        "interpretation_filters": [4, 8, 16],
+        "sklearn_wrapper":[True],
+        "interpretation_filters": [4, 8, 16],
+        "double_interpretation": [True, False],
+        # "n_filters": [16],
+        # "classes_method": ["dense"],
+        # "activation_end": ["linear"],
+        # "interpretation_filters": [4],
+        # "sklearn_wrapper": [True],
+        # "double_interpretation": [True],
+
+    },
+    compile_kwargs={
+        "optimizer": ["adam"],
+        "loss": ["mse"],
+        "metrics": [["mae", "mape"]],
+    },
+    fit_kwargs={
+        "epochs": [300],
+        "verbose": [0],
+    },
+)
+
+
+resunet_regressor_config = KerasMagiaRegressor(
+    name="resunet_regressor",
+    desc_name="ResUNet Regressor",
+    model_arch="ResUNet",
+    model_kwargs={
+        "n_filters": [16,32, 64],
+        "classes_method":["dense", "fcnn", "conv"],
+        "activation_end": ["linear", "relu"],
+        "interpretation_filters": [4, 8, 16],
+        "sklearn_wrapper":[True],
+        "interpretation_filters": [4, 8, 16],
+        "double_interpretation": [True, False],
+    # "n_filters": [16],
+    # "classes_method": ["dense"],
+    # "activation_end": ["linear"],
+    # "interpretation_filters": [4],
+    # "sklearn_wrapper": [True],
+    # "double_interpretation": [True],
+
+    },
+    compile_kwargs={
+        "optimizer": ["adam"],
+        "loss": ["mse"],
+        "metrics": [["mae", "mape"]],
+    },
+    fit_kwargs={
+        "epochs": [300],
+        "verbose": [0],
+    },
+)
 
 models_experiment = {
     "random_forest": random_forest_config,
@@ -337,5 +456,8 @@ models_experiment = {
     # "unet": unet_config,
     "cnn_regressor": cnn_regressor_config,
     "fcnn_regressor": fcnn_regressor_config,
-    # "unet_regressor": unet_regressor_config,
+    "unet_regressor": unet_regressor_config,
+    "resnet_regressor": resnet_regressor_config,
+    "attresnet_regressor": attresnet_regressor_config,
+    "resunet_regressor": resunet_regressor_config,
 }
