@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/ab433b2581a746f6b2f33fbbc114cc14/artifacts
+end_time: 1755545605266
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: ab433b2581a746f6b2f33fbbc114cc14
+run_name: welcoming-deer-241
+run_uuid: ab433b2581a746f6b2f33fbbc114cc14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545574910
+status: 3
+tags: []
+user_id: joao

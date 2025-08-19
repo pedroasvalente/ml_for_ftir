@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/cd0f124f7438423bba6ccd6578a1ced0/artifacts
+end_time: 1755545509465
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: cd0f124f7438423bba6ccd6578a1ced0
+run_name: wise-dog-806
+run_uuid: cd0f124f7438423bba6ccd6578a1ced0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545481084
+status: 3
+tags: []
+user_id: joao

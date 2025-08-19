@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/a64789cc2c0343ac9074301fca3ca0e3/artifacts
+end_time: 1755542521542
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: a64789cc2c0343ac9074301fca3ca0e3
+run_name: languid-fish-202
+run_uuid: a64789cc2c0343ac9074301fca3ca0e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755542464273
+status: 3
+tags: []
+user_id: joao

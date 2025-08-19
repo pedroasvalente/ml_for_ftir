@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/771a5eb6f39a48c38936282b4412e620/artifacts
+end_time: 1755555343077
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 771a5eb6f39a48c38936282b4412e620
+run_name: fun-wolf-940
+run_uuid: 771a5eb6f39a48c38936282b4412e620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755555288629
+status: 3
+tags: []
+user_id: joao

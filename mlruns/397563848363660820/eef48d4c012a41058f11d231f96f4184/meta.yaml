@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/eef48d4c012a41058f11d231f96f4184/artifacts
+end_time: 1755539471993
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: eef48d4c012a41058f11d231f96f4184
+run_name: enchanting-snipe-18
+run_uuid: eef48d4c012a41058f11d231f96f4184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755539419161
+status: 3
+tags: []
+user_id: joao

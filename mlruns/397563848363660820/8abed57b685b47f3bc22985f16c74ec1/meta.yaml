@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/8abed57b685b47f3bc22985f16c74ec1/artifacts
+end_time: 1755545417828
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 8abed57b685b47f3bc22985f16c74ec1
+run_name: enthused-shrike-622
+run_uuid: 8abed57b685b47f3bc22985f16c74ec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545389615
+status: 3
+tags: []
+user_id: joao

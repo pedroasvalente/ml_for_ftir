@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/f706df2928444a75a450ebdadd04a21b/artifacts
+end_time: 1755546160756
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: f706df2928444a75a450ebdadd04a21b
+run_name: respected-gnat-834
+run_uuid: f706df2928444a75a450ebdadd04a21b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546153082
+status: 3
+tags: []
+user_id: joao

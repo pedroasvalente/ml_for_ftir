@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/f6d90f9999aa403b96b096b230c83d1f/artifacts
+end_time: 1755546400101
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: f6d90f9999aa403b96b096b230c83d1f
+run_name: salty-newt-754
+run_uuid: f6d90f9999aa403b96b096b230c83d1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546392641
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/365542976a0e4b61b1a2ec02657f9b41/artifacts
+end_time: 1755546336624
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 365542976a0e4b61b1a2ec02657f9b41
+run_name: dashing-gull-42
+run_uuid: 365542976a0e4b61b1a2ec02657f9b41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546329690
+status: 3
+tags: []
+user_id: joao

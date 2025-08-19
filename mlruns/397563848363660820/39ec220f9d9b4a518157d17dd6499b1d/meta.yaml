@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/39ec220f9d9b4a518157d17dd6499b1d/artifacts
+end_time: 1755546458426
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 39ec220f9d9b4a518157d17dd6499b1d
+run_name: smiling-vole-676
+run_uuid: 39ec220f9d9b4a518157d17dd6499b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546405500
+status: 3
+tags: []
+user_id: joao

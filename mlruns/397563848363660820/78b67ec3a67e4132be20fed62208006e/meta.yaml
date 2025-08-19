@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/78b67ec3a67e4132be20fed62208006e/artifacts
+end_time: 1755546458426
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 78b67ec3a67e4132be20fed62208006e
+run_name: caring-pig-597
+run_uuid: 78b67ec3a67e4132be20fed62208006e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546405500
+status: 3
+tags: []
+user_id: joao

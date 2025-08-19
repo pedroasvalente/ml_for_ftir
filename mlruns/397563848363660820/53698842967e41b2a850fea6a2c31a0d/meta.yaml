@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/53698842967e41b2a850fea6a2c31a0d/artifacts
+end_time: 1755546532779
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 53698842967e41b2a850fea6a2c31a0d
+run_name: auspicious-deer-47
+run_uuid: 53698842967e41b2a850fea6a2c31a0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546476880
+status: 3
+tags: []
+user_id: joao

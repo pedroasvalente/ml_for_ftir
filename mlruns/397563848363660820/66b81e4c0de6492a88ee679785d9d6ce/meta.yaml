@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/66b81e4c0de6492a88ee679785d9d6ce/artifacts
+end_time: 1755542285801
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 66b81e4c0de6492a88ee679785d9d6ce
+run_name: adventurous-roo-480
+run_uuid: 66b81e4c0de6492a88ee679785d9d6ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755542226220
+status: 3
+tags: []
+user_id: joao

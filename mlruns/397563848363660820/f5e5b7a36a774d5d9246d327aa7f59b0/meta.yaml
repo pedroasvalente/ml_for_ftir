@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/f5e5b7a36a774d5d9246d327aa7f59b0/artifacts
+end_time: 1755546160756
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: f5e5b7a36a774d5d9246d327aa7f59b0
+run_name: capable-auk-314
+run_uuid: f5e5b7a36a774d5d9246d327aa7f59b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546153082
+status: 3
+tags: []
+user_id: joao

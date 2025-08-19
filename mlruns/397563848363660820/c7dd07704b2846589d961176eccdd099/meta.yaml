@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/c7dd07704b2846589d961176eccdd099/artifacts
+end_time: 1755545230984
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: c7dd07704b2846589d961176eccdd099
+run_name: rambunctious-bat-856
+run_uuid: c7dd07704b2846589d961176eccdd099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545201673
+status: 3
+tags: []
+user_id: joao

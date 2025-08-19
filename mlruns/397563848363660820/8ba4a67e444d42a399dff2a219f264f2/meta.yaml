@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/8ba4a67e444d42a399dff2a219f264f2/artifacts
+end_time: 1755546532779
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 8ba4a67e444d42a399dff2a219f264f2
+run_name: adventurous-shrew-87
+run_uuid: 8ba4a67e444d42a399dff2a219f264f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546476880
+status: 3
+tags: []
+user_id: joao

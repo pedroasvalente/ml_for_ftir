@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/a70d8319a77246c4b0bed5982028e400/artifacts
+end_time: 1755545958396
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: a70d8319a77246c4b0bed5982028e400
+run_name: hilarious-jay-598
+run_uuid: a70d8319a77246c4b0bed5982028e400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545905196
+status: 3
+tags: []
+user_id: joao

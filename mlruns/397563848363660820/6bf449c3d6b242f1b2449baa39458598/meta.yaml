@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/6bf449c3d6b242f1b2449baa39458598/artifacts
+end_time: 1755550822905
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 6bf449c3d6b242f1b2449baa39458598
+run_name: resilient-fox-243
+run_uuid: 6bf449c3d6b242f1b2449baa39458598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755549559596
+status: 3
+tags: []
+user_id: joao

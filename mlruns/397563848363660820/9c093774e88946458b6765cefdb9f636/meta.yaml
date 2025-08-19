@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/9c093774e88946458b6765cefdb9f636/artifacts
+end_time: 1755549551265
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 9c093774e88946458b6765cefdb9f636
+run_name: spiffy-moose-695
+run_uuid: 9c093774e88946458b6765cefdb9f636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755549486550
+status: 3
+tags: []
+user_id: joao

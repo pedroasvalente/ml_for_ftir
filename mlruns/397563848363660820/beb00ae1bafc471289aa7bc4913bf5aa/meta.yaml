@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/beb00ae1bafc471289aa7bc4913bf5aa/artifacts
+end_time: 1755545994499
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: beb00ae1bafc471289aa7bc4913bf5aa
+run_name: welcoming-lamb-423
+run_uuid: beb00ae1bafc471289aa7bc4913bf5aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545964516
+status: 3
+tags: []
+user_id: joao

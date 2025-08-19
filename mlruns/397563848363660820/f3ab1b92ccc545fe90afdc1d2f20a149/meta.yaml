@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/f3ab1b92ccc545fe90afdc1d2f20a149/artifacts
+end_time: 1755538396491
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: f3ab1b92ccc545fe90afdc1d2f20a149
+run_name: ambitious-crane-8
+run_uuid: f3ab1b92ccc545fe90afdc1d2f20a149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755538335806
+status: 3
+tags: []
+user_id: joao

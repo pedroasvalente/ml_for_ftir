@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/4fbe86c4c7524334b6190bc639c403b4/artifacts
+end_time: 1755555281492
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 4fbe86c4c7524334b6190bc639c403b4
+run_name: upbeat-gnu-783
+run_uuid: 4fbe86c4c7524334b6190bc639c403b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755553781391
+status: 3
+tags: []
+user_id: joao

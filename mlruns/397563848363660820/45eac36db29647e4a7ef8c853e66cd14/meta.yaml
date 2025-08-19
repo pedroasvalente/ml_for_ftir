@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/45eac36db29647e4a7ef8c853e66cd14/artifacts
+end_time: 1755543825062
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 45eac36db29647e4a7ef8c853e66cd14
+run_name: big-whale-82
+run_uuid: 45eac36db29647e4a7ef8c853e66cd14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755543771615
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/e0071f154f2b405eabfd51580f3a1a5e/artifacts
+end_time: 1755552323747
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: e0071f154f2b405eabfd51580f3a1a5e
+run_name: brawny-jay-295
+run_uuid: e0071f154f2b405eabfd51580f3a1a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755552269516
+status: 3
+tags: []
+user_id: joao

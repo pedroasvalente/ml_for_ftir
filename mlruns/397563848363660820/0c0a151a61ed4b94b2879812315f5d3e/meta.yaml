@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/0c0a151a61ed4b94b2879812315f5d3e/artifacts
+end_time: 1755546088055
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 0c0a151a61ed4b94b2879812315f5d3e
+run_name: auspicious-newt-409
+run_uuid: 0c0a151a61ed4b94b2879812315f5d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546059415
+status: 3
+tags: []
+user_id: joao

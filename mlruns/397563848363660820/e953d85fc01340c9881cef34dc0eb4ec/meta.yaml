@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/e953d85fc01340c9881cef34dc0eb4ec/artifacts
+end_time: 1755545865971
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: e953d85fc01340c9881cef34dc0eb4ec
+run_name: adventurous-moth-408
+run_uuid: e953d85fc01340c9881cef34dc0eb4ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545814677
+status: 3
+tags: []
+user_id: joao

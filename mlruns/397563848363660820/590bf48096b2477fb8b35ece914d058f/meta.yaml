@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/590bf48096b2477fb8b35ece914d058f/artifacts
+end_time: 1755545710297
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 590bf48096b2477fb8b35ece914d058f
+run_name: orderly-wolf-826
+run_uuid: 590bf48096b2477fb8b35ece914d058f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545679242
+status: 3
+tags: []
+user_id: joao

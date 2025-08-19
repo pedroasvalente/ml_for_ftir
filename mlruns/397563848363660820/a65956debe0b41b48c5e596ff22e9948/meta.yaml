@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/a65956debe0b41b48c5e596ff22e9948/artifacts
+end_time: 1755546547375
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: a65956debe0b41b48c5e596ff22e9948
+run_name: defiant-sponge-944
+run_uuid: a65956debe0b41b48c5e596ff22e9948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546540374
+status: 3
+tags: []
+user_id: joao

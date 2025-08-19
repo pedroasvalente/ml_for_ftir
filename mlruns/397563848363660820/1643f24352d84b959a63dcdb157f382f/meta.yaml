@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/1643f24352d84b959a63dcdb157f382f/artifacts
+end_time: 1755552323747
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 1643f24352d84b959a63dcdb157f382f
+run_name: righteous-stag-500
+run_uuid: 1643f24352d84b959a63dcdb157f382f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755552269516
+status: 3
+tags: []
+user_id: joao

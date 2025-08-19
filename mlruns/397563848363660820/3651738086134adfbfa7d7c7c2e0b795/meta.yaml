@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/3651738086134adfbfa7d7c7c2e0b795/artifacts
+end_time: 1755546605126
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 3651738086134adfbfa7d7c7c2e0b795
+run_name: amazing-penguin-199
+run_uuid: 3651738086134adfbfa7d7c7c2e0b795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546597992
+status: 3
+tags: []
+user_id: joao

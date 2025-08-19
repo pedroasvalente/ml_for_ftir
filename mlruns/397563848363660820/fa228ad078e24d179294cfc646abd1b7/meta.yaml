@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/fa228ad078e24d179294cfc646abd1b7/artifacts
+end_time: 1755553716111
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: fa228ad078e24d179294cfc646abd1b7
+run_name: bald-eel-377
+run_uuid: fa228ad078e24d179294cfc646abd1b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755552329458
+status: 3
+tags: []
+user_id: joao

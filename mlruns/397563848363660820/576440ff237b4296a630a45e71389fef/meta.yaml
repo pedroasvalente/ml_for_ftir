@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/576440ff237b4296a630a45e71389fef/artifacts
+end_time: 1755539630101
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 576440ff237b4296a630a45e71389fef
+run_name: incongruous-horse-56
+run_uuid: 576440ff237b4296a630a45e71389fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755539476151
+status: 3
+tags: []
+user_id: joao

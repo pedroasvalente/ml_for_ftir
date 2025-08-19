@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/c8e600b450b542c098a5ce5e364f503d/artifacts
+end_time: 1755546387129
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: c8e600b450b542c098a5ce5e364f503d
+run_name: monumental-sow-563
+run_uuid: c8e600b450b542c098a5ce5e364f503d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546342205
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/ad3d4265935d446397d98f82220314f8/artifacts
+end_time: 1755545230984
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: ad3d4265935d446397d98f82220314f8
+run_name: funny-rook-174
+run_uuid: ad3d4265935d446397d98f82220314f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545201673
+status: 3
+tags: []
+user_id: joao

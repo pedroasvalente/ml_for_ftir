@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/ac9325bb9d2d49da965f29cfca2b4ffa/artifacts
+end_time: 1755543620353
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: ac9325bb9d2d49da965f29cfca2b4ffa
+run_name: youthful-horse-783
+run_uuid: ac9325bb9d2d49da965f29cfca2b4ffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755543561119
+status: 3
+tags: []
+user_id: joao

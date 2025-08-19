@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/8baa8dc6706641e5ade432a7f2c732ff/artifacts
+end_time: 1755549551265
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 8baa8dc6706641e5ade432a7f2c732ff
+run_name: lyrical-dog-385
+run_uuid: 8baa8dc6706641e5ade432a7f2c732ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755549486550
+status: 3
+tags: []
+user_id: joao

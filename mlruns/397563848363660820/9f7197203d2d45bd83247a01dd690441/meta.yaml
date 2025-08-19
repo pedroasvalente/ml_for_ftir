@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/9f7197203d2d45bd83247a01dd690441/artifacts
+end_time: 1755539630101
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 9f7197203d2d45bd83247a01dd690441
+run_name: glamorous-frog-164
+run_uuid: 9f7197203d2d45bd83247a01dd690441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755539476151
+status: 3
+tags: []
+user_id: joao

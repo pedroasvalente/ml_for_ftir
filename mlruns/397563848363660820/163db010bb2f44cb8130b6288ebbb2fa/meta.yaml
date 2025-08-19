@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/163db010bb2f44cb8130b6288ebbb2fa/artifacts
+end_time: 1755545865971
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 163db010bb2f44cb8130b6288ebbb2fa
+run_name: salty-cow-513
+run_uuid: 163db010bb2f44cb8130b6288ebbb2fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545814677
+status: 3
+tags: []
+user_id: joao

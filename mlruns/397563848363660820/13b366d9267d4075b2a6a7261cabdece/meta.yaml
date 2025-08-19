@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/13b366d9267d4075b2a6a7261cabdece/artifacts
+end_time: 1755550822905
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 13b366d9267d4075b2a6a7261cabdece
+run_name: serious-carp-748
+run_uuid: 13b366d9267d4075b2a6a7261cabdece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755549559596
+status: 3
+tags: []
+user_id: joao

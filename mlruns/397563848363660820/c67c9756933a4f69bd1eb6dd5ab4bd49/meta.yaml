@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/c67c9756933a4f69bd1eb6dd5ab4bd49/artifacts
+end_time: 1755545323213
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: c67c9756933a4f69bd1eb6dd5ab4bd49
+run_name: selective-hare-551
+run_uuid: c67c9756933a4f69bd1eb6dd5ab4bd49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545293957
+status: 3
+tags: []
+user_id: joao

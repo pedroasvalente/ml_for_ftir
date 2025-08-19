@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/ba5f5c0527944c6a97b9d2638956c7aa/artifacts
+end_time: 1755545286965
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: ba5f5c0527944c6a97b9d2638956c7aa
+run_name: upbeat-elk-89
+run_uuid: ba5f5c0527944c6a97b9d2638956c7aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545236111
+status: 3
+tags: []
+user_id: joao

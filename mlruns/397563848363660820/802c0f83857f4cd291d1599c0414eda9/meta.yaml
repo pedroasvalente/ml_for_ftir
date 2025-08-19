@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/802c0f83857f4cd291d1599c0414eda9/artifacts
+end_time: 1755555343077
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 802c0f83857f4cd291d1599c0414eda9
+run_name: upset-snail-61
+run_uuid: 802c0f83857f4cd291d1599c0414eda9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755555288629
+status: 3
+tags: []
+user_id: joao

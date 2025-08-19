@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/72e701c315f44e1b8923db78c7bfb26c/artifacts
+end_time: 1755546958369
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 72e701c315f44e1b8923db78c7bfb26c
+run_name: sedate-hen-928
+run_uuid: 72e701c315f44e1b8923db78c7bfb26c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546785938
+status: 3
+tags: []
+user_id: joao

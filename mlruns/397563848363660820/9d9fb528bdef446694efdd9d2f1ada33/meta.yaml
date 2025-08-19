@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/9d9fb528bdef446694efdd9d2f1ada33/artifacts
+end_time: 1755546215540
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 9d9fb528bdef446694efdd9d2f1ada33
+run_name: nimble-goose-848
+run_uuid: 9d9fb528bdef446694efdd9d2f1ada33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546208678
+status: 3
+tags: []
+user_id: joao

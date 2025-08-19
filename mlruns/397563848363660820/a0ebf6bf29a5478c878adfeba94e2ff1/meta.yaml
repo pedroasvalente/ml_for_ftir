@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/a0ebf6bf29a5478c878adfeba94e2ff1/artifacts
+end_time: 1755546652540
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: a0ebf6bf29a5478c878adfeba94e2ff1
+run_name: colorful-deer-111
+run_uuid: a0ebf6bf29a5478c878adfeba94e2ff1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755546610537
+status: 3
+tags: []
+user_id: joao

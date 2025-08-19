@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/9fb982e4ce7c4156b16f09d932d5b355/artifacts
+end_time: 1755545569345
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 9fb982e4ce7c4156b16f09d932d5b355
+run_name: masked-carp-639
+run_uuid: 9fb982e4ce7c4156b16f09d932d5b355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755545514664
+status: 3
+tags: []
+user_id: joao

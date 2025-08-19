@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/397563848363660820/8b13a96828324f53b82d1ba150f03ec2/artifacts
+end_time: 1755553774675
+entry_point_name: ''
+experiment_id: '397563848363660820'
+lifecycle_stage: active
+run_id: 8b13a96828324f53b82d1ba150f03ec2
+run_name: melodic-perch-449
+run_uuid: 8b13a96828324f53b82d1ba150f03ec2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755553724795
+status: 3
+tags: []
+user_id: joao
