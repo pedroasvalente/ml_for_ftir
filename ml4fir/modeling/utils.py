@@ -151,6 +151,30 @@ def save_results(
             index=False,
         )
 
+        target_back_projection_iso["run_id"] = configs_done_df["run_id"].iloc[0]
+        target_back_projection_iso["run_name"] = configs_done_df["run_name"].iloc[0]
+        target_back_projection_iso_path = os.path.join(
+            final_results_path,
+            f"results_summary{suffix_group}_back_projection_best_per_experiment.csv",
+        )
+        if os.path.exists(target_back_projection_iso_path):
+            old_back_projection = pd.read_csv(target_back_projection_iso_path)
+            old_back_projection = old_back_projection[
+                old_back_projection["run_id"] != target_back_projection_iso["run_id"].iloc[0]
+            ]
+            target_back_projection_iso = pd.concat(
+                [old_back_projection, target_back_projection_iso]
+            ).reset_index(drop=True)
+            target_back_projection_iso.to_csv(
+                target_back_projection_iso_path, index=False)
+        else:
+            target_back_projection_iso.to_csv(
+                target_back_projection_iso_path, index=False
+            )
+
+
+
+
         # Save results to Excel
         # target_cross_validation_results.to_excel(
         #     os.path.join(

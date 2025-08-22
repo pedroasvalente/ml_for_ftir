@@ -262,7 +262,7 @@ cnn_regressor_config = KerasMagiaRegressor(
     desc_name="CNN Regressor",
     model_arch="CNN",
     model_kwargs={
-        "filters": [16, 32, 64],
+        "filters": [None, 16, 32, 64],
         "kernel_size": [3],
         "pool_size": [3],
         "num_sequences": [1, 2, 4, 8],
@@ -297,11 +297,12 @@ fcnn_regressor_config = KerasMagiaRegressor(
     desc_name="FCNN Regressor",
     model_arch="FCNN",
     model_kwargs={
-        "filters": [16, 32, 64],
+        "filters": [None, 16, 32, 64],
         "num_sequences": [1, 2, 4, 8],
         "interpretation_filters": [4, 8, 16],
         "double_interpretation": [True],
         "activation_end": ["relu"],
+        "division_per_dim":[True, False]
     },
     compile_kwargs={
         "optimizer": ["adam"],

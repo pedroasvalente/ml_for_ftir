@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/4c62b3208da04dd1a8b6d18e8a571a9e/artifacts
+end_time: 1755875562693
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 4c62b3208da04dd1a8b6d18e8a571a9e
+run_name: orderly-vole-508
+run_uuid: 4c62b3208da04dd1a8b6d18e8a571a9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755875507756
+status: 3
+tags: []
+user_id: joao
