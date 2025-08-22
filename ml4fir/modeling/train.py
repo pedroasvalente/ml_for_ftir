@@ -123,8 +123,10 @@ def train(
     )
     if os.path.exists(target_exp_res_path):
         target_exp_res = pd.read_csv(target_exp_res_path)
-        main_run_id = target_exp_res["main_run_id"].values[0]
-        main_run_args["run_id"] = main_run_id
+        same_run_mask =target_exp_res["run_name"] == run_name
+        # if same_run_mask.any():            
+        #     main_run_id = target_exp_res[same_run_mask]["main_run_id"].values[0]
+        #     main_run_args["run_id"] = main_run_id
         new_confs = pd.DataFrame(configurations)
         new_confs["model_type"] = new_confs["model_type"].map(names_dict)
         mask = new_confs["num_classes"] == 1
@@ -283,7 +285,7 @@ def train(
                         "back_projection_df"
                     ]
                     configs_done = training_results["configs"]
-
+                    configs_done["run_name"]=run_name
                     all_results.append(results)
                     cross_validation_results_all.append(
                         cross_validation_results
