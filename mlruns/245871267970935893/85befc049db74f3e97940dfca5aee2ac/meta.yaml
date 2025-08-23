@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/85befc049db74f3e97940dfca5aee2ac/artifacts
+end_time: 1755894227204
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 85befc049db74f3e97940dfca5aee2ac
+run_name: selective-deer-86
+run_uuid: 85befc049db74f3e97940dfca5aee2ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755893813569
+status: 3
+tags: []
+user_id: joao

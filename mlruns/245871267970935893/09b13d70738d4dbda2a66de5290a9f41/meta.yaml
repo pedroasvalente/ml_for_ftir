@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/09b13d70738d4dbda2a66de5290a9f41/artifacts
+end_time: 1755891751091
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 09b13d70738d4dbda2a66de5290a9f41
+run_name: victorious-mole-888
+run_uuid: 09b13d70738d4dbda2a66de5290a9f41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891707453
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/618d75c726964b9ea62234f4a53673b2/artifacts
+end_time: 1755892882012
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 618d75c726964b9ea62234f4a53673b2
+run_name: defiant-turtle-668
+run_uuid: 618d75c726964b9ea62234f4a53673b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892845555
+status: 3
+tags: []
+user_id: joao

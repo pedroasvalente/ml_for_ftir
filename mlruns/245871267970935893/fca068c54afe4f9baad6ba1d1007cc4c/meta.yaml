@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/fca068c54afe4f9baad6ba1d1007cc4c/artifacts
+end_time: 1755897015961
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: fca068c54afe4f9baad6ba1d1007cc4c
+run_name: glamorous-fish-670
+run_uuid: fca068c54afe4f9baad6ba1d1007cc4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755896647488
+status: 3
+tags: []
+user_id: joao

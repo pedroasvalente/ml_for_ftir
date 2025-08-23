@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/67d5c1dba12240ee8eeeee75282e8525/artifacts
+end_time: 1755890383608
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 67d5c1dba12240ee8eeeee75282e8525
+run_name: debonair-skink-634
+run_uuid: 67d5c1dba12240ee8eeeee75282e8525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755890281512
+status: 3
+tags: []
+user_id: joao

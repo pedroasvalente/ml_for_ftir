@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a5950f873e2e4109bd0609b01a6195c4/artifacts
+end_time: 1755892829555
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a5950f873e2e4109bd0609b01a6195c4
+run_name: spiffy-asp-388
+run_uuid: a5950f873e2e4109bd0609b01a6195c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892791172
+status: 3
+tags: []
+user_id: joao

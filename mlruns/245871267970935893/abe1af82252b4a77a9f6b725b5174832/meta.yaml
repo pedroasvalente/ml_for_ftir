@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/abe1af82252b4a77a9f6b725b5174832/artifacts
+end_time: 1755891858614
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: abe1af82252b4a77a9f6b725b5174832
+run_name: exultant-loon-351
+run_uuid: abe1af82252b4a77a9f6b725b5174832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891833866
+status: 3
+tags: []
+user_id: joao

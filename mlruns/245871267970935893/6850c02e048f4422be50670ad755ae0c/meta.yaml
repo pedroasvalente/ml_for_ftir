@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/6850c02e048f4422be50670ad755ae0c/artifacts
+end_time: 1755892599081
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 6850c02e048f4422be50670ad755ae0c
+run_name: powerful-loon-766
+run_uuid: 6850c02e048f4422be50670ad755ae0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892558637
+status: 3
+tags: []
+user_id: joao

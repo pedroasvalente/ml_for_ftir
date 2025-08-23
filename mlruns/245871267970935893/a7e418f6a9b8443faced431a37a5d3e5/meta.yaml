@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a7e418f6a9b8443faced431a37a5d3e5/artifacts
+end_time: 1755891628646
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a7e418f6a9b8443faced431a37a5d3e5
+run_name: traveling-squid-951
+run_uuid: a7e418f6a9b8443faced431a37a5d3e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891604614
+status: 3
+tags: []
+user_id: joao

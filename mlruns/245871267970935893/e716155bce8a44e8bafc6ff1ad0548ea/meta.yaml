@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/e716155bce8a44e8bafc6ff1ad0548ea/artifacts
+end_time: 1755891938325
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: e716155bce8a44e8bafc6ff1ad0548ea
+run_name: upbeat-boar-682
+run_uuid: e716155bce8a44e8bafc6ff1ad0548ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891913085
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/4006fcf9e6b0449084d0d6454ebb51af/artifacts
+end_time: 1755888144677
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 4006fcf9e6b0449084d0d6454ebb51af
+run_name: dazzling-bee-817
+run_uuid: 4006fcf9e6b0449084d0d6454ebb51af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755888096388
+status: 3
+tags: []
+user_id: joao

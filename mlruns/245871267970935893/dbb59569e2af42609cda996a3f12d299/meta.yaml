@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/dbb59569e2af42609cda996a3f12d299/artifacts
+end_time: 1755887922982
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: dbb59569e2af42609cda996a3f12d299
+run_name: beautiful-frog-598
+run_uuid: dbb59569e2af42609cda996a3f12d299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755886998088
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/c33ed57d9267478797afbbee2e287e51/artifacts
+end_time: 1755918850048
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: c33ed57d9267478797afbbee2e287e51
+run_name: experiment_linear_vo2max_relative
+run_uuid: c33ed57d9267478797afbbee2e287e51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755885890387
+status: 3
+tags: []
+user_id: joao

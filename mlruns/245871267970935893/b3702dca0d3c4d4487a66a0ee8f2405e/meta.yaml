@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/b3702dca0d3c4d4487a66a0ee8f2405e/artifacts
+end_time: 1755896621870
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: b3702dca0d3c4d4487a66a0ee8f2405e
+run_name: marvelous-cub-601
+run_uuid: b3702dca0d3c4d4487a66a0ee8f2405e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755896182949
+status: 3
+tags: []
+user_id: joao

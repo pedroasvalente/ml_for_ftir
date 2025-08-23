@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/5626c54536b44b8dbe27592b7d4fad17/artifacts
+end_time: 1755892154569
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 5626c54536b44b8dbe27592b7d4fad17
+run_name: stately-duck-666
+run_uuid: 5626c54536b44b8dbe27592b7d4fad17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892110448
+status: 3
+tags: []
+user_id: joao

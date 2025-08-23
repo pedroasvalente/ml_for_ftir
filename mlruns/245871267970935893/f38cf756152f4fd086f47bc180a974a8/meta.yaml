@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/f38cf756152f4fd086f47bc180a974a8/artifacts
+end_time: 1755892310519
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: f38cf756152f4fd086f47bc180a974a8
+run_name: mysterious-crab-209
+run_uuid: f38cf756152f4fd086f47bc180a974a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892265617
+status: 3
+tags: []
+user_id: joao

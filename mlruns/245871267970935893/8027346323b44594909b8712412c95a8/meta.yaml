@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/8027346323b44594909b8712412c95a8/artifacts
+end_time: 1755892232435
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 8027346323b44594909b8712412c95a8
+run_name: efficient-ant-936
+run_uuid: 8027346323b44594909b8712412c95a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892187854
+status: 3
+tags: []
+user_id: joao

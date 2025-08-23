@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/5dde3d7dd2af4a0b988be479758cc37d/artifacts
+end_time: 1755889088857
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 5dde3d7dd2af4a0b988be479758cc37d
+run_name: treasured-mole-466
+run_uuid: 5dde3d7dd2af4a0b988be479758cc37d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755888148033
+status: 3
+tags: []
+user_id: joao

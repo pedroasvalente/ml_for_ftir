@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a284c9231ec74b2bb25ee4a6006c34fc/artifacts
+end_time: 1755893360559
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a284c9231ec74b2bb25ee4a6006c34fc
+run_name: kindly-owl-951
+run_uuid: a284c9231ec74b2bb25ee4a6006c34fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755893346540
+status: 3
+tags: []
+user_id: joao

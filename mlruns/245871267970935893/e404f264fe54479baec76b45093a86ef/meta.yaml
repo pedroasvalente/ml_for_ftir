@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/e404f264fe54479baec76b45093a86ef/artifacts
+end_time: 1755892609869
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: e404f264fe54479baec76b45093a86ef
+run_name: luminous-steed-686
+run_uuid: e404f264fe54479baec76b45093a86ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892604039
+status: 3
+tags: []
+user_id: joao

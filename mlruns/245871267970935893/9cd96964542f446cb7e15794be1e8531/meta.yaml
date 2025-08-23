@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/9cd96964542f446cb7e15794be1e8531/artifacts
+end_time: 1755886800780
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 9cd96964542f446cb7e15794be1e8531
+run_name: capricious-dove-392
+run_uuid: 9cd96964542f446cb7e15794be1e8531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755886754933
+status: 3
+tags: []
+user_id: joao

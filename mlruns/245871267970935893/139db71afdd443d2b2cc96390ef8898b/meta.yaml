@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/139db71afdd443d2b2cc96390ef8898b/artifacts
+end_time: 1755891751091
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 139db71afdd443d2b2cc96390ef8898b
+run_name: nosy-hound-572
+run_uuid: 139db71afdd443d2b2cc96390ef8898b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891707453
+status: 3
+tags: []
+user_id: joao

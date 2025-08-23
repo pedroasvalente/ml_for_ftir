@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/295b16bb61fe4053bbcee292d33250f2/artifacts
+end_time: 1755892106218
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 295b16bb61fe4053bbcee292d33250f2
+run_name: unleashed-squid-620
+run_uuid: 295b16bb61fe4053bbcee292d33250f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892081895
+status: 3
+tags: []
+user_id: joao

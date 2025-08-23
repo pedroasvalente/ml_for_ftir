@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/0a5e0250b9bc444c97e7f953c1e950c7/artifacts
+end_time: 1755890220393
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 0a5e0250b9bc444c97e7f953c1e950c7
+run_name: vaunted-sow-800
+run_uuid: 0a5e0250b9bc444c97e7f953c1e950c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755889348223
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/b1494abb0b6d4c269ca8f48eb3707930/artifacts
+end_time: 1755892339196
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: b1494abb0b6d4c269ca8f48eb3707930
+run_name: clumsy-cub-630
+run_uuid: b1494abb0b6d4c269ca8f48eb3707930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892314940
+status: 3
+tags: []
+user_id: joao

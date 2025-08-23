@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/eb654eda80af4d4cbe7adbc6f452ac05/artifacts
+end_time: 1755892840589
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: eb654eda80af4d4cbe7adbc6f452ac05
+run_name: learned-perch-748
+run_uuid: eb654eda80af4d4cbe7adbc6f452ac05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892834864
+status: 3
+tags: []
+user_id: joao

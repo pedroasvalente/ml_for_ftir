@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/67d7265bf1964fd1a4ead1a47dff965f/artifacts
+end_time: 1755896641706
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 67d7265bf1964fd1a4ead1a47dff965f
+run_name: calm-sloth-314
+run_uuid: 67d7265bf1964fd1a4ead1a47dff965f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755896627825
+status: 3
+tags: []
+user_id: joao

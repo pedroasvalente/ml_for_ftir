@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/f31f7c39c1a64dcf8ab3e5bf6694c77f/artifacts
+end_time: 1755892735398
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: f31f7c39c1a64dcf8ab3e5bf6694c77f
+run_name: flawless-calf-805
+run_uuid: f31f7c39c1a64dcf8ab3e5bf6694c77f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892729638
+status: 3
+tags: []
+user_id: joao

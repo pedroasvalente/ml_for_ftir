@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/d8a7d6cdd5ba4f9fa8b2fa9e64d4a58b/artifacts
+end_time: 1755892840589
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: d8a7d6cdd5ba4f9fa8b2fa9e64d4a58b
+run_name: omniscient-cow-414
+run_uuid: d8a7d6cdd5ba4f9fa8b2fa9e64d4a58b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892834864
+status: 3
+tags: []
+user_id: joao

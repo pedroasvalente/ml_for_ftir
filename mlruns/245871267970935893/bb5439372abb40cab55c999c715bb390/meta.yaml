@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/bb5439372abb40cab55c999c715bb390/artifacts
+end_time: 1755890277928
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: bb5439372abb40cab55c999c715bb390
+run_name: capricious-snail-72
+run_uuid: bb5439372abb40cab55c999c715bb390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755890228882
+status: 3
+tags: []
+user_id: joao

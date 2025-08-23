@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/7409879316c04d0d9b77f4cceaadd995/artifacts
+end_time: 1755886800780
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 7409879316c04d0d9b77f4cceaadd995
+run_name: polite-yak-953
+run_uuid: 7409879316c04d0d9b77f4cceaadd995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755886754933
+status: 3
+tags: []
+user_id: joao

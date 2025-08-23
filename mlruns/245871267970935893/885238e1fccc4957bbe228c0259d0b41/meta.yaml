@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/885238e1fccc4957bbe228c0259d0b41/artifacts
+end_time: 1755889344749
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 885238e1fccc4957bbe228c0259d0b41
+run_name: omniscient-mink-154
+run_uuid: 885238e1fccc4957bbe228c0259d0b41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755889295525
+status: 3
+tags: []
+user_id: joao

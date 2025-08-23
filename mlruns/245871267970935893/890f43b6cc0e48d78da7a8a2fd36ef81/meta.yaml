@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/890f43b6cc0e48d78da7a8a2fd36ef81/artifacts
+end_time: 1755892735398
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 890f43b6cc0e48d78da7a8a2fd36ef81
+run_name: judicious-shrimp-705
+run_uuid: 890f43b6cc0e48d78da7a8a2fd36ef81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892729638
+status: 3
+tags: []
+user_id: joao

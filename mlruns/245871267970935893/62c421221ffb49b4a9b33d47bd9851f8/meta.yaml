@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/62c421221ffb49b4a9b33d47bd9851f8/artifacts
+end_time: 1755894246463
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 62c421221ffb49b4a9b33d47bd9851f8
+run_name: melodic-ram-116
+run_uuid: 62c421221ffb49b4a9b33d47bd9851f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755894232607
+status: 3
+tags: []
+user_id: joao

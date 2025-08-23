@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/2c22c944fddd44c099c5c70a74c1a9d5/artifacts
+end_time: 1755892609869
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 2c22c944fddd44c099c5c70a74c1a9d5
+run_name: bustling-stork-900
+run_uuid: 2c22c944fddd44c099c5c70a74c1a9d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892604039
+status: 3
+tags: []
+user_id: joao

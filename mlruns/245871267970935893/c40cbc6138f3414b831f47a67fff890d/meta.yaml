@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/c40cbc6138f3414b831f47a67fff890d/artifacts
+end_time: 1755892882012
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: c40cbc6138f3414b831f47a67fff890d
+run_name: blushing-finch-299
+run_uuid: c40cbc6138f3414b831f47a67fff890d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892845555
+status: 3
+tags: []
+user_id: joao

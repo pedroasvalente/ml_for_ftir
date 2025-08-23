@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/2aac4763677048689917f016d22636f0/artifacts
+end_time: 1755892389418
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 2aac4763677048689917f016d22636f0
+run_name: popular-stoat-520
+run_uuid: 2aac4763677048689917f016d22636f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892343616
+status: 3
+tags: []
+user_id: joao

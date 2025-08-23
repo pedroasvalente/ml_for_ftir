@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/2d49808f01684547b1e24ddc6c15cd2b/artifacts
+end_time: 1755890277928
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 2d49808f01684547b1e24ddc6c15cd2b
+run_name: overjoyed-rat-283
+run_uuid: 2d49808f01684547b1e24ddc6c15cd2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755890228882
+status: 3
+tags: []
+user_id: joao

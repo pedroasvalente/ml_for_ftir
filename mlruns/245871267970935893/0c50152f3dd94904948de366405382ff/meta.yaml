@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/0c50152f3dd94904948de366405382ff/artifacts
+end_time: 1755891938325
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 0c50152f3dd94904948de366405382ff
+run_name: nosy-ox-617
+run_uuid: 0c50152f3dd94904948de366405382ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891913085
+status: 3
+tags: []
+user_id: joao

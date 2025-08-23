@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/051ea2f3900e4e7ea9bed180d1ba9819/artifacts
+end_time: 1755894246463
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 051ea2f3900e4e7ea9bed180d1ba9819
+run_name: gentle-roo-640
+run_uuid: 051ea2f3900e4e7ea9bed180d1ba9819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755894232607
+status: 3
+tags: []
+user_id: joao

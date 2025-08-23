@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/29cacb3e83824ec9ac4db0660f385b18/artifacts
+end_time: 1755890448387
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 29cacb3e83824ec9ac4db0660f385b18
+run_name: adventurous-mule-990
+run_uuid: 29cacb3e83824ec9ac4db0660f385b18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755890402250
+status: 3
+tags: []
+user_id: joao

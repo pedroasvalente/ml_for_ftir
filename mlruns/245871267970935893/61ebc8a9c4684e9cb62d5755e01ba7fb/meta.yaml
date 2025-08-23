@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/61ebc8a9c4684e9cb62d5755e01ba7fb/artifacts
+end_time: 1755886744383
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 61ebc8a9c4684e9cb62d5755e01ba7fb
+run_name: legendary-ray-265
+run_uuid: 61ebc8a9c4684e9cb62d5755e01ba7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755885891058
+status: 3
+tags: []
+user_id: joao

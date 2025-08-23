@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a6e4516f90ce4af09a4321e57411797b/artifacts
+end_time: 1755891585475
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a6e4516f90ce4af09a4321e57411797b
+run_name: skillful-mouse-799
+run_uuid: a6e4516f90ce4af09a4321e57411797b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891487213
+status: 3
+tags: []
+user_id: joao

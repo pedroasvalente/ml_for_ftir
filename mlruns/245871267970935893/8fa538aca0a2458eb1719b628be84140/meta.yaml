@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/8fa538aca0a2458eb1719b628be84140/artifacts
+end_time: 1755892786347
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 8fa538aca0a2458eb1719b628be84140
+run_name: nimble-bear-658
+run_uuid: 8fa538aca0a2458eb1719b628be84140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892780562
+status: 3
+tags: []
+user_id: joao

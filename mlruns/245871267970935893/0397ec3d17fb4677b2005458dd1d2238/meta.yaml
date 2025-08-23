@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/0397ec3d17fb4677b2005458dd1d2238/artifacts
+end_time: 1755891703524
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 0397ec3d17fb4677b2005458dd1d2238
+run_name: intelligent-cod-606
+run_uuid: 0397ec3d17fb4677b2005458dd1d2238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891679568
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/97e07cb340a845719e949ad2184895c0/artifacts
+end_time: 1755891703524
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 97e07cb340a845719e949ad2184895c0
+run_name: sneaky-hog-65
+run_uuid: 97e07cb340a845719e949ad2184895c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891679568
+status: 3
+tags: []
+user_id: joao

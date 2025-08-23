@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/17f8ac31a55f44ae9f862ea5d13b86f3/artifacts
+end_time: 1755893341371
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 17f8ac31a55f44ae9f862ea5d13b86f3
+run_name: languid-skink-192
+run_uuid: 17f8ac31a55f44ae9f862ea5d13b86f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892960847
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/e7b5750045214f7e8dbad013da3884c5/artifacts
+end_time: 1755887977429
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: e7b5750045214f7e8dbad013da3884c5
+run_name: amazing-squirrel-576
+run_uuid: e7b5750045214f7e8dbad013da3884c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755887931023
+status: 3
+tags: []
+user_id: joao

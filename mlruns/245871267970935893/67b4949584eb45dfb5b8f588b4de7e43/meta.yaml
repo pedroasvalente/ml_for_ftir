@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/67b4949584eb45dfb5b8f588b4de7e43/artifacts
+end_time: 1755892448944
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 67b4949584eb45dfb5b8f588b4de7e43
+run_name: gentle-sheep-360
+run_uuid: 67b4949584eb45dfb5b8f588b4de7e43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892443262
+status: 3
+tags: []
+user_id: joao

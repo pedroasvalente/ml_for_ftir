@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/f5a8134ba5b640969e0297b2f6a4a81c/artifacts
+end_time: 1755886800780
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: f5a8134ba5b640969e0297b2f6a4a81c
+run_name: popular-dog-53
+run_uuid: f5a8134ba5b640969e0297b2f6a4a81c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755886754933
+status: 3
+tags: []
+user_id: joao

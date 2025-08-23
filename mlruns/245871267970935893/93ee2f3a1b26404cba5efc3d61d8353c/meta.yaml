@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/93ee2f3a1b26404cba5efc3d61d8353c/artifacts
+end_time: 1755892077435
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 93ee2f3a1b26404cba5efc3d61d8353c
+run_name: secretive-smelt-119
+run_uuid: 93ee2f3a1b26404cba5efc3d61d8353c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892026275
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/7b450d8cb61e45dd892901f3e3f0fa51/artifacts
+end_time: 1755895227278
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 7b450d8cb61e45dd892901f3e3f0fa51
+run_name: caring-croc-563
+run_uuid: 7b450d8cb61e45dd892901f3e3f0fa51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755895212905
+status: 3
+tags: []
+user_id: joao

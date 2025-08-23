@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/abf52f0e7d414cc89a5cf3a19d3cb3cf/artifacts
+end_time: 1755894736724
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: abf52f0e7d414cc89a5cf3a19d3cb3cf
+run_name: sincere-hare-280
+run_uuid: abf52f0e7d414cc89a5cf3a19d3cb3cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755894722251
+status: 3
+tags: []
+user_id: joao

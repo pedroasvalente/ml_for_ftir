@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/2aed8ddc0c934f88b7fdd520e6fb242c/artifacts
+end_time: 1755888144677
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 2aed8ddc0c934f88b7fdd520e6fb242c
+run_name: marvelous-goose-357
+run_uuid: 2aed8ddc0c934f88b7fdd520e6fb242c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755888096388
+status: 3
+tags: []
+user_id: joao

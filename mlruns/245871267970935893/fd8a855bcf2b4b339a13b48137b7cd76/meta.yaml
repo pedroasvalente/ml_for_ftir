@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/fd8a855bcf2b4b339a13b48137b7cd76/artifacts
+end_time: 1755892261248
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: fd8a855bcf2b4b339a13b48137b7cd76
+run_name: smiling-ram-611
+run_uuid: fd8a855bcf2b4b339a13b48137b7cd76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892236840
+status: 3
+tags: []
+user_id: joao

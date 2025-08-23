@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/98918013488e4873bf11d9391dd42f68/artifacts
+end_time: 1755892339196
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 98918013488e4873bf11d9391dd42f68
+run_name: sassy-bird-195
+run_uuid: 98918013488e4873bf11d9391dd42f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892314940
+status: 3
+tags: []
+user_id: joao

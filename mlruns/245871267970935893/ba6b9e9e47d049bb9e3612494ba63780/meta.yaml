@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/ba6b9e9e47d049bb9e3612494ba63780/artifacts
+end_time: 1755893360559
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: ba6b9e9e47d049bb9e3612494ba63780
+run_name: monumental-crab-288
+run_uuid: ba6b9e9e47d049bb9e3612494ba63780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755893346540
+status: 3
+tags: []
+user_id: joao

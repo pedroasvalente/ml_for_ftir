@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/54f102230b8c443bb0080d75212fb70a/artifacts
+end_time: 1755886930741
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 54f102230b8c443bb0080d75212fb70a
+run_name: charming-bat-150
+run_uuid: 54f102230b8c443bb0080d75212fb70a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755886803917
+status: 3
+tags: []
+user_id: joao

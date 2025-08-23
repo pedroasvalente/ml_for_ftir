@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/34fa8b29bc3e4298a71f83d3b830d9a5/artifacts
+end_time: 1755891992923
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 34fa8b29bc3e4298a71f83d3b830d9a5
+run_name: selective-snake-496
+run_uuid: 34fa8b29bc3e4298a71f83d3b830d9a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891942481
+status: 3
+tags: []
+user_id: joao

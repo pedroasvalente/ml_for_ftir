@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/b5d366c5088147888bbe4553d5984f82/artifacts
+end_time: 1755892543653
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: b5d366c5088147888bbe4553d5984f82
+run_name: likeable-dog-114
+run_uuid: b5d366c5088147888bbe4553d5984f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892505833
+status: 3
+tags: []
+user_id: joao

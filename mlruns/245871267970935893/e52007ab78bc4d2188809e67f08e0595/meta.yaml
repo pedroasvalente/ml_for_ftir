@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/e52007ab78bc4d2188809e67f08e0595/artifacts
+end_time: 1755893808322
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: e52007ab78bc4d2188809e67f08e0595
+run_name: sassy-shrimp-727
+run_uuid: e52007ab78bc4d2188809e67f08e0595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755893794312
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/527e384a18764b2abebadc2d0d242d46/artifacts
+end_time: 1755895761212
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 527e384a18764b2abebadc2d0d242d46
+run_name: funny-crab-70
+run_uuid: 527e384a18764b2abebadc2d0d242d46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755895747260
+status: 3
+tags: []
+user_id: joao

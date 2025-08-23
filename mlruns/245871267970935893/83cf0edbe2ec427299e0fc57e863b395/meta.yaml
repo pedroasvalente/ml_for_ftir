@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/83cf0edbe2ec427299e0fc57e863b395/artifacts
+end_time: 1755886930741
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 83cf0edbe2ec427299e0fc57e863b395
+run_name: bouncy-penguin-855
+run_uuid: 83cf0edbe2ec427299e0fc57e863b395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755886803917
+status: 3
+tags: []
+user_id: joao

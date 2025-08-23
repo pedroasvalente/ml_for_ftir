@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/fb8f30511d1840fda5cd037e6f80dad3/artifacts
+end_time: 1755892724721
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: fb8f30511d1840fda5cd037e6f80dad3
+run_name: invincible-doe-97
+run_uuid: fb8f30511d1840fda5cd037e6f80dad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892675980
+status: 3
+tags: []
+user_id: joao

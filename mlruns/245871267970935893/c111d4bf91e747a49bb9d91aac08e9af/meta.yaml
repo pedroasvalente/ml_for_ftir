@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/c111d4bf91e747a49bb9d91aac08e9af/artifacts
+end_time: 1755893808322
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: c111d4bf91e747a49bb9d91aac08e9af
+run_name: enthused-fish-576
+run_uuid: c111d4bf91e747a49bb9d91aac08e9af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755893794312
+status: 3
+tags: []
+user_id: joao

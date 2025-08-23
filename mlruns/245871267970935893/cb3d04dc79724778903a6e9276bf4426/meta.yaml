@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/cb3d04dc79724778903a6e9276bf4426/artifacts
+end_time: 1755892829555
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: cb3d04dc79724778903a6e9276bf4426
+run_name: wise-stoat-571
+run_uuid: cb3d04dc79724778903a6e9276bf4426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892791172
+status: 3
+tags: []
+user_id: joao

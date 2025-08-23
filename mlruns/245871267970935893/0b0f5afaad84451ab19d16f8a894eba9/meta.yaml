@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/0b0f5afaad84451ab19d16f8a894eba9/artifacts
+end_time: 1755897015961
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 0b0f5afaad84451ab19d16f8a894eba9
+run_name: classy-ox-919
+run_uuid: 0b0f5afaad84451ab19d16f8a894eba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755896647488
+status: 3
+tags: []
+user_id: joao

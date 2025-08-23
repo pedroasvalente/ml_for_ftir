@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/6deb679be4754fe69dd9102a02c67c9a/artifacts
+end_time: 1755892261248
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 6deb679be4754fe69dd9102a02c67c9a
+run_name: mysterious-donkey-59
+run_uuid: 6deb679be4754fe69dd9102a02c67c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892236840
+status: 3
+tags: []
+user_id: joao

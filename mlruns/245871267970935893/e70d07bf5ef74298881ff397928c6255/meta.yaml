@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/e70d07bf5ef74298881ff397928c6255/artifacts
+end_time: 1755888077963
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: e70d07bf5ef74298881ff397928c6255
+run_name: unleashed-grub-699
+run_uuid: e70d07bf5ef74298881ff397928c6255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755887980710
+status: 3
+tags: []
+user_id: joao

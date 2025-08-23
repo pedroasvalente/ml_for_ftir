@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/62be32614e0f4590bf27465fe68b7d81/artifacts
+end_time: 1755892609869
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 62be32614e0f4590bf27465fe68b7d81
+run_name: marvelous-lamb-935
+run_uuid: 62be32614e0f4590bf27465fe68b7d81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892604039
+status: 3
+tags: []
+user_id: joao

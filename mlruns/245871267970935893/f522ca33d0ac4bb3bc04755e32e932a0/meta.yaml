@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/f522ca33d0ac4bb3bc04755e32e932a0/artifacts
+end_time: 1755894716723
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: f522ca33d0ac4bb3bc04755e32e932a0
+run_name: kindly-quail-855
+run_uuid: f522ca33d0ac4bb3bc04755e32e932a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755894251800
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/81ec6a14d6c847d7a5aeb7ccfa08d2be/artifacts
+end_time: 1755892554045
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 81ec6a14d6c847d7a5aeb7ccfa08d2be
+run_name: capable-horse-220
+run_uuid: 81ec6a14d6c847d7a5aeb7ccfa08d2be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892548295
+status: 3
+tags: []
+user_id: joao

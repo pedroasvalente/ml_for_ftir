@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/0f0f77578a254006b420bfaf3d232ad7/artifacts
+end_time: 1755892882012
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 0f0f77578a254006b420bfaf3d232ad7
+run_name: handsome-deer-76
+run_uuid: 0f0f77578a254006b420bfaf3d232ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892845555
+status: 3
+tags: []
+user_id: joao

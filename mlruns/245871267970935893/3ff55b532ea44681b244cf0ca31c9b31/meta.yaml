@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/3ff55b532ea44681b244cf0ca31c9b31/artifacts
+end_time: 1755892022085
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 3ff55b532ea44681b244cf0ca31c9b31
+run_name: awesome-steed-505
+run_uuid: 3ff55b532ea44681b244cf0ca31c9b31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891997054
+status: 3
+tags: []
+user_id: joao

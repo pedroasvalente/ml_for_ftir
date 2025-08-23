@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/f9d6b104b44343758cc09e1c81fb84bc/artifacts
+end_time: 1755887922982
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: f9d6b104b44343758cc09e1c81fb84bc
+run_name: dapper-ram-886
+run_uuid: f9d6b104b44343758cc09e1c81fb84bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755886998088
+status: 3
+tags: []
+user_id: joao

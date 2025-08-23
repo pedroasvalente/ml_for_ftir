@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/89dc4fc5055447fb91571ae45f610c10/artifacts
+end_time: 1755892840589
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 89dc4fc5055447fb91571ae45f610c10
+run_name: aged-toad-154
+run_uuid: 89dc4fc5055447fb91571ae45f610c10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892834864
+status: 3
+tags: []
+user_id: joao

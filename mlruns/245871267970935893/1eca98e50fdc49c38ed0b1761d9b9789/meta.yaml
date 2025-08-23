@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/1eca98e50fdc49c38ed0b1761d9b9789/artifacts
+end_time: 1755890220393
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 1eca98e50fdc49c38ed0b1761d9b9789
+run_name: honorable-lark-125
+run_uuid: 1eca98e50fdc49c38ed0b1761d9b9789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755889348223
+status: 3
+tags: []
+user_id: joao

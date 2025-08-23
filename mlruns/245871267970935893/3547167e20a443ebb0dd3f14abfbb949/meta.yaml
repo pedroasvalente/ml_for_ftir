@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/3547167e20a443ebb0dd3f14abfbb949/artifacts
+end_time: 1755896157470
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 3547167e20a443ebb0dd3f14abfbb949
+run_name: classy-goat-174
+run_uuid: 3547167e20a443ebb0dd3f14abfbb949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755895766804
+status: 3
+tags: []
+user_id: joao

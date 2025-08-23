@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/cc901024690e471ca356d7e4eb01682b/artifacts
+end_time: 1755891628646
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: cc901024690e471ca356d7e4eb01682b
+run_name: fearless-bee-933
+run_uuid: cc901024690e471ca356d7e4eb01682b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891604614
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/6449fc61cbe64c38a09d1eb8ab43d52a/artifacts
+end_time: 1755887977429
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 6449fc61cbe64c38a09d1eb8ab43d52a
+run_name: rogue-whale-279
+run_uuid: 6449fc61cbe64c38a09d1eb8ab43d52a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755887931023
+status: 3
+tags: []
+user_id: joao

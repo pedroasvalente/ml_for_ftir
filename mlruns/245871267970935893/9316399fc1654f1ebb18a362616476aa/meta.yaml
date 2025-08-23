@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/9316399fc1654f1ebb18a362616476aa/artifacts
+end_time: 1755892501243
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 9316399fc1654f1ebb18a362616476aa
+run_name: likeable-rat-52
+run_uuid: 9316399fc1654f1ebb18a362616476aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892495464
+status: 3
+tags: []
+user_id: joao

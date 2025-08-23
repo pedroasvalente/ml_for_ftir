@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/705da1dcf92e43ffa03a842541657182/artifacts
+end_time: 1755894716723
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 705da1dcf92e43ffa03a842541657182
+run_name: debonair-shrike-162
+run_uuid: 705da1dcf92e43ffa03a842541657182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755894251800
+status: 3
+tags: []
+user_id: joao

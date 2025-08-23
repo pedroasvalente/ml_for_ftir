@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/c8dd24346b4749209e1784704e5ac27b/artifacts
+end_time: 1755892389418
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: c8dd24346b4749209e1784704e5ac27b
+run_name: rumbling-elk-330
+run_uuid: c8dd24346b4749209e1784704e5ac27b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892343616
+status: 3
+tags: []
+user_id: joao

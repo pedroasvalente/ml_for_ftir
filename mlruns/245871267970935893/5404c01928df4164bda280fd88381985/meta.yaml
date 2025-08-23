@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/5404c01928df4164bda280fd88381985/artifacts
+end_time: 1755892399668
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 5404c01928df4164bda280fd88381985
+run_name: legendary-moose-737
+run_uuid: 5404c01928df4164bda280fd88381985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892393932
+status: 3
+tags: []
+user_id: joao

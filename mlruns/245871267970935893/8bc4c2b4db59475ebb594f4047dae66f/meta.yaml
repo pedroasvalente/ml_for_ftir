@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/8bc4c2b4db59475ebb594f4047dae66f/artifacts
+end_time: 1755889145952
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 8bc4c2b4db59475ebb594f4047dae66f
+run_name: adventurous-fawn-567
+run_uuid: 8bc4c2b4db59475ebb594f4047dae66f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755889097555
+status: 3
+tags: []
+user_id: joao

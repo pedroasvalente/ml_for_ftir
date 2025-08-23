@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/81fd0f8cdd6445e4b038b5abe1816e37/artifacts
+end_time: 1755892892677
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 81fd0f8cdd6445e4b038b5abe1816e37
+run_name: monumental-sloth-224
+run_uuid: 81fd0f8cdd6445e4b038b5abe1816e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892886958
+status: 3
+tags: []
+user_id: joao

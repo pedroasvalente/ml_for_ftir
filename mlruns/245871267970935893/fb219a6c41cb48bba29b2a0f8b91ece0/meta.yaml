@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/fb219a6c41cb48bba29b2a0f8b91ece0/artifacts
+end_time: 1755891780085
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: fb219a6c41cb48bba29b2a0f8b91ece0
+run_name: amazing-crane-108
+run_uuid: fb219a6c41cb48bba29b2a0f8b91ece0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891755155
+status: 3
+tags: []
+user_id: joao

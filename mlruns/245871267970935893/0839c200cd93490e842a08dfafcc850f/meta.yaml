@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/0839c200cd93490e842a08dfafcc850f/artifacts
+end_time: 1755890383608
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 0839c200cd93490e842a08dfafcc850f
+run_name: aged-worm-46
+run_uuid: 0839c200cd93490e842a08dfafcc850f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755890281512
+status: 3
+tags: []
+user_id: joao

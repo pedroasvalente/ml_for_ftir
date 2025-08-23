@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/056822fdb4d94324bbeafdde7fce5ad9/artifacts
+end_time: 1755892183546
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 056822fdb4d94324bbeafdde7fce5ad9
+run_name: suave-calf-786
+run_uuid: 056822fdb4d94324bbeafdde7fce5ad9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892158892
+status: 3
+tags: []
+user_id: joao

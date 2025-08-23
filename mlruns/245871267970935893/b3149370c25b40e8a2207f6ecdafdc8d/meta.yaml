@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/b3149370c25b40e8a2207f6ecdafdc8d/artifacts
+end_time: 1755892786347
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: b3149370c25b40e8a2207f6ecdafdc8d
+run_name: welcoming-shrimp-103
+run_uuid: b3149370c25b40e8a2207f6ecdafdc8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892780562
+status: 3
+tags: []
+user_id: joao

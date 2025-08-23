@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/215faa9e54184331ba1133c28535ae84/artifacts
+end_time: 1755891829858
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 215faa9e54184331ba1133c28535ae84
+run_name: secretive-moose-863
+run_uuid: 215faa9e54184331ba1133c28535ae84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891784092
+status: 3
+tags: []
+user_id: joao

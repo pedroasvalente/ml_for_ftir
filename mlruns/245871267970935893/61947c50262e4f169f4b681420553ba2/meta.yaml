@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/61947c50262e4f169f4b681420553ba2/artifacts
+end_time: 1755892937094
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 61947c50262e4f169f4b681420553ba2
+run_name: glamorous-lamb-984
+run_uuid: 61947c50262e4f169f4b681420553ba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892897687
+status: 3
+tags: []
+user_id: joao

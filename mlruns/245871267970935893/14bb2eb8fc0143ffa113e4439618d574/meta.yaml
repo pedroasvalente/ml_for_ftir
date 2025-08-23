@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/14bb2eb8fc0143ffa113e4439618d574/artifacts
+end_time: 1755896157470
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 14bb2eb8fc0143ffa113e4439618d574
+run_name: industrious-worm-143
+run_uuid: 14bb2eb8fc0143ffa113e4439618d574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755895766804
+status: 3
+tags: []
+user_id: joao

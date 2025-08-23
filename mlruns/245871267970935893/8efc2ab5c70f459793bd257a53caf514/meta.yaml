@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/8efc2ab5c70f459793bd257a53caf514/artifacts
+end_time: 1755886930741
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 8efc2ab5c70f459793bd257a53caf514
+run_name: honorable-skink-22
+run_uuid: 8efc2ab5c70f459793bd257a53caf514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755886803917
+status: 3
+tags: []
+user_id: joao

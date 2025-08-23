@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/ab690cf96e244dc1bb1db3a577dddff9/artifacts
+end_time: 1755891428584
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: ab690cf96e244dc1bb1db3a577dddff9
+run_name: angry-bird-627
+run_uuid: ab690cf96e244dc1bb1db3a577dddff9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755890452313
+status: 3
+tags: []
+user_id: joao

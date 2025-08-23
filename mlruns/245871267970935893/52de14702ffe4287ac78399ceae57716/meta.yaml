@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/52de14702ffe4287ac78399ceae57716/artifacts
+end_time: 1755897035537
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 52de14702ffe4287ac78399ceae57716
+run_name: rumbling-lark-821
+run_uuid: 52de14702ffe4287ac78399ceae57716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755897021857
+status: 3
+tags: []
+user_id: joao

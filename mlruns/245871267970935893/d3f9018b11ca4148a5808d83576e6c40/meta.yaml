@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/d3f9018b11ca4148a5808d83576e6c40/artifacts
+end_time: 1755886930741
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: d3f9018b11ca4148a5808d83576e6c40
+run_name: upset-stork-134
+run_uuid: d3f9018b11ca4148a5808d83576e6c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755886803917
+status: 3
+tags: []
+user_id: joao

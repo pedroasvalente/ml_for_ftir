@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/b60a3f1fd4ca495a999beec1bb3de340/artifacts
+end_time: 1755892775725
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: b60a3f1fd4ca495a999beec1bb3de340
+run_name: awesome-colt-794
+run_uuid: b60a3f1fd4ca495a999beec1bb3de340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892740206
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/acdf59028a83435b9d952056d46c12ca/artifacts
+end_time: 1755896641706
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: acdf59028a83435b9d952056d46c12ca
+run_name: adorable-zebra-568
+run_uuid: acdf59028a83435b9d952056d46c12ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755896627825
+status: 3
+tags: []
+user_id: joao

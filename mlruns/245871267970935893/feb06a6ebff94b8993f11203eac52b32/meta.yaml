@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/feb06a6ebff94b8993f11203eac52b32/artifacts
+end_time: 1755892955842
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: feb06a6ebff94b8993f11203eac52b32
+run_name: serious-sow-324
+run_uuid: feb06a6ebff94b8993f11203eac52b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892942167
+status: 3
+tags: []
+user_id: joao

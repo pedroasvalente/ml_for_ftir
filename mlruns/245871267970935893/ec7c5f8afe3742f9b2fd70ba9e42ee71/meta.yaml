@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/ec7c5f8afe3742f9b2fd70ba9e42ee71/artifacts
+end_time: 1755892438779
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: ec7c5f8afe3742f9b2fd70ba9e42ee71
+run_name: fortunate-wren-394
+run_uuid: ec7c5f8afe3742f9b2fd70ba9e42ee71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892404099
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/d6a0eccb3dd94b15a6acf6c5926336ef/artifacts
+end_time: 1755895761212
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: d6a0eccb3dd94b15a6acf6c5926336ef
+run_name: luxuriant-eel-704
+run_uuid: d6a0eccb3dd94b15a6acf6c5926336ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755895747260
+status: 3
+tags: []
+user_id: joao

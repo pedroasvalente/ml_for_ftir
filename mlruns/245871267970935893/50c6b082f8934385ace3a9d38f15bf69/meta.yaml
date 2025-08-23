@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/50c6b082f8934385ace3a9d38f15bf69/artifacts
+end_time: 1755894736724
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 50c6b082f8934385ace3a9d38f15bf69
+run_name: sedate-ant-379
+run_uuid: 50c6b082f8934385ace3a9d38f15bf69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755894722251
+status: 3
+tags: []
+user_id: joao

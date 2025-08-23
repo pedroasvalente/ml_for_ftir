@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/c597c27961e7464fa893853593086242/artifacts
+end_time: 1755892735398
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: c597c27961e7464fa893853593086242
+run_name: nervous-gnu-974
+run_uuid: c597c27961e7464fa893853593086242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892729638
+status: 3
+tags: []
+user_id: joao

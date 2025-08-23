@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/5ec4ce25a842404084121031135db407/artifacts
+end_time: 1755889145952
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 5ec4ce25a842404084121031135db407
+run_name: unequaled-doe-199
+run_uuid: 5ec4ce25a842404084121031135db407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755889097555
+status: 3
+tags: []
+user_id: joao

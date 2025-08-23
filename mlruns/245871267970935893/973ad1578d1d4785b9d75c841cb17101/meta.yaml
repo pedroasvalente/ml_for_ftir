@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/973ad1578d1d4785b9d75c841cb17101/artifacts
+end_time: 1755892490816
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 973ad1578d1d4785b9d75c841cb17101
+run_name: beautiful-zebra-451
+run_uuid: 973ad1578d1d4785b9d75c841cb17101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892453487
+status: 3
+tags: []
+user_id: joao

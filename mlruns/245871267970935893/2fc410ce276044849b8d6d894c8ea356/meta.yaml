@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/2fc410ce276044849b8d6d894c8ea356/artifacts
+end_time: 1755895761212
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 2fc410ce276044849b8d6d894c8ea356
+run_name: burly-snipe-983
+run_uuid: 2fc410ce276044849b8d6d894c8ea356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755895747260
+status: 3
+tags: []
+user_id: joao

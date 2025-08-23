@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/7e2ba511dbd2424fb0fd665ac6912df2/artifacts
+end_time: 1755891428584
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 7e2ba511dbd2424fb0fd665ac6912df2
+run_name: mysterious-squid-245
+run_uuid: 7e2ba511dbd2424fb0fd665ac6912df2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755890452313
+status: 3
+tags: []
+user_id: joao

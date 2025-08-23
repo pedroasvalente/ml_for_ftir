@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/765845aa927f432e9d306a7f6421d090/artifacts
+end_time: 1755892882012
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 765845aa927f432e9d306a7f6421d090
+run_name: amusing-wren-461
+run_uuid: 765845aa927f432e9d306a7f6421d090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892845555
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/4058b04fd952458d92db27f7f5b7bc6c/artifacts
+end_time: 1755892310519
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 4058b04fd952458d92db27f7f5b7bc6c
+run_name: tasteful-tern-215
+run_uuid: 4058b04fd952458d92db27f7f5b7bc6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892265617
+status: 3
+tags: []
+user_id: joao

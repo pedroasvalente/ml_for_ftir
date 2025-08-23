@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/0f224cddaf6a485eae3446b7a3e23c9a/artifacts
+end_time: 1755892448944
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 0f224cddaf6a485eae3446b7a3e23c9a
+run_name: able-bat-311
+run_uuid: 0f224cddaf6a485eae3446b7a3e23c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892443262
+status: 3
+tags: []
+user_id: joao

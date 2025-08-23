@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/dceb69b5e3dd4d0fa50226bbac2ffaca/artifacts
+end_time: 1755893360559
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: dceb69b5e3dd4d0fa50226bbac2ffaca
+run_name: upbeat-croc-40
+run_uuid: dceb69b5e3dd4d0fa50226bbac2ffaca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755893346540
+status: 3
+tags: []
+user_id: joao

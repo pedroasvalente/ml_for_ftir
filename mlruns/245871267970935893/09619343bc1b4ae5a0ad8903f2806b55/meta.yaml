@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/09619343bc1b4ae5a0ad8903f2806b55/artifacts
+end_time: 1755889276093
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 09619343bc1b4ae5a0ad8903f2806b55
+run_name: worried-slug-524
+run_uuid: 09619343bc1b4ae5a0ad8903f2806b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755889149379
+status: 3
+tags: []
+user_id: joao

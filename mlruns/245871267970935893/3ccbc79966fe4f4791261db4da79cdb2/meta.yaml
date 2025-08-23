@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/3ccbc79966fe4f4791261db4da79cdb2/artifacts
+end_time: 1755890220393
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 3ccbc79966fe4f4791261db4da79cdb2
+run_name: smiling-duck-321
+run_uuid: 3ccbc79966fe4f4791261db4da79cdb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755889348223
+status: 3
+tags: []
+user_id: joao

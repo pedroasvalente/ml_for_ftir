@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/e4407cc67fd34ffeb1fa27ce496393ba/artifacts
+end_time: 1755891992923
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: e4407cc67fd34ffeb1fa27ce496393ba
+run_name: persistent-goat-799
+run_uuid: e4407cc67fd34ffeb1fa27ce496393ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891942481
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/72bca03ca7bd4778a7630102dddc7b7c/artifacts
+end_time: 1755892261248
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 72bca03ca7bd4778a7630102dddc7b7c
+run_name: fearless-conch-668
+run_uuid: 72bca03ca7bd4778a7630102dddc7b7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755892236840
+status: 3
+tags: []
+user_id: joao

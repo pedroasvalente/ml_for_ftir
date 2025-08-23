@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/3ffbf58c72c0467d96b8c9d5a0c3d07e/artifacts
+end_time: 1755891628646
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 3ffbf58c72c0467d96b8c9d5a0c3d07e
+run_name: delicate-dog-940
+run_uuid: 3ffbf58c72c0467d96b8c9d5a0c3d07e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755891604614
+status: 3
+tags: []
+user_id: joao
