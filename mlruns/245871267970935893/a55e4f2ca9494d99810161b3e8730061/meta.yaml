@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a55e4f2ca9494d99810161b3e8730061/artifacts
+end_time: 1755948387439
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a55e4f2ca9494d99810161b3e8730061
+run_name: agreeable-bear-479
+run_uuid: a55e4f2ca9494d99810161b3e8730061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755946139945
+status: 3
+tags: []
+user_id: joao

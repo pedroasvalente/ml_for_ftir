@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/c41420bde18d44dc951fa54b8f8e6390/artifacts
+end_time: 1755948387439
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: c41420bde18d44dc951fa54b8f8e6390
+run_name: likeable-colt-312
+run_uuid: c41420bde18d44dc951fa54b8f8e6390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755946139945
+status: 3
+tags: []
+user_id: joao

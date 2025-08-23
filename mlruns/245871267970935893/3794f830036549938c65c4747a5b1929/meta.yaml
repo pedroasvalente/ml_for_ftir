@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/3794f830036549938c65c4747a5b1929/artifacts
+end_time: 1755950645153
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 3794f830036549938c65c4747a5b1929
+run_name: merciful-horse-965
+run_uuid: 3794f830036549938c65c4747a5b1929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755948401130
+status: 3
+tags: []
+user_id: joao

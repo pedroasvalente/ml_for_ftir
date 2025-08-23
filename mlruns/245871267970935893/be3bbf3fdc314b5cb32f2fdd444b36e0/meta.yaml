@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/be3bbf3fdc314b5cb32f2fdd444b36e0/artifacts
+end_time: 1755950645153
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: be3bbf3fdc314b5cb32f2fdd444b36e0
+run_name: casual-finch-191
+run_uuid: be3bbf3fdc314b5cb32f2fdd444b36e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755948401130
+status: 3
+tags: []
+user_id: joao

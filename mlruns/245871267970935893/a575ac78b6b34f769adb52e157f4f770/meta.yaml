@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a575ac78b6b34f769adb52e157f4f770/artifacts
+end_time: 1755948387439
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a575ac78b6b34f769adb52e157f4f770
+run_name: resilient-snipe-55
+run_uuid: a575ac78b6b34f769adb52e157f4f770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755946139945
+status: 3
+tags: []
+user_id: joao
