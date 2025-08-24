@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/6ae30a6d30064adda4291d2dbd040a4c/artifacts
+end_time: 1756045589900
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 6ae30a6d30064adda4291d2dbd040a4c
+run_name: enthused-shark-920
+run_uuid: 6ae30a6d30064adda4291d2dbd040a4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756043132680
+status: 3
+tags: []
+user_id: joao

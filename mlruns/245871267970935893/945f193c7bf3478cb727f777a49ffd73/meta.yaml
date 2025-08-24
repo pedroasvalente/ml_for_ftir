@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/945f193c7bf3478cb727f777a49ffd73/artifacts
+end_time: 1756045589900
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 945f193c7bf3478cb727f777a49ffd73
+run_name: loud-finch-498
+run_uuid: 945f193c7bf3478cb727f777a49ffd73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756043132680
+status: 3
+tags: []
+user_id: joao

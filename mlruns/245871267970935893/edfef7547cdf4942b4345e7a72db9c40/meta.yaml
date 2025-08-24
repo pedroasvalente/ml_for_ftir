@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/edfef7547cdf4942b4345e7a72db9c40/artifacts
+end_time: 1756045589900
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: edfef7547cdf4942b4345e7a72db9c40
+run_name: overjoyed-hare-90
+run_uuid: edfef7547cdf4942b4345e7a72db9c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756043132680
+status: 3
+tags: []
+user_id: joao
