@@ -160,15 +160,21 @@ def train(
             for i, config in enumerate(progress_bar):
                 if done_mask is not None:
                     if done_mask[i]:
+                        print(f"Skipping configuration already done: {config}")
                         continue
                 # Update the progress bar with the current configuration
                 progress_bar.set_postfix(
+                    target=config["target"],
                     search_to_use=config["search_to_use"],
                     model_type=config["model_type"],
-                    train_percentage=config["train_percentage"],
                     sample_type=config["sample_type"],
-                    target=config["target"],
+                    train_percentage=config["train_percentage"],
+                    apply_pls=config["apply_pls"],
+                    n_components=config["n_components"],
+                    scale=config["scale"],
+                    apply_smote_resampling=config["apply_smote_resampling"],
                 )
+
 
                 target = config["target"]
                 sample_type = config["sample_type"]
