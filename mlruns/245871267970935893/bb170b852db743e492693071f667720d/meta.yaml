@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/bb170b852db743e492693071f667720d/artifacts
+end_time: 1756066947735
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: bb170b852db743e492693071f667720d
+run_name: omniscient-panda-820
+run_uuid: bb170b852db743e492693071f667720d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756065691110
+status: 3
+tags: []
+user_id: joao

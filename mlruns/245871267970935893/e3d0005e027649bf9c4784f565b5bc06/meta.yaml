@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/e3d0005e027649bf9c4784f565b5bc06/artifacts
+end_time: 1756050751150
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: e3d0005e027649bf9c4784f565b5bc06
+run_name: enthused-stoat-657
+run_uuid: e3d0005e027649bf9c4784f565b5bc06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756049489782
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/ed1695f46ae144b0a66d23117d726ce9/artifacts
+end_time: 1756116785544
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: ed1695f46ae144b0a66d23117d726ce9
+run_name: respected-bee-369
+run_uuid: ed1695f46ae144b0a66d23117d726ce9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756066963390
+status: 3
+tags: []
+user_id: joao

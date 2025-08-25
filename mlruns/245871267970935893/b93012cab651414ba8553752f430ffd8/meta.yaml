@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/b93012cab651414ba8553752f430ffd8/artifacts
+end_time: 1756050751150
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: b93012cab651414ba8553752f430ffd8
+run_name: illustrious-rat-779
+run_uuid: b93012cab651414ba8553752f430ffd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756049489782
+status: 3
+tags: []
+user_id: joao
