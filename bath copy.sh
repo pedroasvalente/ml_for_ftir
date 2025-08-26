@@ -11,44 +11,43 @@ git add mlruns/*
 git add mlartifacts/*
 git add experiments/*
 git add results/*
-git add deeplearning_vo2.json
 git commit -m "upload deeplearning experience"
 git push
 
-ml4fir train deeplearning_vo2_2.json
-git add mlruns/*
-git add mlartifacts/*
-git add experiments/*
-git add results/*
-git add deeplearning_vo2.json
-git commit -m "upload deeplearning experience"
-git push
+# ml4fir train deeplearning_vo2_2.json
+# git add mlruns/*
+# git add mlartifacts/*
+# git add experiments/*
+# git add results/*
+# git add deeplearning_vo2.json
+# git commit -m "upload deeplearning experience"
+# git push
 
-ml4fir train deeplearning_vo2_3.json
-git add mlruns/*
-git add mlartifacts/*
-git add experiments/*
-git add results/*
-git add deeplearning_vo2.json
-git commit -m "upload deeplearning experience"
-git push
+# ml4fir train deeplearning_vo2_3.json
+# git add mlruns/*
+# git add mlartifacts/*
+# git add experiments/*
+# git add results/*
+# git add deeplearning_vo2.json
+# git commit -m "upload deeplearning experience"
+# git push
 
-ml4fir train deeplearning_vo2_4.json
-git add mlruns/*
-git add mlartifacts/*
-git add experiments/*
-git add results/*
-git add deeplearning_vo2.json
-git commit -m "upload deeplearning experience"
-git push
+# ml4fir train deeplearning_vo2_4.json
+# git add mlruns/*
+# git add mlartifacts/*
+# git add experiments/*
+# git add results/*
+# git add deeplearning_vo2.json
+# git commit -m "upload deeplearning experience"
+# git push
 
-ml4fir train deeplearning_vo2_5.json
-git add mlruns/*
-git add mlartifacts/*
-git add experiments/*
-git add results/*
-git add deeplearning_vo2.json
-git commit -m "upload deeplearning experience"
+# ml4fir train deeplearning_vo2_5.json
+# git add mlruns/*
+# git add mlartifacts/*
+# git add experiments/*
+# git add results/*
+# git add deeplearning_vo2.json
+# git commit -m "upload deeplearning experience"
 
 
 

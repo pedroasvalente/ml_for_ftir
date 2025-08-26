@@ -271,14 +271,6 @@ cnn_regressor_config = KerasMagiaRegressor(
         "sklearn_wrapper":[True],
         "activation_end": ["relu"],
 
-    # "filters": [16],
-    # "kernel_size": [3],
-    # "pool_size": [2],
-    # "num_sequences": [1],
-    # "interpretation_filters": [4],
-    # "double_interpretation": [True],
-    # "sklearn_wrapper": [True],
-    # "activation_end": ["linear"],
 
     },
     compile_kwargs={
