@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/beb6a43fe24a493287c43eb467e71444/artifacts
+end_time: 1756222521084
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: beb6a43fe24a493287c43eb467e71444
+run_name: silent-bird-16
+run_uuid: beb6a43fe24a493287c43eb467e71444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222494127
+status: 3
+tags: []
+user_id: pedroasvalente

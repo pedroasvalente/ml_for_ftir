@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/007f0b43a4284747b00169c1657df45e/artifacts
+end_time: 1756223814754
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 007f0b43a4284747b00169c1657df45e
+run_name: intrigued-gull-701
+run_uuid: 007f0b43a4284747b00169c1657df45e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223803700
+status: 3
+tags: []
+user_id: pedroasvalente

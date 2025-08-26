@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/090476b04a034a059e5a7e29e931f8bf/artifacts
+end_time: 1756223537160
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 090476b04a034a059e5a7e29e931f8bf
+run_name: indecisive-vole-555
+run_uuid: 090476b04a034a059e5a7e29e931f8bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223523557
+status: 3
+tags: []
+user_id: pedroasvalente

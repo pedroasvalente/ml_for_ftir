@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/658486d7850e4c878ead44b41670948d/artifacts
+end_time: 1756224533135
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 658486d7850e4c878ead44b41670948d
+run_name: welcoming-moth-45
+run_uuid: 658486d7850e4c878ead44b41670948d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224402414
+status: 3
+tags: []
+user_id: pedroasvalente

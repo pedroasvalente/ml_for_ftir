@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/3c766b80fc5c4bccb27c943e916db69f/artifacts
+end_time: 1756223666354
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 3c766b80fc5c4bccb27c943e916db69f
+run_name: masked-rook-113
+run_uuid: 3c766b80fc5c4bccb27c943e916db69f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223542161
+status: 3
+tags: []
+user_id: pedroasvalente

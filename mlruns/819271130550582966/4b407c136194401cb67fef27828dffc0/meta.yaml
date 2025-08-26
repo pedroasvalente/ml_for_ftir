@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/4b407c136194401cb67fef27828dffc0/artifacts
+end_time: 1756225125317
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 4b407c136194401cb67fef27828dffc0
+run_name: MLP Regressor
+run_uuid: 4b407c136194401cb67fef27828dffc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756225102208
+status: 3
+tags: []
+user_id: pedroasvalente

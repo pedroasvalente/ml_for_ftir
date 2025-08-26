@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/92affd67a96d47e89eb02b8268799755/artifacts
+end_time: 1756221847734
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 92affd67a96d47e89eb02b8268799755
+run_name: dazzling-vole-426
+run_uuid: 92affd67a96d47e89eb02b8268799755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756221822385
+status: 3
+tags: []
+user_id: pedroasvalente

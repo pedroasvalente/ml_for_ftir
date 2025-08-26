@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/574b68d5f80c4cc09469559f4ee9899d/artifacts
+end_time: 1756223238779
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 574b68d5f80c4cc09469559f4ee9899d
+run_name: adaptable-mouse-342
+run_uuid: 574b68d5f80c4cc09469559f4ee9899d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223208494
+status: 3
+tags: []
+user_id: pedroasvalente

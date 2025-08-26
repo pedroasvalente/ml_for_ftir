@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/6512777055e9460dadaa844d48d56ab9/artifacts
+end_time: 1756223118584
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 6512777055e9460dadaa844d48d56ab9
+run_name: placid-seal-91
+run_uuid: 6512777055e9460dadaa844d48d56ab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223093988
+status: 3
+tags: []
+user_id: pedroasvalente

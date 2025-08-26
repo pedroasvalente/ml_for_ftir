@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/bb80ca81c4ee480a854c3e8796e0013d/artifacts
+end_time: 1756224102708
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: bb80ca81c4ee480a854c3e8796e0013d
+run_name: gaudy-squirrel-774
+run_uuid: bb80ca81c4ee480a854c3e8796e0013d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224090142
+status: 3
+tags: []
+user_id: pedroasvalente

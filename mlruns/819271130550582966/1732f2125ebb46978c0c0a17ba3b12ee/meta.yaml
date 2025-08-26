@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/1732f2125ebb46978c0c0a17ba3b12ee/artifacts
+end_time: 1756222170740
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 1732f2125ebb46978c0c0a17ba3b12ee
+run_name: handsome-hen-407
+run_uuid: 1732f2125ebb46978c0c0a17ba3b12ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222145284
+status: 3
+tags: []
+user_id: pedroasvalente

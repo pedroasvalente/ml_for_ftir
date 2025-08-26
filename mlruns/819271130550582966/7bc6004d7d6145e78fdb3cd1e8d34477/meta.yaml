@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/7bc6004d7d6145e78fdb3cd1e8d34477/artifacts
+end_time: 1756223685305
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 7bc6004d7d6145e78fdb3cd1e8d34477
+run_name: charming-perch-716
+run_uuid: 7bc6004d7d6145e78fdb3cd1e8d34477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223671825
+status: 3
+tags: []
+user_id: pedroasvalente

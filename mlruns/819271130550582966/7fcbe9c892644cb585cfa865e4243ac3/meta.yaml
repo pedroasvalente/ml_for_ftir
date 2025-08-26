@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/7fcbe9c892644cb585cfa865e4243ac3/artifacts
+end_time: 1756223517737
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 7fcbe9c892644cb585cfa865e4243ac3
+run_name: sedate-wren-651
+run_uuid: 7fcbe9c892644cb585cfa865e4243ac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223410229
+status: 3
+tags: []
+user_id: pedroasvalente

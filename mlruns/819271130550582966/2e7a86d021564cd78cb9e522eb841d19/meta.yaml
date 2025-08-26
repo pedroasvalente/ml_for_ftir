@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/2e7a86d021564cd78cb9e522eb841d19/artifacts
+end_time: 1756223350591
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 2e7a86d021564cd78cb9e522eb841d19
+run_name: chill-crab-448
+run_uuid: 2e7a86d021564cd78cb9e522eb841d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223326379
+status: 3
+tags: []
+user_id: pedroasvalente

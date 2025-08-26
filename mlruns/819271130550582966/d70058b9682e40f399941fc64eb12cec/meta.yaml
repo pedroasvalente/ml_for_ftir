@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/d70058b9682e40f399941fc64eb12cec/artifacts
+end_time: 1756224689668
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: d70058b9682e40f399941fc64eb12cec
+run_name: sneaky-bee-374
+run_uuid: d70058b9682e40f399941fc64eb12cec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224676984
+status: 3
+tags: []
+user_id: pedroasvalente

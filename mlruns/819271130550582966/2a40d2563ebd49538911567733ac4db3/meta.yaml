@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/2a40d2563ebd49538911567733ac4db3/artifacts
+end_time: 1756233989498
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 2a40d2563ebd49538911567733ac4db3
+run_name: experiment_linear_anaerobicthreshold_bpm
+run_uuid: 2a40d2563ebd49538911567733ac4db3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756221723218
+status: 3
+tags: []
+user_id: pedroasvalente

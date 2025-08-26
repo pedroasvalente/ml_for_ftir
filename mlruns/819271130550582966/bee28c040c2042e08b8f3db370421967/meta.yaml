@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/bee28c040c2042e08b8f3db370421967/artifacts
+end_time: 1756222141483
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: bee28c040c2042e08b8f3db370421967
+run_name: abundant-midge-782
+run_uuid: bee28c040c2042e08b8f3db370421967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222075061
+status: 3
+tags: []
+user_id: pedroasvalente

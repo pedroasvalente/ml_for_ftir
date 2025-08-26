@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/ecf73cc7be4645328d771bf470a9d216/artifacts
+end_time: 1756222009885
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: ecf73cc7be4645328d771bf470a9d216
+run_name: dazzling-whale-592
+run_uuid: ecf73cc7be4645328d771bf470a9d216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756221985008
+status: 3
+tags: []
+user_id: pedroasvalente

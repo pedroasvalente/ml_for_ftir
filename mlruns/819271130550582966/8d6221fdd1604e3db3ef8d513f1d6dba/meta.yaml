@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/8d6221fdd1604e3db3ef8d513f1d6dba/artifacts
+end_time: 1756223272235
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 8d6221fdd1604e3db3ef8d513f1d6dba
+run_name: smiling-shad-71
+run_uuid: 8d6221fdd1604e3db3ef8d513f1d6dba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223251239
+status: 3
+tags: []
+user_id: pedroasvalente

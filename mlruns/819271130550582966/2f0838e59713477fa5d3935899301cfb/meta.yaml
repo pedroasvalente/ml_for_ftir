@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/2f0838e59713477fa5d3935899301cfb/artifacts
+end_time: 1756223056567
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 2f0838e59713477fa5d3935899301cfb
+run_name: resilient-swan-565
+run_uuid: 2f0838e59713477fa5d3935899301cfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223053188
+status: 3
+tags: []
+user_id: pedroasvalente

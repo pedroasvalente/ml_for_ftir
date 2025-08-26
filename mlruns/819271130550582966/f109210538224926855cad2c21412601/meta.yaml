@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/f109210538224926855cad2c21412601/artifacts
+end_time: 1756223321819
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: f109210538224926855cad2c21412601
+run_name: worried-grub-385
+run_uuid: f109210538224926855cad2c21412601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223317589
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/d9c5c189c6ef4fb6b3eb8ff04ed991a9/artifacts
+end_time: 1756222521084
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: d9c5c189c6ef4fb6b3eb8ff04ed991a9
+run_name: debonair-smelt-390
+run_uuid: d9c5c189c6ef4fb6b3eb8ff04ed991a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222494127
+status: 3
+tags: []
+user_id: pedroasvalente

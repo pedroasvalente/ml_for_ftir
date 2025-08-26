@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/720ed006d67147008909c0776b2c7c37/artifacts
+end_time: 1756223082837
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 720ed006d67147008909c0776b2c7c37
+run_name: hilarious-snail-740
+run_uuid: 720ed006d67147008909c0776b2c7c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223059800
+status: 3
+tags: []
+user_id: pedroasvalente

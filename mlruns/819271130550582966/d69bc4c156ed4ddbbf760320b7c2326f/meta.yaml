@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/d69bc4c156ed4ddbbf760320b7c2326f/artifacts
+end_time: 1756223799669
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: d69bc4c156ed4ddbbf760320b7c2326f
+run_name: rumbling-pig-163
+run_uuid: d69bc4c156ed4ddbbf760320b7c2326f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223692191
+status: 3
+tags: []
+user_id: pedroasvalente

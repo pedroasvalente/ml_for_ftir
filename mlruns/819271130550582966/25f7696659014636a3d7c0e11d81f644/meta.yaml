@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/25f7696659014636a3d7c0e11d81f644/artifacts
+end_time: 1756223321819
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 25f7696659014636a3d7c0e11d81f644
+run_name: traveling-shark-721
+run_uuid: 25f7696659014636a3d7c0e11d81f644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223317589
+status: 3
+tags: []
+user_id: pedroasvalente

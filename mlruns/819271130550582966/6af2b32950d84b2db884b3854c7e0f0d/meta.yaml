@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/6af2b32950d84b2db884b3854c7e0f0d/artifacts
+end_time: 1756224380529
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 6af2b32950d84b2db884b3854c7e0f0d
+run_name: loud-stork-764
+run_uuid: 6af2b32950d84b2db884b3854c7e0f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224272065
+status: 3
+tags: []
+user_id: pedroasvalente

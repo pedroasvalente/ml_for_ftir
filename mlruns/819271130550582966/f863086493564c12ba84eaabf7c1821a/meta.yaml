@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/f863086493564c12ba84eaabf7c1821a/artifacts
+end_time: 1756222729442
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: f863086493564c12ba84eaabf7c1821a
+run_name: clumsy-gnu-74
+run_uuid: f863086493564c12ba84eaabf7c1821a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222703802
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/81366e3a2b704ad5a3c0e461bac26c18/artifacts
+end_time: 1756223090548
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 81366e3a2b704ad5a3c0e461bac26c18
+run_name: suave-whale-759
+run_uuid: 81366e3a2b704ad5a3c0e461bac26c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223086889
+status: 3
+tags: []
+user_id: pedroasvalente

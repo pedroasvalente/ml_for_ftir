@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/2fea43ebae454bc682d4ceb051de4cdd/artifacts
+end_time: 1756222366925
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 2fea43ebae454bc682d4ceb051de4cdd
+run_name: adventurous-asp-354
+run_uuid: 2fea43ebae454bc682d4ceb051de4cdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222341096
+status: 3
+tags: []
+user_id: pedroasvalente

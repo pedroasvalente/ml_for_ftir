@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/d5fd04feafd5414e8c2a9f29aec2d029/artifacts
+end_time: 1756221750128
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: d5fd04feafd5414e8c2a9f29aec2d029
+run_name: able-gull-6
+run_uuid: d5fd04feafd5414e8c2a9f29aec2d029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756221723508
+status: 3
+tags: []
+user_id: pedroasvalente

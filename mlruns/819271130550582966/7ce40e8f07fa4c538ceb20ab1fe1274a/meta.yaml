@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/7ce40e8f07fa4c538ceb20ab1fe1274a/artifacts
+end_time: 1756223359078
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 7ce40e8f07fa4c538ceb20ab1fe1274a
+run_name: bittersweet-asp-357
+run_uuid: 7ce40e8f07fa4c538ceb20ab1fe1274a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223355545
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/9b4e6a74a46b40bda457f3c36db7a414/artifacts
+end_time: 1756224822215
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 9b4e6a74a46b40bda457f3c36db7a414
+run_name: hilarious-panda-887
+run_uuid: 9b4e6a74a46b40bda457f3c36db7a414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224695467
+status: 3
+tags: []
+user_id: pedroasvalente

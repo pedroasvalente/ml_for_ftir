@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/320ec921c0e4471ebf471f0fdb8ffaac/artifacts
+end_time: 1756224102708
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 320ec921c0e4471ebf471f0fdb8ffaac
+run_name: bustling-donkey-838
+run_uuid: 320ec921c0e4471ebf471f0fdb8ffaac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224090142
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/ef3fc835055d48cb816777d00fbc47ab/artifacts
+end_time: 1756224084551
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: ef3fc835055d48cb816777d00fbc47ab
+run_name: angry-midge-240
+run_uuid: ef3fc835055d48cb816777d00fbc47ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223967754
+status: 3
+tags: []
+user_id: pedroasvalente

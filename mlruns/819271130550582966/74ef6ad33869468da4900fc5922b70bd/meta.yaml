@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/74ef6ad33869468da4900fc5922b70bd/artifacts
+end_time: 1756223016582
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 74ef6ad33869468da4900fc5922b70bd
+run_name: treasured-shoat-137
+run_uuid: 74ef6ad33869468da4900fc5922b70bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222989166
+status: 3
+tags: []
+user_id: pedroasvalente

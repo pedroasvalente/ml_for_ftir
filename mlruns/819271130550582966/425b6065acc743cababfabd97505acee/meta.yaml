@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/425b6065acc743cababfabd97505acee/artifacts
+end_time: 1756221910182
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 425b6065acc743cababfabd97505acee
+run_name: calm-shoat-960
+run_uuid: 425b6065acc743cababfabd97505acee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756221885156
+status: 3
+tags: []
+user_id: pedroasvalente

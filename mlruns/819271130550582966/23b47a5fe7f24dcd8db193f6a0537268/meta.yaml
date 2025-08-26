@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/23b47a5fe7f24dcd8db193f6a0537268/artifacts
+end_time: 1756223238779
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 23b47a5fe7f24dcd8db193f6a0537268
+run_name: vaunted-stoat-370
+run_uuid: 23b47a5fe7f24dcd8db193f6a0537268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223208494
+status: 3
+tags: []
+user_id: pedroasvalente

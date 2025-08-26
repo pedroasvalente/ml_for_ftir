@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/8d697167299c48e086824c759c70ef07/artifacts
+end_time: 1756223386174
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 8d697167299c48e086824c759c70ef07
+run_name: useful-snail-698
+run_uuid: 8d697167299c48e086824c759c70ef07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223362939
+status: 3
+tags: []
+user_id: pedroasvalente

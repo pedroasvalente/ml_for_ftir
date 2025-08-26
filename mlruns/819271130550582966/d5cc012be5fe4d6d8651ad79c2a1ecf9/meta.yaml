@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/d5cc012be5fe4d6d8651ad79c2a1ecf9/artifacts
+end_time: 1756223118584
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: d5cc012be5fe4d6d8651ad79c2a1ecf9
+run_name: traveling-sow-379
+run_uuid: d5cc012be5fe4d6d8651ad79c2a1ecf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223093988
+status: 3
+tags: []
+user_id: pedroasvalente

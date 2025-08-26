@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/7a9c2a3c90b24c1c9807372930c3736a/artifacts
+end_time: 1756222642690
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 7a9c2a3c90b24c1c9807372930c3736a
+run_name: fortunate-rat-799
+run_uuid: 7a9c2a3c90b24c1c9807372930c3736a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222619494
+status: 3
+tags: []
+user_id: pedroasvalente

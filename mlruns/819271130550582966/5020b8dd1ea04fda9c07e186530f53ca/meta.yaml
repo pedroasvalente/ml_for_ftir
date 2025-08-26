@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/5020b8dd1ea04fda9c07e186530f53ca/artifacts
+end_time: 1756224551684
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 5020b8dd1ea04fda9c07e186530f53ca
+run_name: hilarious-loon-335
+run_uuid: 5020b8dd1ea04fda9c07e186530f53ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224539044
+status: 3
+tags: []
+user_id: pedroasvalente

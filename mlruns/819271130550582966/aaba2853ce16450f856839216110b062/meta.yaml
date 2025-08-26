@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/aaba2853ce16450f856839216110b062/artifacts
+end_time: 1756222616572
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: aaba2853ce16450f856839216110b062
+run_name: whimsical-worm-888
+run_uuid: aaba2853ce16450f856839216110b062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222604616
+status: 3
+tags: []
+user_id: pedroasvalente

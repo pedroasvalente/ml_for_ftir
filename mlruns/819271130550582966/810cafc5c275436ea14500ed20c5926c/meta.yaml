@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/810cafc5c275436ea14500ed20c5926c/artifacts
+end_time: 1756224551684
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 810cafc5c275436ea14500ed20c5926c
+run_name: respected-ram-777
+run_uuid: 810cafc5c275436ea14500ed20c5926c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224539044
+status: 3
+tags: []
+user_id: pedroasvalente

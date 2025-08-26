@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/e80d557f653342b699fd960f33b56d6a/artifacts
+end_time: 1756223799669
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: e80d557f653342b699fd960f33b56d6a
+run_name: honorable-duck-562
+run_uuid: e80d557f653342b699fd960f33b56d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223692191
+status: 3
+tags: []
+user_id: pedroasvalente

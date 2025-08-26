@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/cc361242ad6140cca4b04228916929ea/artifacts
+end_time: 1756222307371
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: cc361242ad6140cca4b04228916929ea
+run_name: unruly-carp-255
+run_uuid: cc361242ad6140cca4b04228916929ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222238782
+status: 3
+tags: []
+user_id: pedroasvalente

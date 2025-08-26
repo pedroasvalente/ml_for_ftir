@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/0a96a225ebf34151b0708ec63b766b6b/artifacts
+end_time: 1756222202527
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 0a96a225ebf34151b0708ec63b766b6b
+run_name: gentle-trout-64
+run_uuid: 0a96a225ebf34151b0708ec63b766b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222172964
+status: 3
+tags: []
+user_id: pedroasvalente

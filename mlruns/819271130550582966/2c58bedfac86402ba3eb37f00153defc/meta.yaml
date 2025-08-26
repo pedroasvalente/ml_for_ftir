@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/2c58bedfac86402ba3eb37f00153defc/artifacts
+end_time: 1756222489394
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 2c58bedfac86402ba3eb37f00153defc
+run_name: calm-squid-26
+run_uuid: 2c58bedfac86402ba3eb37f00153defc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222416422
+status: 3
+tags: []
+user_id: pedroasvalente

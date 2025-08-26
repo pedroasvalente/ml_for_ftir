@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/ec14c63712454304ad3428cf46ef9ca3/artifacts
+end_time: 1756224397883
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: ec14c63712454304ad3428cf46ef9ca3
+run_name: calm-fowl-66
+run_uuid: ec14c63712454304ad3428cf46ef9ca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224386013
+status: 3
+tags: []
+user_id: pedroasvalente

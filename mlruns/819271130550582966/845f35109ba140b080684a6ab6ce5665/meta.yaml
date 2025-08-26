@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/845f35109ba140b080684a6ab6ce5665/artifacts
+end_time: 1756222844176
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 845f35109ba140b080684a6ab6ce5665
+run_name: capricious-doe-427
+run_uuid: 845f35109ba140b080684a6ab6ce5665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222831387
+status: 3
+tags: []
+user_id: pedroasvalente

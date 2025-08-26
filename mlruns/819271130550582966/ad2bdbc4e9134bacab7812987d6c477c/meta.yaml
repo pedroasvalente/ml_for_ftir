@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/ad2bdbc4e9134bacab7812987d6c477c/artifacts
+end_time: 1756222576317
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: ad2bdbc4e9134bacab7812987d6c477c
+run_name: capable-ray-563
+run_uuid: ad2bdbc4e9134bacab7812987d6c477c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222563854
+status: 3
+tags: []
+user_id: pedroasvalente

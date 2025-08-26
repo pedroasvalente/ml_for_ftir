@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/756d53865a9f463680481bb801f5cfc8/artifacts
+end_time: 1756222073052
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 756d53865a9f463680481bb801f5cfc8
+run_name: aged-dove-34
+run_uuid: 756d53865a9f463680481bb801f5cfc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222048859
+status: 3
+tags: []
+user_id: pedroasvalente

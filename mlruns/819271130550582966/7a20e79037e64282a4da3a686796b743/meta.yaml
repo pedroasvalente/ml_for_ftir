@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/7a20e79037e64282a4da3a686796b743/artifacts
+end_time: 1756222919076
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 7a20e79037e64282a4da3a686796b743
+run_name: blushing-ox-240
+run_uuid: 7a20e79037e64282a4da3a686796b743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222893801
+status: 3
+tags: []
+user_id: pedroasvalente

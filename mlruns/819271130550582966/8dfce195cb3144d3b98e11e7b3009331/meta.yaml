@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/8dfce195cb3144d3b98e11e7b3009331/artifacts
+end_time: 1756222489394
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 8dfce195cb3144d3b98e11e7b3009331
+run_name: defiant-bird-721
+run_uuid: 8dfce195cb3144d3b98e11e7b3009331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222416422
+status: 3
+tags: []
+user_id: pedroasvalente
