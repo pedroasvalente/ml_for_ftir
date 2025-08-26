@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/8365c1729e5541dcb264d1896d1dccf7/artifacts
+end_time: 1756204845455
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 8365c1729e5541dcb264d1896d1dccf7
+run_name: legendary-jay-1
+run_uuid: 8365c1729e5541dcb264d1896d1dccf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204721999
+status: 3
+tags: []
+user_id: pedroasvalente

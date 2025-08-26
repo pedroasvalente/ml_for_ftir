@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/faaed281794b4b0bad2c932ef06016ae/artifacts
+end_time: 1756204307317
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: faaed281794b4b0bad2c932ef06016ae
+run_name: wise-stork-814
+run_uuid: faaed281794b4b0bad2c932ef06016ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204303933
+status: 3
+tags: []
+user_id: pedroasvalente

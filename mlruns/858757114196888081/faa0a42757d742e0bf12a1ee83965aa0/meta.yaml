@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/faa0a42757d742e0bf12a1ee83965aa0/artifacts
+end_time: 1756203856645
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: faa0a42757d742e0bf12a1ee83965aa0
+run_name: righteous-yak-603
+run_uuid: faa0a42757d742e0bf12a1ee83965aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756203844778
+status: 3
+tags: []
+user_id: pedroasvalente

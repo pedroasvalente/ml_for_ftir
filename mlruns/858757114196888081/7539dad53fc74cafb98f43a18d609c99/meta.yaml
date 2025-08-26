@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/7539dad53fc74cafb98f43a18d609c99/artifacts
+end_time: 1756204373080
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 7539dad53fc74cafb98f43a18d609c99
+run_name: unique-pug-519
+run_uuid: 7539dad53fc74cafb98f43a18d609c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204369406
+status: 3
+tags: []
+user_id: pedroasvalente

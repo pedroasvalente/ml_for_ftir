@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/02ce641f5862468493e991cfe95702dc/artifacts
+end_time: 1756204076186
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 02ce641f5862468493e991cfe95702dc
+run_name: amusing-mouse-912
+run_uuid: 02ce641f5862468493e991cfe95702dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204064038
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/bf3d8601512d4c678111653fa7262265/artifacts
+end_time: 1756204147196
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: bf3d8601512d4c678111653fa7262265
+run_name: dazzling-grouse-99
+run_uuid: bf3d8601512d4c678111653fa7262265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204122946
+status: 3
+tags: []
+user_id: pedroasvalente

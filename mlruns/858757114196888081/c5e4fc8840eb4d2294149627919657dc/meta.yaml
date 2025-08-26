@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/c5e4fc8840eb4d2294149627919657dc/artifacts
+end_time: 1756203941022
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: c5e4fc8840eb4d2294149627919657dc
+run_name: glamorous-newt-241
+run_uuid: c5e4fc8840eb4d2294149627919657dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756203928745
+status: 3
+tags: []
+user_id: pedroasvalente

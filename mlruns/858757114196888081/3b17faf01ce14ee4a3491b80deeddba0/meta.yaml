@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/3b17faf01ce14ee4a3491b80deeddba0/artifacts
+end_time: 1756204162958
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 3b17faf01ce14ee4a3491b80deeddba0
+run_name: unruly-foal-862
+run_uuid: 3b17faf01ce14ee4a3491b80deeddba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204150883
+status: 3
+tags: []
+user_id: pedroasvalente

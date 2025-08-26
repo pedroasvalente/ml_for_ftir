@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/043c936e5e204e9abfdabc2236c812f0/artifacts
+end_time: 1756204442683
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 043c936e5e204e9abfdabc2236c812f0
+run_name: adventurous-lynx-489
+run_uuid: 043c936e5e204e9abfdabc2236c812f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204414380
+status: 3
+tags: []
+user_id: pedroasvalente

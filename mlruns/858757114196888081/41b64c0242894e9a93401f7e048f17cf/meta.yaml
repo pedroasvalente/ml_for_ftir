@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/41b64c0242894e9a93401f7e048f17cf/artifacts
+end_time: 1756204579533
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 41b64c0242894e9a93401f7e048f17cf
+run_name: learned-wolf-552
+run_uuid: 41b64c0242894e9a93401f7e048f17cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204554979
+status: 3
+tags: []
+user_id: pedroasvalente

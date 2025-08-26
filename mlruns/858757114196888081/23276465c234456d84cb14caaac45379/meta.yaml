@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/23276465c234456d84cb14caaac45379/artifacts
+end_time: 1756203069723
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 23276465c234456d84cb14caaac45379
+run_name: gregarious-perch-558
+run_uuid: 23276465c234456d84cb14caaac45379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756202989589
+status: 3
+tags: []
+user_id: pedroasvalente

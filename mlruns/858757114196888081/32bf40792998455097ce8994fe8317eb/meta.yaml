@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/32bf40792998455097ce8994fe8317eb/artifacts
+end_time: 1756204516703
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 32bf40792998455097ce8994fe8317eb
+run_name: flawless-trout-749
+run_uuid: 32bf40792998455097ce8994fe8317eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204513388
+status: 3
+tags: []
+user_id: pedroasvalente

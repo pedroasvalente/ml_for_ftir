@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/a286f0150e144adc8eab617cc51c3543/artifacts
+end_time: 1756204551209
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: a286f0150e144adc8eab617cc51c3543
+run_name: capricious-smelt-908
+run_uuid: a286f0150e144adc8eab617cc51c3543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204547868
+status: 3
+tags: []
+user_id: pedroasvalente

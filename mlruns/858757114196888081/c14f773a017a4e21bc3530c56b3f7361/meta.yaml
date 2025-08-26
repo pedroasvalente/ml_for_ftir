@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/c14f773a017a4e21bc3530c56b3f7361/artifacts
+end_time: 1756204331976
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: c14f773a017a4e21bc3530c56b3f7361
+run_name: honorable-crow-721
+run_uuid: c14f773a017a4e21bc3530c56b3f7361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204310554
+status: 3
+tags: []
+user_id: pedroasvalente

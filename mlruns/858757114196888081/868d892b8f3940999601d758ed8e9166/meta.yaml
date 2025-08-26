@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/868d892b8f3940999601d758ed8e9166/artifacts
+end_time: 1756204060686
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 868d892b8f3940999601d758ed8e9166
+run_name: learned-deer-818
+run_uuid: 868d892b8f3940999601d758ed8e9166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204033843
+status: 3
+tags: []
+user_id: pedroasvalente

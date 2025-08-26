@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/2a853a576297456c9c4b18e1f1f9fb4a/artifacts
+end_time: 1756203897926
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 2a853a576297456c9c4b18e1f1f9fb4a
+run_name: adventurous-wolf-592
+run_uuid: 2a853a576297456c9c4b18e1f1f9fb4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756203885505
+status: 3
+tags: []
+user_id: pedroasvalente

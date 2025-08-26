@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/c4fcc0a6de044d588d86cf867eda8911/artifacts
+end_time: 1756205000603
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: c4fcc0a6de044d588d86cf867eda8911
+run_name: bright-chimp-936
+run_uuid: c4fcc0a6de044d588d86cf867eda8911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204867424
+status: 3
+tags: []
+user_id: pedroasvalente

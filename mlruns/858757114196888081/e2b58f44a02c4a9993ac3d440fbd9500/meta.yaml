@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/e2b58f44a02c4a9993ac3d440fbd9500/artifacts
+end_time: 1756205162835
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: e2b58f44a02c4a9993ac3d440fbd9500
+run_name: fearless-shark-545
+run_uuid: e2b58f44a02c4a9993ac3d440fbd9500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205021195
+status: 3
+tags: []
+user_id: pedroasvalente

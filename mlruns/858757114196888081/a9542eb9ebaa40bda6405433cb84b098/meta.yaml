@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/a9542eb9ebaa40bda6405433cb84b098/artifacts
+end_time: 1756205492407
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: a9542eb9ebaa40bda6405433cb84b098
+run_name: caring-elk-747
+run_uuid: a9542eb9ebaa40bda6405433cb84b098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205337461
+status: 3
+tags: []
+user_id: pedroasvalente

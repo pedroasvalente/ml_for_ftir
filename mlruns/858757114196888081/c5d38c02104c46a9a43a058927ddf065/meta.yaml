@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/c5d38c02104c46a9a43a058927ddf065/artifacts
+end_time: 1756204076186
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: c5d38c02104c46a9a43a058927ddf065
+run_name: unequaled-grouse-476
+run_uuid: c5d38c02104c46a9a43a058927ddf065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204064038
+status: 3
+tags: []
+user_id: pedroasvalente

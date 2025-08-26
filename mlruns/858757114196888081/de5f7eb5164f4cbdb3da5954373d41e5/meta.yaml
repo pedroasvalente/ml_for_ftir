@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/de5f7eb5164f4cbdb3da5954373d41e5/artifacts
+end_time: 1756203795266
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: de5f7eb5164f4cbdb3da5954373d41e5
+run_name: intrigued-goose-53
+run_uuid: de5f7eb5164f4cbdb3da5954373d41e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756203652412
+status: 3
+tags: []
+user_id: pedroasvalente

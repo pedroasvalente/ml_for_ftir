@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/dd76908aca954608b002d10ffa62c4d0/artifacts
+end_time: 1756204241429
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: dd76908aca954608b002d10ffa62c4d0
+run_name: colorful-hawk-93
+run_uuid: dd76908aca954608b002d10ffa62c4d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204237837
+status: 3
+tags: []
+user_id: pedroasvalente

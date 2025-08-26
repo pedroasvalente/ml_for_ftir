@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/74087d0cf0bc45f2b740d1538cf1c844/artifacts
+end_time: 1756203941022
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 74087d0cf0bc45f2b740d1538cf1c844
+run_name: secretive-fish-290
+run_uuid: 74087d0cf0bc45f2b740d1538cf1c844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756203928745
+status: 3
+tags: []
+user_id: pedroasvalente

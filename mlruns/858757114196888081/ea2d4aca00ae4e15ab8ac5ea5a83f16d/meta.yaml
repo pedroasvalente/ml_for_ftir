@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/ea2d4aca00ae4e15ab8ac5ea5a83f16d/artifacts
+end_time: 1756204339288
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: ea2d4aca00ae4e15ab8ac5ea5a83f16d
+run_name: peaceful-dog-866
+run_uuid: ea2d4aca00ae4e15ab8ac5ea5a83f16d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204335785
+status: 3
+tags: []
+user_id: pedroasvalente

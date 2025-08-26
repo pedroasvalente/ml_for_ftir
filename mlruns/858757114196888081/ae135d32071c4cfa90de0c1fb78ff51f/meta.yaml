@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/ae135d32071c4cfa90de0c1fb78ff51f/artifacts
+end_time: 1756203856645
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: ae135d32071c4cfa90de0c1fb78ff51f
+run_name: smiling-tern-33
+run_uuid: ae135d32071c4cfa90de0c1fb78ff51f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756203844778
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/35e8a8b0fb6b4864875b15ee177a681e/artifacts
+end_time: 1756204273565
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 35e8a8b0fb6b4864875b15ee177a681e
+run_name: fortunate-whale-353
+run_uuid: 35e8a8b0fb6b4864875b15ee177a681e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204270104
+status: 3
+tags: []
+user_id: pedroasvalente

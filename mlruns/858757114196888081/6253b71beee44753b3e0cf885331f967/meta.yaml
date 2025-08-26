@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/6253b71beee44753b3e0cf885331f967/artifacts
+end_time: 1756205633668
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 6253b71beee44753b3e0cf885331f967
+run_name: bouncy-bat-927
+run_uuid: 6253b71beee44753b3e0cf885331f967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205515566
+status: 3
+tags: []
+user_id: pedroasvalente

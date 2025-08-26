@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/f3dae6e4983b44a399557523f2913b0b/artifacts
+end_time: 1756204119270
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: f3dae6e4983b44a399557523f2913b0b
+run_name: painted-deer-571
+run_uuid: f3dae6e4983b44a399557523f2913b0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204107079
+status: 3
+tags: []
+user_id: pedroasvalente

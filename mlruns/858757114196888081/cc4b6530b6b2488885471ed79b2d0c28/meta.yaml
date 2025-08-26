@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/cc4b6530b6b2488885471ed79b2d0c28/artifacts
+end_time: 1756203546097
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: cc4b6530b6b2488885471ed79b2d0c28
+run_name: gentle-worm-399
+run_uuid: cc4b6530b6b2488885471ed79b2d0c28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756203418600
+status: 3
+tags: []
+user_id: pedroasvalente

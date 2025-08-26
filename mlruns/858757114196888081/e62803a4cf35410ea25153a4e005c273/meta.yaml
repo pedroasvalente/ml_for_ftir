@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/e62803a4cf35410ea25153a4e005c273/artifacts
+end_time: 1756205932052
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: e62803a4cf35410ea25153a4e005c273
+run_name: beautiful-fly-360
+run_uuid: e62803a4cf35410ea25153a4e005c273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205815771
+status: 3
+tags: []
+user_id: pedroasvalente

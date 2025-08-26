@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/4e4ed3b0bd88417e87b5a0e4c8e210f4/artifacts
+end_time: 1756205000603
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 4e4ed3b0bd88417e87b5a0e4c8e210f4
+run_name: gaudy-panda-419
+run_uuid: 4e4ed3b0bd88417e87b5a0e4c8e210f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204867424
+status: 3
+tags: []
+user_id: pedroasvalente

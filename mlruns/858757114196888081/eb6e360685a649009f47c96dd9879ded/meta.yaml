@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/eb6e360685a649009f47c96dd9879ded/artifacts
+end_time: 1756204442683
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: eb6e360685a649009f47c96dd9879ded
+run_name: marvelous-grub-952
+run_uuid: eb6e360685a649009f47c96dd9879ded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204414380
+status: 3
+tags: []
+user_id: pedroasvalente
