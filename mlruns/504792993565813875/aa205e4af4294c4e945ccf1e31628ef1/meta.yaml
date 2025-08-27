@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/aa205e4af4294c4e945ccf1e31628ef1/artifacts
+end_time: 1756278921346
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: aa205e4af4294c4e945ccf1e31628ef1
+run_name: illustrious-ram-161
+run_uuid: aa205e4af4294c4e945ccf1e31628ef1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278916662
+status: 3
+tags: []
+user_id: pedroasvalente

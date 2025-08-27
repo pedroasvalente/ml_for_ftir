@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/5622515246e4417d8969a4ce8fd04b7c/artifacts
+end_time: 1756278594121
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 5622515246e4417d8969a4ce8fd04b7c
+run_name: smiling-conch-408
+run_uuid: 5622515246e4417d8969a4ce8fd04b7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278590659
+status: 3
+tags: []
+user_id: pedroasvalente

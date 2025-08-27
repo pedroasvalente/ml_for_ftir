@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/086d00cff3fc4589b5f9b7b751c25dc7/artifacts
+end_time: 1756279723344
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 086d00cff3fc4589b5f9b7b751c25dc7
+run_name: rare-penguin-281
+run_uuid: 086d00cff3fc4589b5f9b7b751c25dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756279710860
+status: 3
+tags: []
+user_id: pedroasvalente

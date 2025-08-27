@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/65956fd267c14ee1862f59786baf0778/artifacts
+end_time: 1756278439882
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 65956fd267c14ee1862f59786baf0778
+run_name: abrasive-snake-154
+run_uuid: 65956fd267c14ee1862f59786baf0778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278427560
+status: 3
+tags: []
+user_id: pedroasvalente

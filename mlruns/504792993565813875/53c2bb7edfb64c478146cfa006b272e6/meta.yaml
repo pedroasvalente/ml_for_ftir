@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/53c2bb7edfb64c478146cfa006b272e6/artifacts
+end_time: 1756278629288
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 53c2bb7edfb64c478146cfa006b272e6
+run_name: rogue-stork-245
+run_uuid: 53c2bb7edfb64c478146cfa006b272e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278625692
+status: 3
+tags: []
+user_id: pedroasvalente

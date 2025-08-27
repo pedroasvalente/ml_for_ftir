@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/2bd51728afb4493abbeba78e3306b559/artifacts
+end_time: 1756278754449
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 2bd51728afb4493abbeba78e3306b559
+run_name: auspicious-tern-631
+run_uuid: 2bd51728afb4493abbeba78e3306b559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278750482
+status: 3
+tags: []
+user_id: pedroasvalente

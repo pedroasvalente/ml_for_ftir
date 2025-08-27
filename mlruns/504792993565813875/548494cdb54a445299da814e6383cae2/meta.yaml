@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/548494cdb54a445299da814e6383cae2/artifacts
+end_time: 1756277998152
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 548494cdb54a445299da814e6383cae2
+run_name: intrigued-mouse-182
+run_uuid: 548494cdb54a445299da814e6383cae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277958062
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/4c18415ddf784fad9211ae5f22a0fb9e/artifacts
+end_time: 1756279809781
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 4c18415ddf784fad9211ae5f22a0fb9e
+run_name: exultant-wasp-753
+run_uuid: 4c18415ddf784fad9211ae5f22a0fb9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756279799011
+status: 3
+tags: []
+user_id: pedroasvalente

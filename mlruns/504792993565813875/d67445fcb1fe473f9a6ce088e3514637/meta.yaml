@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/d67445fcb1fe473f9a6ce088e3514637/artifacts
+end_time: 1756279792860
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: d67445fcb1fe473f9a6ce088e3514637
+run_name: treasured-skink-404
+run_uuid: d67445fcb1fe473f9a6ce088e3514637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756279728003
+status: 3
+tags: []
+user_id: pedroasvalente

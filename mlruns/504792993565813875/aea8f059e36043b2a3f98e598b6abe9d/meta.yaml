@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/aea8f059e36043b2a3f98e598b6abe9d/artifacts
+end_time: 1756277768427
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: aea8f059e36043b2a3f98e598b6abe9d
+run_name: colorful-toad-371
+run_uuid: aea8f059e36043b2a3f98e598b6abe9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277752389
+status: 3
+tags: []
+user_id: pedroasvalente

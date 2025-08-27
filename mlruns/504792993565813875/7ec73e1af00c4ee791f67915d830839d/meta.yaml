@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/7ec73e1af00c4ee791f67915d830839d/artifacts
+end_time: 1756279501591
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 7ec73e1af00c4ee791f67915d830839d
+run_name: magnificent-yak-584
+run_uuid: 7ec73e1af00c4ee791f67915d830839d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756279419232
+status: 3
+tags: []
+user_id: pedroasvalente

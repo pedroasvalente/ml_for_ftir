@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/93877f86dfac49b286fa515d76fc419f/artifacts
+end_time: 1756278395350
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 93877f86dfac49b286fa515d76fc419f
+run_name: chill-dolphin-674
+run_uuid: 93877f86dfac49b286fa515d76fc419f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278383294
+status: 3
+tags: []
+user_id: pedroasvalente

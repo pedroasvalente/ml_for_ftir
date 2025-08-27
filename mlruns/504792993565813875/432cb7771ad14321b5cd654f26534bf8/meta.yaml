@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/432cb7771ad14321b5cd654f26534bf8/artifacts
+end_time: 1756278286547
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 432cb7771ad14321b5cd654f26534bf8
+run_name: spiffy-frog-653
+run_uuid: 432cb7771ad14321b5cd654f26534bf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278259502
+status: 3
+tags: []
+user_id: pedroasvalente

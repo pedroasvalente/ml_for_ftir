@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/28bea5b8f1b547e89b89bbc682036646/artifacts
+end_time: 1756279792860
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 28bea5b8f1b547e89b89bbc682036646
+run_name: calm-mole-142
+run_uuid: 28bea5b8f1b547e89b89bbc682036646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756279728003
+status: 3
+tags: []
+user_id: pedroasvalente

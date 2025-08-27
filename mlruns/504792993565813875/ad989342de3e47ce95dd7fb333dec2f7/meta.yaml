@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/ad989342de3e47ce95dd7fb333dec2f7/artifacts
+end_time: 1756277555051
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: ad989342de3e47ce95dd7fb333dec2f7
+run_name: painted-fox-973
+run_uuid: ad989342de3e47ce95dd7fb333dec2f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277515656
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/6efd13017c1b43d4b34829f03e4d91dd/artifacts
+end_time: 1756278379848
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 6efd13017c1b43d4b34829f03e4d91dd
+run_name: marvelous-horse-784
+run_uuid: 6efd13017c1b43d4b34829f03e4d91dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278353237
+status: 3
+tags: []
+user_id: pedroasvalente

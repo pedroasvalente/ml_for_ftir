@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/34ebddf68c3b48abbbb3414832a27413/artifacts
+end_time: 1756278911920
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 34ebddf68c3b48abbbb3414832a27413
+run_name: agreeable-grub-573
+run_uuid: 34ebddf68c3b48abbbb3414832a27413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278885690
+status: 3
+tags: []
+user_id: pedroasvalente

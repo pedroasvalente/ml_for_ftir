@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/1f1682915de14b03bc0cf885d6a4fdbd/artifacts
+end_time: 1756277884371
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 1f1682915de14b03bc0cf885d6a4fdbd
+run_name: powerful-seal-566
+run_uuid: 1f1682915de14b03bc0cf885d6a4fdbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277827446
+status: 3
+tags: []
+user_id: pedroasvalente

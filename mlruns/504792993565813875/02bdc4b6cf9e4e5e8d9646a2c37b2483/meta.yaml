@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/02bdc4b6cf9e4e5e8d9646a2c37b2483/artifacts
+end_time: 1756278395350
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 02bdc4b6cf9e4e5e8d9646a2c37b2483
+run_name: serious-rook-879
+run_uuid: 02bdc4b6cf9e4e5e8d9646a2c37b2483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278383294
+status: 3
+tags: []
+user_id: pedroasvalente

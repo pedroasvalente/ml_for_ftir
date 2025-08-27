@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/c0e85a318fbb42ab8a35268ef7c4cc51/artifacts
+end_time: 1756277555051
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: c0e85a318fbb42ab8a35268ef7c4cc51
+run_name: resilient-moth-400
+run_uuid: c0e85a318fbb42ab8a35268ef7c4cc51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277515656
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/2c229234a5d2419bb7f3e87bfabcd3b2/artifacts
+end_time: 1756279217907
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 2c229234a5d2419bb7f3e87bfabcd3b2
+run_name: capable-skink-515
+run_uuid: 2c229234a5d2419bb7f3e87bfabcd3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756279149319
+status: 3
+tags: []
+user_id: pedroasvalente

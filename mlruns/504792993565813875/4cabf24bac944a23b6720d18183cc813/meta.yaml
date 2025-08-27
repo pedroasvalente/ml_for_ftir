@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/4cabf24bac944a23b6720d18183cc813/artifacts
+end_time: 1756278974725
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 4cabf24bac944a23b6720d18183cc813
+run_name: awesome-fly-223
+run_uuid: 4cabf24bac944a23b6720d18183cc813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278962395
+status: 3
+tags: []
+user_id: pedroasvalente

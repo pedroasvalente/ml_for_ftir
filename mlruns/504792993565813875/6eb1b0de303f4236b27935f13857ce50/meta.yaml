@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/6eb1b0de303f4236b27935f13857ce50/artifacts
+end_time: 1756277947279
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 6eb1b0de303f4236b27935f13857ce50
+run_name: ambitious-horse-335
+run_uuid: 6eb1b0de303f4236b27935f13857ce50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277936297
+status: 3
+tags: []
+user_id: pedroasvalente

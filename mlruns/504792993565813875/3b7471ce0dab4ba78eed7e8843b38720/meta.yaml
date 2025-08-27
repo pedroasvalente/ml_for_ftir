@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/3b7471ce0dab4ba78eed7e8843b38720/artifacts
+end_time: 1756279143700
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 3b7471ce0dab4ba78eed7e8843b38720
+run_name: sedate-gull-656
+run_uuid: 3b7471ce0dab4ba78eed7e8843b38720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756279131823
+status: 3
+tags: []
+user_id: pedroasvalente

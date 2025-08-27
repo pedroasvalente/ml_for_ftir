@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/66bbd1608bd44bb3813e715725c7ab0c/artifacts
+end_time: 1756278911920
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 66bbd1608bd44bb3813e715725c7ab0c
+run_name: capable-goat-861
+run_uuid: 66bbd1608bd44bb3813e715725c7ab0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278885690
+status: 3
+tags: []
+user_id: pedroasvalente

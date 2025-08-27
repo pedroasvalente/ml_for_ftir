@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/bcdeb9fcdd894febb6c718693794325f/artifacts
+end_time: 1756277588026
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: bcdeb9fcdd894febb6c718693794325f
+run_name: flawless-lark-491
+run_uuid: bcdeb9fcdd894febb6c718693794325f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277557048
+status: 3
+tags: []
+user_id: pedroasvalente

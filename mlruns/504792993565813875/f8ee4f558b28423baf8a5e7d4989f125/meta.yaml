@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/f8ee4f558b28423baf8a5e7d4989f125/artifacts
+end_time: 1756277998152
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: f8ee4f558b28423baf8a5e7d4989f125
+run_name: secretive-shad-1000
+run_uuid: f8ee4f558b28423baf8a5e7d4989f125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277958062
+status: 3
+tags: []
+user_id: pedroasvalente
