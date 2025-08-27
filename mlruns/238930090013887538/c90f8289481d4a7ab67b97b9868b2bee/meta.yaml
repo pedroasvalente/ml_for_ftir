@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/c90f8289481d4a7ab67b97b9868b2bee/artifacts
+end_time: 1756236606760
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: c90f8289481d4a7ab67b97b9868b2bee
+run_name: enthused-jay-494
+run_uuid: c90f8289481d4a7ab67b97b9868b2bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236602649
+status: 3
+tags: []
+user_id: pedroasvalente

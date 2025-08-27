@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/a400e9db094c4f80b22a3c8d17ccd0d2/artifacts
+end_time: 1756238339854
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: a400e9db094c4f80b22a3c8d17ccd0d2
+run_name: nervous-finch-265
+run_uuid: a400e9db094c4f80b22a3c8d17ccd0d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238336104
+status: 3
+tags: []
+user_id: pedroasvalente

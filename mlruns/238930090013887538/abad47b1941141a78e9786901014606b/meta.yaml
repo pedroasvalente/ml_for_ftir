@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/abad47b1941141a78e9786901014606b/artifacts
+end_time: 1756237567037
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: abad47b1941141a78e9786901014606b
+run_name: shivering-chimp-251
+run_uuid: abad47b1941141a78e9786901014606b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236636657
+status: 3
+tags: []
+user_id: pedroasvalente

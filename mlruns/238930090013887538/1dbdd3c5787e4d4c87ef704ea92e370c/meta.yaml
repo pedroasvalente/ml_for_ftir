@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/1dbdd3c5787e4d4c87ef704ea92e370c/artifacts
+end_time: 1756235776406
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 1dbdd3c5787e4d4c87ef704ea92e370c
+run_name: legendary-shad-112
+run_uuid: 1dbdd3c5787e4d4c87ef704ea92e370c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756235754846
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/0cd143ec8bf8434e83bc9ae78171775a/artifacts
+end_time: 1756236048232
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 0cd143ec8bf8434e83bc9ae78171775a
+run_name: intrigued-ray-730
+run_uuid: 0cd143ec8bf8434e83bc9ae78171775a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756235972821
+status: 3
+tags: []
+user_id: pedroasvalente

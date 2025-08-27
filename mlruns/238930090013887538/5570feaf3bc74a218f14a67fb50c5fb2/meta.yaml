@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/5570feaf3bc74a218f14a67fb50c5fb2/artifacts
+end_time: 1756238290723
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 5570feaf3bc74a218f14a67fb50c5fb2
+run_name: mysterious-skunk-412
+run_uuid: 5570feaf3bc74a218f14a67fb50c5fb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238262834
+status: 3
+tags: []
+user_id: pedroasvalente

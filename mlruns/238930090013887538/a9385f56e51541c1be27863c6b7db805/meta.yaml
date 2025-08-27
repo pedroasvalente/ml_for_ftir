@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/a9385f56e51541c1be27863c6b7db805/artifacts
+end_time: 1756235417834
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: a9385f56e51541c1be27863c6b7db805
+run_name: rare-shrew-266
+run_uuid: a9385f56e51541c1be27863c6b7db805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756235348672
+status: 3
+tags: []
+user_id: pedroasvalente

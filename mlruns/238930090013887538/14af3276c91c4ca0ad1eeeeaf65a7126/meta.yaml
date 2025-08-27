@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/14af3276c91c4ca0ad1eeeeaf65a7126/artifacts
+end_time: 1756239836350
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 14af3276c91c4ca0ad1eeeeaf65a7126
+run_name: shivering-goose-874
+run_uuid: 14af3276c91c4ca0ad1eeeeaf65a7126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239822575
+status: 3
+tags: []
+user_id: pedroasvalente

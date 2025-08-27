@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/cebe169cf3164b6cb14ba827f64f8829/artifacts
+end_time: 1756236210059
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: cebe169cf3164b6cb14ba827f64f8829
+run_name: beautiful-fawn-846
+run_uuid: cebe169cf3164b6cb14ba827f64f8829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236197435
+status: 3
+tags: []
+user_id: pedroasvalente

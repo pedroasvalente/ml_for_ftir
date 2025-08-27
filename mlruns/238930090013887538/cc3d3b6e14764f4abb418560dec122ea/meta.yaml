@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/cc3d3b6e14764f4abb418560dec122ea/artifacts
+end_time: 1756237592143
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: cc3d3b6e14764f4abb418560dec122ea
+run_name: charming-kit-691
+run_uuid: cc3d3b6e14764f4abb418560dec122ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756237570887
+status: 3
+tags: []
+user_id: pedroasvalente

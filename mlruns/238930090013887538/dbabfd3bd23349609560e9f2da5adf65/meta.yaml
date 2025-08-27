@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/dbabfd3bd23349609560e9f2da5adf65/artifacts
+end_time: 1756235722078
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: dbabfd3bd23349609560e9f2da5adf65
+run_name: sneaky-calf-140
+run_uuid: dbabfd3bd23349609560e9f2da5adf65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756235643337
+status: 3
+tags: []
+user_id: pedroasvalente

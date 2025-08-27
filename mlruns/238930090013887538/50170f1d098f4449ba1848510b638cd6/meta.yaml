@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/50170f1d098f4449ba1848510b638cd6/artifacts
+end_time: 1756238406268
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 50170f1d098f4449ba1848510b638cd6
+run_name: brawny-newt-32
+run_uuid: 50170f1d098f4449ba1848510b638cd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238402670
+status: 3
+tags: []
+user_id: pedroasvalente

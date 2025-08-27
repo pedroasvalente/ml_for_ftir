@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/607ab78224ac440cbd015e9137ff65c7/artifacts
+end_time: 1756237592143
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 607ab78224ac440cbd015e9137ff65c7
+run_name: capable-ram-901
+run_uuid: 607ab78224ac440cbd015e9137ff65c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756237570887
+status: 3
+tags: []
+user_id: pedroasvalente

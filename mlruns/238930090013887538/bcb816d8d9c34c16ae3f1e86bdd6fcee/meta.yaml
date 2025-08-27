@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/bcb816d8d9c34c16ae3f1e86bdd6fcee/artifacts
+end_time: 1756236402656
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: bcb816d8d9c34c16ae3f1e86bdd6fcee
+run_name: thundering-fish-247
+run_uuid: bcb816d8d9c34c16ae3f1e86bdd6fcee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236389758
+status: 3
+tags: []
+user_id: pedroasvalente

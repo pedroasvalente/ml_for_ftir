@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/ddc90687f9a04d758d992def1aadc014/artifacts
+end_time: 1756238440590
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: ddc90687f9a04d758d992def1aadc014
+run_name: calm-shrike-866
+run_uuid: ddc90687f9a04d758d992def1aadc014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238436818
+status: 3
+tags: []
+user_id: pedroasvalente

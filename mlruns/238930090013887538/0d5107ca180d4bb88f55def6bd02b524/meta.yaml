@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/0d5107ca180d4bb88f55def6bd02b524/artifacts
+end_time: 1756239263075
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 0d5107ca180d4bb88f55def6bd02b524
+run_name: gifted-cat-257
+run_uuid: 0d5107ca180d4bb88f55def6bd02b524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239120706
+status: 3
+tags: []
+user_id: pedroasvalente

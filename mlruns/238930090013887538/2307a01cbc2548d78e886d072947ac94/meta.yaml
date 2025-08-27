@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/2307a01cbc2548d78e886d072947ac94/artifacts
+end_time: 1756236572636
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 2307a01cbc2548d78e886d072947ac94
+run_name: peaceful-sow-817
+run_uuid: 2307a01cbc2548d78e886d072947ac94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236568353
+status: 3
+tags: []
+user_id: pedroasvalente

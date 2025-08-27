@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/de32d48ad3fe4bea8b741f167f8af575/artifacts
+end_time: 1756236150211
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: de32d48ad3fe4bea8b741f167f8af575
+run_name: merciful-swan-540
+run_uuid: de32d48ad3fe4bea8b741f167f8af575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236126043
+status: 3
+tags: []
+user_id: pedroasvalente

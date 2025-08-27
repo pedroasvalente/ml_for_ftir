@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/88b59ffbfaef4b16a3b85bc2a30eb587/artifacts
+end_time: 1756239263075
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 88b59ffbfaef4b16a3b85bc2a30eb587
+run_name: handsome-worm-516
+run_uuid: 88b59ffbfaef4b16a3b85bc2a30eb587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239120706
+status: 3
+tags: []
+user_id: pedroasvalente

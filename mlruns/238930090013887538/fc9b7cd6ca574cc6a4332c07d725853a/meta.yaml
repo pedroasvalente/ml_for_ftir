@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/fc9b7cd6ca574cc6a4332c07d725853a/artifacts
+end_time: 1756235935521
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: fc9b7cd6ca574cc6a4332c07d725853a
+run_name: blushing-ray-685
+run_uuid: fc9b7cd6ca574cc6a4332c07d725853a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756235918279
+status: 3
+tags: []
+user_id: pedroasvalente

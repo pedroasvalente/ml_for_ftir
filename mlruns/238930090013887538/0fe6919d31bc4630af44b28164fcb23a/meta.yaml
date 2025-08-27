@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/0fe6919d31bc4630af44b28164fcb23a/artifacts
+end_time: 1756238364800
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 0fe6919d31bc4630af44b28164fcb23a
+run_name: auspicious-stag-433
+run_uuid: 0fe6919d31bc4630af44b28164fcb23a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238343853
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/cfc8d2f2a12d4b32b3e910b57d50986d/artifacts
+end_time: 1756236286030
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: cfc8d2f2a12d4b32b3e910b57d50986d
+run_name: loud-worm-950
+run_uuid: cfc8d2f2a12d4b32b3e910b57d50986d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236257846
+status: 3
+tags: []
+user_id: pedroasvalente

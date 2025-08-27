@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/ba1927bad5af4214b56f22afa3200e14/artifacts
+end_time: 1756236386039
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: ba1927bad5af4214b56f22afa3200e14
+run_name: puzzled-jay-905
+run_uuid: ba1927bad5af4214b56f22afa3200e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236357985
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/694ca65631a54f3b9faa7c9451d9f731/artifacts
+end_time: 1756238486032
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 694ca65631a54f3b9faa7c9451d9f731
+run_name: handsome-fowl-914
+run_uuid: 694ca65631a54f3b9faa7c9451d9f731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238473328
+status: 3
+tags: []
+user_id: pedroasvalente

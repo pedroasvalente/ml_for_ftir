@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/40f3b5dd0130471390026326bc9d9470/artifacts
+end_time: 1756238432210
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 40f3b5dd0130471390026326bc9d9470
+run_name: rare-finch-898
+run_uuid: 40f3b5dd0130471390026326bc9d9470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238410337
+status: 3
+tags: []
+user_id: pedroasvalente

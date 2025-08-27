@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/be73ad91f94c412eba829c65ec66d6fe/artifacts
+end_time: 1756236286030
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: be73ad91f94c412eba829c65ec66d6fe
+run_name: selective-colt-736
+run_uuid: be73ad91f94c412eba829c65ec66d6fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236257846
+status: 3
+tags: []
+user_id: pedroasvalente

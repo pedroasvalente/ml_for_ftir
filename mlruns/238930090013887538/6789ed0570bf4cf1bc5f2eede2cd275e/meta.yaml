@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/6789ed0570bf4cf1bc5f2eede2cd275e/artifacts
+end_time: 1756239481395
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 6789ed0570bf4cf1bc5f2eede2cd275e
+run_name: learned-goose-767
+run_uuid: 6789ed0570bf4cf1bc5f2eede2cd275e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239467676
+status: 3
+tags: []
+user_id: pedroasvalente

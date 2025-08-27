@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/238930090013887538
+creation_time: 1756235319626
+experiment_id: '238930090013887538'
+last_update_time: 1756235319626
+lifecycle_stage: active
+name: FTIR Supervised Training - ANAEROBICTHRESHOLD_RELATIVE

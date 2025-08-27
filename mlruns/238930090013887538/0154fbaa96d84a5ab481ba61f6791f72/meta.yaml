@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/0154fbaa96d84a5ab481ba61f6791f72/artifacts
+end_time: 1756240132355
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 0154fbaa96d84a5ab481ba61f6791f72
+run_name: burly-vole-138
+run_uuid: 0154fbaa96d84a5ab481ba61f6791f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239991350
+status: 3
+tags: []
+user_id: pedroasvalente

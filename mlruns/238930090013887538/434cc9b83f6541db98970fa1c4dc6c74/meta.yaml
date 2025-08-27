@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/434cc9b83f6541db98970fa1c4dc6c74/artifacts
+end_time: 1756235722078
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 434cc9b83f6541db98970fa1c4dc6c74
+run_name: flawless-hare-619
+run_uuid: 434cc9b83f6541db98970fa1c4dc6c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756235643337
+status: 3
+tags: []
+user_id: pedroasvalente

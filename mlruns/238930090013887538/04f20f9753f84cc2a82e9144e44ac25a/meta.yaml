@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/04f20f9753f84cc2a82e9144e44ac25a/artifacts
+end_time: 1756239985710
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 04f20f9753f84cc2a82e9144e44ac25a
+run_name: caring-snipe-219
+run_uuid: 04f20f9753f84cc2a82e9144e44ac25a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239972431
+status: 3
+tags: []
+user_id: pedroasvalente

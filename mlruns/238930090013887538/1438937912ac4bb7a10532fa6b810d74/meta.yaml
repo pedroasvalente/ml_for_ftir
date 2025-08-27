@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/1438937912ac4bb7a10532fa6b810d74/artifacts
+end_time: 1756238432210
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 1438937912ac4bb7a10532fa6b810d74
+run_name: smiling-dove-278
+run_uuid: 1438937912ac4bb7a10532fa6b810d74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238410337
+status: 3
+tags: []
+user_id: pedroasvalente
