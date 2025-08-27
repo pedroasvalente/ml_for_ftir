@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/5a1870d75ebb43b9a530784f260bd51c/artifacts
+end_time: 1756304785669
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 5a1870d75ebb43b9a530784f260bd51c
+run_name: stylish-perch-884
+run_uuid: 5a1870d75ebb43b9a530784f260bd51c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304772498
+status: 3
+tags: []
+user_id: pedroasvalente

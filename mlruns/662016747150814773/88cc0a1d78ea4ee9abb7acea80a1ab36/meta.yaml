@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/88cc0a1d78ea4ee9abb7acea80a1ab36/artifacts
+end_time: 1756304189150
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 88cc0a1d78ea4ee9abb7acea80a1ab36
+run_name: wistful-hare-547
+run_uuid: 88cc0a1d78ea4ee9abb7acea80a1ab36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304111504
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/e4bef70b04cf4395a92d4c3d88428f0c/artifacts
+end_time: 1756305658470
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: e4bef70b04cf4395a92d4c3d88428f0c
+run_name: amazing-rat-191
+run_uuid: e4bef70b04cf4395a92d4c3d88428f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305556467
+status: 3
+tags: []
+user_id: pedroasvalente

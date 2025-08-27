@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/a999ac5fca8d46769239e4b709d2e881/artifacts
+end_time: 1756304740225
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: a999ac5fca8d46769239e4b709d2e881
+run_name: skillful-grouse-169
+run_uuid: a999ac5fca8d46769239e4b709d2e881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304726360
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/dcebef72283b49549dc570faf3d5c468/artifacts
+end_time: 1756304934463
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: dcebef72283b49549dc570faf3d5c468
+run_name: luxuriant-quail-6
+run_uuid: dcebef72283b49549dc570faf3d5c468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304919121
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/d1724b4d330e4d10a7d306f0f5e93714/artifacts
+end_time: 1756304692318
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: d1724b4d330e4d10a7d306f0f5e93714
+run_name: monumental-lark-930
+run_uuid: d1724b4d330e4d10a7d306f0f5e93714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304677947
+status: 3
+tags: []
+user_id: pedroasvalente

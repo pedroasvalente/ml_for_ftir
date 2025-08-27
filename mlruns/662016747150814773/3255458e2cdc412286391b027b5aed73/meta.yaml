@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/3255458e2cdc412286391b027b5aed73/artifacts
+end_time: 1756306532376
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 3255458e2cdc412286391b027b5aed73
+run_name: masked-crab-918
+run_uuid: 3255458e2cdc412286391b027b5aed73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756306414763
+status: 3
+tags: []
+user_id: pedroasvalente

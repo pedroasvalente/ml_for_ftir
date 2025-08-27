@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/7bbc8a0392184aa99584fb79ed628653/artifacts
+end_time: 1756304257079
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 7bbc8a0392184aa99584fb79ed628653
+run_name: puzzled-yak-752
+run_uuid: 7bbc8a0392184aa99584fb79ed628653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304235298
+status: 3
+tags: []
+user_id: pedroasvalente

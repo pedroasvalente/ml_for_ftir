@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/ca77fbf725d24fd6b89d9f6afdc1ec6e/artifacts
+end_time: 1756306550606
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: ca77fbf725d24fd6b89d9f6afdc1ec6e
+run_name: invincible-crow-416
+run_uuid: ca77fbf725d24fd6b89d9f6afdc1ec6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756306538869
+status: 3
+tags: []
+user_id: pedroasvalente

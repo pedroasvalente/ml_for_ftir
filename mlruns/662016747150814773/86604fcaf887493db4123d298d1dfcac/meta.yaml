@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/86604fcaf887493db4123d298d1dfcac/artifacts
+end_time: 1756306245431
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 86604fcaf887493db4123d298d1dfcac
+run_name: peaceful-trout-540
+run_uuid: 86604fcaf887493db4123d298d1dfcac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756306234063
+status: 3
+tags: []
+user_id: pedroasvalente

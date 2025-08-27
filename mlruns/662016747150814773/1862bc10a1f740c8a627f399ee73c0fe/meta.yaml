@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/1862bc10a1f740c8a627f399ee73c0fe/artifacts
+end_time: 1756305360836
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 1862bc10a1f740c8a627f399ee73c0fe
+run_name: stylish-fish-831
+run_uuid: 1862bc10a1f740c8a627f399ee73c0fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305332910
+status: 3
+tags: []
+user_id: pedroasvalente

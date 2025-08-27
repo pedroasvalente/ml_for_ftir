@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/116424573e8b45c08924cbf756fbe609/artifacts
+end_time: 1756304628559
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 116424573e8b45c08924cbf756fbe609
+run_name: flawless-quail-180
+run_uuid: 116424573e8b45c08924cbf756fbe609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304549828
+status: 3
+tags: []
+user_id: pedroasvalente

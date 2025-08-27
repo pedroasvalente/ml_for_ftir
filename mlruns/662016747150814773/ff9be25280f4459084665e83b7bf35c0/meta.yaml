@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/ff9be25280f4459084665e83b7bf35c0/artifacts
+end_time: 1756304969442
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: ff9be25280f4459084665e83b7bf35c0
+run_name: treasured-moose-799
+run_uuid: ff9be25280f4459084665e83b7bf35c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304939050
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/c26cc0f746d7402781cf3e678f4b1000/artifacts
+end_time: 1756305434373
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: c26cc0f746d7402781cf3e678f4b1000
+run_name: receptive-dove-744
+run_uuid: c26cc0f746d7402781cf3e678f4b1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305412248
+status: 3
+tags: []
+user_id: pedroasvalente

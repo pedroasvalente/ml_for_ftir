@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/a6c84d434cea47858370ea4012e39d90/artifacts
+end_time: 1756305477003
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: a6c84d434cea47858370ea4012e39d90
+run_name: delicate-bug-38
+run_uuid: a6c84d434cea47858370ea4012e39d90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305473521
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/afe739ce606147729b36af6319d7fad8/artifacts
+end_time: 1756305469260
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: afe739ce606147729b36af6319d7fad8
+run_name: silent-kite-445
+run_uuid: afe739ce606147729b36af6319d7fad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305445476
+status: 3
+tags: []
+user_id: pedroasvalente

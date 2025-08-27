@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/a99bc48ea0964ee5b87cf5ec75f758bf/artifacts
+end_time: 1756304038230
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: a99bc48ea0964ee5b87cf5ec75f758bf
+run_name: abrasive-penguin-292
+run_uuid: a99bc48ea0964ee5b87cf5ec75f758bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756303965012
+status: 3
+tags: []
+user_id: pedroasvalente

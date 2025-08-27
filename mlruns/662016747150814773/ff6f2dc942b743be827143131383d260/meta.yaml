@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/ff6f2dc942b743be827143131383d260/artifacts
+end_time: 1756305401188
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: ff6f2dc942b743be827143131383d260
+run_name: fortunate-horse-605
+run_uuid: ff6f2dc942b743be827143131383d260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305371602
+status: 3
+tags: []
+user_id: pedroasvalente

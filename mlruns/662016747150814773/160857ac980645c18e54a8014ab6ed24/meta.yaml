@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/160857ac980645c18e54a8014ab6ed24/artifacts
+end_time: 1756304080740
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 160857ac980645c18e54a8014ab6ed24
+run_name: agreeable-goose-870
+run_uuid: 160857ac980645c18e54a8014ab6ed24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304069298
+status: 3
+tags: []
+user_id: pedroasvalente

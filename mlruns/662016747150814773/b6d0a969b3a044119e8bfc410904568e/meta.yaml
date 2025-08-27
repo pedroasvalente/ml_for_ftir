@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/b6d0a969b3a044119e8bfc410904568e/artifacts
+end_time: 1756303962333
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: b6d0a969b3a044119e8bfc410904568e
+run_name: abrasive-snail-68
+run_uuid: b6d0a969b3a044119e8bfc410904568e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756303937990
+status: 3
+tags: []
+user_id: pedroasvalente

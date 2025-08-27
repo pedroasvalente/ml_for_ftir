@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/4df4c39de44d4df7a88f10f78be645ff/artifacts
+end_time: 1756305262247
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 4df4c39de44d4df7a88f10f78be645ff
+run_name: abrasive-moth-751
+run_uuid: 4df4c39de44d4df7a88f10f78be645ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305258756
+status: 3
+tags: []
+user_id: pedroasvalente

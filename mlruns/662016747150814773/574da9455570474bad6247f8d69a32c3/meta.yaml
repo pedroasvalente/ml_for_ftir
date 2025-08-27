@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/574da9455570474bad6247f8d69a32c3/artifacts
+end_time: 1756304723216
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 574da9455570474bad6247f8d69a32c3
+run_name: nimble-squid-111
+run_uuid: 574da9455570474bad6247f8d69a32c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304696128
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/e0795198eb44402b98eab4ac26214b9e/artifacts
+end_time: 1756304723216
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: e0795198eb44402b98eab4ac26214b9e
+run_name: awesome-sheep-94
+run_uuid: e0795198eb44402b98eab4ac26214b9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304696128
+status: 3
+tags: []
+user_id: pedroasvalente

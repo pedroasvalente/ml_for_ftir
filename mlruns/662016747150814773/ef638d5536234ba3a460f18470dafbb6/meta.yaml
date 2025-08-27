@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/ef638d5536234ba3a460f18470dafbb6/artifacts
+end_time: 1756304989299
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: ef638d5536234ba3a460f18470dafbb6
+run_name: salty-colt-12
+run_uuid: ef638d5536234ba3a460f18470dafbb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304973886
+status: 3
+tags: []
+user_id: pedroasvalente

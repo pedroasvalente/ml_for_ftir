@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/17c7f50bc662451485ec16ef2b1822d8/artifacts
+end_time: 1756305123960
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 17c7f50bc662451485ec16ef2b1822d8
+run_name: receptive-mole-977
+run_uuid: 17c7f50bc662451485ec16ef2b1822d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305096762
+status: 3
+tags: []
+user_id: pedroasvalente

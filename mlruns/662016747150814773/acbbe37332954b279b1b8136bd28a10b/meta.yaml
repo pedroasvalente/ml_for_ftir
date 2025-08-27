@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/acbbe37332954b279b1b8136bd28a10b/artifacts
+end_time: 1756304989299
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: acbbe37332954b279b1b8136bd28a10b
+run_name: luxuriant-conch-473
+run_uuid: acbbe37332954b279b1b8136bd28a10b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304973886
+status: 3
+tags: []
+user_id: pedroasvalente

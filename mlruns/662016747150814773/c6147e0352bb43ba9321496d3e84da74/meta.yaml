@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/c6147e0352bb43ba9321496d3e84da74/artifacts
+end_time: 1756304934463
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: c6147e0352bb43ba9321496d3e84da74
+run_name: youthful-hawk-470
+run_uuid: c6147e0352bb43ba9321496d3e84da74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304919121
+status: 3
+tags: []
+user_id: pedroasvalente

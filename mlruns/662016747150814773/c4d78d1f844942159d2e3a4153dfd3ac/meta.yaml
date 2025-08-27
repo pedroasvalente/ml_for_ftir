@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/c4d78d1f844942159d2e3a4153dfd3ac/artifacts
+end_time: 1756305552242
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: c4d78d1f844942159d2e3a4153dfd3ac
+run_name: merciful-eel-506
+run_uuid: c4d78d1f844942159d2e3a4153dfd3ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305540673
+status: 3
+tags: []
+user_id: pedroasvalente

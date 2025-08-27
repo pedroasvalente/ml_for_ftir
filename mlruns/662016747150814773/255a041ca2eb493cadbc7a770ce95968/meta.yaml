@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/255a041ca2eb493cadbc7a770ce95968/artifacts
+end_time: 1756304226559
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 255a041ca2eb493cadbc7a770ce95968
+run_name: useful-toad-430
+run_uuid: 255a041ca2eb493cadbc7a770ce95968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304215871
+status: 3
+tags: []
+user_id: pedroasvalente

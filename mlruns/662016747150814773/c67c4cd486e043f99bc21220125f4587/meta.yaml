@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/c67c4cd486e043f99bc21220125f4587/artifacts
+end_time: 1756305329361
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: c67c4cd486e043f99bc21220125f4587
+run_name: victorious-sheep-442
+run_uuid: c67c4cd486e043f99bc21220125f4587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305325796
+status: 3
+tags: []
+user_id: pedroasvalente

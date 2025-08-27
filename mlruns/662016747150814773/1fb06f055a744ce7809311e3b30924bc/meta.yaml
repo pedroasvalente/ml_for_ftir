@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/1fb06f055a744ce7809311e3b30924bc/artifacts
+end_time: 1756305262247
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 1fb06f055a744ce7809311e3b30924bc
+run_name: nebulous-dog-220
+run_uuid: 1fb06f055a744ce7809311e3b30924bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305258756
+status: 3
+tags: []
+user_id: pedroasvalente

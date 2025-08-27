@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/d04de4566279453a906b22be1e3ee156/artifacts
+end_time: 1756304668410
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: d04de4566279453a906b22be1e3ee156
+run_name: receptive-shrike-475
+run_uuid: d04de4566279453a906b22be1e3ee156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304657542
+status: 3
+tags: []
+user_id: pedroasvalente

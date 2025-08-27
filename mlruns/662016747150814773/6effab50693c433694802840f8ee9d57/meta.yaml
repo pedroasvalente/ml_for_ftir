@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/6effab50693c433694802840f8ee9d57/artifacts
+end_time: 1756305092621
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 6effab50693c433694802840f8ee9d57
+run_name: rumbling-skunk-359
+run_uuid: 6effab50693c433694802840f8ee9d57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305078831
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/1ab92c6529024d8baee1049510f3779e/artifacts
+end_time: 1756304226559
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 1ab92c6529024d8baee1049510f3779e
+run_name: resilient-sponge-381
+run_uuid: 1ab92c6529024d8baee1049510f3779e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304215871
+status: 3
+tags: []
+user_id: pedroasvalente

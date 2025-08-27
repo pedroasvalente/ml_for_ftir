@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/e58dc5945fc14deebf40b54609863370/artifacts
+end_time: 1756304934463
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: e58dc5945fc14deebf40b54609863370
+run_name: burly-jay-331
+run_uuid: e58dc5945fc14deebf40b54609863370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304919121
+status: 3
+tags: []
+user_id: pedroasvalente

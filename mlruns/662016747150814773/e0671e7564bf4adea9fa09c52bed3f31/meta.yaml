@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/e0671e7564bf4adea9fa09c52bed3f31/artifacts
+end_time: 1756304479434
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: e0671e7564bf4adea9fa09c52bed3f31
+run_name: amazing-horse-694
+run_uuid: e0671e7564bf4adea9fa09c52bed3f31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304409153
+status: 3
+tags: []
+user_id: pedroasvalente

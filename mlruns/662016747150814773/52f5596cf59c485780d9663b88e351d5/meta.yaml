@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/52f5596cf59c485780d9663b88e351d5/artifacts
+end_time: 1756306550606
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 52f5596cf59c485780d9663b88e351d5
+run_name: bustling-mare-161
+run_uuid: 52f5596cf59c485780d9663b88e351d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756306538869
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/2c394fed0a074959a36b2f8402755c33/artifacts
+end_time: 1756304814974
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 2c394fed0a074959a36b2f8402755c33
+run_name: orderly-gnu-933
+run_uuid: 2c394fed0a074959a36b2f8402755c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304789027
+status: 3
+tags: []
+user_id: pedroasvalente

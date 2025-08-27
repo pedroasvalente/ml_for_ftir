@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/2e8a6a4c763c401b86716709c77b0293/artifacts
+end_time: 1756305797809
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 2e8a6a4c763c401b86716709c77b0293
+run_name: glamorous-gull-335
+run_uuid: 2e8a6a4c763c401b86716709c77b0293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305678883
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/50005bd9649847e3aa40752f27411811/artifacts
+end_time: 1756305552242
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 50005bd9649847e3aa40752f27411811
+run_name: nervous-mule-963
+run_uuid: 50005bd9649847e3aa40752f27411811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305540673
+status: 3
+tags: []
+user_id: pedroasvalente

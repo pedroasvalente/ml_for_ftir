@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/fe3fb3cf026a4a34aa4da182579b9b2e/artifacts
+end_time: 1756304547263
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: fe3fb3cf026a4a34aa4da182579b9b2e
+run_name: clumsy-ox-712
+run_uuid: fe3fb3cf026a4a34aa4da182579b9b2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304526891
+status: 3
+tags: []
+user_id: pedroasvalente

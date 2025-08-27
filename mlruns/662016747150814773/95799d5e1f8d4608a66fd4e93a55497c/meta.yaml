@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/95799d5e1f8d4608a66fd4e93a55497c/artifacts
+end_time: 1756305434373
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 95799d5e1f8d4608a66fd4e93a55497c
+run_name: beautiful-gull-912
+run_uuid: 95799d5e1f8d4608a66fd4e93a55497c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305412248
+status: 3
+tags: []
+user_id: pedroasvalente

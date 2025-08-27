@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/f87f1a0843b7454685910946e3b6b31e/artifacts
+end_time: 1756305174158
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: f87f1a0843b7454685910946e3b6b31e
+run_name: angry-lynx-715
+run_uuid: f87f1a0843b7454685910946e3b6b31e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305146863
+status: 3
+tags: []
+user_id: pedroasvalente

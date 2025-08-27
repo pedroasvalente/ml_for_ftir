@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/662016747150814773
+creation_time: 1756303937589
+experiment_id: '662016747150814773'
+last_update_time: 1756303937589
+lifecycle_stage: active
+name: FTIR Supervised Training - BODYFAT_PERC

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/e63700725df84fc9b0dc2716385e99f9/artifacts
+end_time: 1756304406768
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: e63700725df84fc9b0dc2716385e99f9
+run_name: righteous-zebra-841
+run_uuid: e63700725df84fc9b0dc2716385e99f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304385966
+status: 3
+tags: []
+user_id: pedroasvalente

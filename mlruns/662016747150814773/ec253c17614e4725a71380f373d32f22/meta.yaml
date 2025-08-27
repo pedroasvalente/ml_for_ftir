@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/ec253c17614e4725a71380f373d32f22/artifacts
+end_time: 1756303962333
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: ec253c17614e4725a71380f373d32f22
+run_name: victorious-hare-459
+run_uuid: ec253c17614e4725a71380f373d32f22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756303937990
+status: 3
+tags: []
+user_id: pedroasvalente

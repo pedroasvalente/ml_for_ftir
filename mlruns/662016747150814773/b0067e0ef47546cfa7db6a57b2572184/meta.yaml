@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/b0067e0ef47546cfa7db6a57b2572184/artifacts
+end_time: 1756306083997
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: b0067e0ef47546cfa7db6a57b2572184
+run_name: glamorous-koi-322
+run_uuid: b0067e0ef47546cfa7db6a57b2572184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305955744
+status: 3
+tags: []
+user_id: pedroasvalente

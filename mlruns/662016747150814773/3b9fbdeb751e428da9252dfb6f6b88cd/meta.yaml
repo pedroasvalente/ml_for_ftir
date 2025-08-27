@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/3b9fbdeb751e428da9252dfb6f6b88cd/artifacts
+end_time: 1756304517841
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 3b9fbdeb751e428da9252dfb6f6b88cd
+run_name: luxuriant-whale-758
+run_uuid: 3b9fbdeb751e428da9252dfb6f6b88cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304507477
+status: 3
+tags: []
+user_id: pedroasvalente

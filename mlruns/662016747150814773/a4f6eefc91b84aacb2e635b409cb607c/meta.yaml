@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/a4f6eefc91b84aacb2e635b409cb607c/artifacts
+end_time: 1756304547263
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: a4f6eefc91b84aacb2e635b409cb607c
+run_name: loud-fox-78
+run_uuid: a4f6eefc91b84aacb2e635b409cb607c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304526891
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/eea301177f9240bbb0b0fec7f2298767/artifacts
+end_time: 1756304376770
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: eea301177f9240bbb0b0fec7f2298767
+run_name: dapper-fly-807
+run_uuid: eea301177f9240bbb0b0fec7f2298767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304363563
+status: 3
+tags: []
+user_id: pedroasvalente

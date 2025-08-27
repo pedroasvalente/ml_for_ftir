@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/a6fcd234c5984193b971463fa910f7e5/artifacts
+end_time: 1756305797809
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: a6fcd234c5984193b971463fa910f7e5
+run_name: skittish-shrew-334
+run_uuid: a6fcd234c5984193b971463fa910f7e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305678883
+status: 3
+tags: []
+user_id: pedroasvalente

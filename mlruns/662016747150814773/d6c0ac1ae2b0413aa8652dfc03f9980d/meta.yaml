@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/d6c0ac1ae2b0413aa8652dfc03f9980d/artifacts
+end_time: 1756305477003
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: d6c0ac1ae2b0413aa8652dfc03f9980d
+run_name: delicate-turtle-612
+run_uuid: d6c0ac1ae2b0413aa8652dfc03f9980d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305473521
+status: 3
+tags: []
+user_id: pedroasvalente

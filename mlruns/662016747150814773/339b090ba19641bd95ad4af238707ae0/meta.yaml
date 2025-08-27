@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/339b090ba19641bd95ad4af238707ae0/artifacts
+end_time: 1756305217767
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 339b090ba19641bd95ad4af238707ae0
+run_name: abrasive-smelt-950
+run_uuid: 339b090ba19641bd95ad4af238707ae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305189360
+status: 3
+tags: []
+user_id: pedroasvalente
