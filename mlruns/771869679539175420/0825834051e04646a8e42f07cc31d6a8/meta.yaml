@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/0825834051e04646a8e42f07cc31d6a8/artifacts
+end_time: 1756293833050
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 0825834051e04646a8e42f07cc31d6a8
+run_name: gentle-snail-968
+run_uuid: 0825834051e04646a8e42f07cc31d6a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293818012
+status: 3
+tags: []
+user_id: pedroasvalente

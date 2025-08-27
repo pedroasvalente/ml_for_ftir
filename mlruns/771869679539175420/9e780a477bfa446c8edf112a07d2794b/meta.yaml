@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/9e780a477bfa446c8edf112a07d2794b/artifacts
+end_time: 1756292143728
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 9e780a477bfa446c8edf112a07d2794b
+run_name: efficient-fish-686
+run_uuid: 9e780a477bfa446c8edf112a07d2794b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292130551
+status: 3
+tags: []
+user_id: pedroasvalente

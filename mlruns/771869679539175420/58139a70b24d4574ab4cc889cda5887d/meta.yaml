@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/58139a70b24d4574ab4cc889cda5887d/artifacts
+end_time: 1756291339628
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 58139a70b24d4574ab4cc889cda5887d
+run_name: funny-gull-946
+run_uuid: 58139a70b24d4574ab4cc889cda5887d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291253674
+status: 3
+tags: []
+user_id: pedroasvalente

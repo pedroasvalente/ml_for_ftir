@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/33d98666c7ee4c708b9a08072e2bb906/artifacts
+end_time: 1756292249860
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 33d98666c7ee4c708b9a08072e2bb906
+run_name: smiling-fly-882
+run_uuid: 33d98666c7ee4c708b9a08072e2bb906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292223245
+status: 3
+tags: []
+user_id: pedroasvalente

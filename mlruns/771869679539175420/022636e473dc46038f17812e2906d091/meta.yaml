@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/022636e473dc46038f17812e2906d091/artifacts
+end_time: 1756292493846
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 022636e473dc46038f17812e2906d091
+run_name: painted-ram-368
+run_uuid: 022636e473dc46038f17812e2906d091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292468103
+status: 3
+tags: []
+user_id: pedroasvalente

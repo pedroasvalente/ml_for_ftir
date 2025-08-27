@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/a52fffc7306346a8b037c6d88234e37a/artifacts
+end_time: 1756291528951
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: a52fffc7306346a8b037c6d88234e37a
+run_name: luminous-worm-526
+run_uuid: a52fffc7306346a8b037c6d88234e37a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291506205
+status: 3
+tags: []
+user_id: pedroasvalente

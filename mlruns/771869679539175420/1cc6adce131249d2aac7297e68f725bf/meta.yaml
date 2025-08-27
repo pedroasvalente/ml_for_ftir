@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/1cc6adce131249d2aac7297e68f725bf/artifacts
+end_time: 1756292211074
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 1cc6adce131249d2aac7297e68f725bf
+run_name: languid-elk-308
+run_uuid: 1cc6adce131249d2aac7297e68f725bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292185784
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/9640b12c10aa416c8a4b1694976db8e4/artifacts
+end_time: 1756292035157
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 9640b12c10aa416c8a4b1694976db8e4
+run_name: sneaky-hawk-72
+run_uuid: 9640b12c10aa416c8a4b1694976db8e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292010399
+status: 3
+tags: []
+user_id: pedroasvalente

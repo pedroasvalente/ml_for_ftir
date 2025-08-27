@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/ebd61817c56d4795bb5b7737e60022d7/artifacts
+end_time: 1756292574633
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: ebd61817c56d4795bb5b7737e60022d7
+run_name: exultant-shrew-932
+run_uuid: ebd61817c56d4795bb5b7737e60022d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292547131
+status: 3
+tags: []
+user_id: pedroasvalente

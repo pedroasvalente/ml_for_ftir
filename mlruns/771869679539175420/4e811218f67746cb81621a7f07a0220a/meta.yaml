@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/4e811218f67746cb81621a7f07a0220a/artifacts
+end_time: 1756292533882
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 4e811218f67746cb81621a7f07a0220a
+run_name: overjoyed-shrew-552
+run_uuid: 4e811218f67746cb81621a7f07a0220a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292508305
+status: 3
+tags: []
+user_id: pedroasvalente

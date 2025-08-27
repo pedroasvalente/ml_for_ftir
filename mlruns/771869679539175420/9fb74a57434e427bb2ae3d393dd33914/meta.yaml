@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/9fb74a57434e427bb2ae3d393dd33914/artifacts
+end_time: 1756291021940
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 9fb74a57434e427bb2ae3d393dd33914
+run_name: angry-koi-289
+run_uuid: 9fb74a57434e427bb2ae3d393dd33914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756290952173
+status: 3
+tags: []
+user_id: pedroasvalente

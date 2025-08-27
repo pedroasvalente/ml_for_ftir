@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/abc7bd4c315144d39a36fcf4b58e5196/artifacts
+end_time: 1756293646025
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: abc7bd4c315144d39a36fcf4b58e5196
+run_name: dazzling-robin-286
+run_uuid: abc7bd4c315144d39a36fcf4b58e5196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293631398
+status: 3
+tags: []
+user_id: pedroasvalente

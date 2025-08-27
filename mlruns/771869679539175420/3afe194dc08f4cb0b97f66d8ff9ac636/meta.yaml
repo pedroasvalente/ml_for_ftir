@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/3afe194dc08f4cb0b97f66d8ff9ac636/artifacts
+end_time: 1756292991802
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 3afe194dc08f4cb0b97f66d8ff9ac636
+run_name: exultant-lynx-286
+run_uuid: 3afe194dc08f4cb0b97f66d8ff9ac636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292980642
+status: 3
+tags: []
+user_id: pedroasvalente

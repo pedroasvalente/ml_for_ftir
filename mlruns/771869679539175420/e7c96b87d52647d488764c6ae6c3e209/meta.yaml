@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/e7c96b87d52647d488764c6ae6c3e209/artifacts
+end_time: 1756292463749
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: e7c96b87d52647d488764c6ae6c3e209
+run_name: bedecked-rook-891
+run_uuid: e7c96b87d52647d488764c6ae6c3e209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292460114
+status: 3
+tags: []
+user_id: pedroasvalente

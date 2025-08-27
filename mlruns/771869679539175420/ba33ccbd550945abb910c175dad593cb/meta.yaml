@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/ba33ccbd550945abb910c175dad593cb/artifacts
+end_time: 1756292418178
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: ba33ccbd550945abb910c175dad593cb
+run_name: polite-hog-693
+run_uuid: ba33ccbd550945abb910c175dad593cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292383685
+status: 3
+tags: []
+user_id: pedroasvalente

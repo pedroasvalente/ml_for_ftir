@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/cc35a426b6d74713bca0a3d28d5e1e33/artifacts
+end_time: 1756291544507
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: cc35a426b6d74713bca0a3d28d5e1e33
+run_name: grandiose-mink-585
+run_uuid: cc35a426b6d74713bca0a3d28d5e1e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291531884
+status: 3
+tags: []
+user_id: pedroasvalente

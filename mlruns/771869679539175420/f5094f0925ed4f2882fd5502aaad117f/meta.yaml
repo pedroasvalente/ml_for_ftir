@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/f5094f0925ed4f2882fd5502aaad117f/artifacts
+end_time: 1756292503963
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: f5094f0925ed4f2882fd5502aaad117f
+run_name: capable-stoat-642
+run_uuid: f5094f0925ed4f2882fd5502aaad117f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292499454
+status: 3
+tags: []
+user_id: pedroasvalente

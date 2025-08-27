@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/d2b7189513bd43bfbd5041410efa487f/artifacts
+end_time: 1756293469065
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: d2b7189513bd43bfbd5041410efa487f
+run_name: lyrical-smelt-286
+run_uuid: d2b7189513bd43bfbd5041410efa487f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293301233
+status: 3
+tags: []
+user_id: pedroasvalente

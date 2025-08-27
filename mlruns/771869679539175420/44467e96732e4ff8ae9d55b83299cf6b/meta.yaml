@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/44467e96732e4ff8ae9d55b83299cf6b/artifacts
+end_time: 1756292380031
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 44467e96732e4ff8ae9d55b83299cf6b
+run_name: secretive-lamb-834
+run_uuid: 44467e96732e4ff8ae9d55b83299cf6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292376209
+status: 3
+tags: []
+user_id: pedroasvalente

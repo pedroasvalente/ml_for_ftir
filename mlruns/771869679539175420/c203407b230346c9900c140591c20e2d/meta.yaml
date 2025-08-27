@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/c203407b230346c9900c140591c20e2d/artifacts
+end_time: 1756293646025
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: c203407b230346c9900c140591c20e2d
+run_name: silent-fish-735
+run_uuid: c203407b230346c9900c140591c20e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293631398
+status: 3
+tags: []
+user_id: pedroasvalente

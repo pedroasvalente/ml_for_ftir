@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/db12d6f0692f4a53a156d3a96fdc899b/artifacts
+end_time: 1756291578560
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: db12d6f0692f4a53a156d3a96fdc899b
+run_name: clean-zebra-913
+run_uuid: db12d6f0692f4a53a156d3a96fdc899b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291555615
+status: 3
+tags: []
+user_id: pedroasvalente

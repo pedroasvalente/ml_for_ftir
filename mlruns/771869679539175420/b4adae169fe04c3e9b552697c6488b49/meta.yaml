@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/b4adae169fe04c3e9b552697c6488b49/artifacts
+end_time: 1756292326054
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: b4adae169fe04c3e9b552697c6488b49
+run_name: classy-robin-220
+run_uuid: b4adae169fe04c3e9b552697c6488b49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292299156
+status: 3
+tags: []
+user_id: pedroasvalente

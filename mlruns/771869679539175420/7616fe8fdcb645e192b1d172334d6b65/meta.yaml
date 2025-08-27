@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/7616fe8fdcb645e192b1d172334d6b65/artifacts
+end_time: 1756292975774
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 7616fe8fdcb645e192b1d172334d6b65
+run_name: bittersweet-mink-240
+run_uuid: 7616fe8fdcb645e192b1d172334d6b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292860425
+status: 3
+tags: []
+user_id: pedroasvalente

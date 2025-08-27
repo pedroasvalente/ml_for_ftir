@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/ab40e16754084f38b1f06d0e7f957cd0/artifacts
+end_time: 1756291528951
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: ab40e16754084f38b1f06d0e7f957cd0
+run_name: dapper-eel-497
+run_uuid: ab40e16754084f38b1f06d0e7f957cd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291506205
+status: 3
+tags: []
+user_id: pedroasvalente

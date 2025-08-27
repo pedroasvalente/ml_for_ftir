@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/d1e9d4389f5848b9b7dff0d201661bc4/artifacts
+end_time: 1756291774645
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: d1e9d4389f5848b9b7dff0d201661bc4
+run_name: mysterious-eel-963
+run_uuid: d1e9d4389f5848b9b7dff0d201661bc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291761701
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/28220a7a8bc04dd09b71e672831d5316/artifacts
+end_time: 1756292079937
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 28220a7a8bc04dd09b71e672831d5316
+run_name: burly-cow-54
+run_uuid: 28220a7a8bc04dd09b71e672831d5316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292054888
+status: 3
+tags: []
+user_id: pedroasvalente

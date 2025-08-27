@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/4854ead2fefa45248f566e33b71566c7/artifacts
+end_time: 1756292463749
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 4854ead2fefa45248f566e33b71566c7
+run_name: powerful-deer-855
+run_uuid: 4854ead2fefa45248f566e33b71566c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292460114
+status: 3
+tags: []
+user_id: pedroasvalente

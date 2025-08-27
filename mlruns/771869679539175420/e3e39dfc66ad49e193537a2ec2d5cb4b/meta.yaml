@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/e3e39dfc66ad49e193537a2ec2d5cb4b/artifacts
+end_time: 1756292455193
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: e3e39dfc66ad49e193537a2ec2d5cb4b
+run_name: spiffy-dolphin-516
+run_uuid: e3e39dfc66ad49e193537a2ec2d5cb4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292431046
+status: 3
+tags: []
+user_id: pedroasvalente

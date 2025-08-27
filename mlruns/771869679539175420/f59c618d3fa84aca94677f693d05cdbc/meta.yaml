@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/f59c618d3fa84aca94677f693d05cdbc/artifacts
+end_time: 1756292096647
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: f59c618d3fa84aca94677f693d05cdbc
+run_name: serious-elk-813
+run_uuid: f59c618d3fa84aca94677f693d05cdbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292083894
+status: 3
+tags: []
+user_id: pedroasvalente

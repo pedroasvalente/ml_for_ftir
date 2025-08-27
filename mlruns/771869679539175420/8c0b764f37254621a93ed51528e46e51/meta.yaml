@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/8c0b764f37254621a93ed51528e46e51/artifacts
+end_time: 1756292380031
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 8c0b764f37254621a93ed51528e46e51
+run_name: intrigued-zebra-524
+run_uuid: 8c0b764f37254621a93ed51528e46e51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292376209
+status: 3
+tags: []
+user_id: pedroasvalente

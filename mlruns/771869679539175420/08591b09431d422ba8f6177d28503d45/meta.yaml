@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/08591b09431d422ba8f6177d28503d45/artifacts
+end_time: 1756291098628
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 08591b09431d422ba8f6177d28503d45
+run_name: rambunctious-asp-2
+run_uuid: 08591b09431d422ba8f6177d28503d45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291075653
+status: 3
+tags: []
+user_id: pedroasvalente

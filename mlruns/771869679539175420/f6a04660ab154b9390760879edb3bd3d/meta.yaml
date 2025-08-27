@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/f6a04660ab154b9390760879edb3bd3d/artifacts
+end_time: 1756292463749
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: f6a04660ab154b9390760879edb3bd3d
+run_name: angry-fish-560
+run_uuid: f6a04660ab154b9390760879edb3bd3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292460114
+status: 3
+tags: []
+user_id: pedroasvalente

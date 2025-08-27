@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/cdad2e0fb68b4a2a8af1c39074fa96ca/artifacts
+end_time: 1756292051210
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: cdad2e0fb68b4a2a8af1c39074fa96ca
+run_name: shivering-colt-714
+run_uuid: cdad2e0fb68b4a2a8af1c39074fa96ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292038730
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/80c46c38d3c74eec9eff13dfa275924d/artifacts
+end_time: 1756291175064
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 80c46c38d3c74eec9eff13dfa275924d
+run_name: delightful-sloth-418
+run_uuid: 80c46c38d3c74eec9eff13dfa275924d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291100887
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/3edd694900b84429a3bf8b158a07acb5/artifacts
+end_time: 1756291051399
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 3edd694900b84429a3bf8b158a07acb5
+run_name: angry-boar-569
+run_uuid: 3edd694900b84429a3bf8b158a07acb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291025597
+status: 3
+tags: []
+user_id: pedroasvalente
