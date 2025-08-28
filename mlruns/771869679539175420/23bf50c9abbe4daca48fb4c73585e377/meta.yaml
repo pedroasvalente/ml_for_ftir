@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/23bf50c9abbe4daca48fb4c73585e377/artifacts
+end_time: 1756293988783
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 23bf50c9abbe4daca48fb4c73585e377
+run_name: monumental-mouse-812
+run_uuid: 23bf50c9abbe4daca48fb4c73585e377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293974186
+status: 3
+tags: []
+user_id: pedroasvalente

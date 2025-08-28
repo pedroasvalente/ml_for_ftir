@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/0ef80e744af3472d91bf70817c9fbf18/artifacts
+end_time: 1756238928918
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 0ef80e744af3472d91bf70817c9fbf18
+run_name: whimsical-gnat-873
+run_uuid: 0ef80e744af3472d91bf70817c9fbf18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238787365
+status: 3
+tags: []
+user_id: pedroasvalente

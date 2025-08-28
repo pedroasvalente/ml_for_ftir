@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/a7b68864bb8143ec8592fb5e65b34c1e/artifacts
+end_time: 1756204162958
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: a7b68864bb8143ec8592fb5e65b34c1e
+run_name: rebellious-newt-753
+run_uuid: a7b68864bb8143ec8592fb5e65b34c1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204150883
+status: 3
+tags: []
+user_id: pedroasvalente

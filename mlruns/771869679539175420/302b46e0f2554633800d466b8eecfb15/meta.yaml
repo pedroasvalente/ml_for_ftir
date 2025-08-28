@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/302b46e0f2554633800d466b8eecfb15/artifacts
+end_time: 1756293128146
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 302b46e0f2554633800d466b8eecfb15
+run_name: rare-deer-806
+run_uuid: 302b46e0f2554633800d466b8eecfb15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292996220
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/ac25e790c22648e38df49d1b98409799/artifacts
+end_time: 1756223517737
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: ac25e790c22648e38df49d1b98409799
+run_name: sassy-mink-508
+run_uuid: ac25e790c22648e38df49d1b98409799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223410229
+status: 3
+tags: []
+user_id: pedroasvalente

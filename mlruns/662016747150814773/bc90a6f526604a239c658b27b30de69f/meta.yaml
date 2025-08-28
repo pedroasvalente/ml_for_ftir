@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/bc90a6f526604a239c658b27b30de69f/artifacts
+end_time: 1756304479434
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: bc90a6f526604a239c658b27b30de69f
+run_name: shivering-snail-838
+run_uuid: bc90a6f526604a239c658b27b30de69f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304409153
+status: 3
+tags: []
+user_id: pedroasvalente

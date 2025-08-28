@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/22baa8947acf4e3696afce5230c6c348/artifacts
+end_time: 1756236238156
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 22baa8947acf4e3696afce5230c6c348
+run_name: lyrical-fly-329
+run_uuid: 22baa8947acf4e3696afce5230c6c348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236213233
+status: 3
+tags: []
+user_id: pedroasvalente

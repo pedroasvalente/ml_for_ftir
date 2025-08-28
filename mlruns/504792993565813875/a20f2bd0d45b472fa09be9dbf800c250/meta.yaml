@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/a20f2bd0d45b472fa09be9dbf800c250/artifacts
+end_time: 1756278513813
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: a20f2bd0d45b472fa09be9dbf800c250
+run_name: receptive-skunk-233
+run_uuid: a20f2bd0d45b472fa09be9dbf800c250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278489558
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/da3214301ef44460b57b283ebf65bc28/artifacts
+end_time: 1756222170740
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: da3214301ef44460b57b283ebf65bc28
+run_name: smiling-stag-239
+run_uuid: da3214301ef44460b57b283ebf65bc28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222145284
+status: 3
+tags: []
+user_id: pedroasvalente

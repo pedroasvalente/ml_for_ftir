@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/51ba9972ce93418d85d7161416679183/artifacts
+end_time: 1756292219264
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 51ba9972ce93418d85d7161416679183
+run_name: treasured-kite-458
+run_uuid: 51ba9972ce93418d85d7161416679183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292215292
+status: 3
+tags: []
+user_id: pedroasvalente

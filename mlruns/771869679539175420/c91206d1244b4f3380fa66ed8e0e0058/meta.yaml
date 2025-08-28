@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/c91206d1244b4f3380fa66ed8e0e0058/artifacts
+end_time: 1756292975774
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: c91206d1244b4f3380fa66ed8e0e0058
+run_name: popular-whale-689
+run_uuid: c91206d1244b4f3380fa66ed8e0e0058
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292860425
+status: 3
+tags: []
+user_id: pedroasvalente

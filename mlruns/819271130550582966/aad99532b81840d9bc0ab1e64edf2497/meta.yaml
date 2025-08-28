@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/aad99532b81840d9bc0ab1e64edf2497/artifacts
+end_time: 1756222338510
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: aad99532b81840d9bc0ab1e64edf2497
+run_name: selective-foal-220
+run_uuid: aad99532b81840d9bc0ab1e64edf2497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222311526
+status: 3
+tags: []
+user_id: pedroasvalente

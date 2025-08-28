@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/23d3d88a21414cada5e7b6c4d326d6e4/artifacts
+end_time: 1756205510233
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 23d3d88a21414cada5e7b6c4d326d6e4
+run_name: upbeat-yak-337
+run_uuid: 23d3d88a21414cada5e7b6c4d326d6e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205498135
+status: 3
+tags: []
+user_id: pedroasvalente

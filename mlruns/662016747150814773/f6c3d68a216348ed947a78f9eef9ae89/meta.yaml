@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/f6c3d68a216348ed947a78f9eef9ae89/artifacts
+end_time: 1756306705027
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: f6c3d68a216348ed947a78f9eef9ae89
+run_name: abundant-snail-77
+run_uuid: f6c3d68a216348ed947a78f9eef9ae89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756306693395
+status: 3
+tags: []
+user_id: pedroasvalente

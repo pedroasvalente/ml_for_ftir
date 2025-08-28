@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/451bb12be06d4b899ffbbbeb8552c25a/artifacts
+end_time: 1756278255934
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 451bb12be06d4b899ffbbbeb8552c25a
+run_name: welcoming-auk-312
+run_uuid: 451bb12be06d4b899ffbbbeb8552c25a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278242010
+status: 3
+tags: []
+user_id: pedroasvalente

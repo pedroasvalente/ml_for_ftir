@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/da6f51d235ef4fe3b492707ebce4878e/artifacts
+end_time: 1756222827759
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: da6f51d235ef4fe3b492707ebce4878e
+run_name: dapper-asp-195
+run_uuid: da6f51d235ef4fe3b492707ebce4878e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222800472
+status: 3
+tags: []
+user_id: pedroasvalente

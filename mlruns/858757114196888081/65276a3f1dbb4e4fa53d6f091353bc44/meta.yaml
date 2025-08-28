@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/65276a3f1dbb4e4fa53d6f091353bc44/artifacts
+end_time: 1756204701660
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 65276a3f1dbb4e4fa53d6f091353bc44
+run_name: intrigued-finch-240
+run_uuid: 65276a3f1dbb4e4fa53d6f091353bc44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204599820
+status: 3
+tags: []
+user_id: pedroasvalente

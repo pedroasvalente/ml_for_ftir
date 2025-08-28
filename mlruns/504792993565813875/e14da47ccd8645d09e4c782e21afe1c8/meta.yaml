@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/e14da47ccd8645d09e4c782e21afe1c8/artifacts
+end_time: 1756278621641
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: e14da47ccd8645d09e4c782e21afe1c8
+run_name: masked-hound-906
+run_uuid: e14da47ccd8645d09e4c782e21afe1c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278597412
+status: 3
+tags: []
+user_id: pedroasvalente

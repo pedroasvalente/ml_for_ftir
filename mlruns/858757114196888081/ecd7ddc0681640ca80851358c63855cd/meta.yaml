@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/ecd7ddc0681640ca80851358c63855cd/artifacts
+end_time: 1756203925762
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: ecd7ddc0681640ca80851358c63855cd
+run_name: righteous-bass-828
+run_uuid: ecd7ddc0681640ca80851358c63855cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756203901144
+status: 3
+tags: []
+user_id: pedroasvalente

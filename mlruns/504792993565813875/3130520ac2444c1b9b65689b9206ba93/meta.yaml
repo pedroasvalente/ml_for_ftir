@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/3130520ac2444c1b9b65689b9206ba93/artifacts
+end_time: 1756279704814
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 3130520ac2444c1b9b65689b9206ba93
+run_name: resilient-bass-897
+run_uuid: 3130520ac2444c1b9b65689b9206ba93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756279612139
+status: 3
+tags: []
+user_id: pedroasvalente

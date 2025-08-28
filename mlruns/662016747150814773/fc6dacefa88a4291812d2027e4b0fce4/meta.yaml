@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/fc6dacefa88a4291812d2027e4b0fce4/artifacts
+end_time: 1756305322291
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: fc6dacefa88a4291812d2027e4b0fce4
+run_name: stylish-snipe-291
+run_uuid: fc6dacefa88a4291812d2027e4b0fce4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305298539
+status: 3
+tags: []
+user_id: pedroasvalente

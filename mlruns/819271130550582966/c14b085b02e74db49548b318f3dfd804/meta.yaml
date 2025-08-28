@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/c14b085b02e74db49548b318f3dfd804/artifacts
+end_time: 1756222616572
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: c14b085b02e74db49548b318f3dfd804
+run_name: bald-fox-24
+run_uuid: c14b085b02e74db49548b318f3dfd804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222604616
+status: 3
+tags: []
+user_id: pedroasvalente

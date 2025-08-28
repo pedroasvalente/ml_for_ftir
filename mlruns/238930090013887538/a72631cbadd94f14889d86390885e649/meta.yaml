@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/a72631cbadd94f14889d86390885e649/artifacts
+end_time: 1756236491073
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: a72631cbadd94f14889d86390885e649
+run_name: delicate-hawk-485
+run_uuid: a72631cbadd94f14889d86390885e649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236478287
+status: 3
+tags: []
+user_id: pedroasvalente

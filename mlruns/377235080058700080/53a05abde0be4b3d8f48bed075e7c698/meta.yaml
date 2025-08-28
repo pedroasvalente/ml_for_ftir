@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/53a05abde0be4b3d8f48bed075e7c698/artifacts
+end_time: 1756319946817
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 53a05abde0be4b3d8f48bed075e7c698
+run_name: rebellious-elk-234
+run_uuid: 53a05abde0be4b3d8f48bed075e7c698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319934468
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/9ccb4e03e4af4d7b91648695c685e12c/artifacts
+end_time: 1756223359078
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 9ccb4e03e4af4d7b91648695c685e12c
+run_name: vaunted-lynx-302
+run_uuid: 9ccb4e03e4af4d7b91648695c685e12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223355545
+status: 3
+tags: []
+user_id: pedroasvalente

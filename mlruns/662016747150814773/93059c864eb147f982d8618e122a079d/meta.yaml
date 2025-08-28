@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/93059c864eb147f982d8618e122a079d/artifacts
+end_time: 1756305950882
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 93059c864eb147f982d8618e122a079d
+run_name: abrasive-loon-250
+run_uuid: 93059c864eb147f982d8618e122a079d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305939580
+status: 3
+tags: []
+user_id: pedroasvalente

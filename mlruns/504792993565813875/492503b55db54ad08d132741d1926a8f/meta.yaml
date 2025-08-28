@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/492503b55db54ad08d132741d1926a8f/artifacts
+end_time: 1756279896766
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 492503b55db54ad08d132741d1926a8f
+run_name: delightful-ox-593
+run_uuid: 492503b55db54ad08d132741d1926a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756279816128
+status: 3
+tags: []
+user_id: pedroasvalente

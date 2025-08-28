@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/cd7c4173e6ad4097852517606cf35fa1/artifacts
+end_time: 1756236564362
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: cd7c4173e6ad4097852517606cf35fa1
+run_name: shivering-midge-438
+run_uuid: cd7c4173e6ad4097852517606cf35fa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236539527
+status: 3
+tags: []
+user_id: pedroasvalente

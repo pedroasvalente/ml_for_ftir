@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/991320459a4546a8a0be96a8cf24f09e/artifacts
+end_time: 1756293487132
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 991320459a4546a8a0be96a8cf24f09e
+run_name: rebellious-chimp-519
+run_uuid: 991320459a4546a8a0be96a8cf24f09e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293474721
+status: 3
+tags: []
+user_id: pedroasvalente

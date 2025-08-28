@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/7ded0a16f71143d29c617e8ee2ac056d/artifacts
+end_time: 1756204701660
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 7ded0a16f71143d29c617e8ee2ac056d
+run_name: brawny-fawn-667
+run_uuid: 7ded0a16f71143d29c617e8ee2ac056d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204599820
+status: 3
+tags: []
+user_id: pedroasvalente

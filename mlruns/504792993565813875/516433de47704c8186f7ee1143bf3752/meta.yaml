@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/516433de47704c8186f7ee1143bf3752/artifacts
+end_time: 1756278395350
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 516433de47704c8186f7ee1143bf3752
+run_name: glamorous-pig-7
+run_uuid: 516433de47704c8186f7ee1143bf3752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278383294
+status: 3
+tags: []
+user_id: pedroasvalente

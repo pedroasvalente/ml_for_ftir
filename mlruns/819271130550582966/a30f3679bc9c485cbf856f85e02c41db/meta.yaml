@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/a30f3679bc9c485cbf856f85e02c41db/artifacts
+end_time: 1756222965932
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: a30f3679bc9c485cbf856f85e02c41db
+run_name: worried-owl-599
+run_uuid: a30f3679bc9c485cbf856f85e02c41db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222941496
+status: 3
+tags: []
+user_id: pedroasvalente

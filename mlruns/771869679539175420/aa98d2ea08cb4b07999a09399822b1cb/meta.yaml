@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/aa98d2ea08cb4b07999a09399822b1cb/artifacts
+end_time: 1756291365458
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: aa98d2ea08cb4b07999a09399822b1cb
+run_name: smiling-trout-89
+run_uuid: aa98d2ea08cb4b07999a09399822b1cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291344053
+status: 3
+tags: []
+user_id: pedroasvalente

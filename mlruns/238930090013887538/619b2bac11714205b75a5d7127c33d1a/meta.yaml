@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/619b2bac11714205b75a5d7127c33d1a/artifacts
+end_time: 1756235566504
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 619b2bac11714205b75a5d7127c33d1a
+run_name: gaudy-dove-682
+run_uuid: 619b2bac11714205b75a5d7127c33d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756235498012
+status: 3
+tags: []
+user_id: pedroasvalente

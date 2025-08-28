@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/51c1f747dc3041a0802b51c6362f1967/artifacts
+end_time: 1756292991802
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 51c1f747dc3041a0802b51c6362f1967
+run_name: aged-seal-657
+run_uuid: 51c1f747dc3041a0802b51c6362f1967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292980642
+status: 3
+tags: []
+user_id: pedroasvalente

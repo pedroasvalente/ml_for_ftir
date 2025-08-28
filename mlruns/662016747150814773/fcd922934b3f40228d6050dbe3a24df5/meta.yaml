@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/fcd922934b3f40228d6050dbe3a24df5/artifacts
+end_time: 1756305509754
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: fcd922934b3f40228d6050dbe3a24df5
+run_name: painted-cub-514
+run_uuid: fcd922934b3f40228d6050dbe3a24df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305506306
+status: 3
+tags: []
+user_id: pedroasvalente

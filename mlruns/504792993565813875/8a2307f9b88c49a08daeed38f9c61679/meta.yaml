@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/8a2307f9b88c49a08daeed38f9c61679/artifacts
+end_time: 1756277588026
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 8a2307f9b88c49a08daeed38f9c61679
+run_name: rare-tern-621
+run_uuid: 8a2307f9b88c49a08daeed38f9c61679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277557048
+status: 3
+tags: []
+user_id: pedroasvalente

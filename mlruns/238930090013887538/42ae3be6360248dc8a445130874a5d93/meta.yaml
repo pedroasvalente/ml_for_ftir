@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/42ae3be6360248dc8a445130874a5d93/artifacts
+end_time: 1756247367688
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 42ae3be6360248dc8a445130874a5d93
+run_name: experiment_linear_anaerobicthreshold_relative
+run_uuid: 42ae3be6360248dc8a445130874a5d93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756235319686
+status: 3
+tags: []
+user_id: pedroasvalente

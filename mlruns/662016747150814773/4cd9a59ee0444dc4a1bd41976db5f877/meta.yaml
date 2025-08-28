@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/4cd9a59ee0444dc4a1bd41976db5f877/artifacts
+end_time: 1756304213605
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 4cd9a59ee0444dc4a1bd41976db5f877
+run_name: defiant-zebra-802
+run_uuid: 4cd9a59ee0444dc4a1bd41976db5f877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304193026
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/66b17a52529e428e82ddc32b0a6cc5e0/artifacts
+end_time: 1756319810303
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 66b17a52529e428e82ddc32b0a6cc5e0
+run_name: fortunate-kit-566
+run_uuid: 66b17a52529e428e82ddc32b0a6cc5e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319797437
+status: 3
+tags: []
+user_id: pedroasvalente

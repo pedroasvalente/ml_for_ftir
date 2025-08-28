@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/182f64f68bd2451588d1e2cc922eb7f1/artifacts
+end_time: 1756238486032
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 182f64f68bd2451588d1e2cc922eb7f1
+run_name: overjoyed-squid-391
+run_uuid: 182f64f68bd2451588d1e2cc922eb7f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238473328
+status: 3
+tags: []
+user_id: pedroasvalente

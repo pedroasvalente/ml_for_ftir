@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/73369826a2464c5cb858a471123437ea/artifacts
+end_time: 1756329148380
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 73369826a2464c5cb858a471123437ea
+run_name: mercurial-skunk-551
+run_uuid: 73369826a2464c5cb858a471123437ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756329134086
+status: 3
+tags: []
+user_id: pedroasvalente

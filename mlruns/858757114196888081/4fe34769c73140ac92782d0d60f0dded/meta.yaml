@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/4fe34769c73140ac92782d0d60f0dded/artifacts
+end_time: 1756203897926
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 4fe34769c73140ac92782d0d60f0dded
+run_name: bald-stag-638
+run_uuid: 4fe34769c73140ac92782d0d60f0dded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756203885505
+status: 3
+tags: []
+user_id: pedroasvalente

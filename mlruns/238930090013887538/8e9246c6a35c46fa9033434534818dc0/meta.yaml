@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/8e9246c6a35c46fa9033434534818dc0/artifacts
+end_time: 1756239627488
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 8e9246c6a35c46fa9033434534818dc0
+run_name: chill-rook-35
+run_uuid: 8e9246c6a35c46fa9033434534818dc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239487010
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/df93da4a25914d5c8d785794a2d96235/artifacts
+end_time: 1756222366925
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: df93da4a25914d5c8d785794a2d96235
+run_name: skittish-kite-698
+run_uuid: df93da4a25914d5c8d785794a2d96235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222341096
+status: 3
+tags: []
+user_id: pedroasvalente

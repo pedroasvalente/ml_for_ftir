@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/593452cff2ec49898f92c43fa19e9a83/artifacts
+end_time: 1756304406768
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 593452cff2ec49898f92c43fa19e9a83
+run_name: welcoming-quail-46
+run_uuid: 593452cff2ec49898f92c43fa19e9a83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304385966
+status: 3
+tags: []
+user_id: pedroasvalente

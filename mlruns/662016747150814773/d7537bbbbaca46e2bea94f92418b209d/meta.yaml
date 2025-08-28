@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/d7537bbbbaca46e2bea94f92418b209d/artifacts
+end_time: 1756304213605
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: d7537bbbbaca46e2bea94f92418b209d
+run_name: bedecked-robin-641
+run_uuid: d7537bbbbaca46e2bea94f92418b209d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304193026
+status: 3
+tags: []
+user_id: pedroasvalente

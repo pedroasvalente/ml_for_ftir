@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/bfb5c067853b4620a01be1a9f36a5817/artifacts
+end_time: 1756205510233
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: bfb5c067853b4620a01be1a9f36a5817
+run_name: beautiful-bird-762
+run_uuid: bfb5c067853b4620a01be1a9f36a5817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205498135
+status: 3
+tags: []
+user_id: pedroasvalente

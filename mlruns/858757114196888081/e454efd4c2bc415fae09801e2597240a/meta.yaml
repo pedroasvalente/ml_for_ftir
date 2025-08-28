@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/e454efd4c2bc415fae09801e2597240a/artifacts
+end_time: 1756204076186
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: e454efd4c2bc415fae09801e2597240a
+run_name: victorious-crane-516
+run_uuid: e454efd4c2bc415fae09801e2597240a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204064038
+status: 3
+tags: []
+user_id: pedroasvalente

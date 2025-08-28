@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/eb6f075ff6e14fc989d99ebe08b73aeb/artifacts
+end_time: 1756222489394
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: eb6f075ff6e14fc989d99ebe08b73aeb
+run_name: overjoyed-wasp-716
+run_uuid: eb6f075ff6e14fc989d99ebe08b73aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222416422
+status: 3
+tags: []
+user_id: pedroasvalente

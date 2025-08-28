@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/247f82b173664c30ae8664e1a690227e/artifacts
+end_time: 1756224250125
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 247f82b173664c30ae8664e1a690227e
+run_name: nervous-zebra-662
+run_uuid: 247f82b173664c30ae8664e1a690227e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224107260
+status: 3
+tags: []
+user_id: pedroasvalente

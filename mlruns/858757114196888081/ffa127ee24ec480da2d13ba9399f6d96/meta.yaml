@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/ffa127ee24ec480da2d13ba9399f6d96/artifacts
+end_time: 1756205000603
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: ffa127ee24ec480da2d13ba9399f6d96
+run_name: treasured-stag-127
+run_uuid: ffa127ee24ec480da2d13ba9399f6d96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204867424
+status: 3
+tags: []
+user_id: pedroasvalente

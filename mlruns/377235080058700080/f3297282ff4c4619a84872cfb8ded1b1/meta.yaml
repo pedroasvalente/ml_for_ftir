@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/f3297282ff4c4619a84872cfb8ded1b1/artifacts
+end_time: 1756320834831
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: f3297282ff4c4619a84872cfb8ded1b1
+run_name: ambitious-donkey-792
+run_uuid: f3297282ff4c4619a84872cfb8ded1b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320823557
+status: 3
+tags: []
+user_id: pedroasvalente

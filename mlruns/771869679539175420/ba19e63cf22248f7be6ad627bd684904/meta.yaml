@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/ba19e63cf22248f7be6ad627bd684904/artifacts
+end_time: 1756292258048
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: ba19e63cf22248f7be6ad627bd684904
+run_name: mercurial-horse-17
+run_uuid: ba19e63cf22248f7be6ad627bd684904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292254225
+status: 3
+tags: []
+user_id: pedroasvalente

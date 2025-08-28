@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/c5411526eb864c7d97c7830b0bb743c1/artifacts
+end_time: 1756305174158
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: c5411526eb864c7d97c7830b0bb743c1
+run_name: nebulous-bass-85
+run_uuid: c5411526eb864c7d97c7830b0bb743c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305146863
+status: 3
+tags: []
+user_id: pedroasvalente

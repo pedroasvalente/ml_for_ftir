@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/be04e545e3e7497dbd8315b9ead1d040/artifacts
+end_time: 1756224551684
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: be04e545e3e7497dbd8315b9ead1d040
+run_name: upset-grouse-654
+run_uuid: be04e545e3e7497dbd8315b9ead1d040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224539044
+status: 3
+tags: []
+user_id: pedroasvalente

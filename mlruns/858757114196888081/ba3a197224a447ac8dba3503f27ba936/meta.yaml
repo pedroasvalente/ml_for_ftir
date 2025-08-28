@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/ba3a197224a447ac8dba3503f27ba936/artifacts
+end_time: 1756202889671
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: ba3a197224a447ac8dba3503f27ba936
+run_name: handsome-steed-298
+run_uuid: ba3a197224a447ac8dba3503f27ba936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756202753156
+status: 3
+tags: []
+user_id: pedroasvalente

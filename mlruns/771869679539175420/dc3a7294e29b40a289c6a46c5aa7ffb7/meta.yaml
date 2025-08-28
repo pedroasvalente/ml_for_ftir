@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/dc3a7294e29b40a289c6a46c5aa7ffb7/artifacts
+end_time: 1756291804637
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: dc3a7294e29b40a289c6a46c5aa7ffb7
+run_name: hilarious-shrew-702
+run_uuid: dc3a7294e29b40a289c6a46c5aa7ffb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291778014
+status: 3
+tags: []
+user_id: pedroasvalente

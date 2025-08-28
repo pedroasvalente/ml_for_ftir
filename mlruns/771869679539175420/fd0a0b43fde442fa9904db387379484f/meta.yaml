@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/fd0a0b43fde442fa9904db387379484f/artifacts
+end_time: 1756292258048
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: fd0a0b43fde442fa9904db387379484f
+run_name: awesome-deer-537
+run_uuid: fd0a0b43fde442fa9904db387379484f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292254225
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/c79eeb667c514a3e859b990fb1ee7e22/artifacts
+end_time: 1756305322291
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: c79eeb667c514a3e859b990fb1ee7e22
+run_name: abrasive-cow-651
+run_uuid: c79eeb667c514a3e859b990fb1ee7e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305298539
+status: 3
+tags: []
+user_id: pedroasvalente

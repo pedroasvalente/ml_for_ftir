@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/9bb4087de7d341c2948d485d9e6fef8b/artifacts
+end_time: 1756204103503
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 9bb4087de7d341c2948d485d9e6fef8b
+run_name: victorious-asp-459
+run_uuid: 9bb4087de7d341c2948d485d9e6fef8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204079432
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/d2a10bc3f9c946589dc58e8c578d85e0/artifacts
+end_time: 1756305217767
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: d2a10bc3f9c946589dc58e8c578d85e0
+run_name: illustrious-crab-323
+run_uuid: d2a10bc3f9c946589dc58e8c578d85e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305189360
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/7b079af3a0c1436ab96c2bf93eb1a851/artifacts
+end_time: 1756238398249
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 7b079af3a0c1436ab96c2bf93eb1a851
+run_name: righteous-bee-506
+run_uuid: 7b079af3a0c1436ab96c2bf93eb1a851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238376568
+status: 3
+tags: []
+user_id: pedroasvalente

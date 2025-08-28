@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/c1888198dab64145823e19cf20371806/artifacts
+end_time: 1756202987228
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: c1888198dab64145823e19cf20371806
+run_name: gifted-whale-564
+run_uuid: c1888198dab64145823e19cf20371806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756202899148
+status: 3
+tags: []
+user_id: pedroasvalente

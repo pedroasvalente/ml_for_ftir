@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/abd0eac2cab5401ca1b54b9a55f5cfcb/artifacts
+end_time: 1756291365458
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: abd0eac2cab5401ca1b54b9a55f5cfcb
+run_name: auspicious-seal-141
+run_uuid: abd0eac2cab5401ca1b54b9a55f5cfcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291344053
+status: 3
+tags: []
+user_id: pedroasvalente

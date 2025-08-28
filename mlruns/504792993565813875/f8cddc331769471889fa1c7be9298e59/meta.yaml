@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/f8cddc331769471889fa1c7be9298e59/artifacts
+end_time: 1756278513813
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: f8cddc331769471889fa1c7be9298e59
+run_name: indecisive-elk-229
+run_uuid: f8cddc331769471889fa1c7be9298e59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278489558
+status: 3
+tags: []
+user_id: pedroasvalente

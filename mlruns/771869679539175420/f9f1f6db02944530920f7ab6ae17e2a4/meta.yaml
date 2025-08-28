@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/f9f1f6db02944530920f7ab6ae17e2a4/artifacts
+end_time: 1756291501150
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: f9f1f6db02944530920f7ab6ae17e2a4
+run_name: bedecked-toad-348
+run_uuid: f9f1f6db02944530920f7ab6ae17e2a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291415754
+status: 3
+tags: []
+user_id: pedroasvalente

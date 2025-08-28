@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/7e2af3606e17492ca48bac96588dd6dd/artifacts
+end_time: 1756223666354
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 7e2af3606e17492ca48bac96588dd6dd
+run_name: judicious-stoat-864
+run_uuid: 7e2af3606e17492ca48bac96588dd6dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223542161
+status: 3
+tags: []
+user_id: pedroasvalente

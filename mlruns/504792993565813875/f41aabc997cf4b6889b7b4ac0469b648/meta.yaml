@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/f41aabc997cf4b6889b7b4ac0469b648/artifacts
+end_time: 1756277719431
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: f41aabc997cf4b6889b7b4ac0469b648
+run_name: rebellious-stag-772
+run_uuid: f41aabc997cf4b6889b7b4ac0469b648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277679886
+status: 3
+tags: []
+user_id: pedroasvalente

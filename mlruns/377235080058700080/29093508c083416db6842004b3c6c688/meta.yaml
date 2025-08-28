@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/29093508c083416db6842004b3c6c688/artifacts
+end_time: 1756320675559
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 29093508c083416db6842004b3c6c688
+run_name: vaunted-midge-775
+run_uuid: 29093508c083416db6842004b3c6c688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320557915
+status: 3
+tags: []
+user_id: pedroasvalente

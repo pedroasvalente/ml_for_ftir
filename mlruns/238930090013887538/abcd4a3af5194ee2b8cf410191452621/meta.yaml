@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/abcd4a3af5194ee2b8cf410191452621/artifacts
+end_time: 1756238623483
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: abcd4a3af5194ee2b8cf410191452621
+run_name: fortunate-skink-147
+run_uuid: abcd4a3af5194ee2b8cf410191452621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238609007
+status: 3
+tags: []
+user_id: pedroasvalente

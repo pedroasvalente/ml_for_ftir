@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/456ef29dabce453da366f590ce52888f/artifacts
+end_time: 1756202116066
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 456ef29dabce453da366f590ce52888f
+run_name: lyrical-ray-296
+run_uuid: 456ef29dabce453da366f590ce52888f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756202022699
+status: 3
+tags: []
+user_id: pedroasvalente

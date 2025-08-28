@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/b84c6b80f3144ee99881fe15e3cb511d/artifacts
+end_time: 1756223281063
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: b84c6b80f3144ee99881fe15e3cb511d
+run_name: adorable-grouse-753
+run_uuid: b84c6b80f3144ee99881fe15e3cb511d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223277193
+status: 3
+tags: []
+user_id: pedroasvalente

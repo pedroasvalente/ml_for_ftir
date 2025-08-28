@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/0563c4d6a6864e05875c15cb8f582b4c/artifacts
+end_time: 1756222338510
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 0563c4d6a6864e05875c15cb8f582b4c
+run_name: loud-snake-863
+run_uuid: 0563c4d6a6864e05875c15cb8f582b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222311526
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/f616fe43dfde456cab23c7d8f050ece7/artifacts
+end_time: 1756224102708
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: f616fe43dfde456cab23c7d8f050ece7
+run_name: invincible-grub-110
+run_uuid: f616fe43dfde456cab23c7d8f050ece7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224090142
+status: 3
+tags: []
+user_id: pedroasvalente

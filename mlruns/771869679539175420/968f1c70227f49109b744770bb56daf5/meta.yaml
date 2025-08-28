@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/968f1c70227f49109b744770bb56daf5/artifacts
+end_time: 1756291758298
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 968f1c70227f49109b744770bb56daf5
+run_name: bedecked-dog-365
+run_uuid: 968f1c70227f49109b744770bb56daf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291733209
+status: 3
+tags: []
+user_id: pedroasvalente

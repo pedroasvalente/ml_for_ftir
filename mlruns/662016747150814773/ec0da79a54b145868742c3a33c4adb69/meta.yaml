@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/ec0da79a54b145868742c3a33c4adb69/artifacts
+end_time: 1756305368028
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: ec0da79a54b145868742c3a33c4adb69
+run_name: bold-moth-179
+run_uuid: ec0da79a54b145868742c3a33c4adb69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305364474
+status: 3
+tags: []
+user_id: pedroasvalente

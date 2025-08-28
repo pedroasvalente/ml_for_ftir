@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/94d39fd269064a3a8af29dc7f397216f/artifacts
+end_time: 1756222779642
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 94d39fd269064a3a8af29dc7f397216f
+run_name: big-whale-912
+run_uuid: 94d39fd269064a3a8af29dc7f397216f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222749825
+status: 3
+tags: []
+user_id: pedroasvalente

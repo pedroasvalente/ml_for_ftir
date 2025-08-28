@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/8bd61d9cf3ea499bb8e76cbbe46bfac0/artifacts
+end_time: 1756239836350
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 8bd61d9cf3ea499bb8e76cbbe46bfac0
+run_name: intelligent-dog-906
+run_uuid: 8bd61d9cf3ea499bb8e76cbbe46bfac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239822575
+status: 3
+tags: []
+user_id: pedroasvalente

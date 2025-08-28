@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/f45c2f42b5b0481786c2129686203b99/artifacts
+end_time: 1756320536741
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: f45c2f42b5b0481786c2129686203b99
+run_name: adaptable-crane-356
+run_uuid: f45c2f42b5b0481786c2129686203b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320435590
+status: 3
+tags: []
+user_id: pedroasvalente

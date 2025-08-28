@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/ef122566d1974cd780a694c28e3c2599/artifacts
+end_time: 1756223321819
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: ef122566d1974cd780a694c28e3c2599
+run_name: overjoyed-calf-132
+run_uuid: ef122566d1974cd780a694c28e3c2599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223317589
+status: 3
+tags: []
+user_id: pedroasvalente

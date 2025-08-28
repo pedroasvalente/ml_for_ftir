@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/1b745fef457e47a580e7616d54abd3ba/artifacts
+end_time: 1756205810205
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 1b745fef457e47a580e7616d54abd3ba
+run_name: mysterious-stoat-323
+run_uuid: 1b745fef457e47a580e7616d54abd3ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205798940
+status: 3
+tags: []
+user_id: pedroasvalente

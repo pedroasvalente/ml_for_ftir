@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/89cec6af86004889bc1a25db500fa92b/artifacts
+end_time: 1756236572636
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 89cec6af86004889bc1a25db500fa92b
+run_name: youthful-moose-357
+run_uuid: 89cec6af86004889bc1a25db500fa92b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236568353
+status: 3
+tags: []
+user_id: pedroasvalente

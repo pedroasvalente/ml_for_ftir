@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/cbddcde405924766bd3b7e6eedb9acb7/artifacts
+end_time: 1756222170740
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: cbddcde405924766bd3b7e6eedb9acb7
+run_name: salty-mink-744
+run_uuid: cbddcde405924766bd3b7e6eedb9acb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222145284
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/4c9487f502974e66bc1fec1ca032c917/artifacts
+end_time: 1756223272235
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 4c9487f502974e66bc1fec1ca032c917
+run_name: bittersweet-fowl-404
+run_uuid: 4c9487f502974e66bc1fec1ca032c917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223251239
+status: 3
+tags: []
+user_id: pedroasvalente

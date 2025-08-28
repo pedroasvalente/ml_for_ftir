@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/b45de805dc104ea999f2e9bacf7b7826/artifacts
+end_time: 1756320994548
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: b45de805dc104ea999f2e9bacf7b7826
+run_name: bemused-turtle-789
+run_uuid: b45de805dc104ea999f2e9bacf7b7826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320982776
+status: 3
+tags: []
+user_id: pedroasvalente

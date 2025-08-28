@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/99c6cfb51efd45e295e34740f20f5307/artifacts
+end_time: 1756322985144
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 99c6cfb51efd45e295e34740f20f5307
+run_name: whimsical-bear-651
+run_uuid: 99c6cfb51efd45e295e34740f20f5307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320999666
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/c144554838654f2a84d762ac139a0df5/artifacts
+end_time: 1756222919076
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: c144554838654f2a84d762ac139a0df5
+run_name: fortunate-lark-572
+run_uuid: c144554838654f2a84d762ac139a0df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222893801
+status: 3
+tags: []
+user_id: pedroasvalente

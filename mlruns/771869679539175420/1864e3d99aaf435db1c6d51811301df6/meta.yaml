@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/1864e3d99aaf435db1c6d51811301df6/artifacts
+end_time: 1756293967625
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 1864e3d99aaf435db1c6d51811301df6
+run_name: nosy-whale-373
+run_uuid: 1864e3d99aaf435db1c6d51811301df6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293839153
+status: 3
+tags: []
+user_id: pedroasvalente

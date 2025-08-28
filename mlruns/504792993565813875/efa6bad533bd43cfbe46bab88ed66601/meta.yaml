@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/efa6bad533bd43cfbe46bab88ed66601/artifacts
+end_time: 1756278379848
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: efa6bad533bd43cfbe46bab88ed66601
+run_name: wise-elk-320
+run_uuid: efa6bad533bd43cfbe46bab88ed66601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278353237
+status: 3
+tags: []
+user_id: pedroasvalente

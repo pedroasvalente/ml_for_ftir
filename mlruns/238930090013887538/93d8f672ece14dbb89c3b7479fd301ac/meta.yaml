@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/93d8f672ece14dbb89c3b7479fd301ac/artifacts
+end_time: 1756239985710
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 93d8f672ece14dbb89c3b7479fd301ac
+run_name: popular-stag-534
+run_uuid: 93d8f672ece14dbb89c3b7479fd301ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239972431
+status: 3
+tags: []
+user_id: pedroasvalente

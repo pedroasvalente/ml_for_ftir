@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/57e47350a4d948dea2cc46db85f64fd8/artifacts
+end_time: 1756305322291
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 57e47350a4d948dea2cc46db85f64fd8
+run_name: burly-ox-537
+run_uuid: 57e47350a4d948dea2cc46db85f64fd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305298539
+status: 3
+tags: []
+user_id: pedroasvalente

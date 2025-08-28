@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/08f0b1b397ad45938dac2a87e27bfcd0/artifacts
+end_time: 1756235752323
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 08f0b1b397ad45938dac2a87e27bfcd0
+run_name: funny-rook-612
+run_uuid: 08f0b1b397ad45938dac2a87e27bfcd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756235726437
+status: 3
+tags: []
+user_id: pedroasvalente

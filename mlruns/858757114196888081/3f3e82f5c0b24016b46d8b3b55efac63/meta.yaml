@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/3f3e82f5c0b24016b46d8b3b55efac63/artifacts
+end_time: 1756204119270
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 3f3e82f5c0b24016b46d8b3b55efac63
+run_name: carefree-cub-218
+run_uuid: 3f3e82f5c0b24016b46d8b3b55efac63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204107079
+status: 3
+tags: []
+user_id: pedroasvalente

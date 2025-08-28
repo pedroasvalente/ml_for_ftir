@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/ceab6128b6a8483abff611607c66ca86/artifacts
+end_time: 1756320056886
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: ceab6128b6a8483abff611607c66ca86
+run_name: clumsy-bee-151
+run_uuid: ceab6128b6a8483abff611607c66ca86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320032859
+status: 3
+tags: []
+user_id: pedroasvalente

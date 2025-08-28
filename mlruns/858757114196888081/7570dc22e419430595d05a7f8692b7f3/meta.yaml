@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/7570dc22e419430595d05a7f8692b7f3/artifacts
+end_time: 1756203941022
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 7570dc22e419430595d05a7f8692b7f3
+run_name: dapper-perch-343
+run_uuid: 7570dc22e419430595d05a7f8692b7f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756203928745
+status: 3
+tags: []
+user_id: pedroasvalente

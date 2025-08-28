@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/cc5dd1b6efef490796bb27a0e89305bd/artifacts
+end_time: 1756305813679
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: cc5dd1b6efef490796bb27a0e89305bd
+run_name: dazzling-lark-733
+run_uuid: cc5dd1b6efef490796bb27a0e89305bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305802102
+status: 3
+tags: []
+user_id: pedroasvalente

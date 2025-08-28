@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/8b230f26d770489eb68ecd2050922217/artifacts
+end_time: 1756205793116
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 8b230f26d770489eb68ecd2050922217
+run_name: hilarious-gnu-21
+run_uuid: 8b230f26d770489eb68ecd2050922217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205656572
+status: 3
+tags: []
+user_id: pedroasvalente

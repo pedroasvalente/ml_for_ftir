@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/be423da157e6435187103d121fb92aed/artifacts
+end_time: 1756237598682
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: be423da157e6435187103d121fb92aed
+run_name: hilarious-vole-327
+run_uuid: be423da157e6435187103d121fb92aed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756237595481
+status: 3
+tags: []
+user_id: pedroasvalente

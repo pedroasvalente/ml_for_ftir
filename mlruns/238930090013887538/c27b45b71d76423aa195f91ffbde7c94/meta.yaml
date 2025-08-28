@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/c27b45b71d76423aa195f91ffbde7c94/artifacts
+end_time: 1756238398249
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: c27b45b71d76423aa195f91ffbde7c94
+run_name: serious-colt-694
+run_uuid: c27b45b71d76423aa195f91ffbde7c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756238376568
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/2095721744b84d9b82a0b4aba7604457/artifacts
+end_time: 1756277630818
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 2095721744b84d9b82a0b4aba7604457
+run_name: dashing-perch-940
+run_uuid: 2095721744b84d9b82a0b4aba7604457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277591880
+status: 3
+tags: []
+user_id: pedroasvalente

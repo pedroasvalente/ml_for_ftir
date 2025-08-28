@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/75c7e86db73b473a8985ad9253dce396/artifacts
+end_time: 1756305092621
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 75c7e86db73b473a8985ad9253dce396
+run_name: wise-squid-860
+run_uuid: 75c7e86db73b473a8985ad9253dce396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305078831
+status: 3
+tags: []
+user_id: pedroasvalente

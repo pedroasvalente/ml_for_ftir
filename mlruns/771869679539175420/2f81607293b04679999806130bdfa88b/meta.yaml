@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/2f81607293b04679999806130bdfa88b/artifacts
+end_time: 1756293833050
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 2f81607293b04679999806130bdfa88b
+run_name: blushing-asp-771
+run_uuid: 2f81607293b04679999806130bdfa88b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293818012
+status: 3
+tags: []
+user_id: pedroasvalente

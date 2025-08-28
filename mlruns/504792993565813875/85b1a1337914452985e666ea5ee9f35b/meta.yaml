@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/85b1a1337914452985e666ea5ee9f35b/artifacts
+end_time: 1756279792860
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 85b1a1337914452985e666ea5ee9f35b
+run_name: upbeat-frog-361
+run_uuid: 85b1a1337914452985e666ea5ee9f35b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756279728003
+status: 3
+tags: []
+user_id: pedroasvalente

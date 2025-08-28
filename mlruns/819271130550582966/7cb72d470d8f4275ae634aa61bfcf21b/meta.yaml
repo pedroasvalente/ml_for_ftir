@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/7cb72d470d8f4275ae634aa61bfcf21b/artifacts
+end_time: 1756222338510
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 7cb72d470d8f4275ae634aa61bfcf21b
+run_name: bedecked-shrew-825
+run_uuid: 7cb72d470d8f4275ae634aa61bfcf21b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222311526
+status: 3
+tags: []
+user_id: pedroasvalente

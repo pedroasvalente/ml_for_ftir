@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/11e0d52fea5b4372a25260e7f5bd964d/artifacts
+end_time: 1756222796915
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 11e0d52fea5b4372a25260e7f5bd964d
+run_name: flawless-rook-622
+run_uuid: 11e0d52fea5b4372a25260e7f5bd964d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222783103
+status: 3
+tags: []
+user_id: pedroasvalente

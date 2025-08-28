@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/6ace6b23ab924c05a322c326f3fcebd9/artifacts
+end_time: 1756222073052
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 6ace6b23ab924c05a322c326f3fcebd9
+run_name: righteous-fish-481
+run_uuid: 6ace6b23ab924c05a322c326f3fcebd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222048859
+status: 3
+tags: []
+user_id: pedroasvalente

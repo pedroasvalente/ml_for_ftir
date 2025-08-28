@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/8ac7f6f68ce140b3943d28b4df4c208c/artifacts
+end_time: 1756239282005
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 8ac7f6f68ce140b3943d28b4df4c208c
+run_name: flawless-newt-96
+run_uuid: 8ac7f6f68ce140b3943d28b4df4c208c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239268537
+status: 3
+tags: []
+user_id: pedroasvalente

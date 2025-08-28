@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/269985a3ba7742a5997ec1a441706b53/artifacts
+end_time: 1756304257079
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 269985a3ba7742a5997ec1a441706b53
+run_name: nimble-mink-482
+run_uuid: 269985a3ba7742a5997ec1a441706b53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304235298
+status: 3
+tags: []
+user_id: pedroasvalente

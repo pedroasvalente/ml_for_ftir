@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/8df2031838b24e59b01c690b443c46d7/artifacts
+end_time: 1756235495933
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 8df2031838b24e59b01c690b443c46d7
+run_name: charming-pug-280
+run_uuid: 8df2031838b24e59b01c690b443c46d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756235473670
+status: 3
+tags: []
+user_id: pedroasvalente

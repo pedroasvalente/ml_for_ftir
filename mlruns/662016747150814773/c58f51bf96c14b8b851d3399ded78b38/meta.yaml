@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/c58f51bf96c14b8b851d3399ded78b38/artifacts
+end_time: 1756306687049
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: c58f51bf96c14b8b851d3399ded78b38
+run_name: tasteful-smelt-798
+run_uuid: c58f51bf96c14b8b851d3399ded78b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756306556054
+status: 3
+tags: []
+user_id: pedroasvalente

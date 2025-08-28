@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/d5209674b3084fa3b3f91849b03c61ac/artifacts
+end_time: 1756204119270
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: d5209674b3084fa3b3f91849b03c61ac
+run_name: unequaled-ram-377
+run_uuid: d5209674b3084fa3b3f91849b03c61ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204107079
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/4e63d9ac5d614b9b83ba21a1566eccd7/artifacts
+end_time: 1756305073862
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 4e63d9ac5d614b9b83ba21a1566eccd7
+run_name: invincible-fawn-812
+run_uuid: 4e63d9ac5d614b9b83ba21a1566eccd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305046811
+status: 3
+tags: []
+user_id: pedroasvalente

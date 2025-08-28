@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/482ff35cea9a485fbb3c9e97164b0698/artifacts
+end_time: 1756304226559
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 482ff35cea9a485fbb3c9e97164b0698
+run_name: silent-stork-376
+run_uuid: 482ff35cea9a485fbb3c9e97164b0698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304215871
+status: 3
+tags: []
+user_id: pedroasvalente

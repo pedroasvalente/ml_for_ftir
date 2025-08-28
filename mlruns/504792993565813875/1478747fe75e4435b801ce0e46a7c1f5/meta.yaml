@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/1478747fe75e4435b801ce0e46a7c1f5/artifacts
+end_time: 1756278485723
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 1478747fe75e4435b801ce0e46a7c1f5
+run_name: whimsical-goose-255
+run_uuid: 1478747fe75e4435b801ce0e46a7c1f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278473077
+status: 3
+tags: []
+user_id: pedroasvalente

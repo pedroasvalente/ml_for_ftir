@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/4c7a5305a4034f1ca4b28dc8be64d153/artifacts
+end_time: 1756223321819
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 4c7a5305a4034f1ca4b28dc8be64d153
+run_name: indecisive-smelt-10
+run_uuid: 4c7a5305a4034f1ca4b28dc8be64d153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223317589
+status: 3
+tags: []
+user_id: pedroasvalente

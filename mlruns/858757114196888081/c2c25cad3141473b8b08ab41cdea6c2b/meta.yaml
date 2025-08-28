@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/c2c25cad3141473b8b08ab41cdea6c2b/artifacts
+end_time: 1756204365495
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: c2c25cad3141473b8b08ab41cdea6c2b
+run_name: fortunate-shrike-96
+run_uuid: c2c25cad3141473b8b08ab41cdea6c2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204342762
+status: 3
+tags: []
+user_id: pedroasvalente

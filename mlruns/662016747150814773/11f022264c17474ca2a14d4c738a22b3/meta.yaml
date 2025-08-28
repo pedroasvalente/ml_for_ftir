@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/11f022264c17474ca2a14d4c738a22b3/artifacts
+end_time: 1756305502455
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 11f022264c17474ca2a14d4c738a22b3
+run_name: burly-dolphin-692
+run_uuid: 11f022264c17474ca2a14d4c738a22b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305480739
+status: 3
+tags: []
+user_id: pedroasvalente

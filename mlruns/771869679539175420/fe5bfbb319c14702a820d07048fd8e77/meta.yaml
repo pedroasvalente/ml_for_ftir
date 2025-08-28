@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/fe5bfbb319c14702a820d07048fd8e77/artifacts
+end_time: 1756293145899
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: fe5bfbb319c14702a820d07048fd8e77
+run_name: defiant-carp-870
+run_uuid: fe5bfbb319c14702a820d07048fd8e77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293133711
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/316039c308f1489cba5bc1b4f6e6e17b/artifacts
+end_time: 1756305401188
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 316039c308f1489cba5bc1b4f6e6e17b
+run_name: magnificent-koi-310
+run_uuid: 316039c308f1489cba5bc1b4f6e6e17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305371602
+status: 3
+tags: []
+user_id: pedroasvalente

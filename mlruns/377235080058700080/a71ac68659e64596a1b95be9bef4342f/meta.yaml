@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/a71ac68659e64596a1b95be9bef4342f/artifacts
+end_time: 1756319019562
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: a71ac68659e64596a1b95be9bef4342f
+run_name: classy-tern-782
+run_uuid: a71ac68659e64596a1b95be9bef4342f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756318997170
+status: 3
+tags: []
+user_id: pedroasvalente

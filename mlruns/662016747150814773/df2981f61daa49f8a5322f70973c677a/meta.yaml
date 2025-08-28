@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/df2981f61daa49f8a5322f70973c677a/artifacts
+end_time: 1756305797809
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: df2981f61daa49f8a5322f70973c677a
+run_name: luxuriant-squid-440
+run_uuid: df2981f61daa49f8a5322f70973c677a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305678883
+status: 3
+tags: []
+user_id: pedroasvalente

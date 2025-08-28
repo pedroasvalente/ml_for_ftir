@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/4b0cfc2a9b7b4b4f9c689ee4717bb7f7/artifacts
+end_time: 1756204450394
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 4b0cfc2a9b7b4b4f9c689ee4717bb7f7
+run_name: bedecked-midge-764
+run_uuid: 4b0cfc2a9b7b4b4f9c689ee4717bb7f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204447081
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/2f17102e6ce74cfeba05a90d9ca75f67/artifacts
+end_time: 1756204579533
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 2f17102e6ce74cfeba05a90d9ca75f67
+run_name: bittersweet-bass-328
+run_uuid: 2f17102e6ce74cfeba05a90d9ca75f67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204554979
+status: 3
+tags: []
+user_id: pedroasvalente

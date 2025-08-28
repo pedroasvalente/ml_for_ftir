@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/9927c00676dd4678a2784f305b47f382/artifacts
+end_time: 1756305217767
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 9927c00676dd4678a2784f305b47f382
+run_name: melodic-flea-509
+run_uuid: 9927c00676dd4678a2784f305b47f382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305189360
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/24c838a192384cc885d0f541c9b8753d/artifacts
+end_time: 1756292096647
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 24c838a192384cc885d0f541c9b8753d
+run_name: gifted-yak-933
+run_uuid: 24c838a192384cc885d0f541c9b8753d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292083894
+status: 3
+tags: []
+user_id: pedroasvalente

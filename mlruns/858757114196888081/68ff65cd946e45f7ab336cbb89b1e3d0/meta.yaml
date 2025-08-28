@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/68ff65cd946e45f7ab336cbb89b1e3d0/artifacts
+end_time: 1756206094934
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 68ff65cd946e45f7ab336cbb89b1e3d0
+run_name: painted-wasp-514
+run_uuid: 68ff65cd946e45f7ab336cbb89b1e3d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205959145
+status: 3
+tags: []
+user_id: pedroasvalente

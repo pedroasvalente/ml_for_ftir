@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/c32b04101df24e9295d6ac442612b8e5/artifacts
+end_time: 1756239462948
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: c32b04101df24e9295d6ac442612b8e5
+run_name: righteous-whale-990
+run_uuid: c32b04101df24e9295d6ac442612b8e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239289550
+status: 3
+tags: []
+user_id: pedroasvalente

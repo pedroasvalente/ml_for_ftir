@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/5b3deb121abb4b5d81391ca2a5475818/artifacts
+end_time: 1756292503963
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 5b3deb121abb4b5d81391ca2a5475818
+run_name: learned-toad-633
+run_uuid: 5b3deb121abb4b5d81391ca2a5475818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292499454
+status: 3
+tags: []
+user_id: pedroasvalente

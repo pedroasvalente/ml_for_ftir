@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/baba2e2a48e3429d975943681a4b9628/artifacts
+end_time: 1756293988783
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: baba2e2a48e3429d975943681a4b9628
+run_name: nosy-seal-918
+run_uuid: baba2e2a48e3429d975943681a4b9628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293974186
+status: 3
+tags: []
+user_id: pedroasvalente

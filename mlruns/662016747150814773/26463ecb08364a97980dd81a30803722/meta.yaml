@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/26463ecb08364a97980dd81a30803722/artifacts
+end_time: 1756305255245
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 26463ecb08364a97980dd81a30803722
+run_name: suave-moth-582
+run_uuid: 26463ecb08364a97980dd81a30803722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305228765
+status: 3
+tags: []
+user_id: pedroasvalente

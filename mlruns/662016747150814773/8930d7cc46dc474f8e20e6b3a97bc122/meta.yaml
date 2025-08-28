@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/8930d7cc46dc474f8e20e6b3a97bc122/artifacts
+end_time: 1756306687049
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 8930d7cc46dc474f8e20e6b3a97bc122
+run_name: unequaled-mole-188
+run_uuid: 8930d7cc46dc474f8e20e6b3a97bc122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756306556054
+status: 3
+tags: []
+user_id: pedroasvalente

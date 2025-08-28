@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/bcd790a991e74e9ba210ee10a446ed1a/artifacts
+end_time: 1756305287909
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: bcd790a991e74e9ba210ee10a446ed1a
+run_name: peaceful-horse-846
+run_uuid: bcd790a991e74e9ba210ee10a446ed1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305265618
+status: 3
+tags: []
+user_id: pedroasvalente

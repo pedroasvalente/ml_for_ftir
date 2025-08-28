@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/2dcce701505648b6a530896f4cabc856/artifacts
+end_time: 1756291706496
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 2dcce701505648b6a530896f4cabc856
+run_name: mysterious-conch-130
+run_uuid: 2dcce701505648b6a530896f4cabc856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291694769
+status: 3
+tags: []
+user_id: pedroasvalente

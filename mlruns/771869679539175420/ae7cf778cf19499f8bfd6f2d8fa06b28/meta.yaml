@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/ae7cf778cf19499f8bfd6f2d8fa06b28/artifacts
+end_time: 1756293988783
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: ae7cf778cf19499f8bfd6f2d8fa06b28
+run_name: tasteful-squid-721
+run_uuid: ae7cf778cf19499f8bfd6f2d8fa06b28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293974186
+status: 3
+tags: []
+user_id: pedroasvalente

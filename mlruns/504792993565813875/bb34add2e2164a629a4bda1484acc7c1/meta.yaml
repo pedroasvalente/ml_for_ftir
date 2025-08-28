@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/bb34add2e2164a629a4bda1484acc7c1/artifacts
+end_time: 1756278701435
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: bb34add2e2164a629a4bda1484acc7c1
+run_name: victorious-robin-906
+run_uuid: bb34add2e2164a629a4bda1484acc7c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278672218
+status: 3
+tags: []
+user_id: pedroasvalente

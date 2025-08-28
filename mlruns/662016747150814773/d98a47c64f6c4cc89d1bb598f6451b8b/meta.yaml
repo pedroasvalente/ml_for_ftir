@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/d98a47c64f6c4cc89d1bb598f6451b8b/artifacts
+end_time: 1756305408485
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: d98a47c64f6c4cc89d1bb598f6451b8b
+run_name: nebulous-gull-294
+run_uuid: d98a47c64f6c4cc89d1bb598f6451b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305404932
+status: 3
+tags: []
+user_id: pedroasvalente

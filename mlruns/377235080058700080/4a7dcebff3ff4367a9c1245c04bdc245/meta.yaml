@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/4a7dcebff3ff4367a9c1245c04bdc245/artifacts
+end_time: 1756326843217
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 4a7dcebff3ff4367a9c1245c04bdc245
+run_name: learned-gull-664
+run_uuid: 4a7dcebff3ff4367a9c1245c04bdc245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756323932166
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/35804b66d71a4839bc3600375a723948/artifacts
+end_time: 1756236597172
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 35804b66d71a4839bc3600375a723948
+run_name: caring-cow-288
+run_uuid: 35804b66d71a4839bc3600375a723948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236576464
+status: 3
+tags: []
+user_id: pedroasvalente

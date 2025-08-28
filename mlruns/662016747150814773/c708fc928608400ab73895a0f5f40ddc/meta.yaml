@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/c708fc928608400ab73895a0f5f40ddc/artifacts
+end_time: 1756315374914
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: c708fc928608400ab73895a0f5f40ddc
+run_name: experiment_linear_bodyfat_perc
+run_uuid: c708fc928608400ab73895a0f5f40ddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756303937669
+status: 3
+tags: []
+user_id: pedroasvalente

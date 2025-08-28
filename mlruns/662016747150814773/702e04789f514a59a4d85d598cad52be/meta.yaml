@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/702e04789f514a59a4d85d598cad52be/artifacts
+end_time: 1756304376770
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 702e04789f514a59a4d85d598cad52be
+run_name: gifted-smelt-910
+run_uuid: 702e04789f514a59a4d85d598cad52be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304363563
+status: 3
+tags: []
+user_id: pedroasvalente

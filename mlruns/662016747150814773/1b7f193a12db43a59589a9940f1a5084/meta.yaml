@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/1b7f193a12db43a59589a9940f1a5084/artifacts
+end_time: 1756304547263
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 1b7f193a12db43a59589a9940f1a5084
+run_name: likeable-snake-624
+run_uuid: 1b7f193a12db43a59589a9940f1a5084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304526891
+status: 3
+tags: []
+user_id: pedroasvalente

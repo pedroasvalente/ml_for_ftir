@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/eb172bf637a7411c947d3264e314569a/artifacts
+end_time: 1756292593530
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: eb172bf637a7411c947d3264e314569a
+run_name: valuable-midge-809
+run_uuid: eb172bf637a7411c947d3264e314569a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292579771
+status: 3
+tags: []
+user_id: pedroasvalente

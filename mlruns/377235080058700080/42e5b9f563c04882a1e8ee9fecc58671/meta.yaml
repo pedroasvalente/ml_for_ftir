@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/42e5b9f563c04882a1e8ee9fecc58671/artifacts
+end_time: 1756318968165
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 42e5b9f563c04882a1e8ee9fecc58671
+run_name: shivering-croc-396
+run_uuid: 42e5b9f563c04882a1e8ee9fecc58671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756318943688
+status: 3
+tags: []
+user_id: pedroasvalente

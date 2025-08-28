@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/77f01c55fd4b430cb262ce3a1f73c8d2/artifacts
+end_time: 1756304654753
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 77f01c55fd4b430cb262ce3a1f73c8d2
+run_name: hilarious-calf-298
+run_uuid: 77f01c55fd4b430cb262ce3a1f73c8d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304633248
+status: 3
+tags: []
+user_id: pedroasvalente

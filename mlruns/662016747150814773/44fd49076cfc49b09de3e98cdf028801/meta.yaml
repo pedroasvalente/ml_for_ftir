@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/44fd49076cfc49b09de3e98cdf028801/artifacts
+end_time: 1756305185038
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 44fd49076cfc49b09de3e98cdf028801
+run_name: peaceful-rat-72
+run_uuid: 44fd49076cfc49b09de3e98cdf028801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305178910
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/426b7ee0c23d4a9e8b1d0c808d14777b/artifacts
+end_time: 1756222700713
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 426b7ee0c23d4a9e8b1d0c808d14777b
+run_name: rumbling-shrike-934
+run_uuid: 426b7ee0c23d4a9e8b1d0c808d14777b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222688691
+status: 3
+tags: []
+user_id: pedroasvalente

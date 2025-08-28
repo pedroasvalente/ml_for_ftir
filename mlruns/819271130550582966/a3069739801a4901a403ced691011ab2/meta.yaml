@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/a3069739801a4901a403ced691011ab2/artifacts
+end_time: 1756222889745
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: a3069739801a4901a403ced691011ab2
+run_name: unruly-hawk-458
+run_uuid: a3069739801a4901a403ced691011ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222876230
+status: 3
+tags: []
+user_id: pedroasvalente

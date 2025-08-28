@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/774aaa1c02ee4b8fbf777867dae4c51c/artifacts
+end_time: 1756319886047
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 774aaa1c02ee4b8fbf777867dae4c51c
+run_name: abrasive-quail-309
+run_uuid: 774aaa1c02ee4b8fbf777867dae4c51c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319861620
+status: 3
+tags: []
+user_id: pedroasvalente

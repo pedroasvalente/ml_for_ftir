@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/47684e3a506f479dae15077ea4fec3c7/artifacts
+end_time: 1756233989107
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 47684e3a506f479dae15077ea4fec3c7
+run_name: URINE
+run_uuid: 47684e3a506f479dae15077ea4fec3c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222380759
+status: 3
+tags: []
+user_id: pedroasvalente

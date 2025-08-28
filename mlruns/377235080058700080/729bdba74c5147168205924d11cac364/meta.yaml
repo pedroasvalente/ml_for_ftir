@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/729bdba74c5147168205924d11cac364/artifacts
+end_time: 1756329148380
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 729bdba74c5147168205924d11cac364
+run_name: tasteful-hawk-804
+run_uuid: 729bdba74c5147168205924d11cac364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756329134086
+status: 3
+tags: []
+user_id: pedroasvalente

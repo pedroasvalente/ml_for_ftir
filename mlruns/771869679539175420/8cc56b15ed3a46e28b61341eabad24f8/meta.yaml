@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/8cc56b15ed3a46e28b61341eabad24f8/artifacts
+end_time: 1756293624904
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 8cc56b15ed3a46e28b61341eabad24f8
+run_name: monumental-steed-155
+run_uuid: 8cc56b15ed3a46e28b61341eabad24f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293492613
+status: 3
+tags: []
+user_id: pedroasvalente

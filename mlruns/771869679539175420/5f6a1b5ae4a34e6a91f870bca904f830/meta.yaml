@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/5f6a1b5ae4a34e6a91f870bca904f830/artifacts
+end_time: 1756292182422
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 5f6a1b5ae4a34e6a91f870bca904f830
+run_name: luminous-stag-205
+run_uuid: 5f6a1b5ae4a34e6a91f870bca904f830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292178721
+status: 3
+tags: []
+user_id: pedroasvalente

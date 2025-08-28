@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/60590c2454cc4aa4aa529c68b2ff783e/artifacts
+end_time: 1756293967625
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 60590c2454cc4aa4aa529c68b2ff783e
+run_name: rebellious-whale-149
+run_uuid: 60590c2454cc4aa4aa529c68b2ff783e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293839153
+status: 3
+tags: []
+user_id: pedroasvalente

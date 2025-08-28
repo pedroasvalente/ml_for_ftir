@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/bb00825cdaae4a70bd92ed707af373f3/artifacts
+end_time: 1756222521084
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: bb00825cdaae4a70bd92ed707af373f3
+run_name: rebellious-goose-370
+run_uuid: bb00825cdaae4a70bd92ed707af373f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222494127
+status: 3
+tags: []
+user_id: pedroasvalente

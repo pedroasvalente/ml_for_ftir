@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/2dd9f5a8eba24febac88f2deb66afa67/artifacts
+end_time: 1756291706496
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 2dd9f5a8eba24febac88f2deb66afa67
+run_name: enthused-bird-927
+run_uuid: 2dd9f5a8eba24febac88f2deb66afa67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291694769
+status: 3
+tags: []
+user_id: pedroasvalente

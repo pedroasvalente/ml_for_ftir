@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/855d699017a644c4b760f2d8543e2790/artifacts
+end_time: 1756202639075
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 855d699017a644c4b760f2d8543e2790
+run_name: stately-cow-981
+run_uuid: 855d699017a644c4b760f2d8543e2790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756202543900
+status: 3
+tags: []
+user_id: pedroasvalente

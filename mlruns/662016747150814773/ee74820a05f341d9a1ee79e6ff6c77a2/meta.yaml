@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/ee74820a05f341d9a1ee79e6ff6c77a2/artifacts
+end_time: 1756305401188
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: ee74820a05f341d9a1ee79e6ff6c77a2
+run_name: dashing-newt-211
+run_uuid: ee74820a05f341d9a1ee79e6ff6c77a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305371602
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/d82b389ebe98464fbbb7acd159309728/artifacts
+end_time: 1756277555051
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: d82b389ebe98464fbbb7acd159309728
+run_name: unleashed-shoat-209
+run_uuid: d82b389ebe98464fbbb7acd159309728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756277515656
+status: 3
+tags: []
+user_id: pedroasvalente

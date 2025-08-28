@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/ff71f940a36544368227638f8efe54ae/artifacts
+end_time: 1756319902042
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: ff71f940a36544368227638f8efe54ae
+run_name: treasured-snake-570
+run_uuid: ff71f940a36544368227638f8efe54ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319889672
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/9966be4d981b43898a9400745dfd6515/artifacts
+end_time: 1756303962333
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 9966be4d981b43898a9400745dfd6515
+run_name: mercurial-sponge-885
+run_uuid: 9966be4d981b43898a9400745dfd6515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756303937990
+status: 3
+tags: []
+user_id: pedroasvalente

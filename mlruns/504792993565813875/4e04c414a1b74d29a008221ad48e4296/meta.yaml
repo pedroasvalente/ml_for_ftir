@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/4e04c414a1b74d29a008221ad48e4296/artifacts
+end_time: 1756278754449
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 4e04c414a1b74d29a008221ad48e4296
+run_name: bedecked-boar-474
+run_uuid: 4e04c414a1b74d29a008221ad48e4296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278750482
+status: 3
+tags: []
+user_id: pedroasvalente

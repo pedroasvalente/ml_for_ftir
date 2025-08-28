@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/e5facbe9900c4b9ea373c0e72d6b16cd/artifacts
+end_time: 1756205810205
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: e5facbe9900c4b9ea373c0e72d6b16cd
+run_name: melodic-bass-375
+run_uuid: e5facbe9900c4b9ea373c0e72d6b16cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205798940
+status: 3
+tags: []
+user_id: pedroasvalente

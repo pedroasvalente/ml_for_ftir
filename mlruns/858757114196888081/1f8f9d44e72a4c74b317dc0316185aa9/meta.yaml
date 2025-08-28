@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/1f8f9d44e72a4c74b317dc0316185aa9/artifacts
+end_time: 1756205332501
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 1f8f9d44e72a4c74b317dc0316185aa9
+run_name: charming-foal-843
+run_uuid: 1f8f9d44e72a4c74b317dc0316185aa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205321103
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/a50cbf2930914e7cb161f85c0da11f31/artifacts
+end_time: 1756278190105
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: a50cbf2930914e7cb161f85c0da11f31
+run_name: charming-ram-869
+run_uuid: a50cbf2930914e7cb161f85c0da11f31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278167490
+status: 3
+tags: []
+user_id: pedroasvalente

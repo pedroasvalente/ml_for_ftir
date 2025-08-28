@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/ae372b099d684f0a885a52c3b596169f/artifacts
+end_time: 1756204233984
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: ae372b099d684f0a885a52c3b596169f
+run_name: flawless-carp-510
+run_uuid: ae372b099d684f0a885a52c3b596169f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204209635
+status: 3
+tags: []
+user_id: pedroasvalente

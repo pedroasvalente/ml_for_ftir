@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/6732670cd3c24878bd0b1705a49af463/artifacts
+end_time: 1756305287909
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 6732670cd3c24878bd0b1705a49af463
+run_name: stately-gnat-331
+run_uuid: 6732670cd3c24878bd0b1705a49af463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305265618
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/46cee14c88ab4a5c9fed1527b44d5523/artifacts
+end_time: 1756291381836
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 46cee14c88ab4a5c9fed1527b44d5523
+run_name: auspicious-crane-87
+run_uuid: 46cee14c88ab4a5c9fed1527b44d5523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291367990
+status: 3
+tags: []
+user_id: pedroasvalente

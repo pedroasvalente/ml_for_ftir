@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/f63598c2426b4285b166158abdd90ea1/artifacts
+end_time: 1756223049318
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: f63598c2426b4285b166158abdd90ea1
+run_name: amazing-snail-702
+run_uuid: f63598c2426b4285b166158abdd90ea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223028139
+status: 3
+tags: []
+user_id: pedroasvalente

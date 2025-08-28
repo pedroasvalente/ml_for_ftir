@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/5f8f5ca635424fdf8f31b1590ea2bad8/artifacts
+end_time: 1756305950882
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 5f8f5ca635424fdf8f31b1590ea2bad8
+run_name: defiant-trout-318
+run_uuid: 5f8f5ca635424fdf8f31b1590ea2bad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305939580
+status: 3
+tags: []
+user_id: pedroasvalente

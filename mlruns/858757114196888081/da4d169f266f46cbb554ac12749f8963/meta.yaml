@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/da4d169f266f46cbb554ac12749f8963/artifacts
+end_time: 1756203985396
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: da4d169f266f46cbb554ac12749f8963
+run_name: upset-quail-763
+run_uuid: da4d169f266f46cbb554ac12749f8963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756203972134
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/9205bad6176940568122f844f3a97172/artifacts
+end_time: 1756278621641
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 9205bad6176940568122f844f3a97172
+run_name: stately-dog-484
+run_uuid: 9205bad6176940568122f844f3a97172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278597412
+status: 3
+tags: []
+user_id: pedroasvalente

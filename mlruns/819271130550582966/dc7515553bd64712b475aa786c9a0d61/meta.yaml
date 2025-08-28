@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/dc7515553bd64712b475aa786c9a0d61/artifacts
+end_time: 1756222937204
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: dc7515553bd64712b475aa786c9a0d61
+run_name: stately-elk-788
+run_uuid: dc7515553bd64712b475aa786c9a0d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222923243
+status: 3
+tags: []
+user_id: pedroasvalente

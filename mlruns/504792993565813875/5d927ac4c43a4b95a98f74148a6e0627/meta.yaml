@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/5d927ac4c43a4b95a98f74148a6e0627/artifacts
+end_time: 1756278088628
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 5d927ac4c43a4b95a98f74148a6e0627
+run_name: mysterious-wolf-66
+run_uuid: 5d927ac4c43a4b95a98f74148a6e0627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278049374
+status: 3
+tags: []
+user_id: pedroasvalente

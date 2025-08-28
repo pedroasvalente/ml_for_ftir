@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/6d2b0cd3949840e99e1cf290e201c8b7/artifacts
+end_time: 1756304189150
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 6d2b0cd3949840e99e1cf290e201c8b7
+run_name: handsome-bear-230
+run_uuid: 6d2b0cd3949840e99e1cf290e201c8b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304111504
+status: 3
+tags: []
+user_id: pedroasvalente

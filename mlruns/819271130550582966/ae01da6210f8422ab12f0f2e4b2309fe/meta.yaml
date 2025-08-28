@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/ae01da6210f8422ab12f0f2e4b2309fe/artifacts
+end_time: 1756224250125
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: ae01da6210f8422ab12f0f2e4b2309fe
+run_name: abrasive-mink-78
+run_uuid: ae01da6210f8422ab12f0f2e4b2309fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224107260
+status: 3
+tags: []
+user_id: pedroasvalente

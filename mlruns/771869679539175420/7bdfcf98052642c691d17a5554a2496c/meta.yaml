@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/7bdfcf98052642c691d17a5554a2496c/artifacts
+end_time: 1756291822749
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 7bdfcf98052642c691d17a5554a2496c
+run_name: marvelous-dog-973
+run_uuid: 7bdfcf98052642c691d17a5554a2496c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291809006
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/0cce25d1660d41d8927d74770954af9f/artifacts
+end_time: 1756319513449
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 0cce25d1660d41d8927d74770954af9f
+run_name: whimsical-sloth-840
+run_uuid: 0cce25d1660d41d8927d74770954af9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319457163
+status: 3
+tags: []
+user_id: pedroasvalente

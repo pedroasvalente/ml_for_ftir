@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/36deaa6c1beb48bdb004afb8be63b9e5/artifacts
+end_time: 1756223196530
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 36deaa6c1beb48bdb004afb8be63b9e5
+run_name: unique-gnat-455
+run_uuid: 36deaa6c1beb48bdb004afb8be63b9e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223167133
+status: 3
+tags: []
+user_id: pedroasvalente

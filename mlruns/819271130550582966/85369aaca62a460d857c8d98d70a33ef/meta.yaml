@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/85369aaca62a460d857c8d98d70a33ef/artifacts
+end_time: 1756223056567
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 85369aaca62a460d857c8d98d70a33ef
+run_name: peaceful-stag-261
+run_uuid: 85369aaca62a460d857c8d98d70a33ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223053188
+status: 3
+tags: []
+user_id: pedroasvalente

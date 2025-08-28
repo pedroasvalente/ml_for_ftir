@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/51d4209effc0452db5857910bab7ad63/artifacts
+end_time: 1756235464970
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 51d4209effc0452db5857910bab7ad63
+run_name: luminous-lamb-468
+run_uuid: 51d4209effc0452db5857910bab7ad63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756235450343
+status: 3
+tags: []
+user_id: pedroasvalente

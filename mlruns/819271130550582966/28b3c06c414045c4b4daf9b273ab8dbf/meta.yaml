@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/28b3c06c414045c4b4daf9b273ab8dbf/artifacts
+end_time: 1756222872474
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 28b3c06c414045c4b4daf9b273ab8dbf
+run_name: rumbling-conch-256
+run_uuid: 28b3c06c414045c4b4daf9b273ab8dbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222847897
+status: 3
+tags: []
+user_id: pedroasvalente

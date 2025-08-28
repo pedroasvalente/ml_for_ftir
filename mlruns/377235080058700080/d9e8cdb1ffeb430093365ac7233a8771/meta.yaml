@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/d9e8cdb1ffeb430093365ac7233a8771/artifacts
+end_time: 1756323927270
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: d9e8cdb1ffeb430093365ac7233a8771
+run_name: blushing-deer-495
+run_uuid: d9e8cdb1ffeb430093365ac7233a8771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756322990458
+status: 3
+tags: []
+user_id: pedroasvalente

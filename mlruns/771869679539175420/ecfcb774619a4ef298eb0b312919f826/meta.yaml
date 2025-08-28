@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/ecfcb774619a4ef298eb0b312919f826/artifacts
+end_time: 1756292287174
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: ecfcb774619a4ef298eb0b312919f826
+run_name: bedecked-dove-780
+run_uuid: ecfcb774619a4ef298eb0b312919f826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292261659
+status: 3
+tags: []
+user_id: pedroasvalente

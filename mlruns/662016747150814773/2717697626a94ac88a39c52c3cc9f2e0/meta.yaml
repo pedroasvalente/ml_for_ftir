@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/2717697626a94ac88a39c52c3cc9f2e0/artifacts
+end_time: 1756305092621
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 2717697626a94ac88a39c52c3cc9f2e0
+run_name: loud-lynx-461
+run_uuid: 2717697626a94ac88a39c52c3cc9f2e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305078831
+status: 3
+tags: []
+user_id: pedroasvalente

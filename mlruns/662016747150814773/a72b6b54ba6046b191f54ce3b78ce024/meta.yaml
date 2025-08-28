@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/a72b6b54ba6046b191f54ce3b78ce024/artifacts
+end_time: 1756305255245
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: a72b6b54ba6046b191f54ce3b78ce024
+run_name: wistful-stoat-441
+run_uuid: a72b6b54ba6046b191f54ce3b78ce024
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305228765
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/2b4c01a87afc433885df4c7f9ac139a2/artifacts
+end_time: 1756294153383
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 2b4c01a87afc433885df4c7f9ac139a2
+run_name: mysterious-horse-182
+run_uuid: 2b4c01a87afc433885df4c7f9ac139a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756293997786
+status: 3
+tags: []
+user_id: pedroasvalente

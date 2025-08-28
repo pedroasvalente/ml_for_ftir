@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/2bc5d73b27f74ffdb9725e8edf8ba145/artifacts
+end_time: 1756305509754
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 2bc5d73b27f74ffdb9725e8edf8ba145
+run_name: capable-vole-65
+run_uuid: 2bc5d73b27f74ffdb9725e8edf8ba145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305506306
+status: 3
+tags: []
+user_id: pedroasvalente

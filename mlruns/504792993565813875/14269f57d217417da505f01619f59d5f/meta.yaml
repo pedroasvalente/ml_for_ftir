@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/14269f57d217417da505f01619f59d5f/artifacts
+end_time: 1756278349827
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 14269f57d217417da505f01619f59d5f
+run_name: entertaining-cow-172
+run_uuid: 14269f57d217417da505f01619f59d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278337258
+status: 3
+tags: []
+user_id: pedroasvalente

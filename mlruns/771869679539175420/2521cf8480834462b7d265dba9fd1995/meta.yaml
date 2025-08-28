@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/2521cf8480834462b7d265dba9fd1995/artifacts
+end_time: 1756292174542
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 2521cf8480834462b7d265dba9fd1995
+run_name: nebulous-lamb-962
+run_uuid: 2521cf8480834462b7d265dba9fd1995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292147982
+status: 3
+tags: []
+user_id: pedroasvalente

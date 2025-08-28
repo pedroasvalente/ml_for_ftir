@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/532543f1da7e435192162607c241a2ef/artifacts
+end_time: 1756305022428
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 532543f1da7e435192162607c241a2ef
+run_name: sedate-dolphin-822
+run_uuid: 532543f1da7e435192162607c241a2ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304993228
+status: 3
+tags: []
+user_id: pedroasvalente

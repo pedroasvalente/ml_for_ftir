@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/db14d8b6325044af8e68c385543b8299/artifacts
+end_time: 1756291774645
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: db14d8b6325044af8e68c385543b8299
+run_name: awesome-zebra-804
+run_uuid: db14d8b6325044af8e68c385543b8299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291761701
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/b45d3c9d1a294e05971d119e30e86227/artifacts
+end_time: 1756320169676
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: b45d3c9d1a294e05971d119e30e86227
+run_name: rogue-smelt-561
+run_uuid: b45d3c9d1a294e05971d119e30e86227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320166260
+status: 3
+tags: []
+user_id: pedroasvalente

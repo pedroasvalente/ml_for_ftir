@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/ba9baca94fb149acbb5b42b05d7ca313/artifacts
+end_time: 1756222366925
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: ba9baca94fb149acbb5b42b05d7ca313
+run_name: loud-shrike-752
+run_uuid: ba9baca94fb149acbb5b42b05d7ca313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222341096
+status: 3
+tags: []
+user_id: pedroasvalente

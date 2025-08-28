@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/78b42157bda24608820cd0756da7ddad/artifacts
+end_time: 1756319658159
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 78b42157bda24608820cd0756da7ddad
+run_name: bustling-wolf-988
+run_uuid: 78b42157bda24608820cd0756da7ddad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319633422
+status: 3
+tags: []
+user_id: pedroasvalente

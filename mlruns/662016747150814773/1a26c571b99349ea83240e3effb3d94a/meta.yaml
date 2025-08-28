@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/1a26c571b99349ea83240e3effb3d94a/artifacts
+end_time: 1756306705027
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 1a26c571b99349ea83240e3effb3d94a
+run_name: legendary-fawn-853
+run_uuid: 1a26c571b99349ea83240e3effb3d94a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756306693395
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/e9c468c588a341c3a6eebadcf973494a/artifacts
+end_time: 1756202192795
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: e9c468c588a341c3a6eebadcf973494a
+run_name: rebellious-ray-260
+run_uuid: e9c468c588a341c3a6eebadcf973494a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756202118168
+status: 3
+tags: []
+user_id: pedroasvalente

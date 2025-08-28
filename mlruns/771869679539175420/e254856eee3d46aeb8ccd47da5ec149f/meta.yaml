@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/e254856eee3d46aeb8ccd47da5ec149f/artifacts
+end_time: 1756291217006
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: e254856eee3d46aeb8ccd47da5ec149f
+run_name: upset-snipe-75
+run_uuid: e254856eee3d46aeb8ccd47da5ec149f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291205039
+status: 3
+tags: []
+user_id: pedroasvalente

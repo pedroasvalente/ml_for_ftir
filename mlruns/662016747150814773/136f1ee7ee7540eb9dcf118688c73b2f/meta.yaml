@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/136f1ee7ee7540eb9dcf118688c73b2f/artifacts
+end_time: 1756306816279
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 136f1ee7ee7540eb9dcf118688c73b2f
+run_name: calm-dove-268
+run_uuid: 136f1ee7ee7540eb9dcf118688c73b2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756306710569
+status: 3
+tags: []
+user_id: pedroasvalente

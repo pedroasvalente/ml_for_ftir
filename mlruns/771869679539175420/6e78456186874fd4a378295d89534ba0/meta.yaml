@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/6e78456186874fd4a378295d89534ba0/artifacts
+end_time: 1756291217006
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 6e78456186874fd4a378295d89534ba0
+run_name: selective-whale-672
+run_uuid: 6e78456186874fd4a378295d89534ba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291205039
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/5215f3a9bad74bfa85d00cc138771ddd/artifacts
+end_time: 1756239985710
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 5215f3a9bad74bfa85d00cc138771ddd
+run_name: upset-shoat-5
+run_uuid: 5215f3a9bad74bfa85d00cc138771ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239972431
+status: 3
+tags: []
+user_id: pedroasvalente

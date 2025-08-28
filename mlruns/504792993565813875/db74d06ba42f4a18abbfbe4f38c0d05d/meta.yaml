@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/db74d06ba42f4a18abbfbe4f38c0d05d/artifacts
+end_time: 1756279896766
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: db74d06ba42f4a18abbfbe4f38c0d05d
+run_name: calm-hog-795
+run_uuid: db74d06ba42f4a18abbfbe4f38c0d05d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756279816128
+status: 3
+tags: []
+user_id: pedroasvalente

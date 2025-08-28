@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/e058abcec03b45c68e9163d898536623/artifacts
+end_time: 1756305797809
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: e058abcec03b45c68e9163d898536623
+run_name: defiant-hare-89
+run_uuid: e058abcec03b45c68e9163d898536623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305678883
+status: 3
+tags: []
+user_id: pedroasvalente

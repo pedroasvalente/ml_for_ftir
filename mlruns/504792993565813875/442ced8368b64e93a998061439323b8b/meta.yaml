@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/442ced8368b64e93a998061439323b8b/artifacts
+end_time: 1756278562747
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 442ced8368b64e93a998061439323b8b
+run_name: mercurial-shrew-790
+run_uuid: 442ced8368b64e93a998061439323b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278559288
+status: 3
+tags: []
+user_id: pedroasvalente

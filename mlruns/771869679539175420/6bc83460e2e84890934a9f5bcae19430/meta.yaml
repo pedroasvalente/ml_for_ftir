@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/6bc83460e2e84890934a9f5bcae19430/artifacts
+end_time: 1756291867280
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 6bc83460e2e84890934a9f5bcae19430
+run_name: rogue-ant-670
+run_uuid: 6bc83460e2e84890934a9f5bcae19430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756291855167
+status: 3
+tags: []
+user_id: pedroasvalente

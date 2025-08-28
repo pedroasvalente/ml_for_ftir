@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/f44ad588e77c435c87fdd1f5e0ecca8b/artifacts
+end_time: 1756222576317
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: f44ad588e77c435c87fdd1f5e0ecca8b
+run_name: mercurial-doe-879
+run_uuid: f44ad588e77c435c87fdd1f5e0ecca8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222563854
+status: 3
+tags: []
+user_id: pedroasvalente

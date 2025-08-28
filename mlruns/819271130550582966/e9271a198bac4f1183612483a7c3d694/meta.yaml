@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/e9271a198bac4f1183612483a7c3d694/artifacts
+end_time: 1756224689668
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: e9271a198bac4f1183612483a7c3d694
+run_name: rebellious-moth-922
+run_uuid: e9271a198bac4f1183612483a7c3d694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224676984
+status: 3
+tags: []
+user_id: pedroasvalente

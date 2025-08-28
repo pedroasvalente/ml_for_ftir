@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/9c19457d82f24595992fb8f248dcc6fc/artifacts
+end_time: 1756204862601
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 9c19457d82f24595992fb8f248dcc6fc
+run_name: skillful-flea-911
+run_uuid: 9c19457d82f24595992fb8f248dcc6fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756204850453
+status: 3
+tags: []
+user_id: pedroasvalente

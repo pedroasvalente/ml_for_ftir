@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/54dd856e900849478c0514ba3679b11a/artifacts
+end_time: 1756303962333
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 54dd856e900849478c0514ba3679b11a
+run_name: selective-trout-652
+run_uuid: 54dd856e900849478c0514ba3679b11a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756303937990
+status: 3
+tags: []
+user_id: pedroasvalente

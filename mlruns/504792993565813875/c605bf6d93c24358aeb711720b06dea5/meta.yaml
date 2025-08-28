@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/c605bf6d93c24358aeb711720b06dea5/artifacts
+end_time: 1756278701435
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: c605bf6d93c24358aeb711720b06dea5
+run_name: burly-sheep-31
+run_uuid: c605bf6d93c24358aeb711720b06dea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278672218
+status: 3
+tags: []
+user_id: pedroasvalente

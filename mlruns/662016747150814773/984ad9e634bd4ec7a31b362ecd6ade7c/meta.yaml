@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/984ad9e634bd4ec7a31b362ecd6ade7c/artifacts
+end_time: 1756305401188
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 984ad9e634bd4ec7a31b362ecd6ade7c
+run_name: illustrious-fly-462
+run_uuid: 984ad9e634bd4ec7a31b362ecd6ade7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305371602
+status: 3
+tags: []
+user_id: pedroasvalente

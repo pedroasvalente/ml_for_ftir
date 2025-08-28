@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/3393b2fb3e554f44b1fabba09d7ac75e/artifacts
+end_time: 1756305174158
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 3393b2fb3e554f44b1fabba09d7ac75e
+run_name: sincere-gnat-34
+run_uuid: 3393b2fb3e554f44b1fabba09d7ac75e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305146863
+status: 3
+tags: []
+user_id: pedroasvalente

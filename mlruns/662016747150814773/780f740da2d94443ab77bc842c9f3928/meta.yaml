@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/780f740da2d94443ab77bc842c9f3928/artifacts
+end_time: 1756304504932
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 780f740da2d94443ab77bc842c9f3928
+run_name: merciful-penguin-408
+run_uuid: 780f740da2d94443ab77bc842c9f3928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756304483608
+status: 3
+tags: []
+user_id: pedroasvalente

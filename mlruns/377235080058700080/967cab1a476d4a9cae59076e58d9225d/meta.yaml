@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/967cab1a476d4a9cae59076e58d9225d/artifacts
+end_time: 1756320369763
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 967cab1a476d4a9cae59076e58d9225d
+run_name: rare-sloth-743
+run_uuid: 967cab1a476d4a9cae59076e58d9225d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320342540
+status: 3
+tags: []
+user_id: pedroasvalente

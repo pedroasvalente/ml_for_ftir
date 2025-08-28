@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/6b0d07d9b1ed4217b9ce43245fc35a3f/artifacts
+end_time: 1756320169676
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 6b0d07d9b1ed4217b9ce43245fc35a3f
+run_name: entertaining-pig-281
+run_uuid: 6b0d07d9b1ed4217b9ce43245fc35a3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320166260
+status: 3
+tags: []
+user_id: pedroasvalente

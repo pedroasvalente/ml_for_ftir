@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/ddfa585901cc471bac7856a9c734c454/artifacts
+end_time: 1756305287909
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: ddfa585901cc471bac7856a9c734c454
+run_name: valuable-owl-233
+run_uuid: ddfa585901cc471bac7856a9c734c454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756305265618
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/819271130550582966
+creation_time: 1756221723159
+experiment_id: '819271130550582966'
+last_update_time: 1756221723159
+lifecycle_stage: active
+name: FTIR Supervised Training - ANAEROBICTHRESHOLD_BPM

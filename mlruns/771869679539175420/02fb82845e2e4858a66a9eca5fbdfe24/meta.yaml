@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/02fb82845e2e4858a66a9eca5fbdfe24/artifacts
+end_time: 1756292574633
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 02fb82845e2e4858a66a9eca5fbdfe24
+run_name: abrasive-sloth-224
+run_uuid: 02fb82845e2e4858a66a9eca5fbdfe24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292547131
+status: 3
+tags: []
+user_id: pedroasvalente

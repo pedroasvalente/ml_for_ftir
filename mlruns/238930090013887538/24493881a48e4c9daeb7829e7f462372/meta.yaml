@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/24493881a48e4c9daeb7829e7f462372/artifacts
+end_time: 1756236597172
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 24493881a48e4c9daeb7829e7f462372
+run_name: clumsy-panda-253
+run_uuid: 24493881a48e4c9daeb7829e7f462372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756236576464
+status: 3
+tags: []
+user_id: pedroasvalente

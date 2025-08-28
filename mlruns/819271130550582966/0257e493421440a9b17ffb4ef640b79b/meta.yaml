@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/0257e493421440a9b17ffb4ef640b79b/artifacts
+end_time: 1756223404358
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 0257e493421440a9b17ffb4ef640b79b
+run_name: thundering-snake-658
+run_uuid: 0257e493421440a9b17ffb4ef640b79b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223391021
+status: 3
+tags: []
+user_id: pedroasvalente

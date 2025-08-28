@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/44d18b797f2f4b2cae497c14e5569113/artifacts
+end_time: 1756224102708
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 44d18b797f2f4b2cae497c14e5569113
+run_name: painted-gull-680
+run_uuid: 44d18b797f2f4b2cae497c14e5569113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224090142
+status: 3
+tags: []
+user_id: pedroasvalente

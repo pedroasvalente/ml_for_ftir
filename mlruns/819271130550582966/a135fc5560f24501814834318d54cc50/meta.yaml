@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/a135fc5560f24501814834318d54cc50/artifacts
+end_time: 1756223404358
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: a135fc5560f24501814834318d54cc50
+run_name: indecisive-shrew-801
+run_uuid: a135fc5560f24501814834318d54cc50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223391021
+status: 3
+tags: []
+user_id: pedroasvalente

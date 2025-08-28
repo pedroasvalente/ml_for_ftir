@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/238930090013887538/6f1313b5e6f34a748e6d44c186dc59fa/artifacts
+end_time: 1756239650426
+entry_point_name: ''
+experiment_id: '238930090013887538'
+lifecycle_stage: active
+run_id: 6f1313b5e6f34a748e6d44c186dc59fa
+run_name: marvelous-wren-546
+run_uuid: 6f1313b5e6f34a748e6d44c186dc59fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756239633624
+status: 3
+tags: []
+user_id: pedroasvalente

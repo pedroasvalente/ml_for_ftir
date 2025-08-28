@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/9f96eb238ec44f769a7eb2eb948a9d88/artifacts
+end_time: 1756306390962
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 9f96eb238ec44f769a7eb2eb948a9d88
+run_name: salty-lark-878
+run_uuid: 9f96eb238ec44f769a7eb2eb948a9d88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756306251085
+status: 3
+tags: []
+user_id: pedroasvalente

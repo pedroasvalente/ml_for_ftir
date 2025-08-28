@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662016747150814773/9d841c2e40b4473bbd2103e7e1f944c2/artifacts
+end_time: 1756306705027
+entry_point_name: ''
+experiment_id: '662016747150814773'
+lifecycle_stage: active
+run_id: 9d841c2e40b4473bbd2103e7e1f944c2
+run_name: amusing-skink-220
+run_uuid: 9d841c2e40b4473bbd2103e7e1f944c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756306693395
+status: 3
+tags: []
+user_id: pedroasvalente

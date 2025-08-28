@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504792993565813875/0ea07d45ffb143829042e688d108bc0d/artifacts
+end_time: 1756278148396
+entry_point_name: ''
+experiment_id: '504792993565813875'
+lifecycle_stage: active
+run_id: 0ea07d45ffb143829042e688d108bc0d
+run_name: rare-sponge-956
+run_uuid: 0ea07d45ffb143829042e688d108bc0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756278127366
+status: 3
+tags: []
+user_id: pedroasvalente

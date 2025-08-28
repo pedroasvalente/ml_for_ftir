@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/09d90aff4e89428a998231addc94fa04/artifacts
+end_time: 1756223049318
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: 09d90aff4e89428a998231addc94fa04
+run_name: fearless-dog-337
+run_uuid: 09d90aff4e89428a998231addc94fa04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223028139
+status: 3
+tags: []
+user_id: pedroasvalente

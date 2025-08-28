@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771869679539175420/05d6551bf39f4026b63c4a6023478707/artifacts
+end_time: 1756292427102
+entry_point_name: ''
+experiment_id: '771869679539175420'
+lifecycle_stage: active
+run_id: 05d6551bf39f4026b63c4a6023478707
+run_name: ambitious-kite-749
+run_uuid: 05d6551bf39f4026b63c4a6023478707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756292423401
+status: 3
+tags: []
+user_id: pedroasvalente

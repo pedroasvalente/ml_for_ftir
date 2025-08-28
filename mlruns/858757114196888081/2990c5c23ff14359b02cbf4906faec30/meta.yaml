@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/2990c5c23ff14359b02cbf4906faec30/artifacts
+end_time: 1756206094934
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 2990c5c23ff14359b02cbf4906faec30
+run_name: unleashed-pug-724
+run_uuid: 2990c5c23ff14359b02cbf4906faec30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205959145
+status: 3
+tags: []
+user_id: pedroasvalente

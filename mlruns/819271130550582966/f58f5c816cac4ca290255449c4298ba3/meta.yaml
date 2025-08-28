@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819271130550582966/f58f5c816cac4ca290255449c4298ba3/artifacts
+end_time: 1756223945000
+entry_point_name: ''
+experiment_id: '819271130550582966'
+lifecycle_stage: active
+run_id: f58f5c816cac4ca290255449c4298ba3
+run_name: skittish-gnat-126
+run_uuid: f58f5c816cac4ca290255449c4298ba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223818737
+status: 3
+tags: []
+user_id: pedroasvalente

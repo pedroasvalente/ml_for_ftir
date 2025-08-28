@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/11efbd91d4a34c09add780c1266e3383/artifacts
+end_time: 1756320303355
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 11efbd91d4a34c09add780c1266e3383
+run_name: upset-shrike-624
+run_uuid: 11efbd91d4a34c09add780c1266e3383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320299996
+status: 3
+tags: []
+user_id: pedroasvalente

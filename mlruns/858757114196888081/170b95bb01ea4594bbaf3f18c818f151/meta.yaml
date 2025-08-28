@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858757114196888081/170b95bb01ea4594bbaf3f18c818f151/artifacts
+end_time: 1756205492407
+entry_point_name: ''
+experiment_id: '858757114196888081'
+lifecycle_stage: active
+run_id: 170b95bb01ea4594bbaf3f18c818f151
+run_name: bald-swan-471
+run_uuid: 170b95bb01ea4594bbaf3f18c818f151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756205337461
+status: 3
+tags: []
+user_id: pedroasvalente
