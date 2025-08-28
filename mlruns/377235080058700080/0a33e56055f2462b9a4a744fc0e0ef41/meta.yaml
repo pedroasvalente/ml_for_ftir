@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/0a33e56055f2462b9a4a744fc0e0ef41/artifacts
+end_time: 1756320429009
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 0a33e56055f2462b9a4a744fc0e0ef41
+run_name: aged-bass-316
+run_uuid: 0a33e56055f2462b9a4a744fc0e0ef41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320417345
+status: 3
+tags: []
+user_id: pedroasvalente

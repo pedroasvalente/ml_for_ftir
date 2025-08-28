@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/b936b6b4090043b0b8485e1cc805a407/artifacts
+end_time: 1756319162190
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: b936b6b4090043b0b8485e1cc805a407
+run_name: debonair-rat-445
+run_uuid: b936b6b4090043b0b8485e1cc805a407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319137644
+status: 3
+tags: []
+user_id: pedroasvalente

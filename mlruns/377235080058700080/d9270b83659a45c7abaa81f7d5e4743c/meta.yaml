@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/d9270b83659a45c7abaa81f7d5e4743c/artifacts
+end_time: 1756319162190
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: d9270b83659a45c7abaa81f7d5e4743c
+run_name: nebulous-bear-615
+run_uuid: d9270b83659a45c7abaa81f7d5e4743c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319137644
+status: 3
+tags: []
+user_id: pedroasvalente

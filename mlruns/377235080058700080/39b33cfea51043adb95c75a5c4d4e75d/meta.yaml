@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/39b33cfea51043adb95c75a5c4d4e75d/artifacts
+end_time: 1756319587201
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 39b33cfea51043adb95c75a5c4d4e75d
+run_name: tasteful-carp-817
+run_uuid: 39b33cfea51043adb95c75a5c4d4e75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319574826
+status: 3
+tags: []
+user_id: pedroasvalente

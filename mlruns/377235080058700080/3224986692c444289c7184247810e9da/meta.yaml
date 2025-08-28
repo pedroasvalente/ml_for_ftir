@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/3224986692c444289c7184247810e9da/artifacts
+end_time: 1756319673831
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 3224986692c444289c7184247810e9da
+run_name: spiffy-squid-898
+run_uuid: 3224986692c444289c7184247810e9da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319661350
+status: 3
+tags: []
+user_id: pedroasvalente

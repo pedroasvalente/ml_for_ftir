@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/00fb2a87be844718a795ec75cbcef407/artifacts
+end_time: 1756320217710
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 00fb2a87be844718a795ec75cbcef407
+run_name: amazing-snake-891
+run_uuid: 00fb2a87be844718a795ec75cbcef407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320214251
+status: 3
+tags: []
+user_id: pedroasvalente

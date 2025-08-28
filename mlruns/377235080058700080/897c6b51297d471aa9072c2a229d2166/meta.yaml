@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/897c6b51297d471aa9072c2a229d2166/artifacts
+end_time: 1756328860027
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 897c6b51297d471aa9072c2a229d2166
+run_name: enthused-koi-550
+run_uuid: 897c6b51297d471aa9072c2a229d2166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756328848159
+status: 3
+tags: []
+user_id: pedroasvalente

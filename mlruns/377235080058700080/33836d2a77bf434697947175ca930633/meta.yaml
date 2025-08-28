@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/33836d2a77bf434697947175ca930633/artifacts
+end_time: 1756319673831
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 33836d2a77bf434697947175ca930633
+run_name: calm-mink-596
+run_uuid: 33836d2a77bf434697947175ca930633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319661350
+status: 3
+tags: []
+user_id: pedroasvalente

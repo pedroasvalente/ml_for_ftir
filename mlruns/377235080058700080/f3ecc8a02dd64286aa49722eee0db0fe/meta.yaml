@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/f3ecc8a02dd64286aa49722eee0db0fe/artifacts
+end_time: 1756320029627
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: f3ecc8a02dd64286aa49722eee0db0fe
+run_name: puzzled-elk-388
+run_uuid: f3ecc8a02dd64286aa49722eee0db0fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320025883
+status: 3
+tags: []
+user_id: pedroasvalente

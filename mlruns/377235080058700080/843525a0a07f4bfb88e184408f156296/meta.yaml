@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/843525a0a07f4bfb88e184408f156296/artifacts
+end_time: 1756319078197
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 843525a0a07f4bfb88e184408f156296
+run_name: auspicious-shoat-695
+run_uuid: 843525a0a07f4bfb88e184408f156296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319021506
+status: 3
+tags: []
+user_id: pedroasvalente

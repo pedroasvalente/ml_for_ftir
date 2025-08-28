@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/b7351bc1edc2465d9e8cef9e00347916/artifacts
+end_time: 1756319842293
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: b7351bc1edc2465d9e8cef9e00347916
+run_name: popular-shoat-725
+run_uuid: b7351bc1edc2465d9e8cef9e00347916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319813576
+status: 3
+tags: []
+user_id: pedroasvalente

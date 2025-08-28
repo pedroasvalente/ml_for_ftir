@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/9298377b88b0419db82b5b98aa443940/artifacts
+end_time: 1756329014256
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 9298377b88b0419db82b5b98aa443940
+run_name: beautiful-crane-538
+run_uuid: 9298377b88b0419db82b5b98aa443940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756329002821
+status: 3
+tags: []
+user_id: pedroasvalente

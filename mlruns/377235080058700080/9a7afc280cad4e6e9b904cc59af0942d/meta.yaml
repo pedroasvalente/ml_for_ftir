@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/9a7afc280cad4e6e9b904cc59af0942d/artifacts
+end_time: 1756319261590
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: 9a7afc280cad4e6e9b904cc59af0942d
+run_name: dapper-dolphin-865
+run_uuid: 9a7afc280cad4e6e9b904cc59af0942d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319237060
+status: 3
+tags: []
+user_id: pedroasvalente

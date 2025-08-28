@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/c12791faf0ca41be856a3adfdd50d18e/artifacts
+end_time: 1756319794142
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: c12791faf0ca41be856a3adfdd50d18e
+run_name: sincere-goose-656
+run_uuid: c12791faf0ca41be856a3adfdd50d18e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319765925
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/377235080058700080/a41eb7c436bf4d07befaaedd9c8bf9c4/artifacts
+end_time: 1756318968165
+entry_point_name: ''
+experiment_id: '377235080058700080'
+lifecycle_stage: active
+run_id: a41eb7c436bf4d07befaaedd9c8bf9c4
+run_name: burly-worm-925
+run_uuid: a41eb7c436bf4d07befaaedd9c8bf9c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756318943688
+status: 3
+tags: []
+user_id: pedroasvalente
