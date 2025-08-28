@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/c23244b910fe4a43a3f0b2bcc7272f3e/artifacts
+end_time: 1756336356092
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: c23244b910fe4a43a3f0b2bcc7272f3e
+run_name: valuable-bass-246
+run_uuid: c23244b910fe4a43a3f0b2bcc7272f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756334217121
+status: 3
+tags: []
+user_id: joao

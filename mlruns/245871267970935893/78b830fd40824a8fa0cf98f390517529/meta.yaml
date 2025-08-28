@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/78b830fd40824a8fa0cf98f390517529/artifacts
+end_time: 1756317958390
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 78b830fd40824a8fa0cf98f390517529
+run_name: languid-shoat-774
+run_uuid: 78b830fd40824a8fa0cf98f390517529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756315757700
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/f48769b3f4cc46c08b460dc9461d1b5d/artifacts
+end_time: 1756243589025
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: f48769b3f4cc46c08b460dc9461d1b5d
+run_name: trusting-perch-201
+run_uuid: f48769b3f4cc46c08b460dc9461d1b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756229616820
+status: 3
+tags: []
+user_id: joao

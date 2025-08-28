@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/8d43d16932d648ca9b19bacb7c854564/artifacts
+end_time: 1756331835634
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 8d43d16932d648ca9b19bacb7c854564
+run_name: stately-bee-531
+run_uuid: 8d43d16932d648ca9b19bacb7c854564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756329689707
+status: 3
+tags: []
+user_id: joao

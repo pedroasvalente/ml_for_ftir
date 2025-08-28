@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/714023691d6b42f5bc410e5c4afb0c6e/artifacts
+end_time: 1756350297484
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 714023691d6b42f5bc410e5c4afb0c6e
+run_name: fearless-mink-888
+run_uuid: 714023691d6b42f5bc410e5c4afb0c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756348041983
+status: 3
+tags: []
+user_id: joao

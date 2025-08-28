@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/e70faa8161dd46f0bbd32753c09a76fa/artifacts
+end_time: 1756329645933
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: e70faa8161dd46f0bbd32753c09a76fa
+run_name: abrasive-rat-986
+run_uuid: e70faa8161dd46f0bbd32753c09a76fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756327264072
+status: 3
+tags: []
+user_id: joao

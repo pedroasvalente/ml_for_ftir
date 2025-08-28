@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/129a4fc6e8824c2dab3514d700010c30/artifacts
+end_time: 1756317958390
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 129a4fc6e8824c2dab3514d700010c30
+run_name: serious-sponge-939
+run_uuid: 129a4fc6e8824c2dab3514d700010c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756315757700
+status: 3
+tags: []
+user_id: joao

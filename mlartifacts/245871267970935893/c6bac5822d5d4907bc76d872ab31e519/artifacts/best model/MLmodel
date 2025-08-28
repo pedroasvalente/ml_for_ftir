@@ -1,0 +1,25 @@
+artifact_path: best model
+flavors:
+  keras:
+    data: data
+    keras_backend: torch
+    keras_version: 3.11.2
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.13.7
+is_signature_from_type_hint: false
+mlflow_version: 2.21.3
+model_size_bytes: 95870
+model_uuid: fef3e5acadfa487ea9a74aaa2d7a52f4
+prompts: null
+run_id: c6bac5822d5d4907bc76d872ab31e519
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 764]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-28 02:26:45.970987'

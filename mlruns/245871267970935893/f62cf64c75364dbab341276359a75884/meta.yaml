@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/f62cf64c75364dbab341276359a75884/artifacts
+end_time: 1756322607023
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: f62cf64c75364dbab341276359a75884
+run_name: gregarious-seal-624
+run_uuid: f62cf64c75364dbab341276359a75884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320398746
+status: 3
+tags: []
+user_id: joao

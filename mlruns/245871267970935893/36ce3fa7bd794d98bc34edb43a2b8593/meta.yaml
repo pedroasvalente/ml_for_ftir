@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/36ce3fa7bd794d98bc34edb43a2b8593/artifacts
+end_time: 1756352854690
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 36ce3fa7bd794d98bc34edb43a2b8593
+run_name: welcoming-eel-903
+run_uuid: 36ce3fa7bd794d98bc34edb43a2b8593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756350333205
+status: 3
+tags: []
+user_id: joao

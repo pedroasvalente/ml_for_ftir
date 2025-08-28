@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/8322e53529cd4c04a48a27066991ca4e/artifacts
+end_time: 1756340932033
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 8322e53529cd4c04a48a27066991ca4e
+run_name: bustling-crane-6
+run_uuid: 8322e53529cd4c04a48a27066991ca4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756338776334
+status: 3
+tags: []
+user_id: joao

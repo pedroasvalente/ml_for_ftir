@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/abcf9e2975674c23ace749873fac7d2e/artifacts
+end_time: 1756243589025
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: abcf9e2975674c23ace749873fac7d2e
+run_name: enchanting-cub-959
+run_uuid: abcf9e2975674c23ace749873fac7d2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756229616820
+status: 3
+tags: []
+user_id: joao

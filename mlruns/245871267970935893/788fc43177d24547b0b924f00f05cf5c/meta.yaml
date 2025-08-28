@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/788fc43177d24547b0b924f00f05cf5c/artifacts
+end_time: 1756347983639
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 788fc43177d24547b0b924f00f05cf5c
+run_name: stylish-flea-738
+run_uuid: 788fc43177d24547b0b924f00f05cf5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756345578388
+status: 3
+tags: []
+user_id: joao

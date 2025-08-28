@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/75c594fe0ce1451a8e2d1e96fd730688/artifacts
+end_time: 1756334159111
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 75c594fe0ce1451a8e2d1e96fd730688
+run_name: dapper-ant-391
+run_uuid: 75c594fe0ce1451a8e2d1e96fd730688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756331858072
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/066481b40bef4544a8cf304e711d2c3c/artifacts
+end_time: 1756345543669
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 066481b40bef4544a8cf304e711d2c3c
+run_name: tasteful-gull-572
+run_uuid: 066481b40bef4544a8cf304e711d2c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756343365023
+status: 3
+tags: []
+user_id: joao

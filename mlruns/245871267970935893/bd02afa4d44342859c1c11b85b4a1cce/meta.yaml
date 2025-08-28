@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/bd02afa4d44342859c1c11b85b4a1cce/artifacts
+end_time: 1756350297484
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: bd02afa4d44342859c1c11b85b4a1cce
+run_name: nervous-bee-254
+run_uuid: bd02afa4d44342859c1c11b85b4a1cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756348041983
+status: 3
+tags: []
+user_id: joao

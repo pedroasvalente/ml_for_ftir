@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/915dc6aa014647f094dcbc3ca8f848a6/artifacts
+end_time: 1756317958390
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 915dc6aa014647f094dcbc3ca8f848a6
+run_name: sincere-duck-869
+run_uuid: 915dc6aa014647f094dcbc3ca8f848a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756315757700
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/85f6281fa2fc4a17acc4a28cdbc18252/artifacts
+end_time: 1756322607023
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 85f6281fa2fc4a17acc4a28cdbc18252
+run_name: adventurous-hen-700
+run_uuid: 85f6281fa2fc4a17acc4a28cdbc18252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320398746
+status: 3
+tags: []
+user_id: joao

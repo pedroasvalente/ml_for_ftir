@@ -1,0 +1,19 @@
+artifact_path: best model
+flavors:
+  keras:
+    data: data
+    keras_backend: torch
+    keras_version: 3.11.2
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.13.7
+mlflow_version: 2.21.3
+model_size_bytes: 95870
+model_uuid: 390e8f31702b4d34bf107a1f02f74911
+prompts: null
+run_id: 330084136a874ebf923237361a4f63b7
+utc_time_created: '2025-08-28 01:08:49.552468'

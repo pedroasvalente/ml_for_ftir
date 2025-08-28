@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/8776f6e102f14e2fa8543d745a9474e3/artifacts
+end_time: 1756336356092
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 8776f6e102f14e2fa8543d745a9474e3
+run_name: agreeable-hare-886
+run_uuid: 8776f6e102f14e2fa8543d745a9474e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756334217121
+status: 3
+tags: []
+user_id: joao

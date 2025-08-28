@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/86652226d90541479260a3d9a03031c4/artifacts
+end_time: 1756352854690
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 86652226d90541479260a3d9a03031c4
+run_name: luxuriant-fly-278
+run_uuid: 86652226d90541479260a3d9a03031c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756350333205
+status: 3
+tags: []
+user_id: joao

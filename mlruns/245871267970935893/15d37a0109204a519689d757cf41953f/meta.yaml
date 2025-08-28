@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/15d37a0109204a519689d757cf41953f/artifacts
+end_time: 1756322607023
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 15d37a0109204a519689d757cf41953f
+run_name: vaunted-slug-769
+run_uuid: 15d37a0109204a519689d757cf41953f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320398746
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/98f668ae3cad4b4ab07218ba6838647f/artifacts
+end_time: 1756257897713
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 98f668ae3cad4b4ab07218ba6838647f
+run_name: likeable-croc-172
+run_uuid: 98f668ae3cad4b4ab07218ba6838647f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756243654591
+status: 3
+tags: []
+user_id: joao

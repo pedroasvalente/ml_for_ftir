@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a2480ff531544d809039e1332b452f39/artifacts
+end_time: 1756350297484
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a2480ff531544d809039e1332b452f39
+run_name: abrasive-loon-332
+run_uuid: a2480ff531544d809039e1332b452f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756348041983
+status: 3
+tags: []
+user_id: joao

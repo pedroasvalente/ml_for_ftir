@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/7974a2dc9fae42b48e2fab29699e3da3/artifacts
+end_time: 1756243589025
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 7974a2dc9fae42b48e2fab29699e3da3
+run_name: painted-chimp-481
+run_uuid: 7974a2dc9fae42b48e2fab29699e3da3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756229616820
+status: 3
+tags: []
+user_id: joao

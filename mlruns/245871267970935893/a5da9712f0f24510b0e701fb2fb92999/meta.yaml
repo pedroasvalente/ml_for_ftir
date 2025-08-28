@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a5da9712f0f24510b0e701fb2fb92999/artifacts
+end_time: 1756343296541
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a5da9712f0f24510b0e701fb2fb92999
+run_name: able-mouse-312
+run_uuid: a5da9712f0f24510b0e701fb2fb92999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756340962872
+status: 3
+tags: []
+user_id: joao

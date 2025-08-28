@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/036a3e63a500468bb71d1e452d2f1438/artifacts
+end_time: 1756347983639
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 036a3e63a500468bb71d1e452d2f1438
+run_name: delightful-ape-881
+run_uuid: 036a3e63a500468bb71d1e452d2f1438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756345578388
+status: 3
+tags: []
+user_id: joao

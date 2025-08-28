@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a1b4dde3ee834f6a8cdc08deb65e0470/artifacts
+end_time: 1756347983639
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a1b4dde3ee834f6a8cdc08deb65e0470
+run_name: burly-zebra-571
+run_uuid: a1b4dde3ee834f6a8cdc08deb65e0470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756345578388
+status: 3
+tags: []
+user_id: joao

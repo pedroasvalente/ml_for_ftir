@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/da003be564294621a15d1ccda0cf2db9/artifacts
+end_time: 1756345543669
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: da003be564294621a15d1ccda0cf2db9
+run_name: crawling-croc-388
+run_uuid: da003be564294621a15d1ccda0cf2db9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756343365023
+status: 3
+tags: []
+user_id: joao

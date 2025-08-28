@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/ace61474b2554eeeb38e450f6dce25aa/artifacts
+end_time: 1756340932033
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: ace61474b2554eeeb38e450f6dce25aa
+run_name: gregarious-gull-509
+run_uuid: ace61474b2554eeeb38e450f6dce25aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756338776334
+status: 3
+tags: []
+user_id: joao
