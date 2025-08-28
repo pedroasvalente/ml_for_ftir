@@ -1,4 +1,4 @@
-# Running ML4FIR Training Experiments in `experiments/configs/simple_ml/`
+x# Running ML4FIR Training Experiments in `experiments/configs/simple_ml/`
 
 This guide explains how to run all ML4FIR training experiments in the `experiments/configs/simple_ml/` folder and commit the results to your repository.
 
