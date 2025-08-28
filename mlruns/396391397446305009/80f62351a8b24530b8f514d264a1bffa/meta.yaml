@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/80f62351a8b24530b8f514d264a1bffa/artifacts
+end_time: 1756366348986
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 80f62351a8b24530b8f514d264a1bffa
+run_name: treasured-elk-292
+run_uuid: 80f62351a8b24530b8f514d264a1bffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366324943
+status: 3
+tags: []
+user_id: pedroasvalente

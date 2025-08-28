@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/2b5b9399f3574d4da6b6517ce46696cc/artifacts
+end_time: 1756366613696
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 2b5b9399f3574d4da6b6517ce46696cc
+run_name: fun-croc-926
+run_uuid: 2b5b9399f3574d4da6b6517ce46696cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366587710
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/2933d5ac1106403f9ffacaf81ff75f63/artifacts
+end_time: 1756366962397
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 2933d5ac1106403f9ffacaf81ff75f63
+run_name: exultant-steed-695
+run_uuid: 2933d5ac1106403f9ffacaf81ff75f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366959010
+status: 3
+tags: []
+user_id: pedroasvalente

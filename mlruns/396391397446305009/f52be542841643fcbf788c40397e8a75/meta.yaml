@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/f52be542841643fcbf788c40397e8a75/artifacts
+end_time: 1756366736537
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: f52be542841643fcbf788c40397e8a75
+run_name: traveling-trout-167
+run_uuid: f52be542841643fcbf788c40397e8a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366713100
+status: 3
+tags: []
+user_id: pedroasvalente

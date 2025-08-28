@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/22bead5a316340348a7d2d20c849d069/artifacts
+end_time: 1756366921496
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 22bead5a316340348a7d2d20c849d069
+run_name: amazing-quail-285
+run_uuid: 22bead5a316340348a7d2d20c849d069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366893744
+status: 3
+tags: []
+user_id: pedroasvalente

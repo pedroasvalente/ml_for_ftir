@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/11ef91c59bfa492aaca6c8f8363f7e19/artifacts
+end_time: 1756366348986
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 11ef91c59bfa492aaca6c8f8363f7e19
+run_name: sincere-newt-39
+run_uuid: 11ef91c59bfa492aaca6c8f8363f7e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366324943
+status: 3
+tags: []
+user_id: pedroasvalente

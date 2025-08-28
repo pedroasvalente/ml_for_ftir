@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/96108a19edfd4bb386e291f1fde233d5/artifacts
+end_time: 1756368318981
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 96108a19edfd4bb386e291f1fde233d5
+run_name: clean-rook-806
+run_uuid: 96108a19edfd4bb386e291f1fde233d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756368204580
+status: 3
+tags: []
+user_id: pedroasvalente

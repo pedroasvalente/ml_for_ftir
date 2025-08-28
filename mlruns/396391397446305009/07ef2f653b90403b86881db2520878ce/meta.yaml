@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/07ef2f653b90403b86881db2520878ce/artifacts
+end_time: 1756366853201
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 07ef2f653b90403b86881db2520878ce
+run_name: hilarious-skunk-892
+run_uuid: 07ef2f653b90403b86881db2520878ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366849692
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/6eb6fa72d74f4cf9bfc346339aa18960/artifacts
+end_time: 1756368079590
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 6eb6fa72d74f4cf9bfc346339aa18960
+run_name: adventurous-rook-395
+run_uuid: 6eb6fa72d74f4cf9bfc346339aa18960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756368068547
+status: 3
+tags: []
+user_id: pedroasvalente

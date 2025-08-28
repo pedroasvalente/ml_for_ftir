@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/1a5450faa8f94ee9aab14a317b3672da/artifacts
+end_time: 1756366955351
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 1a5450faa8f94ee9aab14a317b3672da
+run_name: beautiful-deer-487
+run_uuid: 1a5450faa8f94ee9aab14a317b3672da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366932958
+status: 3
+tags: []
+user_id: pedroasvalente

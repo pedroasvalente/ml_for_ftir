@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/d28cc7fb32414996bb2ffbd11a34db4d/artifacts
+end_time: 1756368199355
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: d28cc7fb32414996bb2ffbd11a34db4d
+run_name: peaceful-sheep-330
+run_uuid: d28cc7fb32414996bb2ffbd11a34db4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756368188223
+status: 3
+tags: []
+user_id: pedroasvalente

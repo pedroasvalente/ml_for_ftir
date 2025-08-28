@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/f5fcdf61f4af4844bcf9d2b5bfb4b5c3/artifacts
+end_time: 1756365897137
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: f5fcdf61f4af4844bcf9d2b5bfb4b5c3
+run_name: tasteful-panda-398
+run_uuid: f5fcdf61f4af4844bcf9d2b5bfb4b5c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756365869567
+status: 3
+tags: []
+user_id: pedroasvalente

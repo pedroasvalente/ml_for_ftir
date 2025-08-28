@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/97feb2082c6b4431aefc36a4195f380d/artifacts
+end_time: 1756366321205
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 97feb2082c6b4431aefc36a4195f380d
+run_name: amazing-worm-701
+run_uuid: 97feb2082c6b4431aefc36a4195f380d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366307719
+status: 3
+tags: []
+user_id: pedroasvalente

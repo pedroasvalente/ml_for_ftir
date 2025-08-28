@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/de9c416bb1494b90964cc57a30e2274d/artifacts
+end_time: 1756366017328
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: de9c416bb1494b90964cc57a30e2274d
+run_name: silent-duck-131
+run_uuid: de9c416bb1494b90964cc57a30e2274d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366006164
+status: 3
+tags: []
+user_id: pedroasvalente

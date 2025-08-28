@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/8db8b86051204bd8bb0a57ed46d3301a/artifacts
+end_time: 1756366274885
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 8db8b86051204bd8bb0a57ed46d3301a
+run_name: dazzling-skink-573
+run_uuid: 8db8b86051204bd8bb0a57ed46d3301a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366261852
+status: 3
+tags: []
+user_id: pedroasvalente

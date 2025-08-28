@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/33ab63822c824a129f7aeaa604c1095e/artifacts
+end_time: 1756367806806
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 33ab63822c824a129f7aeaa604c1095e
+run_name: receptive-fox-531
+run_uuid: 33ab63822c824a129f7aeaa604c1095e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756367689703
+status: 3
+tags: []
+user_id: pedroasvalente

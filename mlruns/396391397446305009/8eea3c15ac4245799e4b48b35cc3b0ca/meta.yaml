@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/8eea3c15ac4245799e4b48b35cc3b0ca/artifacts
+end_time: 1756368318981
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 8eea3c15ac4245799e4b48b35cc3b0ca
+run_name: capricious-robin-71
+run_uuid: 8eea3c15ac4245799e4b48b35cc3b0ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756368204580
+status: 3
+tags: []
+user_id: pedroasvalente

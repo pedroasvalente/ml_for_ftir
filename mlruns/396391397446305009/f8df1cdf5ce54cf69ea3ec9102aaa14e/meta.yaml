@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/f8df1cdf5ce54cf69ea3ec9102aaa14e/artifacts
+end_time: 1756366251147
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: f8df1cdf5ce54cf69ea3ec9102aaa14e
+run_name: charming-carp-560
+run_uuid: f8df1cdf5ce54cf69ea3ec9102aaa14e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366238680
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/cd0be3a3dbfd4fcd88234289ee896c64/artifacts
+end_time: 1756366658434
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: cd0be3a3dbfd4fcd88234289ee896c64
+run_name: legendary-ram-174
+run_uuid: cd0be3a3dbfd4fcd88234289ee896c64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366633506
+status: 3
+tags: []
+user_id: pedroasvalente

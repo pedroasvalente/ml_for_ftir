@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/aba6315c0fd84a4f8cb66a548da7af8c/artifacts
+end_time: 1756366882921
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: aba6315c0fd84a4f8cb66a548da7af8c
+run_name: lyrical-seal-56
+run_uuid: aba6315c0fd84a4f8cb66a548da7af8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366856674
+status: 3
+tags: []
+user_id: pedroasvalente

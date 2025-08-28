@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/47aea0517a1f47d598835a3907962ac7/artifacts
+end_time: 1756366921496
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 47aea0517a1f47d598835a3907962ac7
+run_name: aged-fish-527
+run_uuid: 47aea0517a1f47d598835a3907962ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366893744
+status: 3
+tags: []
+user_id: pedroasvalente

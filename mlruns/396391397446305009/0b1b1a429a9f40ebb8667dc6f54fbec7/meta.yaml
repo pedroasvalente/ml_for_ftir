@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/0b1b1a429a9f40ebb8667dc6f54fbec7/artifacts
+end_time: 1756365977828
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 0b1b1a429a9f40ebb8667dc6f54fbec7
+run_name: invincible-dog-251
+run_uuid: 0b1b1a429a9f40ebb8667dc6f54fbec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756365962855
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/0511adb25f8e4b9189121e75d770e71b/artifacts
+end_time: 1756366539771
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 0511adb25f8e4b9189121e75d770e71b
+run_name: thundering-robin-558
+run_uuid: 0511adb25f8e4b9189121e75d770e71b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366527705
+status: 3
+tags: []
+user_id: pedroasvalente

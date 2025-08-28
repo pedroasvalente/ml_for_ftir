@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/6ff4660d9a324b7381f63ac41bd53594/artifacts
+end_time: 1756365897137
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 6ff4660d9a324b7381f63ac41bd53594
+run_name: lyrical-quail-520
+run_uuid: 6ff4660d9a324b7381f63ac41bd53594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756365869567
+status: 3
+tags: []
+user_id: pedroasvalente

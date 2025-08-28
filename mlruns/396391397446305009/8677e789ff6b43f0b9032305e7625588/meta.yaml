@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/8677e789ff6b43f0b9032305e7625588/artifacts
+end_time: 1756365929782
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 8677e789ff6b43f0b9032305e7625588
+run_name: secretive-fawn-892
+run_uuid: 8677e789ff6b43f0b9032305e7625588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756365918638
+status: 3
+tags: []
+user_id: pedroasvalente

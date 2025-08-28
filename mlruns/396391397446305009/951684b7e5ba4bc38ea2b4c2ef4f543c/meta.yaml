@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/951684b7e5ba4bc38ea2b4c2ef4f543c/artifacts
+end_time: 1756366093591
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 951684b7e5ba4bc38ea2b4c2ef4f543c
+run_name: abrasive-crab-356
+run_uuid: 951684b7e5ba4bc38ea2b4c2ef4f543c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366052578
+status: 3
+tags: []
+user_id: pedroasvalente

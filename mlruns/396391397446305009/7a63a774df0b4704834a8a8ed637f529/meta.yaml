@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/7a63a774df0b4704834a8a8ed637f529/artifacts
+end_time: 1756366709839
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 7a63a774df0b4704834a8a8ed637f529
+run_name: fortunate-smelt-477
+run_uuid: 7a63a774df0b4704834a8a8ed637f529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366706380
+status: 3
+tags: []
+user_id: pedroasvalente

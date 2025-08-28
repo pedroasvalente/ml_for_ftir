@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/21dccf849aa2424ebc2ed07b9211f030/artifacts
+end_time: 1756366962397
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 21dccf849aa2424ebc2ed07b9211f030
+run_name: selective-fish-331
+run_uuid: 21dccf849aa2424ebc2ed07b9211f030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366959010
+status: 3
+tags: []
+user_id: pedroasvalente

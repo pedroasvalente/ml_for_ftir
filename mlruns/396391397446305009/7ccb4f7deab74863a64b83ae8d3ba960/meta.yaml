@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/7ccb4f7deab74863a64b83ae8d3ba960/artifacts
+end_time: 1756366743787
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 7ccb4f7deab74863a64b83ae8d3ba960
+run_name: exultant-moose-330
+run_uuid: 7ccb4f7deab74863a64b83ae8d3ba960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366740384
+status: 3
+tags: []
+user_id: pedroasvalente

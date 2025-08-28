@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/2c5da9ce12ed441cb098a459f7ff809c/artifacts
+end_time: 1756366997405
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 2c5da9ce12ed441cb098a459f7ff809c
+run_name: angry-mare-647
+run_uuid: 2c5da9ce12ed441cb098a459f7ff809c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366994071
+status: 3
+tags: []
+user_id: pedroasvalente

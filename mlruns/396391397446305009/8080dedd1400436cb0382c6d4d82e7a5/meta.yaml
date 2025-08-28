@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/8080dedd1400436cb0382c6d4d82e7a5/artifacts
+end_time: 1756366121584
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 8080dedd1400436cb0382c6d4d82e7a5
+run_name: thundering-boar-297
+run_uuid: 8080dedd1400436cb0382c6d4d82e7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366098241
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/8e4d88f30655494a9ad836f82cdb4988/artifacts
+end_time: 1756367940741
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 8e4d88f30655494a9ad836f82cdb4988
+run_name: mercurial-loon-922
+run_uuid: 8e4d88f30655494a9ad836f82cdb4988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756367929606
+status: 3
+tags: []
+user_id: pedroasvalente

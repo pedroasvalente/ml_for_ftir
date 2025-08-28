@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/4192f05875ee4a5bb82668c2bee3a247/artifacts
+end_time: 1756366450597
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 4192f05875ee4a5bb82668c2bee3a247
+run_name: sedate-pug-30
+run_uuid: 4192f05875ee4a5bb82668c2bee3a247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366438271
+status: 3
+tags: []
+user_id: pedroasvalente

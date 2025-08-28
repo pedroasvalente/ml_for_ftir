@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/6c38166936e845d78d6860e900007c61/artifacts
+end_time: 1756366235309
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 6c38166936e845d78d6860e900007c61
+run_name: angry-hen-950
+run_uuid: 6c38166936e845d78d6860e900007c61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366210442
+status: 3
+tags: []
+user_id: pedroasvalente

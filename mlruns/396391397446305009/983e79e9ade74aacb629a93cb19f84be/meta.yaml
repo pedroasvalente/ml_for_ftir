@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/983e79e9ade74aacb629a93cb19f84be/artifacts
+end_time: 1756367022002
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 983e79e9ade74aacb629a93cb19f84be
+run_name: overjoyed-lark-153
+run_uuid: 983e79e9ade74aacb629a93cb19f84be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756367001113
+status: 3
+tags: []
+user_id: pedroasvalente

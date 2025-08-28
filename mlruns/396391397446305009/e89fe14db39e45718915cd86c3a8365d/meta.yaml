@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/e89fe14db39e45718915cd86c3a8365d/artifacts
+end_time: 1756366391896
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: e89fe14db39e45718915cd86c3a8365d
+run_name: treasured-shrimp-80
+run_uuid: e89fe14db39e45718915cd86c3a8365d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366366609
+status: 3
+tags: []
+user_id: pedroasvalente

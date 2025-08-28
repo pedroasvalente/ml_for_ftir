@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/7dbd64614a1d4aca9138d88cd506b2c4/artifacts
+end_time: 1756367668765
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 7dbd64614a1d4aca9138d88cd506b2c4
+run_name: bemused-goat-148
+run_uuid: 7dbd64614a1d4aca9138d88cd506b2c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756367568712
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/85bfa6fc41f24b55bccdf9d220e3c139/artifacts
+end_time: 1756366363859
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 85bfa6fc41f24b55bccdf9d220e3c139
+run_name: puzzled-sloth-838
+run_uuid: 85bfa6fc41f24b55bccdf9d220e3c139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366351918
+status: 3
+tags: []
+user_id: pedroasvalente

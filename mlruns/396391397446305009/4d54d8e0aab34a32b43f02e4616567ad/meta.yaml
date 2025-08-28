@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/4d54d8e0aab34a32b43f02e4616567ad/artifacts
+end_time: 1756366890149
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 4d54d8e0aab34a32b43f02e4616567ad
+run_name: clumsy-kite-668
+run_uuid: 4d54d8e0aab34a32b43f02e4616567ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366886711
+status: 3
+tags: []
+user_id: pedroasvalente

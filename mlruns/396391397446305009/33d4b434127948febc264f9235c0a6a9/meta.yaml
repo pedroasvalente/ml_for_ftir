@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/33d4b434127948febc264f9235c0a6a9/artifacts
+end_time: 1756366524669
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 33d4b434127948febc264f9235c0a6a9
+run_name: fearless-fish-255
+run_uuid: 33d4b434127948febc264f9235c0a6a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366498040
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/1ad50e445e8a4128a5e9afb79e88e98a/artifacts
+end_time: 1756366495094
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 1ad50e445e8a4128a5e9afb79e88e98a
+run_name: big-sheep-657
+run_uuid: 1ad50e445e8a4128a5e9afb79e88e98a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366482831
+status: 3
+tags: []
+user_id: pedroasvalente

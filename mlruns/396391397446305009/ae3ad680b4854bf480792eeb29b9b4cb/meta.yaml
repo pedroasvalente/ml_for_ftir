@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/ae3ad680b4854bf480792eeb29b9b4cb/artifacts
+end_time: 1756366235309
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: ae3ad680b4854bf480792eeb29b9b4cb
+run_name: painted-gnat-779
+run_uuid: ae3ad680b4854bf480792eeb29b9b4cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366210442
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/b62a33a22500433db834690e20dd90ad/artifacts
+end_time: 1756367411784
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: b62a33a22500433db834690e20dd90ad
+run_name: big-stoat-239
+run_uuid: b62a33a22500433db834690e20dd90ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756367310309
+status: 3
+tags: []
+user_id: pedroasvalente

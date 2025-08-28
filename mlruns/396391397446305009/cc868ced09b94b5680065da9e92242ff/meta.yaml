@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/cc868ced09b94b5680065da9e92242ff/artifacts
+end_time: 1756368079590
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: cc868ced09b94b5680065da9e92242ff
+run_name: grandiose-eel-144
+run_uuid: cc868ced09b94b5680065da9e92242ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756368068547
+status: 3
+tags: []
+user_id: pedroasvalente

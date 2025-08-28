@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/1bcc9b94ae1b4b48846136858c83eed3/artifacts
+end_time: 1756366017328
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 1bcc9b94ae1b4b48846136858c83eed3
+run_name: hilarious-zebra-122
+run_uuid: 1bcc9b94ae1b4b48846136858c83eed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366006164
+status: 3
+tags: []
+user_id: pedroasvalente

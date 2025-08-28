@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/c58358006f114207bc2fd4a210228404/artifacts
+end_time: 1756365916108
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: c58358006f114207bc2fd4a210228404
+run_name: bustling-perch-513
+run_uuid: c58358006f114207bc2fd4a210228404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756365901046
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/ccc9186581634de583104d32b4e31309/artifacts
+end_time: 1756366093591
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: ccc9186581634de583104d32b4e31309
+run_name: peaceful-jay-876
+run_uuid: ccc9186581634de583104d32b4e31309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366052578
+status: 3
+tags: []
+user_id: pedroasvalente

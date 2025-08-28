@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/619a6092ad834ad8af37e713a8043e48/artifacts
+end_time: 1756366391896
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 619a6092ad834ad8af37e713a8043e48
+run_name: clumsy-bird-235
+run_uuid: 619a6092ad834ad8af37e713a8043e48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366366609
+status: 3
+tags: []
+user_id: pedroasvalente

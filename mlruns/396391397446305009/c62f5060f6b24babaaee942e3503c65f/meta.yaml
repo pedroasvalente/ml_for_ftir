@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/c62f5060f6b24babaaee942e3503c65f/artifacts
+end_time: 1756366274885
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: c62f5060f6b24babaaee942e3503c65f
+run_name: gentle-kite-130
+run_uuid: c62f5060f6b24babaaee942e3503c65f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366261852
+status: 3
+tags: []
+user_id: pedroasvalente

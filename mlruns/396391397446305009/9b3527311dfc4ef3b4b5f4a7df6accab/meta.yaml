@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/9b3527311dfc4ef3b4b5f4a7df6accab/artifacts
+end_time: 1756366778360
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 9b3527311dfc4ef3b4b5f4a7df6accab
+run_name: invincible-loon-902
+run_uuid: 9b3527311dfc4ef3b4b5f4a7df6accab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366774945
+status: 3
+tags: []
+user_id: pedroasvalente

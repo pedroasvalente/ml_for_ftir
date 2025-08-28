@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/3d27a500fc2840488b15aaffef781972/artifacts
+end_time: 1756367668765
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 3d27a500fc2840488b15aaffef781972
+run_name: secretive-dove-896
+run_uuid: 3d27a500fc2840488b15aaffef781972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756367568712
+status: 3
+tags: []
+user_id: pedroasvalente

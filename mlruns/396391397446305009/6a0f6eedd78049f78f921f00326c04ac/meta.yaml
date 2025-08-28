@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/6a0f6eedd78049f78f921f00326c04ac/artifacts
+end_time: 1756365804428
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 6a0f6eedd78049f78f921f00326c04ac
+run_name: learned-perch-488
+run_uuid: 6a0f6eedd78049f78f921f00326c04ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756365754265
+status: 3
+tags: []
+user_id: pedroasvalente

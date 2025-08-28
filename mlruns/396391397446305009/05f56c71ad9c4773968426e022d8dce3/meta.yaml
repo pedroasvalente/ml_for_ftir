@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/05f56c71ad9c4773968426e022d8dce3/artifacts
+end_time: 1756366435334
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 05f56c71ad9c4773968426e022d8dce3
+run_name: smiling-roo-334
+run_uuid: 05f56c71ad9c4773968426e022d8dce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366409578
+status: 3
+tags: []
+user_id: pedroasvalente

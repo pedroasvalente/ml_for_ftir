@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/fefb5124dbc24cfdb98ad1874ce33ed3/artifacts
+end_time: 1756366929279
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: fefb5124dbc24cfdb98ad1874ce33ed3
+run_name: clumsy-toad-728
+run_uuid: fefb5124dbc24cfdb98ad1874ce33ed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366925816
+status: 3
+tags: []
+user_id: pedroasvalente

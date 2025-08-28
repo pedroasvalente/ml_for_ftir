@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/aba664268cb74984b98b054dd0cae291/artifacts
+end_time: 1756366524669
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: aba664268cb74984b98b054dd0cae291
+run_name: carefree-tern-869
+run_uuid: aba664268cb74984b98b054dd0cae291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366498040
+status: 3
+tags: []
+user_id: pedroasvalente

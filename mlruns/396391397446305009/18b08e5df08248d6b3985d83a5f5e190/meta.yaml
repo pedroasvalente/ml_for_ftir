@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/18b08e5df08248d6b3985d83a5f5e190/artifacts
+end_time: 1756365977828
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 18b08e5df08248d6b3985d83a5f5e190
+run_name: luminous-flea-940
+run_uuid: 18b08e5df08248d6b3985d83a5f5e190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756365962855
+status: 3
+tags: []
+user_id: pedroasvalente

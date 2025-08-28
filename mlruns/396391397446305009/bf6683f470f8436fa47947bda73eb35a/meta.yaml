@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/bf6683f470f8436fa47947bda73eb35a/artifacts
+end_time: 1756367548740
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: bf6683f470f8436fa47947bda73eb35a
+run_name: judicious-ox-677
+run_uuid: bf6683f470f8436fa47947bda73eb35a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756367430789
+status: 3
+tags: []
+user_id: pedroasvalente

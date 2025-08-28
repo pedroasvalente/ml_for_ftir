@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/26a3ac325a174144b089284bda7cb0a3/artifacts
+end_time: 1756366321205
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 26a3ac325a174144b089284bda7cb0a3
+run_name: exultant-zebra-221
+run_uuid: 26a3ac325a174144b089284bda7cb0a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366307719
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/5dd78697241e4131b4ccd23ce910172f/artifacts
+end_time: 1756367029468
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 5dd78697241e4131b4ccd23ce910172f
+run_name: grandiose-cow-952
+run_uuid: 5dd78697241e4131b4ccd23ce910172f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756367026111
+status: 3
+tags: []
+user_id: pedroasvalente

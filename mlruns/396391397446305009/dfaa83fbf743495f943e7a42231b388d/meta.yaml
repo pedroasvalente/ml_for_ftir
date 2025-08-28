@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/dfaa83fbf743495f943e7a42231b388d/artifacts
+end_time: 1756365842533
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: dfaa83fbf743495f943e7a42231b388d
+run_name: rare-mare-887
+run_uuid: dfaa83fbf743495f943e7a42231b388d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756365832517
+status: 3
+tags: []
+user_id: pedroasvalente

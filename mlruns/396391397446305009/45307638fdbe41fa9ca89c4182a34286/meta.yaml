@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/45307638fdbe41fa9ca89c4182a34286/artifacts
+end_time: 1756366808000
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 45307638fdbe41fa9ca89c4182a34286
+run_name: nebulous-stoat-1000
+run_uuid: 45307638fdbe41fa9ca89c4182a34286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366781903
+status: 3
+tags: []
+user_id: pedroasvalente

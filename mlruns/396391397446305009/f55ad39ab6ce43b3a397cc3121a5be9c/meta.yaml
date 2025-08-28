@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/f55ad39ab6ce43b3a397cc3121a5be9c/artifacts
+end_time: 1756366176599
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: f55ad39ab6ce43b3a397cc3121a5be9c
+run_name: traveling-cow-332
+run_uuid: f55ad39ab6ce43b3a397cc3121a5be9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366146800
+status: 3
+tags: []
+user_id: pedroasvalente

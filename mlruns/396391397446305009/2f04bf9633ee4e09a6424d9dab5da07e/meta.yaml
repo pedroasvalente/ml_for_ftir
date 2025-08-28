@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396391397446305009/2f04bf9633ee4e09a6424d9dab5da07e/artifacts
+end_time: 1756366391896
+entry_point_name: ''
+experiment_id: '396391397446305009'
+lifecycle_stage: active
+run_id: 2f04bf9633ee4e09a6424d9dab5da07e
+run_name: secretive-boar-118
+run_uuid: 2f04bf9633ee4e09a6424d9dab5da07e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756366366609
+status: 3
+tags: []
+user_id: pedroasvalente
