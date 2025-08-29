@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/ce2616df53664c7b84242fd4c8cbc8be/artifacts
+end_time: 1756441509291
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: ce2616df53664c7b84242fd4c8cbc8be
+run_name: puzzled-sheep-501
+run_uuid: ce2616df53664c7b84242fd4c8cbc8be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756438828156
+status: 3
+tags: []
+user_id: joao

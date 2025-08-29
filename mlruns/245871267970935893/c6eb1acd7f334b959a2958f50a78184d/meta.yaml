@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/c6eb1acd7f334b959a2958f50a78184d/artifacts
+end_time: 1756441509291
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: c6eb1acd7f334b959a2958f50a78184d
+run_name: delicate-turtle-630
+run_uuid: c6eb1acd7f334b959a2958f50a78184d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756438828156
+status: 3
+tags: []
+user_id: joao

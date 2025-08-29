@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/3d2fdc3b05e64b6cba73263f5ebc26aa/artifacts
+end_time: 1756428785304
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 3d2fdc3b05e64b6cba73263f5ebc26aa
+run_name: thundering-lark-883
+run_uuid: 3d2fdc3b05e64b6cba73263f5ebc26aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756426510650
+status: 3
+tags: []
+user_id: joao

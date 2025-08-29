@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/501f443e929a4b6ba7b2bc3d4e835da8/artifacts
+end_time: 1756431277175
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 501f443e929a4b6ba7b2bc3d4e835da8
+run_name: smiling-hog-930
+run_uuid: 501f443e929a4b6ba7b2bc3d4e835da8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756428833623
+status: 3
+tags: []
+user_id: joao

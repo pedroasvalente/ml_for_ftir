@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/662ee5d52cb646e18e931a03c5f80ea8/artifacts
+end_time: 1756441509291
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 662ee5d52cb646e18e931a03c5f80ea8
+run_name: worried-shark-4
+run_uuid: 662ee5d52cb646e18e931a03c5f80ea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756438828156
+status: 3
+tags: []
+user_id: joao

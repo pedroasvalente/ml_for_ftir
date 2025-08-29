@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/67f43f7a148b4350bc903b15431b3fd3/artifacts
+end_time: 1756431277175
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 67f43f7a148b4350bc903b15431b3fd3
+run_name: useful-goose-604
+run_uuid: 67f43f7a148b4350bc903b15431b3fd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756428833623
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/7095ae087b6e41348ec554e2dfcb7960/artifacts
+end_time: 1756438781004
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 7095ae087b6e41348ec554e2dfcb7960
+run_name: rare-dog-595
+run_uuid: 7095ae087b6e41348ec554e2dfcb7960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756436483429
+status: 3
+tags: []
+user_id: joao

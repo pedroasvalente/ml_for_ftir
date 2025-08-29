@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/4c33ae636d7f4b638f0d3ffd7925dc30/artifacts
+end_time: 1756431336817
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 4c33ae636d7f4b638f0d3ffd7925dc30
+run_name: PLASMA
+run_uuid: 4c33ae636d7f4b638f0d3ffd7925dc30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756421719080
+status: 3
+tags: []
+user_id: joao

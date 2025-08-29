@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/abe7f1852b8c4c32896f7181befbd2dc/artifacts
+end_time: 1756438781004
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: abe7f1852b8c4c32896f7181befbd2dc
+run_name: luminous-ox-147
+run_uuid: abe7f1852b8c4c32896f7181befbd2dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756436483429
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/684867ee3e3a4635b53f799f32329479/artifacts
+end_time: 1756431277175
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 684867ee3e3a4635b53f799f32329479
+run_name: bittersweet-auk-481
+run_uuid: 684867ee3e3a4635b53f799f32329479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756428833623
+status: 3
+tags: []
+user_id: joao
