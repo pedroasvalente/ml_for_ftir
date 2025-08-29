@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/24c5c82380084c7a98b049e684423541/artifacts
+end_time: 1756470240560
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 24c5c82380084c7a98b049e684423541
+run_name: experiment_linear_erythrocytes
+run_uuid: 24c5c82380084c7a98b049e684423541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460246896
+status: 3
+tags: []
+user_id: pedroasvalente

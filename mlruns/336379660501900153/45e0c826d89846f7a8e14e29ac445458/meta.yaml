@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/45e0c826d89846f7a8e14e29ac445458/artifacts
+end_time: 1756461143592
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 45e0c826d89846f7a8e14e29ac445458
+run_name: tasteful-wren-258
+run_uuid: 45e0c826d89846f7a8e14e29ac445458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461118366
+status: 3
+tags: []
+user_id: pedroasvalente

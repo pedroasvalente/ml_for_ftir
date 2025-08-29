@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/9ad87e799a204d25adb50f674df834ef/artifacts
+end_time: 1756460390559
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 9ad87e799a204d25adb50f674df834ef
+run_name: auspicious-kite-605
+run_uuid: 9ad87e799a204d25adb50f674df834ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460378828
+status: 3
+tags: []
+user_id: pedroasvalente

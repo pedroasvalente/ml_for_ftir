@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/1d2fabccffde4f97b58135da58eaf0e7/artifacts
+end_time: 1756463004518
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 1d2fabccffde4f97b58135da58eaf0e7
+run_name: orderly-crow-957
+run_uuid: 1d2fabccffde4f97b58135da58eaf0e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462892966
+status: 3
+tags: []
+user_id: pedroasvalente

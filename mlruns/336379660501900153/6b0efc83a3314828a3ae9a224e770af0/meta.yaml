@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/6b0efc83a3314828a3ae9a224e770af0/artifacts
+end_time: 1756461115156
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 6b0efc83a3314828a3ae9a224e770af0
+run_name: painted-duck-631
+run_uuid: 6b0efc83a3314828a3ae9a224e770af0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461103025
+status: 3
+tags: []
+user_id: pedroasvalente

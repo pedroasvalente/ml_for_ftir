@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/aabc9765ec5b4c83b64aecf897443504/artifacts
+end_time: 1756460470659
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: aabc9765ec5b4c83b64aecf897443504
+run_name: skillful-conch-141
+run_uuid: aabc9765ec5b4c83b64aecf897443504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460416073
+status: 3
+tags: []
+user_id: pedroasvalente

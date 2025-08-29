@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/07bf00e05c014739aa2ab0f89f191880/artifacts
+end_time: 1756461617396
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 07bf00e05c014739aa2ab0f89f191880
+run_name: melodic-smelt-753
+run_uuid: 07bf00e05c014739aa2ab0f89f191880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461613901
+status: 3
+tags: []
+user_id: pedroasvalente

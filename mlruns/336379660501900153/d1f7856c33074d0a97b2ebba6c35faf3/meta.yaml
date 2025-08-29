@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/d1f7856c33074d0a97b2ebba6c35faf3/artifacts
+end_time: 1756460413805
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: d1f7856c33074d0a97b2ebba6c35faf3
+run_name: unruly-pig-686
+run_uuid: d1f7856c33074d0a97b2ebba6c35faf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460399182
+status: 3
+tags: []
+user_id: pedroasvalente

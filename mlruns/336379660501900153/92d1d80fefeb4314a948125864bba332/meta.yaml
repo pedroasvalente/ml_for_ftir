@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/92d1d80fefeb4314a948125864bba332/artifacts
+end_time: 1756462116525
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 92d1d80fefeb4314a948125864bba332
+run_name: rare-toad-346
+run_uuid: 92d1d80fefeb4314a948125864bba332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461993080
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/9608e06947a74144ae418cd2d34f8e61/artifacts
+end_time: 1756460470659
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 9608e06947a74144ae418cd2d34f8e61
+run_name: casual-kite-314
+run_uuid: 9608e06947a74144ae418cd2d34f8e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460416073
+status: 3
+tags: []
+user_id: pedroasvalente

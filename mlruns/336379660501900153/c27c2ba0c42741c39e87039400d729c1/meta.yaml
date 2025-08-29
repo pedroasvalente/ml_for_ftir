@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/c27c2ba0c42741c39e87039400d729c1/artifacts
+end_time: 1756462738802
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: c27c2ba0c42741c39e87039400d729c1
+run_name: rumbling-doe-323
+run_uuid: c27c2ba0c42741c39e87039400d729c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462727603
+status: 3
+tags: []
+user_id: pedroasvalente

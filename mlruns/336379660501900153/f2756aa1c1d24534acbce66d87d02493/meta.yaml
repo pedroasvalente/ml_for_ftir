@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/f2756aa1c1d24534acbce66d87d02493/artifacts
+end_time: 1756461230207
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: f2756aa1c1d24534acbce66d87d02493
+run_name: upbeat-sloth-243
+run_uuid: f2756aa1c1d24534acbce66d87d02493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461206514
+status: 3
+tags: []
+user_id: pedroasvalente

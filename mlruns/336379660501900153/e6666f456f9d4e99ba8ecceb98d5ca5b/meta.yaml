@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/e6666f456f9d4e99ba8ecceb98d5ca5b/artifacts
+end_time: 1756462440810
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: e6666f456f9d4e99ba8ecceb98d5ca5b
+run_name: dashing-foal-873
+run_uuid: e6666f456f9d4e99ba8ecceb98d5ca5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462429105
+status: 3
+tags: []
+user_id: pedroasvalente

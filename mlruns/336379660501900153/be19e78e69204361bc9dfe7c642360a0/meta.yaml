@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/be19e78e69204361bc9dfe7c642360a0/artifacts
+end_time: 1756461643769
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: be19e78e69204361bc9dfe7c642360a0
+run_name: treasured-hare-309
+run_uuid: be19e78e69204361bc9dfe7c642360a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461621292
+status: 3
+tags: []
+user_id: pedroasvalente

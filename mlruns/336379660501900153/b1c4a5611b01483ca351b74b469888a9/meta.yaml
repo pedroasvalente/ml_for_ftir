@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/b1c4a5611b01483ca351b74b469888a9/artifacts
+end_time: 1756461584902
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: b1c4a5611b01483ca351b74b469888a9
+run_name: delicate-lark-347
+run_uuid: b1c4a5611b01483ca351b74b469888a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461580963
+status: 3
+tags: []
+user_id: pedroasvalente

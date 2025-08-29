@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/d2b2471a4f9d40289f73b1c31a1cc266/artifacts
+end_time: 1756461143592
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: d2b2471a4f9d40289f73b1c31a1cc266
+run_name: bald-cat-525
+run_uuid: d2b2471a4f9d40289f73b1c31a1cc266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461118366
+status: 3
+tags: []
+user_id: pedroasvalente

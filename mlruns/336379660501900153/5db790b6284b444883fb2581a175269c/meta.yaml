@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/5db790b6284b444883fb2581a175269c/artifacts
+end_time: 1756462423583
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 5db790b6284b444883fb2581a175269c
+run_name: caring-skink-902
+run_uuid: 5db790b6284b444883fb2581a175269c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462302769
+status: 3
+tags: []
+user_id: pedroasvalente

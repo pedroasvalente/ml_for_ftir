@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/b713dc306caf458c891abbb9f11ba00c/artifacts
+end_time: 1756461245882
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: b713dc306caf458c891abbb9f11ba00c
+run_name: abundant-crab-701
+run_uuid: b713dc306caf458c891abbb9f11ba00c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461233640
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/6ba8bc9e94e44809ab0808bedc8db6c1/artifacts
+end_time: 1756460983446
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 6ba8bc9e94e44809ab0808bedc8db6c1
+run_name: peaceful-whale-596
+run_uuid: 6ba8bc9e94e44809ab0808bedc8db6c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460971229
+status: 3
+tags: []
+user_id: pedroasvalente

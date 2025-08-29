@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/8602835ca8d54a828b1f4d84669670d7/artifacts
+end_time: 1756462869629
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 8602835ca8d54a828b1f4d84669670d7
+run_name: handsome-panda-831
+run_uuid: 8602835ca8d54a828b1f4d84669670d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462744225
+status: 3
+tags: []
+user_id: pedroasvalente

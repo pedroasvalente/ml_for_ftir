@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/35bf5a2951e84b5aaaeb3af563bf4162/artifacts
+end_time: 1756461070319
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 35bf5a2951e84b5aaaeb3af563bf4162
+run_name: bald-crane-715
+run_uuid: 35bf5a2951e84b5aaaeb3af563bf4162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461058090
+status: 3
+tags: []
+user_id: pedroasvalente

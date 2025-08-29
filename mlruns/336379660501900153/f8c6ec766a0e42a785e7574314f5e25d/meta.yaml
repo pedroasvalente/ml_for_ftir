@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/f8c6ec766a0e42a785e7574314f5e25d/artifacts
+end_time: 1756462589730
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: f8c6ec766a0e42a785e7574314f5e25d
+run_name: thundering-stoat-580
+run_uuid: f8c6ec766a0e42a785e7574314f5e25d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462446175
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/f3047c7fa1cd4975b79f2b207f5ca051/artifacts
+end_time: 1756461400836
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: f3047c7fa1cd4975b79f2b207f5ca051
+run_name: traveling-crow-769
+run_uuid: f3047c7fa1cd4975b79f2b207f5ca051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461397504
+status: 3
+tags: []
+user_id: pedroasvalente

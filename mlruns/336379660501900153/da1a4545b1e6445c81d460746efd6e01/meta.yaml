@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/da1a4545b1e6445c81d460746efd6e01/artifacts
+end_time: 1756461617396
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: da1a4545b1e6445c81d460746efd6e01
+run_name: loud-cub-548
+run_uuid: da1a4545b1e6445c81d460746efd6e01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461613901
+status: 3
+tags: []
+user_id: pedroasvalente

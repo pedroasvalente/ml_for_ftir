@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/ccbe814d687e4d8f8847ffde0cc89537/artifacts
+end_time: 1756461230207
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: ccbe814d687e4d8f8847ffde0cc89537
+run_name: victorious-deer-712
+run_uuid: ccbe814d687e4d8f8847ffde0cc89537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461206514
+status: 3
+tags: []
+user_id: pedroasvalente

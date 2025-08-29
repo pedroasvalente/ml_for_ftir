@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/1b63a40d044e45e7bc5a1085f36ad198/artifacts
+end_time: 1756463158975
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 1b63a40d044e45e7bc5a1085f36ad198
+run_name: gregarious-stag-616
+run_uuid: 1b63a40d044e45e7bc5a1085f36ad198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756463027468
+status: 3
+tags: []
+user_id: pedroasvalente

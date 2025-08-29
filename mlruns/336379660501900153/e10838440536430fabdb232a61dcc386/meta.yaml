@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/e10838440536430fabdb232a61dcc386/artifacts
+end_time: 1756460632648
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: e10838440536430fabdb232a61dcc386
+run_name: aged-frog-108
+run_uuid: e10838440536430fabdb232a61dcc386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460607266
+status: 3
+tags: []
+user_id: pedroasvalente

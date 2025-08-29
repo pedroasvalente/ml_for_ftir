@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/6fe69fa2d8e1419686b5d88f2dde84a9/artifacts
+end_time: 1756463158975
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 6fe69fa2d8e1419686b5d88f2dde84a9
+run_name: sedate-ox-613
+run_uuid: 6fe69fa2d8e1419686b5d88f2dde84a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756463027468
+status: 3
+tags: []
+user_id: pedroasvalente

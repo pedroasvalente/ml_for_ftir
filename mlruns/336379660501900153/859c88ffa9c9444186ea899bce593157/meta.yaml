@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/859c88ffa9c9444186ea899bce593157/artifacts
+end_time: 1756461828108
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 859c88ffa9c9444186ea899bce593157
+run_name: upset-mole-241
+run_uuid: 859c88ffa9c9444186ea899bce593157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461730166
+status: 3
+tags: []
+user_id: pedroasvalente

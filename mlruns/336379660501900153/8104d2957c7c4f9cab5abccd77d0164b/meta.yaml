@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/8104d2957c7c4f9cab5abccd77d0164b/artifacts
+end_time: 1756461576516
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 8104d2957c7c4f9cab5abccd77d0164b
+run_name: honorable-cow-248
+run_uuid: 8104d2957c7c4f9cab5abccd77d0164b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461552174
+status: 3
+tags: []
+user_id: pedroasvalente

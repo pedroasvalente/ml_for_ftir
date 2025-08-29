@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/02d888e3ce984f54a19a5a32d9658328/artifacts
+end_time: 1756461245882
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 02d888e3ce984f54a19a5a32d9658328
+run_name: suave-foal-545
+run_uuid: 02d888e3ce984f54a19a5a32d9658328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461233640
+status: 3
+tags: []
+user_id: pedroasvalente

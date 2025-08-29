@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/187f61cff72c419d9d80f10ce85b5ce7/artifacts
+end_time: 1756460376947
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 187f61cff72c419d9d80f10ce85b5ce7
+run_name: sedate-calf-94
+run_uuid: 187f61cff72c419d9d80f10ce85b5ce7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460349631
+status: 3
+tags: []
+user_id: pedroasvalente

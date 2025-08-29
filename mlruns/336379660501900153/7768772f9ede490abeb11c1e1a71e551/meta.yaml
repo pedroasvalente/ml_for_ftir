@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/7768772f9ede490abeb11c1e1a71e551/artifacts
+end_time: 1756461845359
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 7768772f9ede490abeb11c1e1a71e551
+run_name: tasteful-skink-321
+run_uuid: 7768772f9ede490abeb11c1e1a71e551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461832857
+status: 3
+tags: []
+user_id: pedroasvalente

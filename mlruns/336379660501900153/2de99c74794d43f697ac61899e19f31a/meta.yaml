@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/2de99c74794d43f697ac61899e19f31a/artifacts
+end_time: 1756469856277
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 2de99c74794d43f697ac61899e19f31a
+run_name: SALIVA
+run_uuid: 2de99c74794d43f697ac61899e19f31a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460513869
+status: 3
+tags: []
+user_id: pedroasvalente

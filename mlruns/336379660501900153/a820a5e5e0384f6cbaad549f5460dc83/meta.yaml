@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/a820a5e5e0384f6cbaad549f5460dc83/artifacts
+end_time: 1756460276087
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: a820a5e5e0384f6cbaad549f5460dc83
+run_name: popular-fish-75
+run_uuid: a820a5e5e0384f6cbaad549f5460dc83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460247206
+status: 3
+tags: []
+user_id: pedroasvalente

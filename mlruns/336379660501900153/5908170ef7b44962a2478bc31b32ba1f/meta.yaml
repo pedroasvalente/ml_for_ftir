@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/5908170ef7b44962a2478bc31b32ba1f/artifacts
+end_time: 1756461159116
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 5908170ef7b44962a2478bc31b32ba1f
+run_name: popular-vole-353
+run_uuid: 5908170ef7b44962a2478bc31b32ba1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461146794
+status: 3
+tags: []
+user_id: pedroasvalente

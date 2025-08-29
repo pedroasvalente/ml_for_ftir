@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/8e3fa46fca0846cdb2b30cb06f843e53/artifacts
+end_time: 1756461431315
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 8e3fa46fca0846cdb2b30cb06f843e53
+run_name: zealous-moose-969
+run_uuid: 8e3fa46fca0846cdb2b30cb06f843e53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461404256
+status: 3
+tags: []
+user_id: pedroasvalente

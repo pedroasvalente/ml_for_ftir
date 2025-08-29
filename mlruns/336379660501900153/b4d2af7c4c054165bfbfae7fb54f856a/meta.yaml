@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/b4d2af7c4c054165bfbfae7fb54f856a/artifacts
+end_time: 1756461357783
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: b4d2af7c4c054165bfbfae7fb54f856a
+run_name: overjoyed-quail-142
+run_uuid: b4d2af7c4c054165bfbfae7fb54f856a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461334469
+status: 3
+tags: []
+user_id: pedroasvalente

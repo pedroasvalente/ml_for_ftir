@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/6b05ee6913f44085b051bef3018a47ef/artifacts
+end_time: 1756462298031
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 6b05ee6913f44085b051bef3018a47ef
+run_name: gifted-wolf-818
+run_uuid: 6b05ee6913f44085b051bef3018a47ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462286155
+status: 3
+tags: []
+user_id: pedroasvalente

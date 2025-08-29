@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/19408b9929c041f6adf608c6f8ce3296/artifacts
+end_time: 1756460741785
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 19408b9929c041f6adf608c6f8ce3296
+run_name: stylish-stork-967
+run_uuid: 19408b9929c041f6adf608c6f8ce3296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460681620
+status: 3
+tags: []
+user_id: pedroasvalente

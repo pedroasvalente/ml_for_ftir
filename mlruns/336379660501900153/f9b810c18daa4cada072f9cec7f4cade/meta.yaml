@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/f9b810c18daa4cada072f9cec7f4cade/artifacts
+end_time: 1756461468584
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: f9b810c18daa4cada072f9cec7f4cade
+run_name: wise-bass-758
+run_uuid: f9b810c18daa4cada072f9cec7f4cade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461441908
+status: 3
+tags: []
+user_id: pedroasvalente

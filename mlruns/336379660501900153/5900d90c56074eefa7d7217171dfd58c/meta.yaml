@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/5900d90c56074eefa7d7217171dfd58c/artifacts
+end_time: 1756462886902
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 5900d90c56074eefa7d7217171dfd58c
+run_name: rogue-snail-395
+run_uuid: 5900d90c56074eefa7d7217171dfd58c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462875254
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/870eeceee2444b9989a81fa5194ee630/artifacts
+end_time: 1756462606775
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 870eeceee2444b9989a81fa5194ee630
+run_name: bustling-deer-432
+run_uuid: 870eeceee2444b9989a81fa5194ee630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462595569
+status: 3
+tags: []
+user_id: pedroasvalente

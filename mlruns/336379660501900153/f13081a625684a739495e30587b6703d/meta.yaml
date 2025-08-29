@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/f13081a625684a739495e30587b6703d/artifacts
+end_time: 1756461273844
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: f13081a625684a739495e30587b6703d
+run_name: worried-moth-684
+run_uuid: f13081a625684a739495e30587b6703d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461249521
+status: 3
+tags: []
+user_id: pedroasvalente

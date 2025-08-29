@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/597f7ec40955461fb480a30a2c84eea7/artifacts
+end_time: 1756461315480
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 597f7ec40955461fb480a30a2c84eea7
+run_name: puzzled-skunk-67
+run_uuid: 597f7ec40955461fb480a30a2c84eea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461292621
+status: 3
+tags: []
+user_id: pedroasvalente

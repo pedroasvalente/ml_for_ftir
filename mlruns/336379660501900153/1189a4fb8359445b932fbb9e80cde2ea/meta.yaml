@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/1189a4fb8359445b932fbb9e80cde2ea/artifacts
+end_time: 1756461115156
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 1189a4fb8359445b932fbb9e80cde2ea
+run_name: redolent-shoat-759
+run_uuid: 1189a4fb8359445b932fbb9e80cde2ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461103025
+status: 3
+tags: []
+user_id: pedroasvalente

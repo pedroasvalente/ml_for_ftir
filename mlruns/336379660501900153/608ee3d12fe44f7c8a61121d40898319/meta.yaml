@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/608ee3d12fe44f7c8a61121d40898319/artifacts
+end_time: 1756462738802
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 608ee3d12fe44f7c8a61121d40898319
+run_name: marvelous-hawk-200
+run_uuid: 608ee3d12fe44f7c8a61121d40898319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462727603
+status: 3
+tags: []
+user_id: pedroasvalente

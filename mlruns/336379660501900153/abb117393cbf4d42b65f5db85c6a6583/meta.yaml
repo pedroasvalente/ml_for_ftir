@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/abb117393cbf4d42b65f5db85c6a6583/artifacts
+end_time: 1756461828108
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: abb117393cbf4d42b65f5db85c6a6583
+run_name: rebellious-rook-623
+run_uuid: abb117393cbf4d42b65f5db85c6a6583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461730166
+status: 3
+tags: []
+user_id: pedroasvalente

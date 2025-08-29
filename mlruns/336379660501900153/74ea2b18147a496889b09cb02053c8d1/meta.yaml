@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/74ea2b18147a496889b09cb02053c8d1/artifacts
+end_time: 1756461548683
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 74ea2b18147a496889b09cb02053c8d1
+run_name: secretive-newt-326
+run_uuid: 74ea2b18147a496889b09cb02053c8d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461545346
+status: 3
+tags: []
+user_id: pedroasvalente

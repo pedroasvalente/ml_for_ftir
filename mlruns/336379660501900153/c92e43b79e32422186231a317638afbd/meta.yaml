@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/c92e43b79e32422186231a317638afbd/artifacts
+end_time: 1756462280798
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: c92e43b79e32422186231a317638afbd
+run_name: selective-fly-83
+run_uuid: c92e43b79e32422186231a317638afbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462138323
+status: 3
+tags: []
+user_id: pedroasvalente

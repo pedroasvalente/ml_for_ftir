@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/65608e4917524a688effcced66c376ad/artifacts
+end_time: 1756460783333
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 65608e4917524a688effcced66c376ad
+run_name: efficient-loon-762
+run_uuid: 65608e4917524a688effcced66c376ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460771216
+status: 3
+tags: []
+user_id: pedroasvalente

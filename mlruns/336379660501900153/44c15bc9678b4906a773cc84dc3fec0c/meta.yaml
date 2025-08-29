@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/44c15bc9678b4906a773cc84dc3fec0c/artifacts
+end_time: 1756461643769
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 44c15bc9678b4906a773cc84dc3fec0c
+run_name: puzzled-seal-734
+run_uuid: 44c15bc9678b4906a773cc84dc3fec0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461621292
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/ecd5fe75307d4c63a4a858eb814812dc/artifacts
+end_time: 1756460345809
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: ecd5fe75307d4c63a4a858eb814812dc
+run_name: grandiose-hare-618
+run_uuid: ecd5fe75307d4c63a4a858eb814812dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460278243
+status: 3
+tags: []
+user_id: pedroasvalente

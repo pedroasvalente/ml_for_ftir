@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/88cc5c3be9214f8cb00acf820bd96694/artifacts
+end_time: 1756460817391
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 88cc5c3be9214f8cb00acf820bd96694
+run_name: bald-quail-262
+run_uuid: 88cc5c3be9214f8cb00acf820bd96694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460792468
+status: 3
+tags: []
+user_id: pedroasvalente

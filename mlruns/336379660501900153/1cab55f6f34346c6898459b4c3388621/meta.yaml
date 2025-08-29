@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/1cab55f6f34346c6898459b4c3388621/artifacts
+end_time: 1756460920286
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 1cab55f6f34346c6898459b4c3388621
+run_name: bright-stag-724
+run_uuid: 1cab55f6f34346c6898459b4c3388621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460909206
+status: 3
+tags: []
+user_id: pedroasvalente

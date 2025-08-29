@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/10510b77286f4658816d5fa2ed3b4c24/artifacts
+end_time: 1756461515069
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 10510b77286f4658816d5fa2ed3b4c24
+run_name: brawny-smelt-347
+run_uuid: 10510b77286f4658816d5fa2ed3b4c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461511724
+status: 3
+tags: []
+user_id: pedroasvalente

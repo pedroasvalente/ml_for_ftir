@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/44e18b3aad114d888a621ee9a0a22aac/artifacts
+end_time: 1756460603153
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 44e18b3aad114d888a621ee9a0a22aac
+run_name: auspicious-horse-499
+run_uuid: 44e18b3aad114d888a621ee9a0a22aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756460542292
+status: 3
+tags: []
+user_id: pedroasvalente

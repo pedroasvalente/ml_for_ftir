@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/8faddd1f719c4e4bbcecb69a52941eaa/artifacts
+end_time: 1756462869629
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 8faddd1f719c4e4bbcecb69a52941eaa
+run_name: gregarious-elk-569
+run_uuid: 8faddd1f719c4e4bbcecb69a52941eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462744225
+status: 3
+tags: []
+user_id: pedroasvalente

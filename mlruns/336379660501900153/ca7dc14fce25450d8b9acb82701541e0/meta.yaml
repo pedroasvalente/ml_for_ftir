@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/ca7dc14fce25450d8b9acb82701541e0/artifacts
+end_time: 1756461709766
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: ca7dc14fce25450d8b9acb82701541e0
+run_name: able-newt-769
+run_uuid: ca7dc14fce25450d8b9acb82701541e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461687828
+status: 3
+tags: []
+user_id: pedroasvalente

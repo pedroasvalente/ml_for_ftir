@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/570b72884d4945abbb67c53fa3d671e2/artifacts
+end_time: 1756462886902
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 570b72884d4945abbb67c53fa3d671e2
+run_name: sneaky-pug-442
+run_uuid: 570b72884d4945abbb67c53fa3d671e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462875254
+status: 3
+tags: []
+user_id: pedroasvalente

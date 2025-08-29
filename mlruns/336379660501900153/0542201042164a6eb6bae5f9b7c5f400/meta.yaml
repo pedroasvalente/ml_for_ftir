@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/0542201042164a6eb6bae5f9b7c5f400/artifacts
+end_time: 1756461643769
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 0542201042164a6eb6bae5f9b7c5f400
+run_name: sneaky-fowl-896
+run_uuid: 0542201042164a6eb6bae5f9b7c5f400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461621292
+status: 3
+tags: []
+user_id: pedroasvalente

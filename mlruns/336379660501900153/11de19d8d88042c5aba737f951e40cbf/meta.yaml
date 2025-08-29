@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/11de19d8d88042c5aba737f951e40cbf/artifacts
+end_time: 1756461988034
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 11de19d8d88042c5aba737f951e40cbf
+run_name: luxuriant-sloth-86
+run_uuid: 11de19d8d88042c5aba737f951e40cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461976414
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/80852036d0024dc1baff27d89e5422fa/artifacts
+end_time: 1756462721978
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: 80852036d0024dc1baff27d89e5422fa
+run_name: clumsy-lynx-263
+run_uuid: 80852036d0024dc1baff27d89e5422fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756462612031
+status: 3
+tags: []
+user_id: pedroasvalente

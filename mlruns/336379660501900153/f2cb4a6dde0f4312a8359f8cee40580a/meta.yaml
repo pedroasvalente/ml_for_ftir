@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/f2cb4a6dde0f4312a8359f8cee40580a/artifacts
+end_time: 1756463021933
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: f2cb4a6dde0f4312a8359f8cee40580a
+run_name: welcoming-gnat-575
+run_uuid: f2cb4a6dde0f4312a8359f8cee40580a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756463010417
+status: 3
+tags: []
+user_id: pedroasvalente

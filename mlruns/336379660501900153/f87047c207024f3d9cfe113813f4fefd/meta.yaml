@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336379660501900153/f87047c207024f3d9cfe113813f4fefd/artifacts
+end_time: 1756461507601
+entry_point_name: ''
+experiment_id: '336379660501900153'
+lifecycle_stage: active
+run_id: f87047c207024f3d9cfe113813f4fefd
+run_name: unleashed-trout-196
+run_uuid: f87047c207024f3d9cfe113813f4fefd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756461479342
+status: 3
+tags: []
+user_id: pedroasvalente
