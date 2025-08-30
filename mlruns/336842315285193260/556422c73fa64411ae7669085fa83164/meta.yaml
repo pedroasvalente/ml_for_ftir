@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/556422c73fa64411ae7669085fa83164/artifacts
+end_time: 1756476659007
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 556422c73fa64411ae7669085fa83164
+run_name: rumbling-koi-938
+run_uuid: 556422c73fa64411ae7669085fa83164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476636151
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/72203e0e77ca4e4da05fa141340ab08a/artifacts
+end_time: 1756477253188
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 72203e0e77ca4e4da05fa141340ab08a
+run_name: rumbling-ray-934
+run_uuid: 72203e0e77ca4e4da05fa141340ab08a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477228469
+status: 3
+tags: []
+user_id: pedroasvalente

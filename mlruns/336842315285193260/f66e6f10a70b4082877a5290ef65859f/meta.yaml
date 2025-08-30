@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/f66e6f10a70b4082877a5290ef65859f/artifacts
+end_time: 1756477616204
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: f66e6f10a70b4082877a5290ef65859f
+run_name: rare-hawk-32
+run_uuid: f66e6f10a70b4082877a5290ef65859f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477510619
+status: 3
+tags: []
+user_id: pedroasvalente

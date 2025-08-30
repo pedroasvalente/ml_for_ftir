@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/0c7c97d07ca6477cb7443ad8f64c9db4/artifacts
+end_time: 1756497166163
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 0c7c97d07ca6477cb7443ad8f64c9db4
+run_name: SERUM
+run_uuid: 0c7c97d07ca6477cb7443ad8f64c9db4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476359587
+status: 3
+tags: []
+user_id: pedroasvalente

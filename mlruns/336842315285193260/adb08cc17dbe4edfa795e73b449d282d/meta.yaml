@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/adb08cc17dbe4edfa795e73b449d282d/artifacts
+end_time: 1756476721941
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: adb08cc17dbe4edfa795e73b449d282d
+run_name: beautiful-moose-202
+run_uuid: adb08cc17dbe4edfa795e73b449d282d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476709722
+status: 3
+tags: []
+user_id: pedroasvalente

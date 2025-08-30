@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/9c6cc5a3783b4992bc79f1f146fbc005/artifacts
+end_time: 1756476449060
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 9c6cc5a3783b4992bc79f1f146fbc005
+run_name: luminous-owl-430
+run_uuid: 9c6cc5a3783b4992bc79f1f146fbc005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476388010
+status: 3
+tags: []
+user_id: pedroasvalente

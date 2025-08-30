@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/744b489d44fa43128eae78547312801d/artifacts
+end_time: 1756477457755
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 744b489d44fa43128eae78547312801d
+run_name: gentle-sow-765
+run_uuid: 744b489d44fa43128eae78547312801d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477454360
+status: 3
+tags: []
+user_id: pedroasvalente

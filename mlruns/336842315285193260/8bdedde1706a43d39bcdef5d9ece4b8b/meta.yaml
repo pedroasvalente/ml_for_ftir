@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/8bdedde1706a43d39bcdef5d9ece4b8b/artifacts
+end_time: 1756477298800
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 8bdedde1706a43d39bcdef5d9ece4b8b
+run_name: rumbling-kit-775
+run_uuid: 8bdedde1706a43d39bcdef5d9ece4b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477264892
+status: 3
+tags: []
+user_id: pedroasvalente

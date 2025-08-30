@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/bd332bc51cc3471795d204b84a19b5c0/artifacts
+end_time: 1756477616204
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: bd332bc51cc3471795d204b84a19b5c0
+run_name: big-foal-71
+run_uuid: bd332bc51cc3471795d204b84a19b5c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477510619
+status: 3
+tags: []
+user_id: pedroasvalente

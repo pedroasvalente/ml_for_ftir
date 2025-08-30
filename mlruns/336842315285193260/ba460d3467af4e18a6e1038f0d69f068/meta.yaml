@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/ba460d3467af4e18a6e1038f0d69f068/artifacts
+end_time: 1756477155570
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: ba460d3467af4e18a6e1038f0d69f068
+run_name: peaceful-croc-336
+run_uuid: ba460d3467af4e18a6e1038f0d69f068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477152204
+status: 3
+tags: []
+user_id: pedroasvalente

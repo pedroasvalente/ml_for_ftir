@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/76ac4de196ed4d96882bff70692a1bd5/artifacts
+end_time: 1756477253188
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 76ac4de196ed4d96882bff70692a1bd5
+run_name: gregarious-flea-141
+run_uuid: 76ac4de196ed4d96882bff70692a1bd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477228469
+status: 3
+tags: []
+user_id: pedroasvalente

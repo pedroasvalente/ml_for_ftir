@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/4149d9e82d2d4d7bac1fc7ac5f5ff854/artifacts
+end_time: 1756477122509
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 4149d9e82d2d4d7bac1fc7ac5f5ff854
+run_name: clumsy-colt-888
+run_uuid: 4149d9e82d2d4d7bac1fc7ac5f5ff854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477118833
+status: 3
+tags: []
+user_id: pedroasvalente

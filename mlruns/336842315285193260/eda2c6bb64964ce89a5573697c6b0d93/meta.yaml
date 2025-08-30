@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/eda2c6bb64964ce89a5573697c6b0d93/artifacts
+end_time: 1756477114875
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: eda2c6bb64964ce89a5573697c6b0d93
+run_name: smiling-kite-377
+run_uuid: eda2c6bb64964ce89a5573697c6b0d93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477088741
+status: 3
+tags: []
+user_id: pedroasvalente

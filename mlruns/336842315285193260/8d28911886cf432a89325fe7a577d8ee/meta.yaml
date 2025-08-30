@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/8d28911886cf432a89325fe7a577d8ee/artifacts
+end_time: 1756477023165
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 8d28911886cf432a89325fe7a577d8ee
+run_name: receptive-perch-972
+run_uuid: 8d28911886cf432a89325fe7a577d8ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476998383
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/524b458d454a4c3baadd36b8953838db/artifacts
+end_time: 1756476837026
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 524b458d454a4c3baadd36b8953838db
+run_name: gaudy-yak-504
+run_uuid: 524b458d454a4c3baadd36b8953838db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476811946
+status: 3
+tags: []
+user_id: pedroasvalente

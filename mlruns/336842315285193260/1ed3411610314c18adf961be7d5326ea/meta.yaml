@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/1ed3411610314c18adf961be7d5326ea/artifacts
+end_time: 1756476186204
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 1ed3411610314c18adf961be7d5326ea
+run_name: gifted-snail-707
+run_uuid: 1ed3411610314c18adf961be7d5326ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476163875
+status: 3
+tags: []
+user_id: pedroasvalente

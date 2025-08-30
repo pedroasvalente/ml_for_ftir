@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/da63e2cbe6bd460d8a106dda67db58ee/artifacts
+end_time: 1756476680394
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: da63e2cbe6bd460d8a106dda67db58ee
+run_name: merciful-fish-348
+run_uuid: da63e2cbe6bd460d8a106dda67db58ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476668494
+status: 3
+tags: []
+user_id: pedroasvalente

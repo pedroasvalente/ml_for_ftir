@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/6de93042b0574b60a808c7cd1a257606/artifacts
+end_time: 1756476126305
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 6de93042b0574b60a808c7cd1a257606
+run_name: rumbling-crow-983
+run_uuid: 6de93042b0574b60a808c7cd1a257606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476064709
+status: 3
+tags: []
+user_id: pedroasvalente

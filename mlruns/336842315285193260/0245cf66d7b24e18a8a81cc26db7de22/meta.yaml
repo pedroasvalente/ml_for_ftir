@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/0245cf66d7b24e18a8a81cc26db7de22/artifacts
+end_time: 1756476748866
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 0245cf66d7b24e18a8a81cc26db7de22
+run_name: delicate-penguin-210
+run_uuid: 0245cf66d7b24e18a8a81cc26db7de22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476725084
+status: 3
+tags: []
+user_id: pedroasvalente

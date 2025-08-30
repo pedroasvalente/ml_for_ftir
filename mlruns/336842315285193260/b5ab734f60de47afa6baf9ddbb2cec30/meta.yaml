@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/b5ab734f60de47afa6baf9ddbb2cec30/artifacts
+end_time: 1756477068598
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: b5ab734f60de47afa6baf9ddbb2cec30
+run_name: worried-shrimp-954
+run_uuid: b5ab734f60de47afa6baf9ddbb2cec30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477043128
+status: 3
+tags: []
+user_id: pedroasvalente

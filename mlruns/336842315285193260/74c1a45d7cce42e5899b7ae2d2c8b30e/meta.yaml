@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/74c1a45d7cce42e5899b7ae2d2c8b30e/artifacts
+end_time: 1756476478645
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 74c1a45d7cce42e5899b7ae2d2c8b30e
+run_name: abrasive-worm-387
+run_uuid: 74c1a45d7cce42e5899b7ae2d2c8b30e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476453511
+status: 3
+tags: []
+user_id: pedroasvalente

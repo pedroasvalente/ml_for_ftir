@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/8df4954505844f4f88148e09516c491f/artifacts
+end_time: 1756476748866
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 8df4954505844f4f88148e09516c491f
+run_name: burly-skunk-943
+run_uuid: 8df4954505844f4f88148e09516c491f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476725084
+status: 3
+tags: []
+user_id: pedroasvalente

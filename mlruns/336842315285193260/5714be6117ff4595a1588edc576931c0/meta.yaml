@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/5714be6117ff4595a1588edc576931c0/artifacts
+end_time: 1756477780353
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 5714be6117ff4595a1588edc576931c0
+run_name: bold-tern-536
+run_uuid: 5714be6117ff4595a1588edc576931c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477768032
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/5e5029448b804a53aa5d0a83113bd42f/artifacts
+end_time: 1756476385380
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 5e5029448b804a53aa5d0a83113bd42f
+run_name: invincible-mouse-681
+run_uuid: 5e5029448b804a53aa5d0a83113bd42f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476360227
+status: 3
+tags: []
+user_id: pedroasvalente

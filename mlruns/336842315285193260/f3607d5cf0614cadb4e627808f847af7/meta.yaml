@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/f3607d5cf0614cadb4e627808f847af7/artifacts
+end_time: 1756476853621
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: f3607d5cf0614cadb4e627808f847af7
+run_name: shivering-robin-556
+run_uuid: f3607d5cf0614cadb4e627808f847af7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476840412
+status: 3
+tags: []
+user_id: pedroasvalente

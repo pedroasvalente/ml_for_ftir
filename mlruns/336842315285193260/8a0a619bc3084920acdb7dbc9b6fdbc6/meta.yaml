@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/8a0a619bc3084920acdb7dbc9b6fdbc6/artifacts
+end_time: 1756476293924
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 8a0a619bc3084920acdb7dbc9b6fdbc6
+run_name: worried-fly-914
+run_uuid: 8a0a619bc3084920acdb7dbc9b6fdbc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476224637
+status: 3
+tags: []
+user_id: pedroasvalente

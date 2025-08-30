@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/58c184a4eb3847bd9799a7ec4a4b4a88/artifacts
+end_time: 1756478404570
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 58c184a4eb3847bd9799a7ec4a4b4a88
+run_name: charming-stag-565
+run_uuid: 58c184a4eb3847bd9799a7ec4a4b4a88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756478392819
+status: 3
+tags: []
+user_id: pedroasvalente

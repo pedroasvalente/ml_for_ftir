@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/83f587124176486184d27c58fd3b2898/artifacts
+end_time: 1756476536442
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 83f587124176486184d27c58fd3b2898
+run_name: inquisitive-worm-803
+run_uuid: 83f587124176486184d27c58fd3b2898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476511746
+status: 3
+tags: []
+user_id: pedroasvalente

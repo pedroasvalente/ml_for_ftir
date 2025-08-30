@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/5d3febb55f454c26a0d734526a50053f/artifacts
+end_time: 1756477084935
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 5d3febb55f454c26a0d734526a50053f
+run_name: receptive-calf-74
+run_uuid: 5d3febb55f454c26a0d734526a50053f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477072437
+status: 3
+tags: []
+user_id: pedroasvalente

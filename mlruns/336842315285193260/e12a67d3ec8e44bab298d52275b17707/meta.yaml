@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/e12a67d3ec8e44bab298d52275b17707/artifacts
+end_time: 1756476853621
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: e12a67d3ec8e44bab298d52275b17707
+run_name: big-snake-956
+run_uuid: e12a67d3ec8e44bab298d52275b17707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476840412
+status: 3
+tags: []
+user_id: pedroasvalente

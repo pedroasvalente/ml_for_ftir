@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/2b94fa2546b84de0807a8de4d0eacefb/artifacts
+end_time: 1756478081260
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 2b94fa2546b84de0807a8de4d0eacefb
+run_name: handsome-skink-330
+run_uuid: 2b94fa2546b84de0807a8de4d0eacefb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756478069324
+status: 3
+tags: []
+user_id: pedroasvalente

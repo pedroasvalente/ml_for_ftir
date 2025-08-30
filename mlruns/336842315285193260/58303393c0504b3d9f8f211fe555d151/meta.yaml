@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/58303393c0504b3d9f8f211fe555d151/artifacts
+end_time: 1756476837026
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 58303393c0504b3d9f8f211fe555d151
+run_name: legendary-skink-820
+run_uuid: 58303393c0504b3d9f8f211fe555d151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476811946
+status: 3
+tags: []
+user_id: pedroasvalente

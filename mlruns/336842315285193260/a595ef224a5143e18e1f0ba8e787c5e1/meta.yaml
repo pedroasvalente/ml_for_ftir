@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/a595ef224a5143e18e1f0ba8e787c5e1/artifacts
+end_time: 1756478233915
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: a595ef224a5143e18e1f0ba8e787c5e1
+run_name: unequaled-turtle-338
+run_uuid: a595ef224a5143e18e1f0ba8e787c5e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756478222193
+status: 3
+tags: []
+user_id: pedroasvalente

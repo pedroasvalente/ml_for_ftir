@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/79624bb4acc0456e9fc16531cfb3b3aa/artifacts
+end_time: 1756476706673
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 79624bb4acc0456e9fc16531cfb3b3aa
+run_name: efficient-wren-225
+run_uuid: 79624bb4acc0456e9fc16531cfb3b3aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476683207
+status: 3
+tags: []
+user_id: pedroasvalente

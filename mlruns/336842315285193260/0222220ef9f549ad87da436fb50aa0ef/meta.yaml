@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/0222220ef9f549ad87da436fb50aa0ef/artifacts
+end_time: 1756476021310
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 0222220ef9f549ad87da436fb50aa0ef
+run_name: merciful-ray-626
+run_uuid: 0222220ef9f549ad87da436fb50aa0ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756475997397
+status: 3
+tags: []
+user_id: pedroasvalente

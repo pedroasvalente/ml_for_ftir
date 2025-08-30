@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/5c668dc6dadb4daeb935c6f6ce5b84f7/artifacts
+end_time: 1756477190058
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 5c668dc6dadb4daeb935c6f6ce5b84f7
+run_name: lyrical-toad-775
+run_uuid: 5c668dc6dadb4daeb935c6f6ce5b84f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477186645
+status: 3
+tags: []
+user_id: pedroasvalente

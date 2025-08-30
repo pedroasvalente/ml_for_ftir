@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/0c5bc93b4d95437ba59aec66d063c221/artifacts
+end_time: 1756477386410
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 0c5bc93b4d95437ba59aec66d063c221
+run_name: worried-dog-987
+run_uuid: 0c5bc93b4d95437ba59aec66d063c221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477382846
+status: 3
+tags: []
+user_id: pedroasvalente

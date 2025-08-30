@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/a6d888d4aa3e4ebe986f5385ddc4ce82/artifacts
+end_time: 1756477306919
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: a6d888d4aa3e4ebe986f5385ddc4ce82
+run_name: respected-dog-86
+run_uuid: a6d888d4aa3e4ebe986f5385ddc4ce82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477303213
+status: 3
+tags: []
+user_id: pedroasvalente

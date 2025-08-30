@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/b5df9d4b05854963a6bc24ad1c9a66db/artifacts
+end_time: 1756476659007
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: b5df9d4b05854963a6bc24ad1c9a66db
+run_name: blushing-shrimp-18
+run_uuid: b5df9d4b05854963a6bc24ad1c9a66db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476636151
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/8d071beda3ab4058a092384d782f6236/artifacts
+end_time: 1756477122509
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 8d071beda3ab4058a092384d782f6236
+run_name: caring-boar-114
+run_uuid: 8d071beda3ab4058a092384d782f6236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477118833
+status: 3
+tags: []
+user_id: pedroasvalente

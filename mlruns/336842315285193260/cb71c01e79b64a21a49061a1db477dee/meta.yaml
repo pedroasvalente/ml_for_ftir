@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/cb71c01e79b64a21a49061a1db477dee/artifacts
+end_time: 1756476885256
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: cb71c01e79b64a21a49061a1db477dee
+run_name: respected-fish-946
+run_uuid: cb71c01e79b64a21a49061a1db477dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476857117
+status: 3
+tags: []
+user_id: pedroasvalente

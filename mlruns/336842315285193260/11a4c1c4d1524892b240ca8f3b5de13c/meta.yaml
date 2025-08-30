@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/11a4c1c4d1524892b240ca8f3b5de13c/artifacts
+end_time: 1756478700946
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 11a4c1c4d1524892b240ca8f3b5de13c
+run_name: peaceful-finch-873
+run_uuid: 11a4c1c4d1524892b240ca8f3b5de13c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756478689743
+status: 3
+tags: []
+user_id: pedroasvalente

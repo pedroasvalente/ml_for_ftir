@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/eba6140138fa432185a44e361be21acf/artifacts
+end_time: 1756476021310
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: eba6140138fa432185a44e361be21acf
+run_name: wistful-toad-497
+run_uuid: eba6140138fa432185a44e361be21acf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756475997397
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/b7a2a4d6dd6242f8a087f36b99f7e83f/artifacts
+end_time: 1756476680394
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: b7a2a4d6dd6242f8a087f36b99f7e83f
+run_name: unleashed-skink-470
+run_uuid: b7a2a4d6dd6242f8a087f36b99f7e83f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476668494
+status: 3
+tags: []
+user_id: pedroasvalente

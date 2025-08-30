@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/cba92e71262e4cc0ac20d88a30792d6e/artifacts
+end_time: 1756477762394
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: cba92e71262e4cc0ac20d88a30792d6e
+run_name: sedate-midge-177
+run_uuid: cba92e71262e4cc0ac20d88a30792d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756477638240
+status: 3
+tags: []
+user_id: pedroasvalente

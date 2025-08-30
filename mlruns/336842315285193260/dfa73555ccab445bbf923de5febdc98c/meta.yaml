@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/dfa73555ccab445bbf923de5febdc98c/artifacts
+end_time: 1756476706673
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: dfa73555ccab445bbf923de5febdc98c
+run_name: glamorous-owl-866
+run_uuid: dfa73555ccab445bbf923de5febdc98c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476683207
+status: 3
+tags: []
+user_id: pedroasvalente

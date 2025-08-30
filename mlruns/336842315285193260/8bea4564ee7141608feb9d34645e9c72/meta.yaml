@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/8bea4564ee7141608feb9d34645e9c72/artifacts
+end_time: 1756476221851
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 8bea4564ee7141608feb9d34645e9c72
+run_name: indecisive-koi-932
+run_uuid: 8bea4564ee7141608feb9d34645e9c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476195380
+status: 3
+tags: []
+user_id: pedroasvalente

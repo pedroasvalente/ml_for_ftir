@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/336842315285193260/54144543218847c0933d4d8b0ee528c8/artifacts
+end_time: 1756476808573
+entry_point_name: ''
+experiment_id: '336842315285193260'
+lifecycle_stage: active
+run_id: 54144543218847c0933d4d8b0ee528c8
+run_name: blushing-stork-826
+run_uuid: 54144543218847c0933d4d8b0ee528c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756476796214
+status: 3
+tags: []
+user_id: pedroasvalente
