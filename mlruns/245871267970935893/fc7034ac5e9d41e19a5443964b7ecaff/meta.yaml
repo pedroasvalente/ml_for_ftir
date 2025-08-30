@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/fc7034ac5e9d41e19a5443964b7ecaff/artifacts
+end_time: 1756512608369
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: fc7034ac5e9d41e19a5443964b7ecaff
+run_name: vaunted-bird-541
+run_uuid: fc7034ac5e9d41e19a5443964b7ecaff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756510267961
+status: 3
+tags: []
+user_id: joao

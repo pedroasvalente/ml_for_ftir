@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/324b98eed1c6463f98acc80705999414/artifacts
+end_time: 1756494090129
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 324b98eed1c6463f98acc80705999414
+run_name: selective-elk-447
+run_uuid: 324b98eed1c6463f98acc80705999414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756491690624
+status: 3
+tags: []
+user_id: joao

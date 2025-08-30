@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/52030559805e4ed18e8c25dbf862ce3c/artifacts
+end_time: 1756491621350
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 52030559805e4ed18e8c25dbf862ce3c
+run_name: clumsy-shark-759
+run_uuid: 52030559805e4ed18e8c25dbf862ce3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756489234620
+status: 3
+tags: []
+user_id: joao

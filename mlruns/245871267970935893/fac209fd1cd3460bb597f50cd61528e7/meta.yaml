@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/fac209fd1cd3460bb597f50cd61528e7/artifacts
+end_time: 1756503436675
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: fac209fd1cd3460bb597f50cd61528e7
+run_name: awesome-auk-984
+run_uuid: fac209fd1cd3460bb597f50cd61528e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756501150781
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a2d3c6365b294f12bee4a6bc0bd91aea/artifacts
+end_time: 1756505645921
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a2d3c6365b294f12bee4a6bc0bd91aea
+run_name: FCNN Regressor
+run_uuid: a2d3c6365b294f12bee4a6bc0bd91aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756503500883
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/cb88bc5fe4a649f2892594ad2179c106/artifacts
+end_time: 1756517354108
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: cb88bc5fe4a649f2892594ad2179c106
+run_name: fortunate-mare-7
+run_uuid: cb88bc5fe4a649f2892594ad2179c106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756514930236
+status: 3
+tags: []
+user_id: joao

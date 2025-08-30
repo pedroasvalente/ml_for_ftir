@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/e66c48937e3f4af690f84cd76146c843/artifacts
+end_time: 1756503436675
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: e66c48937e3f4af690f84cd76146c843
+run_name: legendary-goat-496
+run_uuid: e66c48937e3f4af690f84cd76146c843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756501150781
+status: 3
+tags: []
+user_id: joao

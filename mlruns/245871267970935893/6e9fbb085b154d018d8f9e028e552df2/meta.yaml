@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/6e9fbb085b154d018d8f9e028e552df2/artifacts
+end_time: 1756498919894
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 6e9fbb085b154d018d8f9e028e552df2
+run_name: sincere-loon-189
+run_uuid: 6e9fbb085b154d018d8f9e028e552df2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756496613864
+status: 3
+tags: []
+user_id: joao

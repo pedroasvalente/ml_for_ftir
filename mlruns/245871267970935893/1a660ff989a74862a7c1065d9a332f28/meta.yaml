@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/1a660ff989a74862a7c1065d9a332f28/artifacts
+end_time: 1756505639587
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 1a660ff989a74862a7c1065d9a332f28
+run_name: secretive-doe-756
+run_uuid: 1a660ff989a74862a7c1065d9a332f28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756503500883
+status: 3
+tags: []
+user_id: joao

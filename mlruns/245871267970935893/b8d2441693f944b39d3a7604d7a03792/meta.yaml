@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/b8d2441693f944b39d3a7604d7a03792/artifacts
+end_time: 1756517354108
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: b8d2441693f944b39d3a7604d7a03792
+run_name: overjoyed-grouse-546
+run_uuid: b8d2441693f944b39d3a7604d7a03792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756514930236
+status: 3
+tags: []
+user_id: joao

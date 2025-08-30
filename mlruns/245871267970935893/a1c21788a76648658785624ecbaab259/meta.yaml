@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a1c21788a76648658785624ecbaab259/artifacts
+end_time: 1756503436675
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a1c21788a76648658785624ecbaab259
+run_name: youthful-shrimp-817
+run_uuid: a1c21788a76648658785624ecbaab259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756501150781
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/469e4f5f65ae4fe68954d481088d739e/artifacts
+end_time: 1756514872961
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 469e4f5f65ae4fe68954d481088d739e
+run_name: polite-duck-936
+run_uuid: 469e4f5f65ae4fe68954d481088d739e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756512685659
+status: 3
+tags: []
+user_id: joao

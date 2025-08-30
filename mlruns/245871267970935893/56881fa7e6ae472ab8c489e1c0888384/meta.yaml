@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/56881fa7e6ae472ab8c489e1c0888384/artifacts
+end_time: 1756512608369
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 56881fa7e6ae472ab8c489e1c0888384
+run_name: fortunate-asp-483
+run_uuid: 56881fa7e6ae472ab8c489e1c0888384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756510267961
+status: 3
+tags: []
+user_id: joao

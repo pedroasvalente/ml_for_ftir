@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/5151c9a08a9e4b91886e64a523e9b017/artifacts
+end_time: 1756505639587
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 5151c9a08a9e4b91886e64a523e9b017
+run_name: gaudy-shrimp-378
+run_uuid: 5151c9a08a9e4b91886e64a523e9b017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756503500883
+status: 3
+tags: []
+user_id: joao

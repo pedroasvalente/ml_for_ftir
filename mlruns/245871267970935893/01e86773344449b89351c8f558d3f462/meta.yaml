@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/01e86773344449b89351c8f558d3f462/artifacts
+end_time: 1756517354108
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 01e86773344449b89351c8f558d3f462
+run_name: capricious-goose-434
+run_uuid: 01e86773344449b89351c8f558d3f462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756514930236
+status: 3
+tags: []
+user_id: joao

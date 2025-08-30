@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/4187f080c3ba4acca87e35c9c9db77c7/artifacts
+end_time: 1756517426250
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 4187f080c3ba4acca87e35c9c9db77c7
+run_name: experiment_linear_deep_learning_vo2max_relative
+run_uuid: 4187f080c3ba4acca87e35c9c9db77c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756489214014
+status: 3
+tags: []
+user_id: joao

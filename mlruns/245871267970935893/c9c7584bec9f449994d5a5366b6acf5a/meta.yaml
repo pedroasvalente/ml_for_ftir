@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/c9c7584bec9f449994d5a5366b6acf5a/artifacts
+end_time: 1756498919894
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: c9c7584bec9f449994d5a5366b6acf5a
+run_name: marvelous-rook-826
+run_uuid: c9c7584bec9f449994d5a5366b6acf5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756496613864
+status: 3
+tags: []
+user_id: joao

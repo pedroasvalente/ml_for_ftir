@@ -1,0 +1,1 @@
+{'filters': 32, 'num_sequences': 1, 'interpretation_filters': 16, 'double_interpretation': True, 'activation_end': 'relu', 'division_per_dim': True, 'compile_kwargs': {'optimizer': 'adam', 'loss': 'mse', 'metrics': ['mae', 'mape']}}

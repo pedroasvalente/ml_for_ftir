@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/6c307966b5734bfba082694571407532/artifacts
+end_time: 1756508020342
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 6c307966b5734bfba082694571407532
+run_name: colorful-boar-147
+run_uuid: 6c307966b5734bfba082694571407532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756505684910
+status: 3
+tags: []
+user_id: joao
