@@ -1,0 +1,1 @@
+{'filters': None, 'kernel_size': 3, 'pool_size': 3, 'num_sequences': 1, 'interpretation_filters': 8, 'double_interpretation': True, 'sklearn_wrapper': True, 'activation_end': 'relu', 'compile_kwargs': {'optimizer': 'adam', 'loss': 'mse', 'metrics': ['mae', 'mape']}}

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/e90bb673062f45be9ef2e0623ed615fd/artifacts
+end_time: 1756586764626
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: e90bb673062f45be9ef2e0623ed615fd
+run_name: persistent-mole-494
+run_uuid: e90bb673062f45be9ef2e0623ed615fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756585532454
+status: 3
+tags: []
+user_id: joao

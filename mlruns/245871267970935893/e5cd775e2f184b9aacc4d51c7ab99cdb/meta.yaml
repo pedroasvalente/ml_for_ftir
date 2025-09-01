@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/e5cd775e2f184b9aacc4d51c7ab99cdb/artifacts
+end_time: 1756618530206
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: e5cd775e2f184b9aacc4d51c7ab99cdb
+run_name: judicious-fowl-585
+run_uuid: e5cd775e2f184b9aacc4d51c7ab99cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756617300461
+status: 3
+tags: []
+user_id: joao

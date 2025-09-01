@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/931caa4e7d76426c9d669263f34ec1da/artifacts
+end_time: 1756602730438
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 931caa4e7d76426c9d669263f34ec1da
+run_name: spiffy-gull-60
+run_uuid: 931caa4e7d76426c9d669263f34ec1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756601498047
+status: 3
+tags: []
+user_id: joao

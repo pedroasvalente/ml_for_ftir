@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/9dc144bcea214ddbbaeddd0f00a6c158/artifacts
+end_time: 1756666061948
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 9dc144bcea214ddbbaeddd0f00a6c158
+run_name: whimsical-roo-755
+run_uuid: 9dc144bcea214ddbbaeddd0f00a6c158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756651367841
+status: 3
+tags: []
+user_id: joao

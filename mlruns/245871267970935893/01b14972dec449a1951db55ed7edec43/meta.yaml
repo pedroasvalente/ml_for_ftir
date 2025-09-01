@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/01b14972dec449a1951db55ed7edec43/artifacts
+end_time: 1756667855090
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 01b14972dec449a1951db55ed7edec43
+run_name: adaptable-shrew-431
+run_uuid: 01b14972dec449a1951db55ed7edec43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756666616402
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/1ba1e51db90f4d1ead99671a3a32f88a/artifacts
+end_time: 1756696817986
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 1ba1e51db90f4d1ead99671a3a32f88a
+run_name: placid-shad-688
+run_uuid: 1ba1e51db90f4d1ead99671a3a32f88a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756683487012
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/576cecbb0855483cb5bd74c75c51e98d/artifacts
+end_time: 1756651312258
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 576cecbb0855483cb5bd74c75c51e98d
+run_name: gaudy-stork-395
+run_uuid: 576cecbb0855483cb5bd74c75c51e98d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756650063089
+status: 3
+tags: []
+user_id: joao

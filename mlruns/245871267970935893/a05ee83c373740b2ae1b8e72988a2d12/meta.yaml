@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a05ee83c373740b2ae1b8e72988a2d12/artifacts
+end_time: 1756683425173
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a05ee83c373740b2ae1b8e72988a2d12
+run_name: worried-croc-720
+run_uuid: a05ee83c373740b2ae1b8e72988a2d12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756682188831
+status: 3
+tags: []
+user_id: joao

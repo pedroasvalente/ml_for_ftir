@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/305fdbdf5a294d57b95ce75e1da83b99/artifacts
+end_time: 1756601399640
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 305fdbdf5a294d57b95ce75e1da83b99
+run_name: painted-slug-779
+run_uuid: 305fdbdf5a294d57b95ce75e1da83b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756586815412
+status: 3
+tags: []
+user_id: joao

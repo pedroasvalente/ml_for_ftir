@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/068d4238232f496aa93f78b7f78acb90/artifacts
+end_time: 1756666061948
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 068d4238232f496aa93f78b7f78acb90
+run_name: rambunctious-asp-303
+run_uuid: 068d4238232f496aa93f78b7f78acb90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756651367841
+status: 3
+tags: []
+user_id: joao

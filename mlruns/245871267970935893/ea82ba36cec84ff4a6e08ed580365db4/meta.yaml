@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/ea82ba36cec84ff4a6e08ed580365db4/artifacts
+end_time: 1756667855090
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: ea82ba36cec84ff4a6e08ed580365db4
+run_name: polite-newt-58
+run_uuid: ea82ba36cec84ff4a6e08ed580365db4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756666616402
+status: 3
+tags: []
+user_id: joao

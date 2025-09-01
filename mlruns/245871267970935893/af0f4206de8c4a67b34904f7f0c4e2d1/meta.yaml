@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/af0f4206de8c4a67b34904f7f0c4e2d1/artifacts
+end_time: 1756633508564
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: af0f4206de8c4a67b34904f7f0c4e2d1
+run_name: amusing-hawk-593
+run_uuid: af0f4206de8c4a67b34904f7f0c4e2d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756618581130
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/25c0907ceb464cbb84a054de64e136de/artifacts
+end_time: 1756617190674
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 25c0907ceb464cbb84a054de64e136de
+run_name: amusing-skink-917
+run_uuid: 25c0907ceb464cbb84a054de64e136de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756602784117
+status: 3
+tags: []
+user_id: joao

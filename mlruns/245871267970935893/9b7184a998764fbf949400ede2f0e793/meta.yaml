@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/9b7184a998764fbf949400ede2f0e793/artifacts
+end_time: 1756572050208
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 9b7184a998764fbf949400ede2f0e793
+run_name: sincere-cow-769
+run_uuid: 9b7184a998764fbf949400ede2f0e793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756558293092
+status: 3
+tags: []
+user_id: joao

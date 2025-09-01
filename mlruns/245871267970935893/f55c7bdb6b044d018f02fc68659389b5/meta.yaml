@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/f55c7bdb6b044d018f02fc68659389b5/artifacts
+end_time: 1756666061948
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: f55c7bdb6b044d018f02fc68659389b5
+run_name: serious-finch-997
+run_uuid: f55c7bdb6b044d018f02fc68659389b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756651367841
+status: 3
+tags: []
+user_id: joao

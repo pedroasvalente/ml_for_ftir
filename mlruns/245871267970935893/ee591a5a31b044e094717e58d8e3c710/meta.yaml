@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/ee591a5a31b044e094717e58d8e3c710/artifacts
+end_time: 1756618530206
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: ee591a5a31b044e094717e58d8e3c710
+run_name: efficient-roo-555
+run_uuid: ee591a5a31b044e094717e58d8e3c710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756617300461
+status: 3
+tags: []
+user_id: joao

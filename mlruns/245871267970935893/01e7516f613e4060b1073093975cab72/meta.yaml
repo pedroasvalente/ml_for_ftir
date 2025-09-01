@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/01e7516f613e4060b1073093975cab72/artifacts
+end_time: 1756651312258
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 01e7516f613e4060b1073093975cab72
+run_name: masked-hawk-650
+run_uuid: 01e7516f613e4060b1073093975cab72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756650063089
+status: 3
+tags: []
+user_id: joao

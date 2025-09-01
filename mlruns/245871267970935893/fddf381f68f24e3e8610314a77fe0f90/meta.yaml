@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/fddf381f68f24e3e8610314a77fe0f90/artifacts
+end_time: 1756572050208
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: fddf381f68f24e3e8610314a77fe0f90
+run_name: calm-tern-801
+run_uuid: fddf381f68f24e3e8610314a77fe0f90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756558293092
+status: 3
+tags: []
+user_id: joao

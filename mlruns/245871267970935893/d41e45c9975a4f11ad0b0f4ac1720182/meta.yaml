@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/d41e45c9975a4f11ad0b0f4ac1720182/artifacts
+end_time: 1756572050208
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: d41e45c9975a4f11ad0b0f4ac1720182
+run_name: painted-croc-364
+run_uuid: d41e45c9975a4f11ad0b0f4ac1720182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756558293092
+status: 3
+tags: []
+user_id: joao

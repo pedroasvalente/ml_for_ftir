@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/d19550b88a0a4050a961d87b6493af53/artifacts
+end_time: 1756649923430
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: d19550b88a0a4050a961d87b6493af53
+run_name: adaptable-kite-235
+run_uuid: d19550b88a0a4050a961d87b6493af53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634909996
+status: 3
+tags: []
+user_id: joao

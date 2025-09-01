@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a11a2b4d3b98440886942bab2bd5504f/artifacts
+end_time: 1756683425173
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a11a2b4d3b98440886942bab2bd5504f
+run_name: magnificent-kite-572
+run_uuid: a11a2b4d3b98440886942bab2bd5504f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756682188831
+status: 3
+tags: []
+user_id: joao

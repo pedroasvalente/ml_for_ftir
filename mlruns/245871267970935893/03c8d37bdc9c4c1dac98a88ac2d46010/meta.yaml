@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/03c8d37bdc9c4c1dac98a88ac2d46010/artifacts
+end_time: 1756696817986
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 03c8d37bdc9c4c1dac98a88ac2d46010
+run_name: welcoming-doe-38
+run_uuid: 03c8d37bdc9c4c1dac98a88ac2d46010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756683487012
+status: 3
+tags: []
+user_id: joao

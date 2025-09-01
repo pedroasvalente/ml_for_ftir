@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/6c989ad8fa444d11bb7b2db7b443b08f/artifacts
+end_time: 1756634857587
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 6c989ad8fa444d11bb7b2db7b443b08f
+run_name: grandiose-mouse-613
+run_uuid: 6c989ad8fa444d11bb7b2db7b443b08f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633639856
+status: 3
+tags: []
+user_id: joao

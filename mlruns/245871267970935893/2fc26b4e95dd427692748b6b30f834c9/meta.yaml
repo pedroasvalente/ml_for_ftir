@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/2fc26b4e95dd427692748b6b30f834c9/artifacts
+end_time: 1756649923430
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 2fc26b4e95dd427692748b6b30f834c9
+run_name: gentle-carp-792
+run_uuid: 2fc26b4e95dd427692748b6b30f834c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634909996
+status: 3
+tags: []
+user_id: joao

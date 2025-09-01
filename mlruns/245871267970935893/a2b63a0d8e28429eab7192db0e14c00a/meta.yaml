@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/a2b63a0d8e28429eab7192db0e14c00a/artifacts
+end_time: 1756633508564
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: a2b63a0d8e28429eab7192db0e14c00a
+run_name: nebulous-wren-800
+run_uuid: a2b63a0d8e28429eab7192db0e14c00a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756618581130
+status: 3
+tags: []
+user_id: joao

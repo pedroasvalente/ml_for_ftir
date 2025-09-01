@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/b19c2bb42ecf47f18e2266dd2b3eb468/artifacts
+end_time: 1756651319040
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: b19c2bb42ecf47f18e2266dd2b3eb468
+run_name: CNN Regressor
+run_uuid: b19c2bb42ecf47f18e2266dd2b3eb468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756650063089
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/f05fac86ac9c4a94af328f11087ca0dc/artifacts
+end_time: 1756649923430
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: f05fac86ac9c4a94af328f11087ca0dc
+run_name: handsome-stork-921
+run_uuid: f05fac86ac9c4a94af328f11087ca0dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634909996
+status: 3
+tags: []
+user_id: joao

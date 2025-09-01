@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/f073f39cad8842d5a7e042671c6dcf21/artifacts
+end_time: 1756682059755
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: f073f39cad8842d5a7e042671c6dcf21
+run_name: puzzled-boar-777
+run_uuid: f073f39cad8842d5a7e042671c6dcf21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756667912140
+status: 3
+tags: []
+user_id: joao

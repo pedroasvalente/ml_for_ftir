@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/5846d4ee1b6449a8a3a0023a3fc8bf8a/artifacts
+end_time: 1756585416695
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 5846d4ee1b6449a8a3a0023a3fc8bf8a
+run_name: zealous-duck-360
+run_uuid: 5846d4ee1b6449a8a3a0023a3fc8bf8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756572152656
+status: 3
+tags: []
+user_id: joao

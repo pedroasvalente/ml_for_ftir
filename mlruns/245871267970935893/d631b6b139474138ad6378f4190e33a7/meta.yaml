@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/d631b6b139474138ad6378f4190e33a7/artifacts
+end_time: 1756618530206
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: d631b6b139474138ad6378f4190e33a7
+run_name: serious-lark-822
+run_uuid: d631b6b139474138ad6378f4190e33a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756617300461
+status: 3
+tags: []
+user_id: joao
