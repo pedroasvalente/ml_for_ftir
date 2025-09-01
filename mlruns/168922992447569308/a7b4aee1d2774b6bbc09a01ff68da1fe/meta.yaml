@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/a7b4aee1d2774b6bbc09a01ff68da1fe/artifacts
+end_time: 1756597000629
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: a7b4aee1d2774b6bbc09a01ff68da1fe
+run_name: crawling-goose-465
+run_uuid: a7b4aee1d2774b6bbc09a01ff68da1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596970177
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/5b25e2cfdab44deaa787231edcb694de/artifacts
+end_time: 1756675295162
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 5b25e2cfdab44deaa787231edcb694de
+run_name: caring-wasp-466
+run_uuid: 5b25e2cfdab44deaa787231edcb694de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675291775
+status: 3
+tags: []
+user_id: pedroasvalente

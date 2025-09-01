@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/d28be2046f5543ee9bae49783ef99bf1/artifacts
+end_time: 1756648667244
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: d28be2046f5543ee9bae49783ef99bf1
+run_name: thundering-shrew-144
+run_uuid: d28be2046f5543ee9bae49783ef99bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756648538805
+status: 3
+tags: []
+user_id: pedroasvalente

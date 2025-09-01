@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/a6e6da74092e40a8aa35b83e2aa08191/artifacts
+end_time: 1756634652018
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: a6e6da74092e40a8aa35b83e2aa08191
+run_name: gaudy-cub-934
+run_uuid: a6e6da74092e40a8aa35b83e2aa08191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634629167
+status: 3
+tags: []
+user_id: pedroasvalente

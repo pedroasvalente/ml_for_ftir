@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/11ca00e3ce394c1a838368256e32d74a/artifacts
+end_time: 1756633409415
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 11ca00e3ce394c1a838368256e32d74a
+run_name: traveling-bass-811
+run_uuid: 11ca00e3ce394c1a838368256e32d74a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633344225
+status: 3
+tags: []
+user_id: pedroasvalente

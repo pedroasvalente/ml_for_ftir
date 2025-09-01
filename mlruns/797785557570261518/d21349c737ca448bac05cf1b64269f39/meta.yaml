@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/d21349c737ca448bac05cf1b64269f39/artifacts
+end_time: 1756635819071
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: d21349c737ca448bac05cf1b64269f39
+run_name: skillful-gnat-98
+run_uuid: d21349c737ca448bac05cf1b64269f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635671639
+status: 3
+tags: []
+user_id: pedroasvalente

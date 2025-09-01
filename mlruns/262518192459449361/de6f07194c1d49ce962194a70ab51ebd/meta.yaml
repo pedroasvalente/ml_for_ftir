@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/de6f07194c1d49ce962194a70ab51ebd/artifacts
+end_time: 1756674829716
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: de6f07194c1d49ce962194a70ab51ebd
+run_name: whimsical-carp-217
+run_uuid: de6f07194c1d49ce962194a70ab51ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674817386
+status: 3
+tags: []
+user_id: pedroasvalente

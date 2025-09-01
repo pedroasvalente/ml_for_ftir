@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/8a18a0cd99de4e60bb76e324d62d6b69/artifacts
+end_time: 1756647243972
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 8a18a0cd99de4e60bb76e324d62d6b69
+run_name: carefree-flea-575
+run_uuid: 8a18a0cd99de4e60bb76e324d62d6b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647240507
+status: 3
+tags: []
+user_id: pedroasvalente

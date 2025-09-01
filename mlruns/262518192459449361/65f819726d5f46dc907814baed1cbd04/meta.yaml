@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/65f819726d5f46dc907814baed1cbd04/artifacts
+end_time: 1756674525050
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 65f819726d5f46dc907814baed1cbd04
+run_name: rare-robin-952
+run_uuid: 65f819726d5f46dc907814baed1cbd04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674508175
+status: 3
+tags: []
+user_id: pedroasvalente

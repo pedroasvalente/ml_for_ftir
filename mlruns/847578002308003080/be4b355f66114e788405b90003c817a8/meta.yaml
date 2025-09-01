@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/be4b355f66114e788405b90003c817a8/artifacts
+end_time: 1756646265433
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: be4b355f66114e788405b90003c817a8
+run_name: silent-fly-357
+run_uuid: be4b355f66114e788405b90003c817a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646246457
+status: 3
+tags: []
+user_id: pedroasvalente

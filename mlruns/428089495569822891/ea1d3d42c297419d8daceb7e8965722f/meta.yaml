@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/ea1d3d42c297419d8daceb7e8965722f/artifacts
+end_time: 1756661398738
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: ea1d3d42c297419d8daceb7e8965722f
+run_name: indecisive-kite-577
+run_uuid: ea1d3d42c297419d8daceb7e8965722f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661385259
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/905869d305d04804928d707d8b91c1bc/artifacts
+end_time: 1756674678664
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 905869d305d04804928d707d8b91c1bc
+run_name: exultant-mink-363
+run_uuid: 905869d305d04804928d707d8b91c1bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674651838
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/867021c018d74efe91218981757dee12/artifacts
+end_time: 1756635836530
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 867021c018d74efe91218981757dee12
+run_name: lyrical-pig-451
+run_uuid: 867021c018d74efe91218981757dee12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635825167
+status: 3
+tags: []
+user_id: pedroasvalente

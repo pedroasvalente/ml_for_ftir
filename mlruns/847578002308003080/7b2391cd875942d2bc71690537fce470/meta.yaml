@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/7b2391cd875942d2bc71690537fce470/artifacts
+end_time: 1756647442029
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 7b2391cd875942d2bc71690537fce470
+run_name: melodic-swan-259
+run_uuid: 7b2391cd875942d2bc71690537fce470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647355039
+status: 3
+tags: []
+user_id: pedroasvalente

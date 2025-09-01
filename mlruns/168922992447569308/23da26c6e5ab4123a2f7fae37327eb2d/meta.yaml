@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/23da26c6e5ab4123a2f7fae37327eb2d/artifacts
+end_time: 1756596670715
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 23da26c6e5ab4123a2f7fae37327eb2d
+run_name: bustling-hare-228
+run_uuid: 23da26c6e5ab4123a2f7fae37327eb2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596645496
+status: 3
+tags: []
+user_id: pedroasvalente

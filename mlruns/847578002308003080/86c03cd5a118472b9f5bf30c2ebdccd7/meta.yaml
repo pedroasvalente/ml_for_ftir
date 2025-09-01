@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/86c03cd5a118472b9f5bf30c2ebdccd7/artifacts
+end_time: 1756646364737
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 86c03cd5a118472b9f5bf30c2ebdccd7
+run_name: dazzling-sloth-319
+run_uuid: 86c03cd5a118472b9f5bf30c2ebdccd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646301458
+status: 3
+tags: []
+user_id: pedroasvalente

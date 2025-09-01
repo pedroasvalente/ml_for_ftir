@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/d493a5342efa440ab63237bc7ab08eb8/artifacts
+end_time: 1756554129856
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: d493a5342efa440ab63237bc7ab08eb8
+run_name: likeable-fly-12
+run_uuid: d493a5342efa440ab63237bc7ab08eb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554118748
+status: 3
+tags: []
+user_id: pedroasvalente

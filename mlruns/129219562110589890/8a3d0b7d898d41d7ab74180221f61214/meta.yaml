@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/8a3d0b7d898d41d7ab74180221f61214/artifacts
+end_time: 1756552799523
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 8a3d0b7d898d41d7ab74180221f61214
+run_name: traveling-mole-164
+run_uuid: 8a3d0b7d898d41d7ab74180221f61214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552775735
+status: 3
+tags: []
+user_id: pedroasvalente

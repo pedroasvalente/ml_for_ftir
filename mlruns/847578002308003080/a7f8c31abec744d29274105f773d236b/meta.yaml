@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/a7f8c31abec744d29274105f773d236b/artifacts
+end_time: 1756646629427
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: a7f8c31abec744d29274105f773d236b
+run_name: luxuriant-shark-605
+run_uuid: a7f8c31abec744d29274105f773d236b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646617129
+status: 3
+tags: []
+user_id: pedroasvalente

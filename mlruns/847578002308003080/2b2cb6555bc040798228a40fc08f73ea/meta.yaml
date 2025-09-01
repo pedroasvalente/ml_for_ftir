@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/2b2cb6555bc040798228a40fc08f73ea/artifacts
+end_time: 1756647115219
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 2b2cb6555bc040798228a40fc08f73ea
+run_name: merciful-wren-640
+run_uuid: 2b2cb6555bc040798228a40fc08f73ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647111833
+status: 3
+tags: []
+user_id: pedroasvalente

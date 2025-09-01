@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/933e014b15b547fdbaf23eff197642fc/artifacts
+end_time: 1756553848469
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 933e014b15b547fdbaf23eff197642fc
+run_name: merciful-stag-814
+run_uuid: 933e014b15b547fdbaf23eff197642fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553845065
+status: 3
+tags: []
+user_id: pedroasvalente

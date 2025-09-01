@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/9b5f1cd641ed46e5aee29f0b36be81ae/artifacts
+end_time: 1756597568472
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 9b5f1cd641ed46e5aee29f0b36be81ae
+run_name: salty-rat-773
+run_uuid: 9b5f1cd641ed46e5aee29f0b36be81ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756597438672
+status: 3
+tags: []
+user_id: pedroasvalente

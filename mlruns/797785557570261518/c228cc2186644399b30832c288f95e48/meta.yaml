@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/c228cc2186644399b30832c288f95e48/artifacts
+end_time: 1756634514636
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: c228cc2186644399b30832c288f95e48
+run_name: sedate-fly-566
+run_uuid: c228cc2186644399b30832c288f95e48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634502303
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/d542847fb74342da9efae32bfade33e3/artifacts
+end_time: 1756596007964
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: d542847fb74342da9efae32bfade33e3
+run_name: enchanting-gull-128
+run_uuid: d542847fb74342da9efae32bfade33e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756595985436
+status: 3
+tags: []
+user_id: pedroasvalente

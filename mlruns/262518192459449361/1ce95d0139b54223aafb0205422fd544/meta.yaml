@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/1ce95d0139b54223aafb0205422fd544/artifacts
+end_time: 1756674785185
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 1ce95d0139b54223aafb0205422fd544
+run_name: ambitious-sow-759
+run_uuid: 1ce95d0139b54223aafb0205422fd544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674772612
+status: 3
+tags: []
+user_id: pedroasvalente

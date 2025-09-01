@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/145705e6630f485eb55c4f33102c3698/artifacts
+end_time: 1756634843945
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 145705e6630f485eb55c4f33102c3698
+run_name: welcoming-fowl-486
+run_uuid: 145705e6630f485eb55c4f33102c3698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634818823
+status: 3
+tags: []
+user_id: pedroasvalente

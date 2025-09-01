@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/a1226132e54e4a8ebdfb4ba72cf7ca27/artifacts
+end_time: 1756646588655
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: a1226132e54e4a8ebdfb4ba72cf7ca27
+run_name: smiling-hog-812
+run_uuid: a1226132e54e4a8ebdfb4ba72cf7ca27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646576491
+status: 3
+tags: []
+user_id: pedroasvalente

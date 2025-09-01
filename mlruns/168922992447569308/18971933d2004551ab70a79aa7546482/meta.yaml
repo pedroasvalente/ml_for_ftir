@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/18971933d2004551ab70a79aa7546482/artifacts
+end_time: 1756598230558
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 18971933d2004551ab70a79aa7546482
+run_name: honorable-fly-174
+run_uuid: 18971933d2004551ab70a79aa7546482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756598218519
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/7d487dea81ea40bf8320d2b4ed902b70/artifacts
+end_time: 1756662107851
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 7d487dea81ea40bf8320d2b4ed902b70
+run_name: receptive-duck-368
+run_uuid: 7d487dea81ea40bf8320d2b4ed902b70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662084646
+status: 3
+tags: []
+user_id: pedroasvalente

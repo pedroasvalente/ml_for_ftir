@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/a0fc4e33a26149f896946ea29965f52b/artifacts
+end_time: 1756554076751
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: a0fc4e33a26149f896946ea29965f52b
+run_name: fortunate-snake-575
+run_uuid: a0fc4e33a26149f896946ea29965f52b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554051616
+status: 3
+tags: []
+user_id: pedroasvalente

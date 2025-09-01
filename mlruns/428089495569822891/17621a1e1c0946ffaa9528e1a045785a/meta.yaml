@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/17621a1e1c0946ffaa9528e1a045785a/artifacts
+end_time: 1756661495474
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 17621a1e1c0946ffaa9528e1a045785a
+run_name: salty-crow-166
+run_uuid: 17621a1e1c0946ffaa9528e1a045785a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661482426
+status: 3
+tags: []
+user_id: pedroasvalente

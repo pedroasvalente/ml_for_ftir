@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/4108db9dcfc74878a2de01c45569a69d/artifacts
+end_time: 1756634695760
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 4108db9dcfc74878a2de01c45569a69d
+run_name: beautiful-hound-682
+run_uuid: 4108db9dcfc74878a2de01c45569a69d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634692298
+status: 3
+tags: []
+user_id: pedroasvalente

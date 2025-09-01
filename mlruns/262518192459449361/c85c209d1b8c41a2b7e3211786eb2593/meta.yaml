@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/c85c209d1b8c41a2b7e3211786eb2593/artifacts
+end_time: 1756675148506
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: c85c209d1b8c41a2b7e3211786eb2593
+run_name: nosy-ram-767
+run_uuid: c85c209d1b8c41a2b7e3211786eb2593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675145081
+status: 3
+tags: []
+user_id: pedroasvalente

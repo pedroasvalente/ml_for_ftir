@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/4c4a3b78fad84ad1b2f61cb37c404c54/artifacts
+end_time: 1756675064049
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 4c4a3b78fad84ad1b2f61cb37c404c54
+run_name: dapper-carp-565
+run_uuid: 4c4a3b78fad84ad1b2f61cb37c404c54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675060519
+status: 3
+tags: []
+user_id: pedroasvalente

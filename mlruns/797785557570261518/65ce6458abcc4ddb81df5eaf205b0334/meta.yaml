@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/65ce6458abcc4ddb81df5eaf205b0334/artifacts
+end_time: 1756634695760
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 65ce6458abcc4ddb81df5eaf205b0334
+run_name: painted-hound-577
+run_uuid: 65ce6458abcc4ddb81df5eaf205b0334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634692298
+status: 3
+tags: []
+user_id: pedroasvalente

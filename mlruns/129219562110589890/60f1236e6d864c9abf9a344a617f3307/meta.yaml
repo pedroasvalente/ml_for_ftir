@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/60f1236e6d864c9abf9a344a617f3307/artifacts
+end_time: 1756553702155
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 60f1236e6d864c9abf9a344a617f3307
+run_name: bald-colt-258
+run_uuid: 60f1236e6d864c9abf9a344a617f3307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553689307
+status: 3
+tags: []
+user_id: pedroasvalente

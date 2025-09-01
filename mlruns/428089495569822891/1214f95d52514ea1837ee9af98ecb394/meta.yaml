@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/1214f95d52514ea1837ee9af98ecb394/artifacts
+end_time: 1756661573733
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 1214f95d52514ea1837ee9af98ecb394
+run_name: suave-jay-79
+run_uuid: 1214f95d52514ea1837ee9af98ecb394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661545715
+status: 3
+tags: []
+user_id: pedroasvalente

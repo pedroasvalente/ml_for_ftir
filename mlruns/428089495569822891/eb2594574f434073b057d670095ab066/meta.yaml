@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/eb2594574f434073b057d670095ab066/artifacts
+end_time: 1756660668233
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: eb2594574f434073b057d670095ab066
+run_name: stately-lynx-599
+run_uuid: eb2594574f434073b057d670095ab066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756660657129
+status: 3
+tags: []
+user_id: pedroasvalente

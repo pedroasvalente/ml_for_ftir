@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/844319f265274de080c5bc34a62adb25/artifacts
+end_time: 1756661636299
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 844319f265274de080c5bc34a62adb25
+run_name: invincible-crane-658
+run_uuid: 844319f265274de080c5bc34a62adb25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661623152
+status: 3
+tags: []
+user_id: pedroasvalente

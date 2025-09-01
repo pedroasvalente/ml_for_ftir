@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/ea70d44e20e4483b94acb7d97fa6291b/artifacts
+end_time: 1756675586302
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: ea70d44e20e4483b94acb7d97fa6291b
+run_name: receptive-jay-34
+run_uuid: ea70d44e20e4483b94acb7d97fa6291b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675483161
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/c449d14f1c7a40fbad7869f52f60961c/artifacts
+end_time: 1756554834268
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: c449d14f1c7a40fbad7869f52f60961c
+run_name: placid-whale-386
+run_uuid: c449d14f1c7a40fbad7869f52f60961c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554699796
+status: 3
+tags: []
+user_id: pedroasvalente

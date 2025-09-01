@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/5d53bcc486fa44769c898a3aa2a11e8d/artifacts
+end_time: 1756674740213
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 5d53bcc486fa44769c898a3aa2a11e8d
+run_name: charming-snake-393
+run_uuid: 5d53bcc486fa44769c898a3aa2a11e8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674727657
+status: 3
+tags: []
+user_id: pedroasvalente

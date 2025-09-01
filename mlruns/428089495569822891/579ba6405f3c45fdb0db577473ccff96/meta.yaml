@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/579ba6405f3c45fdb0db577473ccff96/artifacts
+end_time: 1756662551505
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 579ba6405f3c45fdb0db577473ccff96
+run_name: languid-fish-555
+run_uuid: 579ba6405f3c45fdb0db577473ccff96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662540101
+status: 3
+tags: []
+user_id: pedroasvalente

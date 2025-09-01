@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/0d85029a07284b14a2c9a354797aecb2/artifacts
+end_time: 1756555164074
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 0d85029a07284b14a2c9a354797aecb2
+run_name: fearless-sponge-892
+run_uuid: 0d85029a07284b14a2c9a354797aecb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756555152741
+status: 3
+tags: []
+user_id: pedroasvalente

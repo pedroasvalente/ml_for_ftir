@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/4cecd28453974c66950d6877a2505ea7/artifacts
+end_time: 1756675295162
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 4cecd28453974c66950d6877a2505ea7
+run_name: bemused-crow-314
+run_uuid: 4cecd28453974c66950d6877a2505ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675291775
+status: 3
+tags: []
+user_id: pedroasvalente

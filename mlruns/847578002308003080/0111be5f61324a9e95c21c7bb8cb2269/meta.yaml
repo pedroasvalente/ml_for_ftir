@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/0111be5f61324a9e95c21c7bb8cb2269/artifacts
+end_time: 1756647038286
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 0111be5f61324a9e95c21c7bb8cb2269
+run_name: ambitious-grub-94
+run_uuid: 0111be5f61324a9e95c21c7bb8cb2269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647012524
+status: 3
+tags: []
+user_id: pedroasvalente

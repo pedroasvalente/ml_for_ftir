@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/c0cd53ddf91848cca8ee71952b07516e/artifacts
+end_time: 1756647835644
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: c0cd53ddf91848cca8ee71952b07516e
+run_name: zealous-hare-525
+run_uuid: c0cd53ddf91848cca8ee71952b07516e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647713872
+status: 3
+tags: []
+user_id: pedroasvalente

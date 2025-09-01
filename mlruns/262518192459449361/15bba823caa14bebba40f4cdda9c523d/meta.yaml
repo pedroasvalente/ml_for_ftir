@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/15bba823caa14bebba40f4cdda9c523d/artifacts
+end_time: 1756674407412
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 15bba823caa14bebba40f4cdda9c523d
+run_name: delightful-crab-598
+run_uuid: 15bba823caa14bebba40f4cdda9c523d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674387079
+status: 3
+tags: []
+user_id: pedroasvalente

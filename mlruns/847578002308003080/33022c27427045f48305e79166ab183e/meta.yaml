@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/33022c27427045f48305e79166ab183e/artifacts
+end_time: 1756647115219
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 33022c27427045f48305e79166ab183e
+run_name: redolent-crow-638
+run_uuid: 33022c27427045f48305e79166ab183e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647111833
+status: 3
+tags: []
+user_id: pedroasvalente

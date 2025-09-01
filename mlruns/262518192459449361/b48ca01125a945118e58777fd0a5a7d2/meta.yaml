@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/b48ca01125a945118e58777fd0a5a7d2/artifacts
+end_time: 1756674814023
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: b48ca01125a945118e58777fd0a5a7d2
+run_name: fortunate-boar-976
+run_uuid: b48ca01125a945118e58777fd0a5a7d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674788520
+status: 3
+tags: []
+user_id: pedroasvalente

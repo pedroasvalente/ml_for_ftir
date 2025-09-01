@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/07ce8fcd8fdd4a8aa0190065814a7de4/artifacts
+end_time: 1756598393422
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 07ce8fcd8fdd4a8aa0190065814a7de4
+run_name: polite-loon-47
+run_uuid: 07ce8fcd8fdd4a8aa0190065814a7de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756598381803
+status: 3
+tags: []
+user_id: pedroasvalente

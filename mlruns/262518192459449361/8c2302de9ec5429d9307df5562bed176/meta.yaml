@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/8c2302de9ec5429d9307df5562bed176/artifacts
+end_time: 1756675223811
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 8c2302de9ec5429d9307df5562bed176
+run_name: bedecked-zebra-475
+run_uuid: 8c2302de9ec5429d9307df5562bed176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675220155
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/bbbead6b7e394f01b22db94e571fe924/artifacts
+end_time: 1756597150485
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: bbbead6b7e394f01b22db94e571fe924
+run_name: colorful-zebra-731
+run_uuid: bbbead6b7e394f01b22db94e571fe924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756597122664
+status: 3
+tags: []
+user_id: pedroasvalente

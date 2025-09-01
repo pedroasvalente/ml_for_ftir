@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/c46f4d30551c4a4f862cbdd5147212d0/artifacts
+end_time: 1756598212999
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: c46f4d30551c4a4f862cbdd5147212d0
+run_name: calm-dog-353
+run_uuid: c46f4d30551c4a4f862cbdd5147212d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756598090533
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/2438c933b7024d82b1c6e2a02b35aef1/artifacts
+end_time: 1756662278193
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 2438c933b7024d82b1c6e2a02b35aef1
+run_name: adorable-fox-915
+run_uuid: 2438c933b7024d82b1c6e2a02b35aef1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662266759
+status: 3
+tags: []
+user_id: pedroasvalente

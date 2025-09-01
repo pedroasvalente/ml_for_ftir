@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/d3d3bacbfc97418ea48103d5b46bc067/artifacts
+end_time: 1756674056300
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: d3d3bacbfc97418ea48103d5b46bc067
+run_name: shivering-calf-637
+run_uuid: d3d3bacbfc97418ea48103d5b46bc067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674034495
+status: 3
+tags: []
+user_id: pedroasvalente

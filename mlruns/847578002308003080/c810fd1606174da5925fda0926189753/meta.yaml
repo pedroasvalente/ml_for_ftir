@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/c810fd1606174da5925fda0926189753/artifacts
+end_time: 1756646742480
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: c810fd1606174da5925fda0926189753
+run_name: incongruous-kite-178
+run_uuid: c810fd1606174da5925fda0926189753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646717803
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/6a6bc37bd940410fb14ec0d6f29dafd4/artifacts
+end_time: 1756553077740
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 6a6bc37bd940410fb14ec0d6f29dafd4
+run_name: nervous-moth-569
+run_uuid: 6a6bc37bd940410fb14ec0d6f29dafd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553017236
+status: 3
+tags: []
+user_id: pedroasvalente

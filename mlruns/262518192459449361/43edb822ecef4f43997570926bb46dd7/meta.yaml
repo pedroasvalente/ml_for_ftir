@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/43edb822ecef4f43997570926bb46dd7/artifacts
+end_time: 1756676156387
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 43edb822ecef4f43997570926bb46dd7
+run_name: rogue-flea-106
+run_uuid: 43edb822ecef4f43997570926bb46dd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756676026883
+status: 3
+tags: []
+user_id: pedroasvalente

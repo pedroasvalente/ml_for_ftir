@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/c385d6469ec446fda05dc19268bd0544/artifacts
+end_time: 1756661542247
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: c385d6469ec446fda05dc19268bd0544
+run_name: crawling-chimp-758
+run_uuid: c385d6469ec446fda05dc19268bd0544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661529361
+status: 3
+tags: []
+user_id: pedroasvalente

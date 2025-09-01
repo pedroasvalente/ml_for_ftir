@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/b682069b7ac644ba8039c94f4712a244/artifacts
+end_time: 1756636266816
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: b682069b7ac644ba8039c94f4712a244
+run_name: judicious-doe-968
+run_uuid: b682069b7ac644ba8039c94f4712a244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756636255046
+status: 3
+tags: []
+user_id: pedroasvalente

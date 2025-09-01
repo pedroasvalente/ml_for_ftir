@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/b5e89ff0161e415ab8a77cdae6061c01/artifacts
+end_time: 1756670701142
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: b5e89ff0161e415ab8a77cdae6061c01
+run_name: PLASMA
+run_uuid: b5e89ff0161e415ab8a77cdae6061c01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756660676735
+status: 3
+tags: []
+user_id: pedroasvalente

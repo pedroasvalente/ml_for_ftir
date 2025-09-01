@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/dde6c25118f449a584237790a9779a12/artifacts
+end_time: 1756648127573
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: dde6c25118f449a584237790a9779a12
+run_name: selective-stoat-634
+run_uuid: dde6c25118f449a584237790a9779a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756648116100
+status: 3
+tags: []
+user_id: pedroasvalente

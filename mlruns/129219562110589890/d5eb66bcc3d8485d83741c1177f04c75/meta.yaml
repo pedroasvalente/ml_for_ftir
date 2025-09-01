@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/d5eb66bcc3d8485d83741c1177f04c75/artifacts
+end_time: 1756554007939
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: d5eb66bcc3d8485d83741c1177f04c75
+run_name: gaudy-sponge-268
+run_uuid: d5eb66bcc3d8485d83741c1177f04c75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554004617
+status: 3
+tags: []
+user_id: pedroasvalente

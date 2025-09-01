@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/fd76f47855954471a0f046dd052136e5/artifacts
+end_time: 1756675887458
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: fd76f47855954471a0f046dd052136e5
+run_name: capricious-stork-163
+run_uuid: fd76f47855954471a0f046dd052136e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675875585
+status: 3
+tags: []
+user_id: pedroasvalente

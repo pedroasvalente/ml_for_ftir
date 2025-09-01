@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/6581ebc195e04ec9a08e39d7a75ac1ec/artifacts
+end_time: 1756662278193
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 6581ebc195e04ec9a08e39d7a75ac1ec
+run_name: adorable-kite-76
+run_uuid: 6581ebc195e04ec9a08e39d7a75ac1ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662266759
+status: 3
+tags: []
+user_id: pedroasvalente

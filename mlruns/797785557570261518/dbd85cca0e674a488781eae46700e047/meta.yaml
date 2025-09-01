@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/dbd85cca0e674a488781eae46700e047/artifacts
+end_time: 1756634315639
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: dbd85cca0e674a488781eae46700e047
+run_name: defiant-conch-913
+run_uuid: dbd85cca0e674a488781eae46700e047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634287089
+status: 3
+tags: []
+user_id: pedroasvalente

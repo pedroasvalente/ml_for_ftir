@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/f243a61b2c61425a8154b89682dd8381/artifacts
+end_time: 1756596670715
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: f243a61b2c61425a8154b89682dd8381
+run_name: funny-fox-471
+run_uuid: f243a61b2c61425a8154b89682dd8381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596645496
+status: 3
+tags: []
+user_id: pedroasvalente

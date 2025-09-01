@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/a3fc7f00a9f749f7a194de31e37d3fe1/artifacts
+end_time: 1756598230558
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: a3fc7f00a9f749f7a194de31e37d3fe1
+run_name: bald-chimp-671
+run_uuid: a3fc7f00a9f749f7a194de31e37d3fe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756598218519
+status: 3
+tags: []
+user_id: pedroasvalente

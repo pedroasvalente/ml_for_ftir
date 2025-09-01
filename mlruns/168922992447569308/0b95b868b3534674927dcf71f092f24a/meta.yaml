@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/0b95b868b3534674927dcf71f092f24a/artifacts
+end_time: 1756596670715
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 0b95b868b3534674927dcf71f092f24a
+run_name: angry-goose-791
+run_uuid: 0b95b868b3534674927dcf71f092f24a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596645496
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/254e48a4c406434b9df6d406317f3789/artifacts
+end_time: 1756675870172
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 254e48a4c406434b9df6d406317f3789
+run_name: upset-snake-161
+run_uuid: 254e48a4c406434b9df6d406317f3789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675741249
+status: 3
+tags: []
+user_id: pedroasvalente

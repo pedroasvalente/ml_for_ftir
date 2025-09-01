@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/f4e195618859453ea848a7294ea7e074/artifacts
+end_time: 1756662261380
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: f4e195618859453ea848a7294ea7e074
+run_name: illustrious-jay-935
+run_uuid: f4e195618859453ea848a7294ea7e074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662166456
+status: 3
+tags: []
+user_id: pedroasvalente

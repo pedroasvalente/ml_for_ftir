@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/b4ce3e625ff24a78921289e6569b556c/artifacts
+end_time: 1756634587924
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: b4ce3e625ff24a78921289e6569b556c
+run_name: blushing-rat-798
+run_uuid: b4ce3e625ff24a78921289e6569b556c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634584365
+status: 3
+tags: []
+user_id: pedroasvalente

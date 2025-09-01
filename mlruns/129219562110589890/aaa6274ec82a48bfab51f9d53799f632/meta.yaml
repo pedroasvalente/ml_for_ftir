@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/aaa6274ec82a48bfab51f9d53799f632/artifacts
+end_time: 1756555584961
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: aaa6274ec82a48bfab51f9d53799f632
+run_name: enchanting-bat-915
+run_uuid: aaa6274ec82a48bfab51f9d53799f632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756555459957
+status: 3
+tags: []
+user_id: pedroasvalente

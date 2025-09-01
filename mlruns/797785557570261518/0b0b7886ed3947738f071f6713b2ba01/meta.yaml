@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/0b0b7886ed3947738f071f6713b2ba01/artifacts
+end_time: 1756634267267
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 0b0b7886ed3947738f071f6713b2ba01
+run_name: burly-crane-320
+run_uuid: 0b0b7886ed3947738f071f6713b2ba01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634241502
+status: 3
+tags: []
+user_id: pedroasvalente

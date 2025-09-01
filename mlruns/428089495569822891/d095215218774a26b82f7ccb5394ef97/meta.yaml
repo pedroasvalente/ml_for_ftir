@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/d095215218774a26b82f7ccb5394ef97/artifacts
+end_time: 1756662686743
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: d095215218774a26b82f7ccb5394ef97
+run_name: judicious-dog-870
+run_uuid: d095215218774a26b82f7ccb5394ef97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662557307
+status: 3
+tags: []
+user_id: pedroasvalente

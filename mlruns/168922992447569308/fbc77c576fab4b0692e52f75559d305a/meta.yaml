@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/fbc77c576fab4b0692e52f75559d305a/artifacts
+end_time: 1756596798751
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: fbc77c576fab4b0692e52f75559d305a
+run_name: suave-horse-547
+run_uuid: fbc77c576fab4b0692e52f75559d305a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596770374
+status: 3
+tags: []
+user_id: pedroasvalente

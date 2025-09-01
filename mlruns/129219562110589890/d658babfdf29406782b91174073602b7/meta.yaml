@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/d658babfdf29406782b91174073602b7/artifacts
+end_time: 1756553879844
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: d658babfdf29406782b91174073602b7
+run_name: defiant-squirrel-826
+run_uuid: d658babfdf29406782b91174073602b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553851948
+status: 3
+tags: []
+user_id: pedroasvalente

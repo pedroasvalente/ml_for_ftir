@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/6bab2b7c63294e66bd0169d44436db63/artifacts
+end_time: 1756606261477
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 6bab2b7c63294e66bd0169d44436db63
+run_name: experiment_linear_h2o_L
+run_uuid: 6bab2b7c63294e66bd0169d44436db63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756595599332
+status: 3
+tags: []
+user_id: pedroasvalente

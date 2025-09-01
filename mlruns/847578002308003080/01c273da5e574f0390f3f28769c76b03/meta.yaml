@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/01c273da5e574f0390f3f28769c76b03/artifacts
+end_time: 1756647075399
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 01c273da5e574f0390f3f28769c76b03
+run_name: invincible-mink-854
+run_uuid: 01c273da5e574f0390f3f28769c76b03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647049647
+status: 3
+tags: []
+user_id: pedroasvalente

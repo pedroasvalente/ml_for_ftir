@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/d5a28a4f79764ed884b47cf0bc8c9e32/artifacts
+end_time: 1756552924522
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: d5a28a4f79764ed884b47cf0bc8c9e32
+run_name: blushing-trout-255
+run_uuid: d5a28a4f79764ed884b47cf0bc8c9e32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552858684
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/d8524992056f411faca2624a38def495/artifacts
+end_time: 1756553611113
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: d8524992056f411faca2624a38def495
+run_name: indecisive-rat-197
+run_uuid: d8524992056f411faca2624a38def495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553598779
+status: 3
+tags: []
+user_id: pedroasvalente

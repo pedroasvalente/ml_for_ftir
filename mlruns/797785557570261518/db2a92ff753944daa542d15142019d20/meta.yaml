@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/db2a92ff753944daa542d15142019d20/artifacts
+end_time: 1756634238213
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: db2a92ff753944daa542d15142019d20
+run_name: lyrical-duck-662
+run_uuid: db2a92ff753944daa542d15142019d20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634226067
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/5b73c03c69ab473cb778568f2c837a3f/artifacts
+end_time: 1756635977352
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 5b73c03c69ab473cb778568f2c837a3f
+run_name: fearless-gull-255
+run_uuid: 5b73c03c69ab473cb778568f2c837a3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635965561
+status: 3
+tags: []
+user_id: pedroasvalente

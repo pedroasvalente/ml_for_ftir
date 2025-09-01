@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/9afe8afa400a41c3a97b692ec75dccc4/artifacts
+end_time: 1756647458129
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 9afe8afa400a41c3a97b692ec75dccc4
+run_name: intrigued-mare-246
+run_uuid: 9afe8afa400a41c3a97b692ec75dccc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647446972
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/a57ca7c482064e07bcf38d14d3319b23/artifacts
+end_time: 1756645942392
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: a57ca7c482064e07bcf38d14d3319b23
+run_name: welcoming-duck-381
+run_uuid: a57ca7c482064e07bcf38d14d3319b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756645913786
+status: 3
+tags: []
+user_id: pedroasvalente

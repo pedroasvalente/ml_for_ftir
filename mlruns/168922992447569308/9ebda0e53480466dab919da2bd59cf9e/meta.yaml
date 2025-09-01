@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/9ebda0e53480466dab919da2bd59cf9e/artifacts
+end_time: 1756597911611
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 9ebda0e53480466dab919da2bd59cf9e
+run_name: smiling-fox-525
+run_uuid: 9ebda0e53480466dab919da2bd59cf9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756597899560
+status: 3
+tags: []
+user_id: pedroasvalente

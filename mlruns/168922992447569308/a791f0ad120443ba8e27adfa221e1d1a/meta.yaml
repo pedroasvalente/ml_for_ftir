@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/a791f0ad120443ba8e27adfa221e1d1a/artifacts
+end_time: 1756598529056
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: a791f0ad120443ba8e27adfa221e1d1a
+run_name: honorable-koi-576
+run_uuid: a791f0ad120443ba8e27adfa221e1d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756598517224
+status: 3
+tags: []
+user_id: pedroasvalente

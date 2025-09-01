@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/89848b7372624bcba2360bb166da435a/artifacts
+end_time: 1756661803729
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 89848b7372624bcba2360bb166da435a
+run_name: nervous-hare-747
+run_uuid: 89848b7372624bcba2360bb166da435a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661800213
+status: 3
+tags: []
+user_id: pedroasvalente

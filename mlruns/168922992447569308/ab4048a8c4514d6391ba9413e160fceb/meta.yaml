@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/ab4048a8c4514d6391ba9413e160fceb/artifacts
+end_time: 1756598393422
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: ab4048a8c4514d6391ba9413e160fceb
+run_name: grandiose-stag-452
+run_uuid: ab4048a8c4514d6391ba9413e160fceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756598381803
+status: 3
+tags: []
+user_id: pedroasvalente

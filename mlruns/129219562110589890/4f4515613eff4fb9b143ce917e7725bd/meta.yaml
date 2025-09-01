@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/4f4515613eff4fb9b143ce917e7725bd/artifacts
+end_time: 1756553811462
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 4f4515613eff4fb9b143ce917e7725bd
+run_name: debonair-seal-536
+run_uuid: 4f4515613eff4fb9b143ce917e7725bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553808137
+status: 3
+tags: []
+user_id: pedroasvalente

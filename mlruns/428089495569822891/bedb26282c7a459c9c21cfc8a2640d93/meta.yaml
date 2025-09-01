@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/bedb26282c7a459c9c21cfc8a2640d93/artifacts
+end_time: 1756660668233
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: bedb26282c7a459c9c21cfc8a2640d93
+run_name: polite-goose-358
+run_uuid: bedb26282c7a459c9c21cfc8a2640d93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756660657129
+status: 3
+tags: []
+user_id: pedroasvalente

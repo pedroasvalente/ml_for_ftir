@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/f93875d150c34e68b19649800e3f03b9/artifacts
+end_time: 1756660620721
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: f93875d150c34e68b19649800e3f03b9
+run_name: charming-robin-977
+run_uuid: f93875d150c34e68b19649800e3f03b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756660545788
+status: 3
+tags: []
+user_id: pedroasvalente

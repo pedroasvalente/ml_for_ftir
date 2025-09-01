@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/9e56571218f642e8b4c373e1a87e7ded/artifacts
+end_time: 1756675462176
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 9e56571218f642e8b4c373e1a87e7ded
+run_name: shivering-quail-709
+run_uuid: 9e56571218f642e8b4c373e1a87e7ded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675376348
+status: 3
+tags: []
+user_id: pedroasvalente

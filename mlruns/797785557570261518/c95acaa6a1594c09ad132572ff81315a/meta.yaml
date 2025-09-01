@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/c95acaa6a1594c09ad132572ff81315a/artifacts
+end_time: 1756634779504
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: c95acaa6a1594c09ad132572ff81315a
+run_name: melodic-steed-775
+run_uuid: c95acaa6a1594c09ad132572ff81315a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634776031
+status: 3
+tags: []
+user_id: pedroasvalente

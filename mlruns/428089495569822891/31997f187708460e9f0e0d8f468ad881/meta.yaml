@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/31997f187708460e9f0e0d8f468ad881/artifacts
+end_time: 1756661525791
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 31997f187708460e9f0e0d8f468ad881
+run_name: rumbling-carp-282
+run_uuid: 31997f187708460e9f0e0d8f468ad881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661499237
+status: 3
+tags: []
+user_id: pedroasvalente

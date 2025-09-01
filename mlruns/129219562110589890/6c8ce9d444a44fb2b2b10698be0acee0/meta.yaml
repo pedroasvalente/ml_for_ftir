@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/6c8ce9d444a44fb2b2b10698be0acee0/artifacts
+end_time: 1756554517645
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 6c8ce9d444a44fb2b2b10698be0acee0
+run_name: grandiose-shoat-374
+run_uuid: 6c8ce9d444a44fb2b2b10698be0acee0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554394212
+status: 3
+tags: []
+user_id: pedroasvalente

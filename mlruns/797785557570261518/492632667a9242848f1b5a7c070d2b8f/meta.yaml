@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/492632667a9242848f1b5a7c070d2b8f/artifacts
+end_time: 1756634728612
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 492632667a9242848f1b5a7c070d2b8f
+run_name: aged-carp-697
+run_uuid: 492632667a9242848f1b5a7c070d2b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634699289
+status: 3
+tags: []
+user_id: pedroasvalente

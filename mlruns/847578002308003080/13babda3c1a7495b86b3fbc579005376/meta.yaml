@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/13babda3c1a7495b86b3fbc579005376/artifacts
+end_time: 1756646802033
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 13babda3c1a7495b86b3fbc579005376
+run_name: dazzling-shrew-742
+run_uuid: 13babda3c1a7495b86b3fbc579005376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646789684
+status: 3
+tags: []
+user_id: pedroasvalente

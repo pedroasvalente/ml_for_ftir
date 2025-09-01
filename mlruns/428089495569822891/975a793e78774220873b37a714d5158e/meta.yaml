@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/975a793e78774220873b37a714d5158e/artifacts
+end_time: 1756662706053
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 975a793e78774220873b37a714d5158e
+run_name: adorable-newt-486
+run_uuid: 975a793e78774220873b37a714d5158e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662692819
+status: 3
+tags: []
+user_id: pedroasvalente

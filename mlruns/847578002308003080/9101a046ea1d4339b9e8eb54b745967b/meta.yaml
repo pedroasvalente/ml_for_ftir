@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/9101a046ea1d4339b9e8eb54b745967b/artifacts
+end_time: 1756646566933
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 9101a046ea1d4339b9e8eb54b745967b
+run_name: masked-bear-465
+run_uuid: 9101a046ea1d4339b9e8eb54b745967b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646552116
+status: 3
+tags: []
+user_id: pedroasvalente

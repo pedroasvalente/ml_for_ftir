@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/5de4b2509a4b4bffb22973efe9410dd8/artifacts
+end_time: 1756661999500
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 5de4b2509a4b4bffb22973efe9410dd8
+run_name: bustling-shrike-562
+run_uuid: 5de4b2509a4b4bffb22973efe9410dd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661971754
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/e76eb401fdb84b189593a08b547850c0/artifacts
+end_time: 1756555323786
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: e76eb401fdb84b189593a08b547850c0
+run_name: dashing-snake-649
+run_uuid: e76eb401fdb84b189593a08b547850c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756555312406
+status: 3
+tags: []
+user_id: pedroasvalente

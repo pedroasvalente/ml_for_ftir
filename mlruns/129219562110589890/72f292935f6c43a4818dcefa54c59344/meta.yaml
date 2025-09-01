@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/72f292935f6c43a4818dcefa54c59344/artifacts
+end_time: 1756553014896
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 72f292935f6c43a4818dcefa54c59344
+run_name: grandiose-grouse-663
+run_uuid: 72f292935f6c43a4818dcefa54c59344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552991381
+status: 3
+tags: []
+user_id: pedroasvalente

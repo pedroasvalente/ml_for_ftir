@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/839807b0617f4843a3f3ebac453de9de/artifacts
+end_time: 1756648381151
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 839807b0617f4843a3f3ebac453de9de
+run_name: gentle-bee-328
+run_uuid: 839807b0617f4843a3f3ebac453de9de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756648257594
+status: 3
+tags: []
+user_id: pedroasvalente

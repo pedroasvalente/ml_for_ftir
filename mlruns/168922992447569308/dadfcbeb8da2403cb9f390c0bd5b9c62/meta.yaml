@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/dadfcbeb8da2403cb9f390c0bd5b9c62/artifacts
+end_time: 1756596457063
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: dadfcbeb8da2403cb9f390c0bd5b9c62
+run_name: salty-squirrel-801
+run_uuid: dadfcbeb8da2403cb9f390c0bd5b9c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596444379
+status: 3
+tags: []
+user_id: pedroasvalente

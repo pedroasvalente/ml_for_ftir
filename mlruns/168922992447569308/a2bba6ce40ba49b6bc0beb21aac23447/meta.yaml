@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/a2bba6ce40ba49b6bc0beb21aac23447/artifacts
+end_time: 1756596326681
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: a2bba6ce40ba49b6bc0beb21aac23447
+run_name: youthful-colt-630
+run_uuid: a2bba6ce40ba49b6bc0beb21aac23447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596314636
+status: 3
+tags: []
+user_id: pedroasvalente

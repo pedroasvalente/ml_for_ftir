@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/f719302f5d8349cabbed26d33ccd7437/artifacts
+end_time: 1756554001087
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: f719302f5d8349cabbed26d33ccd7437
+run_name: enchanting-goat-896
+run_uuid: f719302f5d8349cabbed26d33ccd7437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553973589
+status: 3
+tags: []
+user_id: pedroasvalente

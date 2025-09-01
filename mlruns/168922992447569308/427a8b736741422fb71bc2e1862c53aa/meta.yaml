@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/427a8b736741422fb71bc2e1862c53aa/artifacts
+end_time: 1756597893958
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 427a8b736741422fb71bc2e1862c53aa
+run_name: exultant-flea-39
+run_uuid: 427a8b736741422fb71bc2e1862c53aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756597760404
+status: 3
+tags: []
+user_id: pedroasvalente

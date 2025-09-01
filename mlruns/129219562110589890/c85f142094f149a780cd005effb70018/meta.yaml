@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/c85f142094f149a780cd005effb70018/artifacts
+end_time: 1756554007939
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: c85f142094f149a780cd005effb70018
+run_name: silent-midge-700
+run_uuid: c85f142094f149a780cd005effb70018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554004617
+status: 3
+tags: []
+user_id: pedroasvalente

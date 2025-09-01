@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/12c65e06694c4932ad71b21679082167/artifacts
+end_time: 1756646548828
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 12c65e06694c4932ad71b21679082167
+run_name: dapper-panda-356
+run_uuid: 12c65e06694c4932ad71b21679082167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646523401
+status: 3
+tags: []
+user_id: pedroasvalente

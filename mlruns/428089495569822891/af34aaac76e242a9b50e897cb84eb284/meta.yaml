@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/af34aaac76e242a9b50e897cb84eb284/artifacts
+end_time: 1756663016673
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: af34aaac76e242a9b50e897cb84eb284
+run_name: sedate-pig-772
+run_uuid: af34aaac76e242a9b50e897cb84eb284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756663005069
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/7ebc3ac218154f37a9c2d85802641c78/artifacts
+end_time: 1756554007939
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 7ebc3ac218154f37a9c2d85802641c78
+run_name: gaudy-mouse-158
+run_uuid: 7ebc3ac218154f37a9c2d85802641c78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554004617
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/eca9fd1749c64254bdc03d404c7b945f/artifacts
+end_time: 1756662534159
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: eca9fd1749c64254bdc03d404c7b945f
+run_name: treasured-lamb-601
+run_uuid: eca9fd1749c64254bdc03d404c7b945f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662419877
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/5d6cd5ba2b9c49f8905fb38487bc3637/artifacts
+end_time: 1756646786302
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 5d6cd5ba2b9c49f8905fb38487bc3637
+run_name: gifted-shoat-237
+run_uuid: 5d6cd5ba2b9c49f8905fb38487bc3637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646762944
+status: 3
+tags: []
+user_id: pedroasvalente

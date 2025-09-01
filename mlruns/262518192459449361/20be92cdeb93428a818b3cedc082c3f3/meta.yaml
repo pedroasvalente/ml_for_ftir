@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/20be92cdeb93428a818b3cedc082c3f3/artifacts
+end_time: 1756674944106
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 20be92cdeb93428a818b3cedc082c3f3
+run_name: bemused-ape-315
+run_uuid: 20be92cdeb93428a818b3cedc082c3f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674921297
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/c7f8295f4940442e808a3f3810247ac0/artifacts
+end_time: 1756646144778
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: c7f8295f4940442e808a3f3810247ac0
+run_name: luminous-fox-619
+run_uuid: c7f8295f4940442e808a3f3810247ac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646113687
+status: 3
+tags: []
+user_id: pedroasvalente

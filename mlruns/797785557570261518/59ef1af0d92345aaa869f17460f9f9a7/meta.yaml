@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/59ef1af0d92345aaa869f17460f9f9a7/artifacts
+end_time: 1756634380167
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 59ef1af0d92345aaa869f17460f9f9a7
+run_name: stately-horse-435
+run_uuid: 59ef1af0d92345aaa869f17460f9f9a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634367650
+status: 3
+tags: []
+user_id: pedroasvalente

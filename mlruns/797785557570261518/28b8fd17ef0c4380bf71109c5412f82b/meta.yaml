@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/28b8fd17ef0c4380bf71109c5412f82b/artifacts
+end_time: 1756635836530
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 28b8fd17ef0c4380bf71109c5412f82b
+run_name: suave-smelt-255
+run_uuid: 28b8fd17ef0c4380bf71109c5412f82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635825167
+status: 3
+tags: []
+user_id: pedroasvalente

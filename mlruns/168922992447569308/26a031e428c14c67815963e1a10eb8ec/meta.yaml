@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/26a031e428c14c67815963e1a10eb8ec/artifacts
+end_time: 1756596369078
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 26a031e428c14c67815963e1a10eb8ec
+run_name: placid-elk-748
+run_uuid: 26a031e428c14c67815963e1a10eb8ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596356636
+status: 3
+tags: []
+user_id: pedroasvalente

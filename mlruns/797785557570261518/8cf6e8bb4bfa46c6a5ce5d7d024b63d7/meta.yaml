@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/8cf6e8bb4bfa46c6a5ce5d7d024b63d7/artifacts
+end_time: 1756634283481
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 8cf6e8bb4bfa46c6a5ce5d7d024b63d7
+run_name: calm-jay-208
+run_uuid: 8cf6e8bb4bfa46c6a5ce5d7d024b63d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634270730
+status: 3
+tags: []
+user_id: pedroasvalente

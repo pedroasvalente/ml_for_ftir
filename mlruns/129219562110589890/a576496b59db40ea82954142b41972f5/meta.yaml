@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/a576496b59db40ea82954142b41972f5/artifacts
+end_time: 1756553879844
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: a576496b59db40ea82954142b41972f5
+run_name: suave-koi-750
+run_uuid: a576496b59db40ea82954142b41972f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553851948
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/f7109fe326744b0688b0cb4528076e60/artifacts
+end_time: 1756646759040
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: f7109fe326744b0688b0cb4528076e60
+run_name: delightful-colt-835
+run_uuid: f7109fe326744b0688b0cb4528076e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646746471
+status: 3
+tags: []
+user_id: pedroasvalente

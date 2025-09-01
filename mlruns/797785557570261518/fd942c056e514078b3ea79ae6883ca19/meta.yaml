@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/fd942c056e514078b3ea79ae6883ca19/artifacts
+end_time: 1756633459904
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: fd942c056e514078b3ea79ae6883ca19
+run_name: sassy-squirrel-48
+run_uuid: fd942c056e514078b3ea79ae6883ca19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633442062
+status: 3
+tags: []
+user_id: pedroasvalente

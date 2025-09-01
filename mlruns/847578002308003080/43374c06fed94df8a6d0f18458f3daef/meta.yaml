@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/43374c06fed94df8a6d0f18458f3daef/artifacts
+end_time: 1756645837435
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 43374c06fed94df8a6d0f18458f3daef
+run_name: exultant-jay-377
+run_uuid: 43374c06fed94df8a6d0f18458f3daef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756645808832
+status: 3
+tags: []
+user_id: pedroasvalente

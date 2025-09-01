@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/242d96fe91164ac6b9894d4a87bbe0ba/artifacts
+end_time: 1756662686743
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 242d96fe91164ac6b9894d4a87bbe0ba
+run_name: spiffy-shrike-971
+run_uuid: 242d96fe91164ac6b9894d4a87bbe0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662557307
+status: 3
+tags: []
+user_id: pedroasvalente

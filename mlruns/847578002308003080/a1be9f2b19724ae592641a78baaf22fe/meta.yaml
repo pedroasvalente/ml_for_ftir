@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/a1be9f2b19724ae592641a78baaf22fe/artifacts
+end_time: 1756646588655
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: a1be9f2b19724ae592641a78baaf22fe
+run_name: beautiful-turtle-959
+run_uuid: a1be9f2b19724ae592641a78baaf22fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646576491
+status: 3
+tags: []
+user_id: pedroasvalente

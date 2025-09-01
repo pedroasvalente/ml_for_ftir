@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/e71ca2ebd45c4a05a5984e5f0e40d4f0/artifacts
+end_time: 1756597150485
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: e71ca2ebd45c4a05a5984e5f0e40d4f0
+run_name: caring-fox-87
+run_uuid: e71ca2ebd45c4a05a5984e5f0e40d4f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756597122664
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/cf7d86a347134e96b85f415c021ceb5a/artifacts
+end_time: 1756552707219
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: cf7d86a347134e96b85f415c021ceb5a
+run_name: burly-grub-204
+run_uuid: cf7d86a347134e96b85f415c021ceb5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552683764
+status: 3
+tags: []
+user_id: pedroasvalente

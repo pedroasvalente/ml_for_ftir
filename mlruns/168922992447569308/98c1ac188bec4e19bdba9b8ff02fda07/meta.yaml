@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/98c1ac188bec4e19bdba9b8ff02fda07/artifacts
+end_time: 1756596686016
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 98c1ac188bec4e19bdba9b8ff02fda07
+run_name: capable-wren-97
+run_uuid: 98c1ac188bec4e19bdba9b8ff02fda07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596673890
+status: 3
+tags: []
+user_id: pedroasvalente

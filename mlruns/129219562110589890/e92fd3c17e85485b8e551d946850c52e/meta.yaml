@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/e92fd3c17e85485b8e551d946850c52e/artifacts
+end_time: 1756553412337
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: e92fd3c17e85485b8e551d946850c52e
+run_name: gregarious-loon-828
+run_uuid: e92fd3c17e85485b8e551d946850c52e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553385504
+status: 3
+tags: []
+user_id: pedroasvalente

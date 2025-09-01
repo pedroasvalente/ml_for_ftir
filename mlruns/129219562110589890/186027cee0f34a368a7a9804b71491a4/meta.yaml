@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/186027cee0f34a368a7a9804b71491a4/artifacts
+end_time: 1756554372763
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 186027cee0f34a368a7a9804b71491a4
+run_name: able-wolf-711
+run_uuid: 186027cee0f34a368a7a9804b71491a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554252812
+status: 3
+tags: []
+user_id: pedroasvalente

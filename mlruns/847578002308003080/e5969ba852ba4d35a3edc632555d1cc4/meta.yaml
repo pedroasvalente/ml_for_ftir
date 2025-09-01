@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/e5969ba852ba4d35a3edc632555d1cc4/artifacts
+end_time: 1756647009232
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: e5969ba852ba4d35a3edc632555d1cc4
+run_name: victorious-shark-820
+run_uuid: e5969ba852ba4d35a3edc632555d1cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647005810
+status: 3
+tags: []
+user_id: pedroasvalente

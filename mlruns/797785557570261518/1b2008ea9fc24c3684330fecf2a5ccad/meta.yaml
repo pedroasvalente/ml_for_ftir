@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/1b2008ea9fc24c3684330fecf2a5ccad/artifacts
+end_time: 1756634736602
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 1b2008ea9fc24c3684330fecf2a5ccad
+run_name: mysterious-loon-240
+run_uuid: 1b2008ea9fc24c3684330fecf2a5ccad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634732909
+status: 3
+tags: []
+user_id: pedroasvalente

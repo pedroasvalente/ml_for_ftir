@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/9c2fdd78156d4eecb32d445ca0a59061/artifacts
+end_time: 1756646144778
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 9c2fdd78156d4eecb32d445ca0a59061
+run_name: upset-loon-452
+run_uuid: 9c2fdd78156d4eecb32d445ca0a59061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646113687
+status: 3
+tags: []
+user_id: pedroasvalente

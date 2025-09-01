@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/5ac081cccb6a4f7da688a7246a6da797/artifacts
+end_time: 1756596326681
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 5ac081cccb6a4f7da688a7246a6da797
+run_name: bright-squid-882
+run_uuid: 5ac081cccb6a4f7da688a7246a6da797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596314636
+status: 3
+tags: []
+user_id: pedroasvalente

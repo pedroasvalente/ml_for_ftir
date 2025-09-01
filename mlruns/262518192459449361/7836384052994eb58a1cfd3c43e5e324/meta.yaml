@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/7836384052994eb58a1cfd3c43e5e324/artifacts
+end_time: 1756675148506
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 7836384052994eb58a1cfd3c43e5e324
+run_name: bemused-gull-42
+run_uuid: 7836384052994eb58a1cfd3c43e5e324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675145081
+status: 3
+tags: []
+user_id: pedroasvalente

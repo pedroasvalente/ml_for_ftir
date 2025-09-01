@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/b908e8c1d07249c3a00976de81862a2a/artifacts
+end_time: 1756674256678
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: b908e8c1d07249c3a00976de81862a2a
+run_name: dashing-skunk-623
+run_uuid: b908e8c1d07249c3a00976de81862a2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674208740
+status: 3
+tags: []
+user_id: pedroasvalente

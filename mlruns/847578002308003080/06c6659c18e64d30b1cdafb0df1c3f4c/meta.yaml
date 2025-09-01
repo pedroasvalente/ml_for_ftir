@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/06c6659c18e64d30b1cdafb0df1c3f4c/artifacts
+end_time: 1756646298983
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 06c6659c18e64d30b1cdafb0df1c3f4c
+run_name: calm-fly-968
+run_uuid: 06c6659c18e64d30b1cdafb0df1c3f4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646274707
+status: 3
+tags: []
+user_id: pedroasvalente

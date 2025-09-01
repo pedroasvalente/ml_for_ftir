@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/beb7a11854c647b19fd79ccae134e243/artifacts
+end_time: 1756553412337
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: beb7a11854c647b19fd79ccae134e243
+run_name: invincible-stag-290
+run_uuid: beb7a11854c647b19fd79ccae134e243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553385504
+status: 3
+tags: []
+user_id: pedroasvalente

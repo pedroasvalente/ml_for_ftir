@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/c72974c827dc40fead79f23a1334cf02/artifacts
+end_time: 1756635345235
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: c72974c827dc40fead79f23a1334cf02
+run_name: handsome-snail-259
+run_uuid: c72974c827dc40fead79f23a1334cf02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635333596
+status: 3
+tags: []
+user_id: pedroasvalente

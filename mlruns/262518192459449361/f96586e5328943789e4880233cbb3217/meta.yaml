@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/f96586e5328943789e4880233cbb3217/artifacts
+end_time: 1756674525050
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: f96586e5328943789e4880233cbb3217
+run_name: adorable-midge-786
+run_uuid: f96586e5328943789e4880233cbb3217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674508175
+status: 3
+tags: []
+user_id: pedroasvalente

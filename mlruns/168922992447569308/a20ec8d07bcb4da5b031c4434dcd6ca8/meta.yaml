@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/a20ec8d07bcb4da5b031c4434dcd6ca8/artifacts
+end_time: 1756596597518
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: a20ec8d07bcb4da5b031c4434dcd6ca8
+run_name: adorable-frog-716
+run_uuid: a20ec8d07bcb4da5b031c4434dcd6ca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596585242
+status: 3
+tags: []
+user_id: pedroasvalente

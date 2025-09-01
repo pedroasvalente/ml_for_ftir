@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/7ca5c4010be94c81aba5fd38e8a5d999/artifacts
+end_time: 1756634238213
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 7ca5c4010be94c81aba5fd38e8a5d999
+run_name: overjoyed-conch-894
+run_uuid: 7ca5c4010be94c81aba5fd38e8a5d999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634226067
+status: 3
+tags: []
+user_id: pedroasvalente

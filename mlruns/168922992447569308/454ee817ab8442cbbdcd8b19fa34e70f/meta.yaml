@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/454ee817ab8442cbbdcd8b19fa34e70f/artifacts
+end_time: 1756595847784
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 454ee817ab8442cbbdcd8b19fa34e70f
+run_name: grandiose-dog-903
+run_uuid: 454ee817ab8442cbbdcd8b19fa34e70f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756595785517
+status: 3
+tags: []
+user_id: pedroasvalente

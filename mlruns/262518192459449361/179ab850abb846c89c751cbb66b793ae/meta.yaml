@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/179ab850abb846c89c751cbb66b793ae/artifacts
+end_time: 1756674944106
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 179ab850abb846c89c751cbb66b793ae
+run_name: vaunted-carp-916
+run_uuid: 179ab850abb846c89c751cbb66b793ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674921297
+status: 3
+tags: []
+user_id: pedroasvalente

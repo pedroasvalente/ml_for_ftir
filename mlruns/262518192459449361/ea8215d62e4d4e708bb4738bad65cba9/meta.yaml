@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/ea8215d62e4d4e708bb4738bad65cba9/artifacts
+end_time: 1756675223811
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: ea8215d62e4d4e708bb4738bad65cba9
+run_name: upset-steed-788
+run_uuid: ea8215d62e4d4e708bb4738bad65cba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675220155
+status: 3
+tags: []
+user_id: pedroasvalente

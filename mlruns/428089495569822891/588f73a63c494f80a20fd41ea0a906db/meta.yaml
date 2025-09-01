@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/588f73a63c494f80a20fd41ea0a906db/artifacts
+end_time: 1756662706053
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 588f73a63c494f80a20fd41ea0a906db
+run_name: whimsical-fawn-514
+run_uuid: 588f73a63c494f80a20fd41ea0a906db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662692819
+status: 3
+tags: []
+user_id: pedroasvalente

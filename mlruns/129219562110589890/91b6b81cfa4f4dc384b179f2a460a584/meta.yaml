@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/91b6b81cfa4f4dc384b179f2a460a584/artifacts
+end_time: 1756554389460
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 91b6b81cfa4f4dc384b179f2a460a584
+run_name: handsome-ray-886
+run_uuid: 91b6b81cfa4f4dc384b179f2a460a584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554377683
+status: 3
+tags: []
+user_id: pedroasvalente

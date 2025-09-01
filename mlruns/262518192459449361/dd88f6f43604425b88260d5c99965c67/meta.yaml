@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/dd88f6f43604425b88260d5c99965c67/artifacts
+end_time: 1756674902152
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: dd88f6f43604425b88260d5c99965c67
+run_name: defiant-turtle-976
+run_uuid: dd88f6f43604425b88260d5c99965c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674877317
+status: 3
+tags: []
+user_id: pedroasvalente

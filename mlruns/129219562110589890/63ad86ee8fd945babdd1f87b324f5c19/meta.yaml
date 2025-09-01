@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/63ad86ee8fd945babdd1f87b324f5c19/artifacts
+end_time: 1756553269283
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 63ad86ee8fd945babdd1f87b324f5c19
+run_name: polite-trout-137
+run_uuid: 63ad86ee8fd945babdd1f87b324f5c19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553251982
+status: 3
+tags: []
+user_id: pedroasvalente

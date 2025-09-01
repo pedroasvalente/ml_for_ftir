@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/9adf4f2d313e477fb0ff26b59582fc77/artifacts
+end_time: 1756647566823
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 9adf4f2d313e477fb0ff26b59582fc77
+run_name: gaudy-zebra-590
+run_uuid: 9adf4f2d313e477fb0ff26b59582fc77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647462566
+status: 3
+tags: []
+user_id: pedroasvalente

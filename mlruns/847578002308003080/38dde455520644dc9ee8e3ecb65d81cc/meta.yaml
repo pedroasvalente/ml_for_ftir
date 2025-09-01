@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/38dde455520644dc9ee8e3ecb65d81cc/artifacts
+end_time: 1756645837435
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 38dde455520644dc9ee8e3ecb65d81cc
+run_name: kindly-hen-897
+run_uuid: 38dde455520644dc9ee8e3ecb65d81cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756645808832
+status: 3
+tags: []
+user_id: pedroasvalente

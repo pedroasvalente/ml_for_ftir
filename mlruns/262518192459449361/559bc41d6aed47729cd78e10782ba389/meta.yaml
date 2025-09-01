@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/559bc41d6aed47729cd78e10782ba389/artifacts
+end_time: 1756674503576
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 559bc41d6aed47729cd78e10782ba389
+run_name: unequaled-goat-157
+run_uuid: 559bc41d6aed47729cd78e10782ba389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674450843
+status: 3
+tags: []
+user_id: pedroasvalente

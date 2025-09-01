@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/3649df451cbc4ea782d7198e28029eb9/artifacts
+end_time: 1756646888529
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 3649df451cbc4ea782d7198e28029eb9
+run_name: welcoming-lamb-540
+run_uuid: 3649df451cbc4ea782d7198e28029eb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646876673
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/25b58a2d578044bda17595efd1a06639/artifacts
+end_time: 1756661398738
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 25b58a2d578044bda17595efd1a06639
+run_name: fearless-moose-295
+run_uuid: 25b58a2d578044bda17595efd1a06639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661385259
+status: 3
+tags: []
+user_id: pedroasvalente

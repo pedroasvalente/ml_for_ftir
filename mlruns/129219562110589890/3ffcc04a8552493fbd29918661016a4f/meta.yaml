@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/3ffcc04a8552493fbd29918661016a4f/artifacts
+end_time: 1756553887209
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 3ffcc04a8552493fbd29918661016a4f
+run_name: resilient-lark-816
+run_uuid: 3ffcc04a8552493fbd29918661016a4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553883810
+status: 3
+tags: []
+user_id: pedroasvalente

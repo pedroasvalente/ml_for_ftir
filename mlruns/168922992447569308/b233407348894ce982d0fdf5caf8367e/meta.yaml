@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/b233407348894ce982d0fdf5caf8367e/artifacts
+end_time: 1756595736515
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: b233407348894ce982d0fdf5caf8367e
+run_name: lyrical-stork-820
+run_uuid: b233407348894ce982d0fdf5caf8367e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756595709057
+status: 3
+tags: []
+user_id: pedroasvalente

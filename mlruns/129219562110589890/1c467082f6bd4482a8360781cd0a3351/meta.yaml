@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/1c467082f6bd4482a8360781cd0a3351/artifacts
+end_time: 1756554678633
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 1c467082f6bd4482a8360781cd0a3351
+run_name: whimsical-goat-229
+run_uuid: 1c467082f6bd4482a8360781cd0a3351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554538286
+status: 3
+tags: []
+user_id: pedroasvalente

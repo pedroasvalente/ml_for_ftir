@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/1375b8d100e84ab8b26a22e1041f49c2/artifacts
+end_time: 1756646742480
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 1375b8d100e84ab8b26a22e1041f49c2
+run_name: crawling-frog-113
+run_uuid: 1375b8d100e84ab8b26a22e1041f49c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646717803
+status: 3
+tags: []
+user_id: pedroasvalente

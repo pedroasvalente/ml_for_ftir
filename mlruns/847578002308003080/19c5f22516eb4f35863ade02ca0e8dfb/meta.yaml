@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/19c5f22516eb4f35863ade02ca0e8dfb/artifacts
+end_time: 1756648110186
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 19c5f22516eb4f35863ade02ca0e8dfb
+run_name: righteous-frog-290
+run_uuid: 19c5f22516eb4f35863ade02ca0e8dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647985586
+status: 3
+tags: []
+user_id: pedroasvalente

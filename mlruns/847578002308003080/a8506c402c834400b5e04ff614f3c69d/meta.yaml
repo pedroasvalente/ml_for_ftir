@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/a8506c402c834400b5e04ff614f3c69d/artifacts
+end_time: 1756646786302
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: a8506c402c834400b5e04ff614f3c69d
+run_name: merciful-quail-275
+run_uuid: a8506c402c834400b5e04ff614f3c69d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646762944
+status: 3
+tags: []
+user_id: pedroasvalente

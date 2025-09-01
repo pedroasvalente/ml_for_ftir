@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/7fa1240707974c6c87b9d4a1aae86058/artifacts
+end_time: 1756646759040
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 7fa1240707974c6c87b9d4a1aae86058
+run_name: overjoyed-fox-139
+run_uuid: 7fa1240707974c6c87b9d4a1aae86058
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646746471
+status: 3
+tags: []
+user_id: pedroasvalente

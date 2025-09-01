@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/168922992447569308
+creation_time: 1756595599273
+experiment_id: '168922992447569308'
+last_update_time: 1756595599273
+lifecycle_stage: active
+name: FTIR Supervised Training - H2O_L

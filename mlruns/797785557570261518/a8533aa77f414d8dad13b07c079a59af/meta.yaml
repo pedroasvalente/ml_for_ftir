@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/a8533aa77f414d8dad13b07c079a59af/artifacts
+end_time: 1756633440019
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: a8533aa77f414d8dad13b07c079a59af
+run_name: spiffy-doe-207
+run_uuid: a8533aa77f414d8dad13b07c079a59af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633413393
+status: 3
+tags: []
+user_id: pedroasvalente

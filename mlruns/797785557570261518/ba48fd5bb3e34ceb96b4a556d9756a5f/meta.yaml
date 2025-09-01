@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/ba48fd5bb3e34ceb96b4a556d9756a5f/artifacts
+end_time: 1756634695760
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: ba48fd5bb3e34ceb96b4a556d9756a5f
+run_name: treasured-gnat-708
+run_uuid: ba48fd5bb3e34ceb96b4a556d9756a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634692298
+status: 3
+tags: []
+user_id: pedroasvalente

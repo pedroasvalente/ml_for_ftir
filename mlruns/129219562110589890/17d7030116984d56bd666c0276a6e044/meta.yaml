@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/17d7030116984d56bd666c0276a6e044/artifacts
+end_time: 1756552982422
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 17d7030116984d56bd666c0276a6e044
+run_name: bittersweet-trout-21
+run_uuid: 17d7030116984d56bd666c0276a6e044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552954314
+status: 3
+tags: []
+user_id: pedroasvalente

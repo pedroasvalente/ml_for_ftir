@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/8506bb1f32d5465e8ddaaa7df45da08e/artifacts
+end_time: 1756661118111
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 8506bb1f32d5465e8ddaaa7df45da08e
+run_name: learned-stag-736
+run_uuid: 8506bb1f32d5465e8ddaaa7df45da08e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661095835
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/1a089619b7944dc5a1ea5489b2b6645d/artifacts
+end_time: 1756648127573
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 1a089619b7944dc5a1ea5489b2b6645d
+run_name: exultant-crab-186
+run_uuid: 1a089619b7944dc5a1ea5489b2b6645d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756648116100
+status: 3
+tags: []
+user_id: pedroasvalente

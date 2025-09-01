@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/f4dc2464e722456f95d1de90aa845131/artifacts
+end_time: 1756633440019
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: f4dc2464e722456f95d1de90aa845131
+run_name: redolent-shrike-133
+run_uuid: f4dc2464e722456f95d1de90aa845131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633413393
+status: 3
+tags: []
+user_id: pedroasvalente

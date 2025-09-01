@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/e392a551167045338a808b2440925432/artifacts
+end_time: 1756662072225
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: e392a551167045338a808b2440925432
+run_name: upset-toad-220
+run_uuid: e392a551167045338a808b2440925432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662047738
+status: 3
+tags: []
+user_id: pedroasvalente

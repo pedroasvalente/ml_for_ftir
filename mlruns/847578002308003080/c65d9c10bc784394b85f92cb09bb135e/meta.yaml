@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/c65d9c10bc784394b85f92cb09bb135e/artifacts
+end_time: 1756647148477
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: c65d9c10bc784394b85f92cb09bb135e
+run_name: puzzled-koi-514
+run_uuid: c65d9c10bc784394b85f92cb09bb135e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647145177
+status: 3
+tags: []
+user_id: pedroasvalente

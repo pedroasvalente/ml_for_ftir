@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/8d387f9173e6427da24de6e78dd310e8/artifacts
+end_time: 1756647075399
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 8d387f9173e6427da24de6e78dd310e8
+run_name: resilient-snake-40
+run_uuid: 8d387f9173e6427da24de6e78dd310e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647049647
+status: 3
+tags: []
+user_id: pedroasvalente

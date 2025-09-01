@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/6f639c8bdcdb48f3a181a1a86ebd99cf/artifacts
+end_time: 1756634807039
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 6f639c8bdcdb48f3a181a1a86ebd99cf
+run_name: skittish-whale-344
+run_uuid: 6f639c8bdcdb48f3a181a1a86ebd99cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634783510
+status: 3
+tags: []
+user_id: pedroasvalente

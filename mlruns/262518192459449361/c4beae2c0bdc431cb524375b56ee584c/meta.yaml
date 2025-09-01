@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/c4beae2c0bdc431cb524375b56ee584c/artifacts
+end_time: 1756675214278
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: c4beae2c0bdc431cb524375b56ee584c
+run_name: placid-roo-658
+run_uuid: c4beae2c0bdc431cb524375b56ee584c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675186886
+status: 3
+tags: []
+user_id: pedroasvalente

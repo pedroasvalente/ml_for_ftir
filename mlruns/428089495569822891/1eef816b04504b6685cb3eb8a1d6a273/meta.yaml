@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/1eef816b04504b6685cb3eb8a1d6a273/artifacts
+end_time: 1756661285611
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 1eef816b04504b6685cb3eb8a1d6a273
+run_name: gaudy-sheep-379
+run_uuid: 1eef816b04504b6685cb3eb8a1d6a273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661274766
+status: 3
+tags: []
+user_id: pedroasvalente

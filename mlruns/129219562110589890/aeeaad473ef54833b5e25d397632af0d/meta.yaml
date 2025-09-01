@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/aeeaad473ef54833b5e25d397632af0d/artifacts
+end_time: 1756553520176
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: aeeaad473ef54833b5e25d397632af0d
+run_name: likeable-lark-531
+run_uuid: aeeaad473ef54833b5e25d397632af0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553507349
+status: 3
+tags: []
+user_id: pedroasvalente

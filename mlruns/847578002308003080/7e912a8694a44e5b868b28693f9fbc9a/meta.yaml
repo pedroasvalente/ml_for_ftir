@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/7e912a8694a44e5b868b28693f9fbc9a/artifacts
+end_time: 1756645910242
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 7e912a8694a44e5b868b28693f9fbc9a
+run_name: invincible-tern-757
+run_uuid: 7e912a8694a44e5b868b28693f9fbc9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756645839363
+status: 3
+tags: []
+user_id: pedroasvalente

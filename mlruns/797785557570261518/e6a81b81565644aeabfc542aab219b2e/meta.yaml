@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/e6a81b81565644aeabfc542aab219b2e/artifacts
+end_time: 1756633804964
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: e6a81b81565644aeabfc542aab219b2e
+run_name: rebellious-boar-59
+run_uuid: e6a81b81565644aeabfc542aab219b2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633780344
+status: 3
+tags: []
+user_id: pedroasvalente

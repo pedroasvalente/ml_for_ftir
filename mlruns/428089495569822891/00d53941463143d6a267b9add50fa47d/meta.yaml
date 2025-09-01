@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/00d53941463143d6a267b9add50fa47d/artifacts
+end_time: 1756663016673
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 00d53941463143d6a267b9add50fa47d
+run_name: placid-kite-129
+run_uuid: 00d53941463143d6a267b9add50fa47d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756663005069
+status: 3
+tags: []
+user_id: pedroasvalente

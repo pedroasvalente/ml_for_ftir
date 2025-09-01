@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/ae39d40ef0c04522aaa8daa967a80e94/artifacts
+end_time: 1756646104891
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: ae39d40ef0c04522aaa8daa967a80e94
+run_name: bald-penguin-739
+run_uuid: ae39d40ef0c04522aaa8daa967a80e94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646090764
+status: 3
+tags: []
+user_id: pedroasvalente

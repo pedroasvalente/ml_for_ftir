@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/0fc28a8b2a0643f9b0c95a8ee170ef02/artifacts
+end_time: 1756646548828
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 0fc28a8b2a0643f9b0c95a8ee170ef02
+run_name: redolent-panda-102
+run_uuid: 0fc28a8b2a0643f9b0c95a8ee170ef02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646523401
+status: 3
+tags: []
+user_id: pedroasvalente

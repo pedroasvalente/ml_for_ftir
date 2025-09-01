@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/d8e243c133164732a2974be7a2b1d994/artifacts
+end_time: 1756634283481
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: d8e243c133164732a2974be7a2b1d994
+run_name: upbeat-deer-397
+run_uuid: d8e243c133164732a2974be7a2b1d994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634270730
+status: 3
+tags: []
+user_id: pedroasvalente

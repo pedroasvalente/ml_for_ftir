@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/baf34e1da2204f7db5f9c0c451e9752a/artifacts
+end_time: 1756633553126
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: baf34e1da2204f7db5f9c0c451e9752a
+run_name: glamorous-jay-354
+run_uuid: baf34e1da2204f7db5f9c0c451e9752a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633495818
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/4e6c2758c0b4443482f944da2dc34c81/artifacts
+end_time: 1756554534095
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 4e6c2758c0b4443482f944da2dc34c81
+run_name: bedecked-sponge-427
+run_uuid: 4e6c2758c0b4443482f944da2dc34c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554522663
+status: 3
+tags: []
+user_id: pedroasvalente

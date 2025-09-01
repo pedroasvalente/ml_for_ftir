@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/8bc235efe6e64de6bf812a50c9924d05/artifacts
+end_time: 1756674857538
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 8bc235efe6e64de6bf812a50c9924d05
+run_name: brawny-trout-363
+run_uuid: 8bc235efe6e64de6bf812a50c9924d05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674833122
+status: 3
+tags: []
+user_id: pedroasvalente

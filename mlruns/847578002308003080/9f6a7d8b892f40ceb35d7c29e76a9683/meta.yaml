@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/9f6a7d8b892f40ceb35d7c29e76a9683/artifacts
+end_time: 1756647334538
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 9f6a7d8b892f40ceb35d7c29e76a9683
+run_name: fortunate-loon-400
+run_uuid: 9f6a7d8b892f40ceb35d7c29e76a9683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647312789
+status: 3
+tags: []
+user_id: pedroasvalente

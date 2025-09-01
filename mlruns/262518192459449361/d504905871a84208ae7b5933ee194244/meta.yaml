@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/d504905871a84208ae7b5933ee194244/artifacts
+end_time: 1756676430819
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: d504905871a84208ae7b5933ee194244
+run_name: clumsy-cub-729
+run_uuid: d504905871a84208ae7b5933ee194244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756676307802
+status: 3
+tags: []
+user_id: pedroasvalente

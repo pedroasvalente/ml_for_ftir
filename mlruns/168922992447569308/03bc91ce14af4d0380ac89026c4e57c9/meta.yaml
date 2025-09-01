@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/03bc91ce14af4d0380ac89026c4e57c9/artifacts
+end_time: 1756596918619
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 03bc91ce14af4d0380ac89026c4e57c9
+run_name: able-croc-470
+run_uuid: 03bc91ce14af4d0380ac89026c4e57c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596889505
+status: 3
+tags: []
+user_id: pedroasvalente

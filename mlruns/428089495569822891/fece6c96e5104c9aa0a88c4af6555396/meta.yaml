@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/fece6c96e5104c9aa0a88c4af6555396/artifacts
+end_time: 1756661271673
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: fece6c96e5104c9aa0a88c4af6555396
+run_name: flawless-hound-269
+run_uuid: fece6c96e5104c9aa0a88c4af6555396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661249260
+status: 3
+tags: []
+user_id: pedroasvalente

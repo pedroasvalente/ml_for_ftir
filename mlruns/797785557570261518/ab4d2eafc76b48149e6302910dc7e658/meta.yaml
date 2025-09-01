@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/ab4d2eafc76b48149e6302910dc7e658/artifacts
+end_time: 1756635039812
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: ab4d2eafc76b48149e6302910dc7e658
+run_name: angry-robin-989
+run_uuid: ab4d2eafc76b48149e6302910dc7e658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634936912
+status: 3
+tags: []
+user_id: pedroasvalente

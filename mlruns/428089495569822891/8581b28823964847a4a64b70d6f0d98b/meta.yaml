@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/8581b28823964847a4a64b70d6f0d98b/artifacts
+end_time: 1756662072225
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 8581b28823964847a4a64b70d6f0d98b
+run_name: thoughtful-mole-618
+run_uuid: 8581b28823964847a4a64b70d6f0d98b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662047738
+status: 3
+tags: []
+user_id: pedroasvalente

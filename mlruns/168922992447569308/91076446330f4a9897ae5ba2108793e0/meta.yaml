@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/91076446330f4a9897ae5ba2108793e0/artifacts
+end_time: 1756596369078
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 91076446330f4a9897ae5ba2108793e0
+run_name: delicate-colt-706
+run_uuid: 91076446330f4a9897ae5ba2108793e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596356636
+status: 3
+tags: []
+user_id: pedroasvalente

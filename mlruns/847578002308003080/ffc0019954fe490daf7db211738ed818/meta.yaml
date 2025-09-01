@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/ffc0019954fe490daf7db211738ed818/artifacts
+end_time: 1756647708700
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: ffc0019954fe490daf7db211738ed818
+run_name: nosy-fly-904
+run_uuid: ffc0019954fe490daf7db211738ed818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647697537
+status: 3
+tags: []
+user_id: pedroasvalente

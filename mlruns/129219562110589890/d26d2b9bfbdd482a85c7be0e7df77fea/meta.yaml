@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/d26d2b9bfbdd482a85c7be0e7df77fea/artifacts
+end_time: 1756552675257
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: d26d2b9bfbdd482a85c7be0e7df77fea
+run_name: monumental-mule-727
+run_uuid: d26d2b9bfbdd482a85c7be0e7df77fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552658589
+status: 3
+tags: []
+user_id: pedroasvalente

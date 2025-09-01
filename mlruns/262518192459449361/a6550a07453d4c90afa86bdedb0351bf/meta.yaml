@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/a6550a07453d4c90afa86bdedb0351bf/artifacts
+end_time: 1756676173554
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: a6550a07453d4c90afa86bdedb0351bf
+run_name: abundant-shrew-798
+run_uuid: a6550a07453d4c90afa86bdedb0351bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756676162145
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/09d2ee6c15dd4e77a62dd48de2cd343b/artifacts
+end_time: 1756674829716
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 09d2ee6c15dd4e77a62dd48de2cd343b
+run_name: colorful-gull-302
+run_uuid: 09d2ee6c15dd4e77a62dd48de2cd343b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674817386
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/4f1bb1e9809448759e9c62c418ee2189/artifacts
+end_time: 1756635649572
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 4f1bb1e9809448759e9c62c418ee2189
+run_name: sedate-chimp-482
+run_uuid: 4f1bb1e9809448759e9c62c418ee2189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635512538
+status: 3
+tags: []
+user_id: pedroasvalente

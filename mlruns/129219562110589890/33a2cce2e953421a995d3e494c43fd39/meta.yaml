@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/33a2cce2e953421a995d3e494c43fd39/artifacts
+end_time: 1756553123859
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 33a2cce2e953421a995d3e494c43fd39
+run_name: suave-fish-749
+run_uuid: 33a2cce2e953421a995d3e494c43fd39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553107553
+status: 3
+tags: []
+user_id: pedroasvalente

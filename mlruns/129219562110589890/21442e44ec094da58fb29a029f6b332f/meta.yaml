@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/21442e44ec094da58fb29a029f6b332f/artifacts
+end_time: 1756555147043
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 21442e44ec094da58fb29a029f6b332f
+run_name: vaunted-shrike-649
+run_uuid: 21442e44ec094da58fb29a029f6b332f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756555027551
+status: 3
+tags: []
+user_id: pedroasvalente

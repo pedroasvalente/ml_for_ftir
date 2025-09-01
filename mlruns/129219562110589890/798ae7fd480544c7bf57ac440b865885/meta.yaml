@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/798ae7fd480544c7bf57ac440b865885/artifacts
+end_time: 1756553811462
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 798ae7fd480544c7bf57ac440b865885
+run_name: skillful-stoat-270
+run_uuid: 798ae7fd480544c7bf57ac440b865885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553808137
+status: 3
+tags: []
+user_id: pedroasvalente

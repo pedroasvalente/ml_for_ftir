@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/74319b5091104be892f70d0455ff4eae/artifacts
+end_time: 1756671337459
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 74319b5091104be892f70d0455ff4eae
+run_name: experiment_linear_hemoglobine
+run_uuid: 74319b5091104be892f70d0455ff4eae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756660513476
+status: 3
+tags: []
+user_id: pedroasvalente

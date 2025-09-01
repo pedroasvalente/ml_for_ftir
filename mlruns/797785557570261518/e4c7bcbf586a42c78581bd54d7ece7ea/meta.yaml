@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/e4c7bcbf586a42c78581bd54d7ece7ea/artifacts
+end_time: 1756634618349
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: e4c7bcbf586a42c78581bd54d7ece7ea
+run_name: unleashed-kite-226
+run_uuid: e4c7bcbf586a42c78581bd54d7ece7ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634591276
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/6bdcf3ef8b394ccb81d4c7c8c3c1c6b7/artifacts
+end_time: 1756553295074
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 6bdcf3ef8b394ccb81d4c7c8c3c1c6b7
+run_name: hilarious-bear-448
+run_uuid: 6bdcf3ef8b394ccb81d4c7c8c3c1c6b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553280761
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/88f73dc41c624730943c58d51df3998f/artifacts
+end_time: 1756552824308
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 88f73dc41c624730943c58d51df3998f
+run_name: burly-mouse-517
+run_uuid: 88f73dc41c624730943c58d51df3998f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552802408
+status: 3
+tags: []
+user_id: pedroasvalente

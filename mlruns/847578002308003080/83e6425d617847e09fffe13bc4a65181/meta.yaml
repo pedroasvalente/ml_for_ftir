@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/83e6425d617847e09fffe13bc4a65181/artifacts
+end_time: 1756647855528
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 83e6425d617847e09fffe13bc4a65181
+run_name: monumental-conch-652
+run_uuid: 83e6425d617847e09fffe13bc4a65181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647840954
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/97990cad7c4842a995ace0032d6ded97/artifacts
+end_time: 1756674525050
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 97990cad7c4842a995ace0032d6ded97
+run_name: worried-quail-64
+run_uuid: 97990cad7c4842a995ace0032d6ded97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674508175
+status: 3
+tags: []
+user_id: pedroasvalente

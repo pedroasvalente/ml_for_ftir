@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/35175d69e27346b2937442669e61b403/artifacts
+end_time: 1756675097903
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 35175d69e27346b2937442669e61b403
+run_name: treasured-fish-866
+run_uuid: 35175d69e27346b2937442669e61b403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675067345
+status: 3
+tags: []
+user_id: pedroasvalente

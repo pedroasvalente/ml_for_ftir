@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/bb51dfc91fad4ac8bcf43a0c4df6539a/artifacts
+end_time: 1756675586302
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: bb51dfc91fad4ac8bcf43a0c4df6539a
+run_name: selective-chimp-691
+run_uuid: bb51dfc91fad4ac8bcf43a0c4df6539a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675483161
+status: 3
+tags: []
+user_id: pedroasvalente

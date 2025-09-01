@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/62ee689c311f4d70bc0578cf5e5ca4ca/artifacts
+end_time: 1756598529056
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 62ee689c311f4d70bc0578cf5e5ca4ca
+run_name: puzzled-flea-938
+run_uuid: 62ee689c311f4d70bc0578cf5e5ca4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756598517224
+status: 3
+tags: []
+user_id: pedroasvalente

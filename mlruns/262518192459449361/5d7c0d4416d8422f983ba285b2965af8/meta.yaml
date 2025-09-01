@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/5d7c0d4416d8422f983ba285b2965af8/artifacts
+end_time: 1756674902152
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 5d7c0d4416d8422f983ba285b2965af8
+run_name: delicate-eel-825
+run_uuid: 5d7c0d4416d8422f983ba285b2965af8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674877317
+status: 3
+tags: []
+user_id: pedroasvalente

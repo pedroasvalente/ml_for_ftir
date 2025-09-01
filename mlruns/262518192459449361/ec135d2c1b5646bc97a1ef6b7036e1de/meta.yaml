@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/ec135d2c1b5646bc97a1ef6b7036e1de/artifacts
+end_time: 1756674873736
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: ec135d2c1b5646bc97a1ef6b7036e1de
+run_name: mysterious-mare-943
+run_uuid: ec135d2c1b5646bc97a1ef6b7036e1de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674861213
+status: 3
+tags: []
+user_id: pedroasvalente

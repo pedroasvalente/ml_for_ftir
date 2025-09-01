@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/30158b3d55d0432981dee3ba074e37d2/artifacts
+end_time: 1756646244015
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 30158b3d55d0432981dee3ba074e37d2
+run_name: salty-moose-124
+run_uuid: 30158b3d55d0432981dee3ba074e37d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646214100
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/9614d175d8694b658e386641c3cc3500/artifacts
+end_time: 1756661352719
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 9614d175d8694b658e386641c3cc3500
+run_name: dazzling-crow-948
+run_uuid: 9614d175d8694b658e386641c3cc3500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661339920
+status: 3
+tags: []
+user_id: pedroasvalente

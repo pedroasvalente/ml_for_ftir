@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/b511214bfb9c460ab61f61d3e1f9cb4a/artifacts
+end_time: 1756674070931
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: b511214bfb9c460ab61f61d3e1f9cb4a
+run_name: peaceful-crab-111
+run_uuid: b511214bfb9c460ab61f61d3e1f9cb4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674058111
+status: 3
+tags: []
+user_id: pedroasvalente

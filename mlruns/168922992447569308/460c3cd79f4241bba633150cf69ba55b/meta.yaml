@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/460c3cd79f4241bba633150cf69ba55b/artifacts
+end_time: 1756596396825
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 460c3cd79f4241bba633150cf69ba55b
+run_name: unequaled-squid-440
+run_uuid: 460c3cd79f4241bba633150cf69ba55b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596372040
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/db4ada8077fe44e2a92b9311597517f2/artifacts
+end_time: 1756661959782
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: db4ada8077fe44e2a92b9311597517f2
+run_name: polite-seal-52
+run_uuid: db4ada8077fe44e2a92b9311597517f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661933165
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/5026b03898894b39b30153a6e68326fd/artifacts
+end_time: 1756634498609
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 5026b03898894b39b30153a6e68326fd
+run_name: bittersweet-hen-627
+run_uuid: 5026b03898894b39b30153a6e68326fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634473241
+status: 3
+tags: []
+user_id: pedroasvalente

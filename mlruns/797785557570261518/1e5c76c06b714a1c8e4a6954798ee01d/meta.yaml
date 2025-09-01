@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/1e5c76c06b714a1c8e4a6954798ee01d/artifacts
+end_time: 1756634779504
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 1e5c76c06b714a1c8e4a6954798ee01d
+run_name: adorable-skunk-95
+run_uuid: 1e5c76c06b714a1c8e4a6954798ee01d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634776031
+status: 3
+tags: []
+user_id: pedroasvalente

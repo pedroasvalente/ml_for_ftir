@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/942ec810018544039edfd5dbd06be07e/artifacts
+end_time: 1756661308479
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 942ec810018544039edfd5dbd06be07e
+run_name: rare-hound-144
+run_uuid: 942ec810018544039edfd5dbd06be07e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661295413
+status: 3
+tags: []
+user_id: pedroasvalente

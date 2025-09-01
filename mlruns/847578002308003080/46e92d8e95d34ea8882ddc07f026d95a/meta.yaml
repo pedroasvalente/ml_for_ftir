@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/46e92d8e95d34ea8882ddc07f026d95a/artifacts
+end_time: 1756647582893
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 46e92d8e95d34ea8882ddc07f026d95a
+run_name: melodic-mule-501
+run_uuid: 46e92d8e95d34ea8882ddc07f026d95a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647571844
+status: 3
+tags: []
+user_id: pedroasvalente

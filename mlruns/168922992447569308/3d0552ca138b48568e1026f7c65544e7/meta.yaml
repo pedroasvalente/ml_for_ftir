@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/3d0552ca138b48568e1026f7c65544e7/artifacts
+end_time: 1756596714652
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 3d0552ca138b48568e1026f7c65544e7
+run_name: industrious-fawn-854
+run_uuid: 3d0552ca138b48568e1026f7c65544e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596689202
+status: 3
+tags: []
+user_id: pedroasvalente

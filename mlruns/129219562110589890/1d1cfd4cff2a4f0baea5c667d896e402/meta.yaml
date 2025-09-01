@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/1d1cfd4cff2a4f0baea5c667d896e402/artifacts
+end_time: 1756553567086
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 1d1cfd4cff2a4f0baea5c667d896e402
+run_name: silent-worm-117
+run_uuid: 1d1cfd4cff2a4f0baea5c667d896e402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553554821
+status: 3
+tags: []
+user_id: pedroasvalente

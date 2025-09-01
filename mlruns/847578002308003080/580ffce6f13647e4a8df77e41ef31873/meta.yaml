@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/580ffce6f13647e4a8df77e41ef31873/artifacts
+end_time: 1756648399997
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 580ffce6f13647e4a8df77e41ef31873
+run_name: exultant-dog-475
+run_uuid: 580ffce6f13647e4a8df77e41ef31873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756648387567
+status: 3
+tags: []
+user_id: pedroasvalente

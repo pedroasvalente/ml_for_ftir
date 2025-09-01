@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/c25589aeac1c43c2a5c3913dfac29ac2/artifacts
+end_time: 1756634086576
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: c25589aeac1c43c2a5c3913dfac29ac2
+run_name: valuable-shark-228
+run_uuid: c25589aeac1c43c2a5c3913dfac29ac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634068312
+status: 3
+tags: []
+user_id: pedroasvalente

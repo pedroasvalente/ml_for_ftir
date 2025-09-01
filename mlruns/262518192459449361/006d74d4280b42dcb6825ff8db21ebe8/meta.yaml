@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/006d74d4280b42dcb6825ff8db21ebe8/artifacts
+end_time: 1756674256678
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 006d74d4280b42dcb6825ff8db21ebe8
+run_name: beautiful-bear-998
+run_uuid: 006d74d4280b42dcb6825ff8db21ebe8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674208740
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/b47ecf301583423481ea0da6c69708c3/artifacts
+end_time: 1756646958357
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: b47ecf301583423481ea0da6c69708c3
+run_name: adventurous-wren-855
+run_uuid: b47ecf301583423481ea0da6c69708c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646935163
+status: 3
+tags: []
+user_id: pedroasvalente

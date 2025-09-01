@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/dfe8018c23ce42839761f78c38de8131/artifacts
+end_time: 1756553366466
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: dfe8018c23ce42839761f78c38de8131
+run_name: unleashed-snail-302
+run_uuid: dfe8018c23ce42839761f78c38de8131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553340975
+status: 3
+tags: []
+user_id: pedroasvalente

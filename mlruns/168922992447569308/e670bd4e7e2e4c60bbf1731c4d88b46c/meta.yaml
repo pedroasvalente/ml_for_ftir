@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/e670bd4e7e2e4c60bbf1731c4d88b46c/artifacts
+end_time: 1756596326681
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: e670bd4e7e2e4c60bbf1731c4d88b46c
+run_name: thoughtful-whale-490
+run_uuid: e670bd4e7e2e4c60bbf1731c4d88b46c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596314636
+status: 3
+tags: []
+user_id: pedroasvalente

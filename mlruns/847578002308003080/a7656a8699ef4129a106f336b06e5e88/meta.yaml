@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/a7656a8699ef4129a106f336b06e5e88/artifacts
+end_time: 1756646829793
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: a7656a8699ef4129a106f336b06e5e88
+run_name: wistful-duck-866
+run_uuid: a7656a8699ef4129a106f336b06e5e88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646805454
+status: 3
+tags: []
+user_id: pedroasvalente

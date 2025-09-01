@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/3a7ec92d4f4648029f8c654024c6b717/artifacts
+end_time: 1756647141007
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 3a7ec92d4f4648029f8c654024c6b717
+run_name: whimsical-horse-280
+run_uuid: 3a7ec92d4f4648029f8c654024c6b717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647118680
+status: 3
+tags: []
+user_id: pedroasvalente

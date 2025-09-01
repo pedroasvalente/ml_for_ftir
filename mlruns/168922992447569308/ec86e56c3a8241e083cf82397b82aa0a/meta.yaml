@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/ec86e56c3a8241e083cf82397b82aa0a/artifacts
+end_time: 1756596839095
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: ec86e56c3a8241e083cf82397b82aa0a
+run_name: casual-goat-956
+run_uuid: ec86e56c3a8241e083cf82397b82aa0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596809274
+status: 3
+tags: []
+user_id: pedroasvalente

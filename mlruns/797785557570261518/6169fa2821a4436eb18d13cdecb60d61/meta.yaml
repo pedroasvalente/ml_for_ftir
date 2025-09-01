@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/6169fa2821a4436eb18d13cdecb60d61/artifacts
+end_time: 1756634580327
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 6169fa2821a4436eb18d13cdecb60d61
+run_name: unruly-donkey-328
+run_uuid: 6169fa2821a4436eb18d13cdecb60d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634554511
+status: 3
+tags: []
+user_id: pedroasvalente

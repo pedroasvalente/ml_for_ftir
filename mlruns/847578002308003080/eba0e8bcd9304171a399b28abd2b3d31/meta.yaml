@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/eba0e8bcd9304171a399b28abd2b3d31/artifacts
+end_time: 1756646829793
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: eba0e8bcd9304171a399b28abd2b3d31
+run_name: amazing-roo-70
+run_uuid: eba0e8bcd9304171a399b28abd2b3d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646805454
+status: 3
+tags: []
+user_id: pedroasvalente

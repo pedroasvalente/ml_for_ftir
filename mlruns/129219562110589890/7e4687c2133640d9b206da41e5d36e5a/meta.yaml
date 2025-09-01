@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/7e4687c2133640d9b206da41e5d36e5a/artifacts
+end_time: 1756553077740
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 7e4687c2133640d9b206da41e5d36e5a
+run_name: zealous-doe-720
+run_uuid: 7e4687c2133640d9b206da41e5d36e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553017236
+status: 3
+tags: []
+user_id: pedroasvalente

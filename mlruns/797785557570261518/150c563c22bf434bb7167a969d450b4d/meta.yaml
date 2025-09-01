@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/150c563c22bf434bb7167a969d450b4d/artifacts
+end_time: 1756635201108
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 150c563c22bf434bb7167a969d450b4d
+run_name: fortunate-bass-265
+run_uuid: 150c563c22bf434bb7167a969d450b4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635189144
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/ce943da375524ceca32d44507ca73765/artifacts
+end_time: 1756663016673
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: ce943da375524ceca32d44507ca73765
+run_name: melodic-bear-736
+run_uuid: ce943da375524ceca32d44507ca73765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756663005069
+status: 3
+tags: []
+user_id: pedroasvalente

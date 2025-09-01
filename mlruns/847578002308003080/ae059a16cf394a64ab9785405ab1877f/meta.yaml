@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/ae059a16cf394a64ab9785405ab1877f/artifacts
+end_time: 1756646444684
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: ae059a16cf394a64ab9785405ab1877f
+run_name: fortunate-ray-345
+run_uuid: ae059a16cf394a64ab9785405ab1877f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646419931
+status: 3
+tags: []
+user_id: pedroasvalente

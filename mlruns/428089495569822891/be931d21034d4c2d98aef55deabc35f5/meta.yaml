@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/be931d21034d4c2d98aef55deabc35f5/artifacts
+end_time: 1756661352719
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: be931d21034d4c2d98aef55deabc35f5
+run_name: thundering-dove-817
+run_uuid: be931d21034d4c2d98aef55deabc35f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661339920
+status: 3
+tags: []
+user_id: pedroasvalente

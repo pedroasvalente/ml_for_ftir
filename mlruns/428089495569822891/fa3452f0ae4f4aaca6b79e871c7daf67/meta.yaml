@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/fa3452f0ae4f4aaca6b79e871c7daf67/artifacts
+end_time: 1756660786002
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: fa3452f0ae4f4aaca6b79e871c7daf67
+run_name: nervous-sponge-424
+run_uuid: fa3452f0ae4f4aaca6b79e871c7daf67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756660701368
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/65ed354c892e44f8946e12659480f3ce/artifacts
+end_time: 1756634514636
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 65ed354c892e44f8946e12659480f3ce
+run_name: unleashed-zebra-47
+run_uuid: 65ed354c892e44f8946e12659480f3ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634502303
+status: 3
+tags: []
+user_id: pedroasvalente

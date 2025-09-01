@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/a661b7650fc142279cabdc8c369579dd/artifacts
+end_time: 1756596550077
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: a661b7650fc142279cabdc8c369579dd
+run_name: sedate-elk-782
+run_uuid: a661b7650fc142279cabdc8c369579dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596537156
+status: 3
+tags: []
+user_id: pedroasvalente

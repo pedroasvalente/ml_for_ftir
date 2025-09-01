@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/096bd6e679e244e48fcdeb45bb86ce26/artifacts
+end_time: 1756661756181
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 096bd6e679e244e48fcdeb45bb86ce26
+run_name: bemused-foal-403
+run_uuid: 096bd6e679e244e48fcdeb45bb86ce26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661731539
+status: 3
+tags: []
+user_id: pedroasvalente

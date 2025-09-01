@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/06ea6d59d3934a3281dba6072a11017a/artifacts
+end_time: 1756554248812
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 06ea6d59d3934a3281dba6072a11017a
+run_name: likeable-mole-575
+run_uuid: 06ea6d59d3934a3281dba6072a11017a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554237788
+status: 3
+tags: []
+user_id: pedroasvalente

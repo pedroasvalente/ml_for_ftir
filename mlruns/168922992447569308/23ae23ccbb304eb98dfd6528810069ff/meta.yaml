@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/23ae23ccbb304eb98dfd6528810069ff/artifacts
+end_time: 1756597080243
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 23ae23ccbb304eb98dfd6528810069ff
+run_name: caring-hare-579
+run_uuid: 23ae23ccbb304eb98dfd6528810069ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756597076788
+status: 3
+tags: []
+user_id: pedroasvalente

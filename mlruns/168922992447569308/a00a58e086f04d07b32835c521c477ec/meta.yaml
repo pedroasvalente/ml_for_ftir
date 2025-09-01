@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/a00a58e086f04d07b32835c521c477ec/artifacts
+end_time: 1756596486490
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: a00a58e086f04d07b32835c521c477ec
+run_name: righteous-asp-166
+run_uuid: a00a58e086f04d07b32835c521c477ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596460203
+status: 3
+tags: []
+user_id: pedroasvalente

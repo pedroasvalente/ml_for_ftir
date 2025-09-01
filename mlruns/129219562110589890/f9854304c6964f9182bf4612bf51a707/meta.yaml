@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/f9854304c6964f9182bf4612bf51a707/artifacts
+end_time: 1756553337910
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: f9854304c6964f9182bf4612bf51a707
+run_name: worried-shad-708
+run_uuid: f9854304c6964f9182bf4612bf51a707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553325472
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/a890555dcbde40868a5df57dc2b2cec9/artifacts
+end_time: 1756596007964
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: a890555dcbde40868a5df57dc2b2cec9
+run_name: amazing-lark-740
+run_uuid: a890555dcbde40868a5df57dc2b2cec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756595985436
+status: 3
+tags: []
+user_id: pedroasvalente

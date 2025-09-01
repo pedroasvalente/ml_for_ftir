@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/bd29599404b540aeb0c72ac403e17873/artifacts
+end_time: 1756647458129
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: bd29599404b540aeb0c72ac403e17873
+run_name: rebellious-crow-642
+run_uuid: bd29599404b540aeb0c72ac403e17873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647446972
+status: 3
+tags: []
+user_id: pedroasvalente

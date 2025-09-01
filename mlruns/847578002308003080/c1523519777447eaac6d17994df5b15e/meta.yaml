@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/c1523519777447eaac6d17994df5b15e/artifacts
+end_time: 1756646393606
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: c1523519777447eaac6d17994df5b15e
+run_name: bald-toad-624
+run_uuid: c1523519777447eaac6d17994df5b15e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646368968
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/d829ed6bb0bc4e79989909c3ab072599/artifacts
+end_time: 1756661837637
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: d829ed6bb0bc4e79989909c3ab072599
+run_name: salty-panda-642
+run_uuid: d829ed6bb0bc4e79989909c3ab072599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661807259
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/6d475f39145a4920a898a357a088475e/artifacts
+end_time: 1756595874156
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 6d475f39145a4920a898a357a088475e
+run_name: colorful-lynx-459
+run_uuid: 6d475f39145a4920a898a357a088475e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756595851740
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/7a365c91b14a44f7ae3b615f224b7c99/artifacts
+end_time: 1756597035870
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 7a365c91b14a44f7ae3b615f224b7c99
+run_name: overjoyed-duck-923
+run_uuid: 7a365c91b14a44f7ae3b615f224b7c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756597011803
+status: 3
+tags: []
+user_id: pedroasvalente

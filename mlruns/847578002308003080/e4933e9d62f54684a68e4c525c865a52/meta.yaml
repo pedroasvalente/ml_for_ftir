@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/e4933e9d62f54684a68e4c525c865a52/artifacts
+end_time: 1756647268313
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: e4933e9d62f54684a68e4c525c865a52
+run_name: luxuriant-mouse-107
+run_uuid: e4933e9d62f54684a68e4c525c865a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647247754
+status: 3
+tags: []
+user_id: pedroasvalente

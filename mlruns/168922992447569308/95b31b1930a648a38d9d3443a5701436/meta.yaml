@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/95b31b1930a648a38d9d3443a5701436/artifacts
+end_time: 1756596261754
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 95b31b1930a648a38d9d3443a5701436
+run_name: rogue-elk-835
+run_uuid: 95b31b1930a648a38d9d3443a5701436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596200478
+status: 3
+tags: []
+user_id: pedroasvalente

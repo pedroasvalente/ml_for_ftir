@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/d1d8541d47c14a2b86331f4f45de750e/artifacts
+end_time: 1756675603189
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: d1d8541d47c14a2b86331f4f45de750e
+run_name: overjoyed-pug-962
+run_uuid: d1d8541d47c14a2b86331f4f45de750e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675591283
+status: 3
+tags: []
+user_id: pedroasvalente

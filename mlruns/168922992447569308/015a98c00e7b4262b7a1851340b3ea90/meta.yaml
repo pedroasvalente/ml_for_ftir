@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/015a98c00e7b4262b7a1851340b3ea90/artifacts
+end_time: 1756596457063
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 015a98c00e7b4262b7a1851340b3ea90
+run_name: abrasive-stork-392
+run_uuid: 015a98c00e7b4262b7a1851340b3ea90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596444379
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/21614279bb404b7b977f5ee0d0330d36/artifacts
+end_time: 1756552675257
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 21614279bb404b7b977f5ee0d0330d36
+run_name: handsome-shark-758
+run_uuid: 21614279bb404b7b977f5ee0d0330d36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552658589
+status: 3
+tags: []
+user_id: pedroasvalente

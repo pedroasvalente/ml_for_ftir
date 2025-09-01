@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/555a7b7b457c4890827b5c54bddb3bdb/artifacts
+end_time: 1756662160818
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 555a7b7b457c4890827b5c54bddb3bdb
+run_name: nervous-wasp-915
+run_uuid: 555a7b7b457c4890827b5c54bddb3bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662149478
+status: 3
+tags: []
+user_id: pedroasvalente

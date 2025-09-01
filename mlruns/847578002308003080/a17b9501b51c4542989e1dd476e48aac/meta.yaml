@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/a17b9501b51c4542989e1dd476e48aac/artifacts
+end_time: 1756646846154
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: a17b9501b51c4542989e1dd476e48aac
+run_name: peaceful-midge-906
+run_uuid: a17b9501b51c4542989e1dd476e48aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646833704
+status: 3
+tags: []
+user_id: pedroasvalente

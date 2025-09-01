@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/8ac9be19221d49eda58679a01b1ca355/artifacts
+end_time: 1756661478892
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 8ac9be19221d49eda58679a01b1ca355
+run_name: rare-roo-960
+run_uuid: 8ac9be19221d49eda58679a01b1ca355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661450705
+status: 3
+tags: []
+user_id: pedroasvalente

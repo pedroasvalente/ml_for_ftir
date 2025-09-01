@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/4b096cbdba5546ffad1f0d4e67cde81a/artifacts
+end_time: 1756661244449
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 4b096cbdba5546ffad1f0d4e67cde81a
+run_name: fearless-grouse-664
+run_uuid: 4b096cbdba5546ffad1f0d4e67cde81a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661165932
+status: 3
+tags: []
+user_id: pedroasvalente

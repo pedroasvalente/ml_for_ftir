@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/78e90fa58d284d8a9707b3c38f15d1be/artifacts
+end_time: 1756661308479
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 78e90fa58d284d8a9707b3c38f15d1be
+run_name: whimsical-cub-336
+run_uuid: 78e90fa58d284d8a9707b3c38f15d1be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661295413
+status: 3
+tags: []
+user_id: pedroasvalente

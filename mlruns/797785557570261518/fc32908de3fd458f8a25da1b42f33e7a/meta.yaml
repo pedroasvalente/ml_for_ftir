@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/fc32908de3fd458f8a25da1b42f33e7a/artifacts
+end_time: 1756635056440
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: fc32908de3fd458f8a25da1b42f33e7a
+run_name: unruly-steed-410
+run_uuid: fc32908de3fd458f8a25da1b42f33e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635044718
+status: 3
+tags: []
+user_id: pedroasvalente

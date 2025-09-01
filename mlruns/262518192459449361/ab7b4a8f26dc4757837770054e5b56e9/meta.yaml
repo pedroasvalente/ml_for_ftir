@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/ab7b4a8f26dc4757837770054e5b56e9/artifacts
+end_time: 1756675214278
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: ab7b4a8f26dc4757837770054e5b56e9
+run_name: enchanting-frog-612
+run_uuid: ab7b4a8f26dc4757837770054e5b56e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675186886
+status: 3
+tags: []
+user_id: pedroasvalente

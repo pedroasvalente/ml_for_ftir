@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/38a45cbbe61c45f485132a62e4a96e83/artifacts
+end_time: 1756554233132
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 38a45cbbe61c45f485132a62e4a96e83
+run_name: funny-lark-547
+run_uuid: 38a45cbbe61c45f485132a62e4a96e83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554134239
+status: 3
+tags: []
+user_id: pedroasvalente

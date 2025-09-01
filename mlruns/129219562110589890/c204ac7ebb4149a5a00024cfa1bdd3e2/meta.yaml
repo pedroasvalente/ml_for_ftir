@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/c204ac7ebb4149a5a00024cfa1bdd3e2/artifacts
+end_time: 1756553804377
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: c204ac7ebb4149a5a00024cfa1bdd3e2
+run_name: suave-snail-27
+run_uuid: c204ac7ebb4149a5a00024cfa1bdd3e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553777345
+status: 3
+tags: []
+user_id: pedroasvalente

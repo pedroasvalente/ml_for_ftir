@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/5330377087d14816a699c597f2a6d3cd/artifacts
+end_time: 1756660826741
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 5330377087d14816a699c597f2a6d3cd
+run_name: wistful-shrimp-842
+run_uuid: 5330377087d14816a699c597f2a6d3cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756660814838
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/023515a3ebfc4e6fb8163e422b2b831b/artifacts
+end_time: 1756634065602
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 023515a3ebfc4e6fb8163e422b2b831b
+run_name: thundering-toad-288
+run_uuid: 023515a3ebfc4e6fb8163e422b2b831b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634042145
+status: 3
+tags: []
+user_id: pedroasvalente

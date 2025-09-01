@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/5fba0bdd4e1a484c9fb6d68b3d5a616a/artifacts
+end_time: 1756661542247
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 5fba0bdd4e1a484c9fb6d68b3d5a616a
+run_name: rare-shad-159
+run_uuid: 5fba0bdd4e1a484c9fb6d68b3d5a616a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661529361
+status: 3
+tags: []
+user_id: pedroasvalente

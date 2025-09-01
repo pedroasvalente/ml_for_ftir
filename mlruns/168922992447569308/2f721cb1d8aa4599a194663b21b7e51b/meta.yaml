@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/2f721cb1d8aa4599a194663b21b7e51b/artifacts
+end_time: 1756595847784
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 2f721cb1d8aa4599a194663b21b7e51b
+run_name: shivering-moose-130
+run_uuid: 2f721cb1d8aa4599a194663b21b7e51b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756595785517
+status: 3
+tags: []
+user_id: pedroasvalente

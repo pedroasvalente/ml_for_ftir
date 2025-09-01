@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/22176303827646c0a7f32386975db3eb/artifacts
+end_time: 1756596958830
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 22176303827646c0a7f32386975db3eb
+run_name: learned-roo-738
+run_uuid: 22176303827646c0a7f32386975db3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596929786
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/e2f4025678ba45069d768d12f59d1d6e/artifacts
+end_time: 1756553412337
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: e2f4025678ba45069d768d12f59d1d6e
+run_name: languid-bass-226
+run_uuid: e2f4025678ba45069d768d12f59d1d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553385504
+status: 3
+tags: []
+user_id: pedroasvalente

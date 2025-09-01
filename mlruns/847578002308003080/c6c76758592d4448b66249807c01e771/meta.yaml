@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/c6c76758592d4448b66249807c01e771/artifacts
+end_time: 1756646444684
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: c6c76758592d4448b66249807c01e771
+run_name: ambitious-bear-91
+run_uuid: c6c76758592d4448b66249807c01e771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646419931
+status: 3
+tags: []
+user_id: pedroasvalente

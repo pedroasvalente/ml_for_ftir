@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/34b55454a4534450aa922532fe154802/artifacts
+end_time: 1756646655903
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 34b55454a4534450aa922532fe154802
+run_name: gentle-perch-874
+run_uuid: 34b55454a4534450aa922532fe154802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646632698
+status: 3
+tags: []
+user_id: pedroasvalente

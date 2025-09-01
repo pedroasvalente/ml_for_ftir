@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/20aab61d97764348a260e14df1b0015e/artifacts
+end_time: 1756554248812
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 20aab61d97764348a260e14df1b0015e
+run_name: defiant-mole-254
+run_uuid: 20aab61d97764348a260e14df1b0015e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554237788
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/6b2408ff594b448593f2b3dc8e3313ac/artifacts
+end_time: 1756553249288
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 6b2408ff594b448593f2b3dc8e3313ac
+run_name: mercurial-moose-728
+run_uuid: 6b2408ff594b448593f2b3dc8e3313ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553225310
+status: 3
+tags: []
+user_id: pedroasvalente

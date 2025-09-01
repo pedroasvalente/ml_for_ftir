@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/502496e6e97e42a8aac92c1f0a523908/artifacts
+end_time: 1756554001087
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 502496e6e97e42a8aac92c1f0a523908
+run_name: auspicious-calf-572
+run_uuid: 502496e6e97e42a8aac92c1f0a523908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553973589
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/3edad1d6af67420dbf607e69031ff5f4/artifacts
+end_time: 1756634065602
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 3edad1d6af67420dbf607e69031ff5f4
+run_name: vaunted-goose-677
+run_uuid: 3edad1d6af67420dbf607e69031ff5f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634042145
+status: 3
+tags: []
+user_id: pedroasvalente

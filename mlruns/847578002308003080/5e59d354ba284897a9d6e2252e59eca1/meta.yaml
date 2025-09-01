@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/5e59d354ba284897a9d6e2252e59eca1/artifacts
+end_time: 1756647442029
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 5e59d354ba284897a9d6e2252e59eca1
+run_name: upbeat-rook-144
+run_uuid: 5e59d354ba284897a9d6e2252e59eca1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647355039
+status: 3
+tags: []
+user_id: pedroasvalente

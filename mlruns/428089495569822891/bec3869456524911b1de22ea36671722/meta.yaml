@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/bec3869456524911b1de22ea36671722/artifacts
+end_time: 1756661682609
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: bec3869456524911b1de22ea36671722
+run_name: valuable-newt-420
+run_uuid: bec3869456524911b1de22ea36671722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661670438
+status: 3
+tags: []
+user_id: pedroasvalente

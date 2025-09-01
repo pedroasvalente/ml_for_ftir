@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/4d15e4bbed6245d5b985001e2abec76a/artifacts
+end_time: 1756555306769
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 4d15e4bbed6245d5b985001e2abec76a
+run_name: defiant-foal-95
+run_uuid: 4d15e4bbed6245d5b985001e2abec76a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756555170196
+status: 3
+tags: []
+user_id: pedroasvalente

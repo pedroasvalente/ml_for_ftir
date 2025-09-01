@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/5d688ba38baf404aa68c6cf1880a286c/artifacts
+end_time: 1756661636299
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 5d688ba38baf404aa68c6cf1880a286c
+run_name: adorable-shrike-126
+run_uuid: 5d688ba38baf404aa68c6cf1880a286c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661623152
+status: 3
+tags: []
+user_id: pedroasvalente

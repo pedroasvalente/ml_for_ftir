@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/b39d1dab303b448ca419533c7deff9ca/artifacts
+end_time: 1756660977923
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: b39d1dab303b448ca419533c7deff9ca
+run_name: victorious-fly-973
+run_uuid: b39d1dab303b448ca419533c7deff9ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756660966872
+status: 3
+tags: []
+user_id: pedroasvalente

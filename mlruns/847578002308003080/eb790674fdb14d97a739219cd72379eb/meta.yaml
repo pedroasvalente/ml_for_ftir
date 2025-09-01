@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/eb790674fdb14d97a739219cd72379eb/artifacts
+end_time: 1756648530600
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: eb790674fdb14d97a739219cd72379eb
+run_name: useful-gull-243
+run_uuid: eb790674fdb14d97a739219cd72379eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756648519109
+status: 3
+tags: []
+user_id: pedroasvalente

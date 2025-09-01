@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/372968561eda4eaf88c2412ee507c935/artifacts
+end_time: 1756662396699
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 372968561eda4eaf88c2412ee507c935
+run_name: luxuriant-newt-174
+run_uuid: 372968561eda4eaf88c2412ee507c935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662283161
+status: 3
+tags: []
+user_id: pedroasvalente

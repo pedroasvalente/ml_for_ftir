@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/bf7206e729064578a3c3db848beecb33/artifacts
+end_time: 1756661967993
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: bf7206e729064578a3c3db848beecb33
+run_name: delightful-bee-710
+run_uuid: bf7206e729064578a3c3db848beecb33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661964507
+status: 3
+tags: []
+user_id: pedroasvalente

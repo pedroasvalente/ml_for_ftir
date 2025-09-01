@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/bbc4921746b14e9cacf4dd8f9cb59fae/artifacts
+end_time: 1756644394990
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: bbc4921746b14e9cacf4dd8f9cb59fae
+run_name: BayesSearchCV
+run_uuid: bbc4921746b14e9cacf4dd8f9cb59fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756636788775
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/2b1d6a0acbce4f0b87ead67ad038d536/artifacts
+end_time: 1756674140082
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 2b1d6a0acbce4f0b87ead67ad038d536
+run_name: enchanting-squid-443
+run_uuid: 2b1d6a0acbce4f0b87ead67ad038d536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674101958
+status: 3
+tags: []
+user_id: pedroasvalente

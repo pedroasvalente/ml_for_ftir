@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/1264867729714179bac64e5bbc744017/artifacts
+end_time: 1756597289565
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 1264867729714179bac64e5bbc744017
+run_name: carefree-grub-371
+run_uuid: 1264867729714179bac64e5bbc744017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756597278331
+status: 3
+tags: []
+user_id: pedroasvalente

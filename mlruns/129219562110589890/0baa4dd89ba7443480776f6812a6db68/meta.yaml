@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/0baa4dd89ba7443480776f6812a6db68/artifacts
+end_time: 1756553969988
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 0baa4dd89ba7443480776f6812a6db68
+run_name: brawny-sloth-560
+run_uuid: 0baa4dd89ba7443480776f6812a6db68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553966635
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/645f9722807c4d5480208386ee8c684b/artifacts
+end_time: 1756596369078
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 645f9722807c4d5480208386ee8c684b
+run_name: gaudy-skunk-891
+run_uuid: 645f9722807c4d5480208386ee8c684b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596356636
+status: 3
+tags: []
+user_id: pedroasvalente

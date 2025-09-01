@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/06f13c62066949618aa89b098377affb/artifacts
+end_time: 1756553457284
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 06f13c62066949618aa89b098377affb
+run_name: stylish-whale-810
+run_uuid: 06f13c62066949618aa89b098377affb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553431208
+status: 3
+tags: []
+user_id: pedroasvalente

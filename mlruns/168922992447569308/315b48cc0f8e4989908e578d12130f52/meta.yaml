@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/315b48cc0f8e4989908e578d12130f52/artifacts
+end_time: 1756597755166
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 315b48cc0f8e4989908e578d12130f52
+run_name: bustling-dove-906
+run_uuid: 315b48cc0f8e4989908e578d12130f52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756597743301
+status: 3
+tags: []
+user_id: pedroasvalente

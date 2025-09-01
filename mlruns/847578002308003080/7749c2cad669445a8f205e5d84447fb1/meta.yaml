@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/7749c2cad669445a8f205e5d84447fb1/artifacts
+end_time: 1756647009232
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 7749c2cad669445a8f205e5d84447fb1
+run_name: welcoming-worm-727
+run_uuid: 7749c2cad669445a8f205e5d84447fb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647005810
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/23b3e9e198bb48ba9693117094cb245e/artifacts
+end_time: 1756675028058
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 23b3e9e198bb48ba9693117094cb245e
+run_name: gifted-carp-442
+run_uuid: 23b3e9e198bb48ba9693117094cb245e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675024636
+status: 3
+tags: []
+user_id: pedroasvalente

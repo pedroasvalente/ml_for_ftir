@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/7657f17f4d714b9188ad7bd43201077c/artifacts
+end_time: 1756552824308
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 7657f17f4d714b9188ad7bd43201077c
+run_name: youthful-loon-413
+run_uuid: 7657f17f4d714b9188ad7bd43201077c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552802408
+status: 3
+tags: []
+user_id: pedroasvalente

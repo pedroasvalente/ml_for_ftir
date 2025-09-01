@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/827076ecb1524f23ac0e19774e41258d/artifacts
+end_time: 1756634587924
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 827076ecb1524f23ac0e19774e41258d
+run_name: persistent-sloth-20
+run_uuid: 827076ecb1524f23ac0e19774e41258d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634584365
+status: 3
+tags: []
+user_id: pedroasvalente

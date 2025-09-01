@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/3eec15fa646948c3b174a048a676e830/artifacts
+end_time: 1756647172131
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 3eec15fa646948c3b174a048a676e830
+run_name: hilarious-fox-414
+run_uuid: 3eec15fa646948c3b174a048a676e830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647152038
+status: 3
+tags: []
+user_id: pedroasvalente

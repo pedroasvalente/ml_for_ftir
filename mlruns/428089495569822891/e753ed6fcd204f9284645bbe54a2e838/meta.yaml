@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/e753ed6fcd204f9284645bbe54a2e838/artifacts
+end_time: 1756661837637
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: e753ed6fcd204f9284645bbe54a2e838
+run_name: bald-elk-899
+run_uuid: e753ed6fcd204f9284645bbe54a2e838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661807259
+status: 3
+tags: []
+user_id: pedroasvalente

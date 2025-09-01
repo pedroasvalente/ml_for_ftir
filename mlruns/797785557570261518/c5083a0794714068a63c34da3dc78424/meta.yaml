@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/c5083a0794714068a63c34da3dc78424/artifacts
+end_time: 1756634736602
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: c5083a0794714068a63c34da3dc78424
+run_name: melodic-shrew-56
+run_uuid: c5083a0794714068a63c34da3dc78424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634732909
+status: 3
+tags: []
+user_id: pedroasvalente

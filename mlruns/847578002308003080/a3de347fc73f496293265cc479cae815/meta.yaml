@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/a3de347fc73f496293265cc479cae815/artifacts
+end_time: 1756646517927
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: a3de347fc73f496293265cc479cae815
+run_name: charming-gull-54
+run_uuid: a3de347fc73f496293265cc479cae815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646447445
+status: 3
+tags: []
+user_id: pedroasvalente

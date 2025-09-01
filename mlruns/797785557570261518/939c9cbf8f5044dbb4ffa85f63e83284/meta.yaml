@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/939c9cbf8f5044dbb4ffa85f63e83284/artifacts
+end_time: 1756633440019
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 939c9cbf8f5044dbb4ffa85f63e83284
+run_name: rumbling-shark-274
+run_uuid: 939c9cbf8f5044dbb4ffa85f63e83284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633413393
+status: 3
+tags: []
+user_id: pedroasvalente

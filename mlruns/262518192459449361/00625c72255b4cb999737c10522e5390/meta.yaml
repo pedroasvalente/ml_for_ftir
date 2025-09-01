@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/00625c72255b4cb999737c10522e5390/artifacts
+end_time: 1756675223811
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 00625c72255b4cb999737c10522e5390
+run_name: omniscient-deer-503
+run_uuid: 00625c72255b4cb999737c10522e5390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675220155
+status: 3
+tags: []
+user_id: pedroasvalente

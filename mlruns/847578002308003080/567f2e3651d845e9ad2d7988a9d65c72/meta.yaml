@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/567f2e3651d845e9ad2d7988a9d65c72/artifacts
+end_time: 1756648512921
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 567f2e3651d845e9ad2d7988a9d65c72
+run_name: rogue-kite-293
+run_uuid: 567f2e3651d845e9ad2d7988a9d65c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756648406207
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/35550df28a854bb89b6cf13417d31a27/artifacts
+end_time: 1756663131456
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 35550df28a854bb89b6cf13417d31a27
+run_name: rumbling-crab-819
+run_uuid: 35550df28a854bb89b6cf13417d31a27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756663022486
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/28a06403fcdb4f8b8c5c5f966bd3d34c/artifacts
+end_time: 1756662998572
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 28a06403fcdb4f8b8c5c5f966bd3d34c
+run_name: auspicious-ant-853
+run_uuid: 28a06403fcdb4f8b8c5c5f966bd3d34c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662857012
+status: 3
+tags: []
+user_id: pedroasvalente

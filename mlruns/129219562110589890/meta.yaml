@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/129219562110589890
+creation_time: 1756552536113
+experiment_id: '129219562110589890'
+last_update_time: 1756552536113
+lifecycle_stage: active
+name: FTIR Supervised Training - FFM_KG

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/8955d0e8a451442aacdd7bf0d6352720/artifacts
+end_time: 1756597434296
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 8955d0e8a451442aacdd7bf0d6352720
+run_name: grandiose-lynx-888
+run_uuid: 8955d0e8a451442aacdd7bf0d6352720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756597421980
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/0746a8f40c1c4a15a6f07ed53b56304c/artifacts
+end_time: 1756647835644
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 0746a8f40c1c4a15a6f07ed53b56304c
+run_name: luxuriant-pug-889
+run_uuid: 0746a8f40c1c4a15a6f07ed53b56304c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647713872
+status: 3
+tags: []
+user_id: pedroasvalente

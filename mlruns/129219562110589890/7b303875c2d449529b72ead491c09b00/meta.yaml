@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/7b303875c2d449529b72ead491c09b00/artifacts
+end_time: 1756553702155
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 7b303875c2d449529b72ead491c09b00
+run_name: learned-bass-804
+run_uuid: 7b303875c2d449529b72ead491c09b00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553689307
+status: 3
+tags: []
+user_id: pedroasvalente

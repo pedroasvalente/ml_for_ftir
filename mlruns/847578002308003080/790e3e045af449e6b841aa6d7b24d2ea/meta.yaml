@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/790e3e045af449e6b841aa6d7b24d2ea/artifacts
+end_time: 1756647205302
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 790e3e045af449e6b841aa6d7b24d2ea
+run_name: gaudy-ram-912
+run_uuid: 790e3e045af449e6b841aa6d7b24d2ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647183425
+status: 3
+tags: []
+user_id: pedroasvalente

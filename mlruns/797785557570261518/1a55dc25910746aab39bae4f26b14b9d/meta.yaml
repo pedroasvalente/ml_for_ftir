@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/1a55dc25910746aab39bae4f26b14b9d/artifacts
+end_time: 1756635667175
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 1a55dc25910746aab39bae4f26b14b9d
+run_name: sneaky-ram-327
+run_uuid: 1a55dc25910746aab39bae4f26b14b9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635655177
+status: 3
+tags: []
+user_id: pedroasvalente

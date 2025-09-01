@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/c9ddf1825be248469f0f4bf67d3223aa/artifacts
+end_time: 1756675329045
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: c9ddf1825be248469f0f4bf67d3223aa
+run_name: wise-ox-723
+run_uuid: c9ddf1825be248469f0f4bf67d3223aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675325628
+status: 3
+tags: []
+user_id: pedroasvalente

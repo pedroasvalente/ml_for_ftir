@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/051959cf1e5a4fe3bb63c24cf9f5cc7c/artifacts
+end_time: 1756553928263
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 051959cf1e5a4fe3bb63c24cf9f5cc7c
+run_name: wise-seal-242
+run_uuid: 051959cf1e5a4fe3bb63c24cf9f5cc7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553924901
+status: 3
+tags: []
+user_id: pedroasvalente

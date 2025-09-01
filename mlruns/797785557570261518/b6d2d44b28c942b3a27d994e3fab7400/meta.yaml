@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/b6d2d44b28c942b3a27d994e3fab7400/artifacts
+end_time: 1756634498609
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: b6d2d44b28c942b3a27d994e3fab7400
+run_name: loud-fish-813
+run_uuid: b6d2d44b28c942b3a27d994e3fab7400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634473241
+status: 3
+tags: []
+user_id: pedroasvalente

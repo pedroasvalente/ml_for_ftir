@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/50faa7c33c6c4ad3b5693552981aba4f/artifacts
+end_time: 1756646655903
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 50faa7c33c6c4ad3b5693552981aba4f
+run_name: magnificent-tern-911
+run_uuid: 50faa7c33c6c4ad3b5693552981aba4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646632698
+status: 3
+tags: []
+user_id: pedroasvalente

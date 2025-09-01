@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/d79d44c418b14e7c836ae19503db5834/artifacts
+end_time: 1756552799523
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: d79d44c418b14e7c836ae19503db5834
+run_name: angry-carp-90
+run_uuid: d79d44c418b14e7c836ae19503db5834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552775735
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/75964a6d8edd48b8ad4ff0dc7e71041b/artifacts
+end_time: 1756676284741
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 75964a6d8edd48b8ad4ff0dc7e71041b
+run_name: bald-mole-942
+run_uuid: 75964a6d8edd48b8ad4ff0dc7e71041b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756676178619
+status: 3
+tags: []
+user_id: pedroasvalente

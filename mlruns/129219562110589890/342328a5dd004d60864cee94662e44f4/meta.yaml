@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/342328a5dd004d60864cee94662e44f4/artifacts
+end_time: 1756553567086
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 342328a5dd004d60864cee94662e44f4
+run_name: whimsical-fish-831
+run_uuid: 342328a5dd004d60864cee94662e44f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553554821
+status: 3
+tags: []
+user_id: pedroasvalente

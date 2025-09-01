@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/2d0ed4c1baa64ed4b585a63abda1cd04/artifacts
+end_time: 1756662834308
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 2d0ed4c1baa64ed4b585a63abda1cd04
+run_name: charming-sow-181
+run_uuid: 2d0ed4c1baa64ed4b585a63abda1cd04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662711597
+status: 3
+tags: []
+user_id: pedroasvalente

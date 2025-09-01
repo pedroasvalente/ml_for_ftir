@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/75d36e283ada4713845cbf9e01ee75fe/artifacts
+end_time: 1756661959782
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 75d36e283ada4713845cbf9e01ee75fe
+run_name: colorful-shrew-722
+run_uuid: 75d36e283ada4713845cbf9e01ee75fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661933165
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/88670ffba7eb4ae2a2cba1346dbc539c/artifacts
+end_time: 1756674785185
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 88670ffba7eb4ae2a2cba1346dbc539c
+run_name: fun-trout-7
+run_uuid: 88670ffba7eb4ae2a2cba1346dbc539c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674772612
+status: 3
+tags: []
+user_id: pedroasvalente

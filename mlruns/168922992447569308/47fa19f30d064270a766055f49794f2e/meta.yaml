@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/47fa19f30d064270a766055f49794f2e/artifacts
+end_time: 1756596926271
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 47fa19f30d064270a766055f49794f2e
+run_name: resilient-zebra-864
+run_uuid: 47fa19f30d064270a766055f49794f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596922787
+status: 3
+tags: []
+user_id: pedroasvalente

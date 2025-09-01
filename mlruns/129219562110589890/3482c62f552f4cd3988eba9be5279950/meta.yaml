@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/3482c62f552f4cd3988eba9be5279950/artifacts
+end_time: 1756552707219
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 3482c62f552f4cd3988eba9be5279950
+run_name: fearless-skink-614
+run_uuid: 3482c62f552f4cd3988eba9be5279950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552683764
+status: 3
+tags: []
+user_id: pedroasvalente

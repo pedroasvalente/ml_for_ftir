@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/4e64ae1cd45a496b841cc8b6406bb2e5/artifacts
+end_time: 1756635819071
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 4e64ae1cd45a496b841cc8b6406bb2e5
+run_name: enthused-crow-742
+run_uuid: 4e64ae1cd45a496b841cc8b6406bb2e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635671639
+status: 3
+tags: []
+user_id: pedroasvalente

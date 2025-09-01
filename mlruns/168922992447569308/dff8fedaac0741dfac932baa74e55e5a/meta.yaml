@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/dff8fedaac0741dfac932baa74e55e5a/artifacts
+end_time: 1756597585549
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: dff8fedaac0741dfac932baa74e55e5a
+run_name: mercurial-gnat-268
+run_uuid: dff8fedaac0741dfac932baa74e55e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756597573517
+status: 3
+tags: []
+user_id: pedroasvalente

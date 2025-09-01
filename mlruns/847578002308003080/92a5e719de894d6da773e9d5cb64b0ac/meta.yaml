@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/92a5e719de894d6da773e9d5cb64b0ac/artifacts
+end_time: 1756647205302
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 92a5e719de894d6da773e9d5cb64b0ac
+run_name: welcoming-calf-286
+run_uuid: 92a5e719de894d6da773e9d5cb64b0ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647183425
+status: 3
+tags: []
+user_id: pedroasvalente

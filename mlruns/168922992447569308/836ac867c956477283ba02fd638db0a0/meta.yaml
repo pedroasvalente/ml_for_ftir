@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/836ac867c956477283ba02fd638db0a0/artifacts
+end_time: 1756595874156
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 836ac867c956477283ba02fd638db0a0
+run_name: entertaining-kit-715
+run_uuid: 836ac867c956477283ba02fd638db0a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756595851740
+status: 3
+tags: []
+user_id: pedroasvalente

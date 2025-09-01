@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/0a8eaef289c6403398b670b44dd17beb/artifacts
+end_time: 1756553685505
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 0a8eaef289c6403398b670b44dd17beb
+run_name: dashing-smelt-796
+run_uuid: 0a8eaef289c6403398b670b44dd17beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553660040
+status: 3
+tags: []
+user_id: pedroasvalente

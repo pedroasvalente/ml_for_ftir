@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/5f5db9aae2ae44a79644737f9e5ed3f2/artifacts
+end_time: 1756634771365
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 5f5db9aae2ae44a79644737f9e5ed3f2
+run_name: omniscient-quail-968
+run_uuid: 5f5db9aae2ae44a79644737f9e5ed3f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634740264
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/b0d93c2fc55d4fd2aba69cb4c6725965/artifacts
+end_time: 1756634178334
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: b0d93c2fc55d4fd2aba69cb4c6725965
+run_name: resilient-yak-809
+run_uuid: b0d93c2fc55d4fd2aba69cb4c6725965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634153741
+status: 3
+tags: []
+user_id: pedroasvalente

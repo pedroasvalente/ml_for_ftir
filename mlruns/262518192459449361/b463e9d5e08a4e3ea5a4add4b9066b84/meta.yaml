@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/b463e9d5e08a4e3ea5a4add4b9066b84/artifacts
+end_time: 1756675214278
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: b463e9d5e08a4e3ea5a4add4b9066b84
+run_name: funny-robin-532
+run_uuid: b463e9d5e08a4e3ea5a4add4b9066b84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675186886
+status: 3
+tags: []
+user_id: pedroasvalente

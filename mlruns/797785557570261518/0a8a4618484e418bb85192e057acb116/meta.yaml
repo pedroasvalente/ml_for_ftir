@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/0a8a4618484e418bb85192e057acb116/artifacts
+end_time: 1756633409415
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 0a8a4618484e418bb85192e057acb116
+run_name: suave-rook-775
+run_uuid: 0a8a4618484e418bb85192e057acb116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633344225
+status: 3
+tags: []
+user_id: pedroasvalente

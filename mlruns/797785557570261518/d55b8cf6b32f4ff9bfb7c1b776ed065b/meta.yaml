@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/d55b8cf6b32f4ff9bfb7c1b776ed065b/artifacts
+end_time: 1756633651401
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: d55b8cf6b32f4ff9bfb7c1b776ed065b
+run_name: fearless-shad-200
+run_uuid: d55b8cf6b32f4ff9bfb7c1b776ed065b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633626189
+status: 3
+tags: []
+user_id: pedroasvalente

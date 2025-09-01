@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/bc26311e6c194156b0006fa2eae364f7/artifacts
+end_time: 1756555454204
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: bc26311e6c194156b0006fa2eae364f7
+run_name: skittish-rook-302
+run_uuid: bc26311e6c194156b0006fa2eae364f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756555442688
+status: 3
+tags: []
+user_id: pedroasvalente

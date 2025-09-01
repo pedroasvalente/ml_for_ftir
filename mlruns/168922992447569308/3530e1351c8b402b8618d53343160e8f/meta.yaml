@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/3530e1351c8b402b8618d53343160e8f/artifacts
+end_time: 1756596958830
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 3530e1351c8b402b8618d53343160e8f
+run_name: nebulous-horse-826
+run_uuid: 3530e1351c8b402b8618d53343160e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596929786
+status: 3
+tags: []
+user_id: pedroasvalente

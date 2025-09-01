@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/7d347c490adf4f75b2fb92709de08c9c/artifacts
+end_time: 1756663278757
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 7d347c490adf4f75b2fb92709de08c9c
+run_name: fun-dog-475
+run_uuid: 7d347c490adf4f75b2fb92709de08c9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756663155383
+status: 3
+tags: []
+user_id: pedroasvalente

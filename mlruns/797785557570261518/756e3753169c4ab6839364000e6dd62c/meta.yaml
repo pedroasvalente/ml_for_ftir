@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/756e3753169c4ab6839364000e6dd62c/artifacts
+end_time: 1756633580845
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 756e3753169c4ab6839364000e6dd62c
+run_name: bright-snake-787
+run_uuid: 756e3753169c4ab6839364000e6dd62c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633556973
+status: 3
+tags: []
+user_id: pedroasvalente

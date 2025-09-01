@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/6f77f7f835134241ac9ac8134ced126d/artifacts
+end_time: 1756661666005
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 6f77f7f835134241ac9ac8134ced126d
+run_name: peaceful-worm-176
+run_uuid: 6f77f7f835134241ac9ac8134ced126d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661640169
+status: 3
+tags: []
+user_id: pedroasvalente

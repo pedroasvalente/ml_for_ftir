@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/783bfdef1fa8495583f678db921eda02/artifacts
+end_time: 1756675028058
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 783bfdef1fa8495583f678db921eda02
+run_name: shivering-cow-335
+run_uuid: 783bfdef1fa8495583f678db921eda02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675024636
+status: 3
+tags: []
+user_id: pedroasvalente

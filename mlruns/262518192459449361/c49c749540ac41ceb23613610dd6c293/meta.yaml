@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/c49c749540ac41ceb23613610dd6c293/artifacts
+end_time: 1756674917739
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: c49c749540ac41ceb23613610dd6c293
+run_name: treasured-mole-370
+run_uuid: c49c749540ac41ceb23613610dd6c293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674905745
+status: 3
+tags: []
+user_id: pedroasvalente

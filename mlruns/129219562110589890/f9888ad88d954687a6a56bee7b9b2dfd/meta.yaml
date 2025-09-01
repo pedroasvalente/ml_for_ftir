@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/f9888ad88d954687a6a56bee7b9b2dfd/artifacts
+end_time: 1756553841234
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: f9888ad88d954687a6a56bee7b9b2dfd
+run_name: amusing-panda-507
+run_uuid: f9888ad88d954687a6a56bee7b9b2dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553814722
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/83e6367ec27f4865966447878fdd072a/artifacts
+end_time: 1756675056399
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 83e6367ec27f4865966447878fdd072a
+run_name: righteous-quail-360
+run_uuid: 83e6367ec27f4865966447878fdd072a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675031620
+status: 3
+tags: []
+user_id: pedroasvalente

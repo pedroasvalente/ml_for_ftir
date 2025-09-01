@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/86779804bbb7459b87e3acc3929e2d71/artifacts
+end_time: 1756552982422
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 86779804bbb7459b87e3acc3929e2d71
+run_name: traveling-frog-640
+run_uuid: 86779804bbb7459b87e3acc3929e2d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552954314
+status: 3
+tags: []
+user_id: pedroasvalente

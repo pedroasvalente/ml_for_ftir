@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/eda248f53127441e92cd934722a300bd/artifacts
+end_time: 1756646144778
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: eda248f53127441e92cd934722a300bd
+run_name: masked-skink-86
+run_uuid: eda248f53127441e92cd934722a300bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646113687
+status: 3
+tags: []
+user_id: pedroasvalente

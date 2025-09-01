@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/81461890c9474475989d25bc36d71ccf/artifacts
+end_time: 1756676156387
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 81461890c9474475989d25bc36d71ccf
+run_name: able-deer-351
+run_uuid: 81461890c9474475989d25bc36d71ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756676026883
+status: 3
+tags: []
+user_id: pedroasvalente

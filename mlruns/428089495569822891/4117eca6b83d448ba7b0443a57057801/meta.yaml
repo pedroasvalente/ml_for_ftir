@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/4117eca6b83d448ba7b0443a57057801/artifacts
+end_time: 1756661921346
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 4117eca6b83d448ba7b0443a57057801
+run_name: merciful-perch-190
+run_uuid: 4117eca6b83d448ba7b0443a57057801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661890358
+status: 3
+tags: []
+user_id: pedroasvalente

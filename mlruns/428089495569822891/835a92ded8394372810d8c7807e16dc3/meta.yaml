@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/835a92ded8394372810d8c7807e16dc3/artifacts
+end_time: 1756660964441
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 835a92ded8394372810d8c7807e16dc3
+run_name: bemused-mare-675
+run_uuid: 835a92ded8394372810d8c7807e16dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756660939577
+status: 3
+tags: []
+user_id: pedroasvalente

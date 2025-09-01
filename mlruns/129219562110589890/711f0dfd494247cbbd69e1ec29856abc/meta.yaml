@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/711f0dfd494247cbbd69e1ec29856abc/artifacts
+end_time: 1756553520176
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 711f0dfd494247cbbd69e1ec29856abc
+run_name: brawny-colt-574
+run_uuid: 711f0dfd494247cbbd69e1ec29856abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553507349
+status: 3
+tags: []
+user_id: pedroasvalente

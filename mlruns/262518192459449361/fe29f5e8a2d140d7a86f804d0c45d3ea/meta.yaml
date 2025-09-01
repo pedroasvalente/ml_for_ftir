@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/fe29f5e8a2d140d7a86f804d0c45d3ea/artifacts
+end_time: 1756675735886
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: fe29f5e8a2d140d7a86f804d0c45d3ea
+run_name: melodic-carp-497
+run_uuid: fe29f5e8a2d140d7a86f804d0c45d3ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675724281
+status: 3
+tags: []
+user_id: pedroasvalente

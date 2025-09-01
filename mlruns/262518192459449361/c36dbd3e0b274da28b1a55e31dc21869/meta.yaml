@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/c36dbd3e0b274da28b1a55e31dc21869/artifacts
+end_time: 1756674590192
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: c36dbd3e0b274da28b1a55e31dc21869
+run_name: rare-loon-378
+run_uuid: c36dbd3e0b274da28b1a55e31dc21869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674566316
+status: 3
+tags: []
+user_id: pedroasvalente

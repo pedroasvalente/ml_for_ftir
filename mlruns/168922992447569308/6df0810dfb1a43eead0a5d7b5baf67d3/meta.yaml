@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/6df0810dfb1a43eead0a5d7b5baf67d3/artifacts
+end_time: 1756595890104
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 6df0810dfb1a43eead0a5d7b5baf67d3
+run_name: delightful-stag-529
+run_uuid: 6df0810dfb1a43eead0a5d7b5baf67d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756595876365
+status: 3
+tags: []
+user_id: pedroasvalente

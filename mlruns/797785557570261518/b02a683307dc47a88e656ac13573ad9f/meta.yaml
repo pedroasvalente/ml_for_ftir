@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/b02a683307dc47a88e656ac13573ad9f/artifacts
+end_time: 1756635201108
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: b02a683307dc47a88e656ac13573ad9f
+run_name: legendary-mare-456
+run_uuid: b02a683307dc47a88e656ac13573ad9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635189144
+status: 3
+tags: []
+user_id: pedroasvalente

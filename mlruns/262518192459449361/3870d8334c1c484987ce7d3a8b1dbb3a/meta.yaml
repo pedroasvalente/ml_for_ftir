@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/3870d8334c1c484987ce7d3a8b1dbb3a/artifacts
+end_time: 1756674100018
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 3870d8334c1c484987ce7d3a8b1dbb3a
+run_name: salty-finch-201
+run_uuid: 3870d8334c1c484987ce7d3a8b1dbb3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674079538
+status: 3
+tags: []
+user_id: pedroasvalente

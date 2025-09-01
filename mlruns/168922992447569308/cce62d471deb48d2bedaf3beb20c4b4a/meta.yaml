@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/cce62d471deb48d2bedaf3beb20c4b4a/artifacts
+end_time: 1756596457063
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: cce62d471deb48d2bedaf3beb20c4b4a
+run_name: blushing-mare-188
+run_uuid: cce62d471deb48d2bedaf3beb20c4b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596444379
+status: 3
+tags: []
+user_id: pedroasvalente

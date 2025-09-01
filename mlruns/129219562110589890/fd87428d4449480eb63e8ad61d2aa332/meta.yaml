@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/fd87428d4449480eb63e8ad61d2aa332/artifacts
+end_time: 1756553595401
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: fd87428d4449480eb63e8ad61d2aa332
+run_name: lyrical-bat-621
+run_uuid: fd87428d4449480eb63e8ad61d2aa332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553570471
+status: 3
+tags: []
+user_id: pedroasvalente

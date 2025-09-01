@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/0dfb4dd642b340978ccbc4e5afbfd70d/artifacts
+end_time: 1756662396699
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 0dfb4dd642b340978ccbc4e5afbfd70d
+run_name: dapper-whale-272
+run_uuid: 0dfb4dd642b340978ccbc4e5afbfd70d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662283161
+status: 3
+tags: []
+user_id: pedroasvalente

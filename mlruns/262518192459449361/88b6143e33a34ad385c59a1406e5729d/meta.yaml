@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/88b6143e33a34ad385c59a1406e5729d/artifacts
+end_time: 1756675250723
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 88b6143e33a34ad385c59a1406e5729d
+run_name: hilarious-mare-167
+run_uuid: 88b6143e33a34ad385c59a1406e5729d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675227378
+status: 3
+tags: []
+user_id: pedroasvalente

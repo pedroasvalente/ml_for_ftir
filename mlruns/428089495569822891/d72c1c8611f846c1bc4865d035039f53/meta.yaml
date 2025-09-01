@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/d72c1c8611f846c1bc4865d035039f53/artifacts
+end_time: 1756662706053
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: d72c1c8611f846c1bc4865d035039f53
+run_name: salty-sloth-355
+run_uuid: d72c1c8611f846c1bc4865d035039f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662692819
+status: 3
+tags: []
+user_id: pedroasvalente

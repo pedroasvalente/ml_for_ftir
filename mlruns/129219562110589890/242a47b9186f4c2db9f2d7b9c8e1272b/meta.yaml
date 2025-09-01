@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/242a47b9186f4c2db9f2d7b9c8e1272b/artifacts
+end_time: 1756553879844
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 242a47b9186f4c2db9f2d7b9c8e1272b
+run_name: bustling-gnat-676
+run_uuid: 242a47b9186f4c2db9f2d7b9c8e1272b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553851948
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/ccadb3ae370143428e83229cc0b73e22/artifacts
+end_time: 1756662686743
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: ccadb3ae370143428e83229cc0b73e22
+run_name: invincible-skink-873
+run_uuid: ccadb3ae370143428e83229cc0b73e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662557307
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/94fc0d20a4fa46749f44890e6a582bc0/artifacts
+end_time: 1756598212999
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 94fc0d20a4fa46749f44890e6a582bc0
+run_name: defiant-loon-362
+run_uuid: 94fc0d20a4fa46749f44890e6a582bc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756598090533
+status: 3
+tags: []
+user_id: pedroasvalente

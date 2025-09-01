@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/8e58ce2f217740e49ad45194afdd5af3/artifacts
+end_time: 1756633940192
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 8e58ce2f217740e49ad45194afdd5af3
+run_name: worried-bird-426
+run_uuid: 8e58ce2f217740e49ad45194afdd5af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756633905676
+status: 3
+tags: []
+user_id: pedroasvalente

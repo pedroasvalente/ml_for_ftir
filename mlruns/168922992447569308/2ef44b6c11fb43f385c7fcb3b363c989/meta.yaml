@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/2ef44b6c11fb43f385c7fcb3b363c989/artifacts
+end_time: 1756596412353
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 2ef44b6c11fb43f385c7fcb3b363c989
+run_name: omniscient-shark-493
+run_uuid: 2ef44b6c11fb43f385c7fcb3b363c989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596399879
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/89435a3169ea4e9fb22a1de48f7080a3/artifacts
+end_time: 1756674829716
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 89435a3169ea4e9fb22a1de48f7080a3
+run_name: nosy-crane-756
+run_uuid: 89435a3169ea4e9fb22a1de48f7080a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674817386
+status: 3
+tags: []
+user_id: pedroasvalente

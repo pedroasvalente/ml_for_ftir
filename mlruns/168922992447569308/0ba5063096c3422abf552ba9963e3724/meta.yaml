@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/0ba5063096c3422abf552ba9963e3724/artifacts
+end_time: 1756596597518
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 0ba5063096c3422abf552ba9963e3724
+run_name: exultant-sponge-511
+run_uuid: 0ba5063096c3422abf552ba9963e3724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596585242
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/edfcca0164ef4141b0e62b15fe109bcc/artifacts
+end_time: 1756674917739
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: edfcca0164ef4141b0e62b15fe109bcc
+run_name: shivering-skink-766
+run_uuid: edfcca0164ef4141b0e62b15fe109bcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674905745
+status: 3
+tags: []
+user_id: pedroasvalente

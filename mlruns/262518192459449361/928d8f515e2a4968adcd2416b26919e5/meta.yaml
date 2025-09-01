@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/928d8f515e2a4968adcd2416b26919e5/artifacts
+end_time: 1756674421365
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 928d8f515e2a4968adcd2416b26919e5
+run_name: receptive-tern-167
+run_uuid: 928d8f515e2a4968adcd2416b26919e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674409848
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/24573d847c8c4895a9a4bc2283ab860c/artifacts
+end_time: 1756634843945
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 24573d847c8c4895a9a4bc2283ab860c
+run_name: painted-kit-698
+run_uuid: 24573d847c8c4895a9a4bc2283ab860c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634818823
+status: 3
+tags: []
+user_id: pedroasvalente

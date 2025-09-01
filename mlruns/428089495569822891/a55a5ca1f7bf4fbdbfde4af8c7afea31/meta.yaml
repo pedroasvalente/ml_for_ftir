@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/a55a5ca1f7bf4fbdbfde4af8c7afea31/artifacts
+end_time: 1756662116128
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: a55a5ca1f7bf4fbdbfde4af8c7afea31
+run_name: overjoyed-fawn-782
+run_uuid: a55a5ca1f7bf4fbdbfde4af8c7afea31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662112582
+status: 3
+tags: []
+user_id: pedroasvalente

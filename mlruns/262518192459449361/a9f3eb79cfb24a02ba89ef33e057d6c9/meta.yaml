@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/a9f3eb79cfb24a02ba89ef33e057d6c9/artifacts
+end_time: 1756674605680
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: a9f3eb79cfb24a02ba89ef33e057d6c9
+run_name: capricious-snipe-65
+run_uuid: a9f3eb79cfb24a02ba89ef33e057d6c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674593190
+status: 3
+tags: []
+user_id: pedroasvalente

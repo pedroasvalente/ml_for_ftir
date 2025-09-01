@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/e7c2d18790ba4581a836f93f703b9a75/artifacts
+end_time: 1756646698567
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: e7c2d18790ba4581a836f93f703b9a75
+run_name: masked-penguin-448
+run_uuid: e7c2d18790ba4581a836f93f703b9a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646674946
+status: 3
+tags: []
+user_id: pedroasvalente

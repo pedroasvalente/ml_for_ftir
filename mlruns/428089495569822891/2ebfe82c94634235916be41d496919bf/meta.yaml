@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/2ebfe82c94634235916be41d496919bf/artifacts
+end_time: 1756660543295
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 2ebfe82c94634235916be41d496919bf
+run_name: handsome-crab-46
+run_uuid: 2ebfe82c94634235916be41d496919bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756660513832
+status: 3
+tags: []
+user_id: pedroasvalente

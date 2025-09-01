@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/da98a4780d5a43c892fc27ed3ed0dac0/artifacts
+end_time: 1756635957901
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: da98a4780d5a43c892fc27ed3ed0dac0
+run_name: delicate-horse-856
+run_uuid: da98a4780d5a43c892fc27ed3ed0dac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635842142
+status: 3
+tags: []
+user_id: pedroasvalente

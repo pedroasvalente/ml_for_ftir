@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/d1fe3d646acc49e789df5854548a609e/artifacts
+end_time: 1756646104891
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: d1fe3d646acc49e789df5854548a609e
+run_name: worried-horse-983
+run_uuid: d1fe3d646acc49e789df5854548a609e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646090764
+status: 3
+tags: []
+user_id: pedroasvalente

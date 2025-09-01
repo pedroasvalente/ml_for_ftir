@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/02e04755103d4de49b28968e82c24d75/artifacts
+end_time: 1756553969988
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 02e04755103d4de49b28968e82c24d75
+run_name: overjoyed-mare-23
+run_uuid: 02e04755103d4de49b28968e82c24d75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553966635
+status: 3
+tags: []
+user_id: pedroasvalente

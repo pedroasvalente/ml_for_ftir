@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/82ec4520eaa543a5b42d4478e9aebb82/artifacts
+end_time: 1756552924522
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 82ec4520eaa543a5b42d4478e9aebb82
+run_name: fortunate-crab-119
+run_uuid: 82ec4520eaa543a5b42d4478e9aebb82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552858684
+status: 3
+tags: []
+user_id: pedroasvalente

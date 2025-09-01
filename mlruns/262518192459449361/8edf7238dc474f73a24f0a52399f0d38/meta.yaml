@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/8edf7238dc474f73a24f0a52399f0d38/artifacts
+end_time: 1756675320696
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 8edf7238dc474f73a24f0a52399f0d38
+run_name: nervous-skunk-226
+run_uuid: 8edf7238dc474f73a24f0a52399f0d38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756675298911
+status: 3
+tags: []
+user_id: pedroasvalente

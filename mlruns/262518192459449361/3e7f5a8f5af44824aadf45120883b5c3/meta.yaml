@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/3e7f5a8f5af44824aadf45120883b5c3/artifacts
+end_time: 1756674769291
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 3e7f5a8f5af44824aadf45120883b5c3
+run_name: wise-shrike-514
+run_uuid: 3e7f5a8f5af44824aadf45120883b5c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756674744087
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/c4e044ce08f04c60a7e7a141b18f2f1e/artifacts
+end_time: 1756646714314
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: c4e044ce08f04c60a7e7a141b18f2f1e
+run_name: hilarious-worm-988
+run_uuid: c4e044ce08f04c60a7e7a141b18f2f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646702256
+status: 3
+tags: []
+user_id: pedroasvalente

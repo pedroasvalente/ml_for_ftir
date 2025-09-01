@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/98b60848a17949d69c69c31a5f110110/artifacts
+end_time: 1756596122055
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: 98b60848a17949d69c69c31a5f110110
+run_name: enchanting-steed-632
+run_uuid: 98b60848a17949d69c69c31a5f110110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596058088
+status: 3
+tags: []
+user_id: pedroasvalente

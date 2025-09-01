@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/e78270fc66894fd18a345f9be1769e62/artifacts
+end_time: 1756676577740
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: e78270fc66894fd18a345f9be1769e62
+run_name: adaptable-panda-710
+run_uuid: e78270fc66894fd18a345f9be1769e62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756676566299
+status: 3
+tags: []
+user_id: pedroasvalente

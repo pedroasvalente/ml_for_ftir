@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/345003ec6ce64bf7a62da7f041055a07/artifacts
+end_time: 1756647442029
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 345003ec6ce64bf7a62da7f041055a07
+run_name: skillful-wren-680
+run_uuid: 345003ec6ce64bf7a62da7f041055a07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647355039
+status: 3
+tags: []
+user_id: pedroasvalente

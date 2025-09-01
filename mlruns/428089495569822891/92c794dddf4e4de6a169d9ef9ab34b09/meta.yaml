@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/92c794dddf4e4de6a169d9ef9ab34b09/artifacts
+end_time: 1756661131469
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 92c794dddf4e4de6a169d9ef9ab34b09
+run_name: gentle-grub-29
+run_uuid: 92c794dddf4e4de6a169d9ef9ab34b09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661120737
+status: 3
+tags: []
+user_id: pedroasvalente

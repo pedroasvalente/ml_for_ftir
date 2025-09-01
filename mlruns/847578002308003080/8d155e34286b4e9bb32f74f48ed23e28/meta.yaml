@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/8d155e34286b4e9bb32f74f48ed23e28/artifacts
+end_time: 1756646915183
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 8d155e34286b4e9bb32f74f48ed23e28
+run_name: wistful-elk-702
+run_uuid: 8d155e34286b4e9bb32f74f48ed23e28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646892167
+status: 3
+tags: []
+user_id: pedroasvalente

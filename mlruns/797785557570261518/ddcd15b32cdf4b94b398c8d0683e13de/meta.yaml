@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/ddcd15b32cdf4b94b398c8d0683e13de/artifacts
+end_time: 1756634222806
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: ddcd15b32cdf4b94b398c8d0683e13de
+run_name: marvelous-asp-737
+run_uuid: ddcd15b32cdf4b94b398c8d0683e13de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634197512
+status: 3
+tags: []
+user_id: pedroasvalente

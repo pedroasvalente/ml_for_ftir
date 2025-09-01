@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/79ae86586b7249588597778bb23fbeaa/artifacts
+end_time: 1756554076751
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 79ae86586b7249588597778bb23fbeaa
+run_name: adorable-doe-267
+run_uuid: 79ae86586b7249588597778bb23fbeaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554051616
+status: 3
+tags: []
+user_id: pedroasvalente

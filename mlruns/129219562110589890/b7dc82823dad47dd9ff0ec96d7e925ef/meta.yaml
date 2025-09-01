@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/b7dc82823dad47dd9ff0ec96d7e925ef/artifacts
+end_time: 1756554372763
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: b7dc82823dad47dd9ff0ec96d7e925ef
+run_name: resilient-smelt-373
+run_uuid: b7dc82823dad47dd9ff0ec96d7e925ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756554252812
+status: 3
+tags: []
+user_id: pedroasvalente

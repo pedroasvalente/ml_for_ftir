@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/63333e4248b2425c83e9550ddf8cc7fc/artifacts
+end_time: 1756647980375
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 63333e4248b2425c83e9550ddf8cc7fc
+run_name: suave-elk-724
+run_uuid: 63333e4248b2425c83e9550ddf8cc7fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647969373
+status: 3
+tags: []
+user_id: pedroasvalente

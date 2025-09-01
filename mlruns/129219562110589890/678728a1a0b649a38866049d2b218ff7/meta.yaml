@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/678728a1a0b649a38866049d2b218ff7/artifacts
+end_time: 1756553337910
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 678728a1a0b649a38866049d2b218ff7
+run_name: lyrical-bear-846
+run_uuid: 678728a1a0b649a38866049d2b218ff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553325472
+status: 3
+tags: []
+user_id: pedroasvalente

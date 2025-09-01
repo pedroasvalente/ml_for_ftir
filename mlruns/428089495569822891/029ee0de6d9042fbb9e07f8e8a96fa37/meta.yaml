@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/029ee0de6d9042fbb9e07f8e8a96fa37/artifacts
+end_time: 1756661495474
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 029ee0de6d9042fbb9e07f8e8a96fa37
+run_name: dapper-bee-639
+run_uuid: 029ee0de6d9042fbb9e07f8e8a96fa37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661482426
+status: 3
+tags: []
+user_id: pedroasvalente

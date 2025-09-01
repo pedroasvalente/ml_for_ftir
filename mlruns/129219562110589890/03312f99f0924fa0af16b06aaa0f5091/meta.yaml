@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/03312f99f0924fa0af16b06aaa0f5091/artifacts
+end_time: 1756552772009
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 03312f99f0924fa0af16b06aaa0f5091
+run_name: glamorous-mouse-274
+run_uuid: 03312f99f0924fa0af16b06aaa0f5091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552709081
+status: 3
+tags: []
+user_id: pedroasvalente

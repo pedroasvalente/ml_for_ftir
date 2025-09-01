@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/3af5c37248ae4a4290622d3cd8d45d9f/artifacts
+end_time: 1756647172131
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 3af5c37248ae4a4290622d3cd8d45d9f
+run_name: lyrical-shrew-903
+run_uuid: 3af5c37248ae4a4290622d3cd8d45d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756647152038
+status: 3
+tags: []
+user_id: pedroasvalente

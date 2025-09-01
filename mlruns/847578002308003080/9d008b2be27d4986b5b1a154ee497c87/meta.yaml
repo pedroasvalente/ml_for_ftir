@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/9d008b2be27d4986b5b1a154ee497c87/artifacts
+end_time: 1756646698567
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 9d008b2be27d4986b5b1a154ee497c87
+run_name: efficient-sheep-515
+run_uuid: 9d008b2be27d4986b5b1a154ee497c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646674946
+status: 3
+tags: []
+user_id: pedroasvalente

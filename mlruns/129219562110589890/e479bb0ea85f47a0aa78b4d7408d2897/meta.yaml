@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/e479bb0ea85f47a0aa78b4d7408d2897/artifacts
+end_time: 1756553157129
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: e479bb0ea85f47a0aa78b4d7408d2897
+run_name: dashing-quail-751
+run_uuid: e479bb0ea85f47a0aa78b4d7408d2897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553132786
+status: 3
+tags: []
+user_id: pedroasvalente

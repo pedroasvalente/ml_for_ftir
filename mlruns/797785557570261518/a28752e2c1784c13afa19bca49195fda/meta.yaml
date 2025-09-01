@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/a28752e2c1784c13afa19bca49195fda/artifacts
+end_time: 1756634625757
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: a28752e2c1784c13afa19bca49195fda
+run_name: ambitious-stoat-977
+run_uuid: a28752e2c1784c13afa19bca49195fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634622316
+status: 3
+tags: []
+user_id: pedroasvalente

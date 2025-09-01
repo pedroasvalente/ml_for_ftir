@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/be255c90806f4185bb30b7b921f24f06/artifacts
+end_time: 1756596261754
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: be255c90806f4185bb30b7b921f24f06
+run_name: bald-shoat-600
+run_uuid: be255c90806f4185bb30b7b921f24f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596200478
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/60557bc1fdd24b3a9420cbf6d4d5fc43/artifacts
+end_time: 1756555323786
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 60557bc1fdd24b3a9420cbf6d4d5fc43
+run_name: rogue-fawn-280
+run_uuid: 60557bc1fdd24b3a9420cbf6d4d5fc43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756555312406
+status: 3
+tags: []
+user_id: pedroasvalente

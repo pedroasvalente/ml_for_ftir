@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/47eacda6ecde46ffb15913196766bbc8/artifacts
+end_time: 1756661447088
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 47eacda6ecde46ffb15913196766bbc8
+run_name: agreeable-colt-704
+run_uuid: 47eacda6ecde46ffb15913196766bbc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756661433597
+status: 3
+tags: []
+user_id: pedroasvalente

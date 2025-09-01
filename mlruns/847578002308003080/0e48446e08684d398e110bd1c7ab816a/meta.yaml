@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/0e48446e08684d398e110bd1c7ab816a/artifacts
+end_time: 1756646144778
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 0e48446e08684d398e110bd1c7ab816a
+run_name: efficient-jay-693
+run_uuid: 0e48446e08684d398e110bd1c7ab816a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646113687
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/edf199a116a84dee9683fdc917116240/artifacts
+end_time: 1756634551229
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: edf199a116a84dee9683fdc917116240
+run_name: vaunted-foal-589
+run_uuid: edf199a116a84dee9683fdc917116240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756634547715
+status: 3
+tags: []
+user_id: pedroasvalente

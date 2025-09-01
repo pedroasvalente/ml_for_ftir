@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/140f888c0e8b4a1aa786667d3984a50b/artifacts
+end_time: 1756553220866
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 140f888c0e8b4a1aa786667d3984a50b
+run_name: painted-horse-24
+run_uuid: 140f888c0e8b4a1aa786667d3984a50b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553159592
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428089495569822891/11501df5a2314448a046f79908c16540/artifacts
+end_time: 1756662144695
+entry_point_name: ''
+experiment_id: '428089495569822891'
+lifecycle_stage: active
+run_id: 11501df5a2314448a046f79908c16540
+run_name: placid-fawn-618
+run_uuid: 11501df5a2314448a046f79908c16540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756662120263
+status: 3
+tags: []
+user_id: pedroasvalente

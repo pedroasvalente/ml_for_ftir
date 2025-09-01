@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/35715b259f17465e957de196ad147a15/artifacts
+end_time: 1756553685505
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: 35715b259f17465e957de196ad147a15
+run_name: redolent-fish-362
+run_uuid: 35715b259f17465e957de196ad147a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756553660040
+status: 3
+tags: []
+user_id: pedroasvalente

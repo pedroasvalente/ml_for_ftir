@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847578002308003080/4a987b3b3a6e411cba1fceb65e34870a/artifacts
+end_time: 1756646104891
+entry_point_name: ''
+experiment_id: '847578002308003080'
+lifecycle_stage: active
+run_id: 4a987b3b3a6e411cba1fceb65e34870a
+run_name: clumsy-fish-949
+run_uuid: 4a987b3b3a6e411cba1fceb65e34870a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646090764
+status: 3
+tags: []
+user_id: pedroasvalente

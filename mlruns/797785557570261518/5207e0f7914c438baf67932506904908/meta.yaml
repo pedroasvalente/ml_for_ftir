@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797785557570261518/5207e0f7914c438baf67932506904908/artifacts
+end_time: 1756636399476
+entry_point_name: ''
+experiment_id: '797785557570261518'
+lifecycle_stage: active
+run_id: 5207e0f7914c438baf67932506904908
+run_name: dashing-bee-329
+run_uuid: 5207e0f7914c438baf67932506904908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756636272121
+status: 3
+tags: []
+user_id: pedroasvalente

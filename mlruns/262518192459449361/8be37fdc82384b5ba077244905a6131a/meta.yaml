@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262518192459449361/8be37fdc82384b5ba077244905a6131a/artifacts
+end_time: 1756676706162
+entry_point_name: ''
+experiment_id: '262518192459449361'
+lifecycle_stage: active
+run_id: 8be37fdc82384b5ba077244905a6131a
+run_name: enchanting-shad-802
+run_uuid: 8be37fdc82384b5ba077244905a6131a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756676583182
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129219562110589890/acf859c66e7c421e860bf7f7ac8b3461/artifacts
+end_time: 1756552952060
+entry_point_name: ''
+experiment_id: '129219562110589890'
+lifecycle_stage: active
+run_id: acf859c66e7c421e860bf7f7ac8b3461
+run_name: thundering-finch-65
+run_uuid: acf859c66e7c421e860bf7f7ac8b3461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756552928563
+status: 3
+tags: []
+user_id: pedroasvalente

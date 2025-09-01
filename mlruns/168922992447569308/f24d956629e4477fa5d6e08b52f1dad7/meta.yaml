@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/168922992447569308/f24d956629e4477fa5d6e08b52f1dad7/artifacts
+end_time: 1756596767130
+entry_point_name: ''
+experiment_id: '168922992447569308'
+lifecycle_stage: active
+run_id: f24d956629e4477fa5d6e08b52f1dad7
+run_name: grandiose-loon-571
+run_uuid: f24d956629e4477fa5d6e08b52f1dad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756596763551
+status: 3
+tags: []
+user_id: pedroasvalente
