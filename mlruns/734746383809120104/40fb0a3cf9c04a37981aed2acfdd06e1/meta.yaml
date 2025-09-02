@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/40fb0a3cf9c04a37981aed2acfdd06e1/artifacts
+end_time: 1756802637098
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 40fb0a3cf9c04a37981aed2acfdd06e1
+run_name: rumbling-toad-563
+run_uuid: 40fb0a3cf9c04a37981aed2acfdd06e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756802504922
+status: 3
+tags: []
+user_id: pedroasvalente

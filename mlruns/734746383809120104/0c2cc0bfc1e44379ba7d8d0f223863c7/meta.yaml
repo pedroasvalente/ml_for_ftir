@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/0c2cc0bfc1e44379ba7d8d0f223863c7/artifacts
+end_time: 1756800175437
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 0c2cc0bfc1e44379ba7d8d0f223863c7
+run_name: luxuriant-grouse-4
+run_uuid: 0c2cc0bfc1e44379ba7d8d0f223863c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800110433
+status: 3
+tags: []
+user_id: pedroasvalente

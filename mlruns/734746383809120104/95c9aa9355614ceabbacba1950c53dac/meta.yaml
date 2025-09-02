@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/95c9aa9355614ceabbacba1950c53dac/artifacts
+end_time: 1756799947059
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 95c9aa9355614ceabbacba1950c53dac
+run_name: suave-wolf-404
+run_uuid: 95c9aa9355614ceabbacba1950c53dac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756799922452
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/0dca406c3d3c4f32926d06ae0c89c2d3/artifacts
+end_time: 1756800339408
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 0dca406c3d3c4f32926d06ae0c89c2d3
+run_name: sincere-stoat-738
+run_uuid: 0dca406c3d3c4f32926d06ae0c89c2d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800275349
+status: 3
+tags: []
+user_id: pedroasvalente

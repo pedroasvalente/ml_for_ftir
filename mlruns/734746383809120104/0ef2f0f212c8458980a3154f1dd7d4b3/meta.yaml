@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/0ef2f0f212c8458980a3154f1dd7d4b3/artifacts
+end_time: 1756800681976
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 0ef2f0f212c8458980a3154f1dd7d4b3
+run_name: gaudy-steed-25
+run_uuid: 0ef2f0f212c8458980a3154f1dd7d4b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800656802
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/89c9c24305114733ba2afb34da0d4cae/artifacts
+end_time: 1756800980901
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 89c9c24305114733ba2afb34da0d4cae
+run_name: fearless-mare-857
+run_uuid: 89c9c24305114733ba2afb34da0d4cae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800964997
+status: 3
+tags: []
+user_id: pedroasvalente

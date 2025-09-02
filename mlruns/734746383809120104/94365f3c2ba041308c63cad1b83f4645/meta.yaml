@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/94365f3c2ba041308c63cad1b83f4645/artifacts
+end_time: 1756800593898
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 94365f3c2ba041308c63cad1b83f4645
+run_name: smiling-mink-685
+run_uuid: 94365f3c2ba041308c63cad1b83f4645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800569665
+status: 3
+tags: []
+user_id: pedroasvalente

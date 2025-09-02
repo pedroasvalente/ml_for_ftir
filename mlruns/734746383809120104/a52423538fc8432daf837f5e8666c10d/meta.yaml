@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/a52423538fc8432daf837f5e8666c10d/artifacts
+end_time: 1756800653416
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: a52423538fc8432daf837f5e8666c10d
+run_name: learned-fawn-759
+run_uuid: a52423538fc8432daf837f5e8666c10d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800641013
+status: 3
+tags: []
+user_id: pedroasvalente

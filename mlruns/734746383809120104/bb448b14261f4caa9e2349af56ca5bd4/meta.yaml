@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/bb448b14261f4caa9e2349af56ca5bd4/artifacts
+end_time: 1756802164890
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: bb448b14261f4caa9e2349af56ca5bd4
+run_name: thundering-calf-288
+run_uuid: bb448b14261f4caa9e2349af56ca5bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756802030916
+status: 3
+tags: []
+user_id: pedroasvalente

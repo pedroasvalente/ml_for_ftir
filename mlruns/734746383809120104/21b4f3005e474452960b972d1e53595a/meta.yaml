@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/21b4f3005e474452960b972d1e53595a/artifacts
+end_time: 1756800832578
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 21b4f3005e474452960b972d1e53595a
+run_name: masked-vole-169
+run_uuid: 21b4f3005e474452960b972d1e53595a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800820202
+status: 3
+tags: []
+user_id: pedroasvalente

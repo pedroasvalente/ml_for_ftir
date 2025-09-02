@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/ab81528123404ffebe674172c4e09f20/artifacts
+end_time: 1756801241413
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: ab81528123404ffebe674172c4e09f20
+run_name: defiant-quail-751
+run_uuid: ab81528123404ffebe674172c4e09f20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801217215
+status: 3
+tags: []
+user_id: pedroasvalente

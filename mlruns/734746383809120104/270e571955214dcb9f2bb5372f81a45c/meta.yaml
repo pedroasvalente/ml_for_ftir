@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/270e571955214dcb9f2bb5372f81a45c/artifacts
+end_time: 1756799791902
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 270e571955214dcb9f2bb5372f81a45c
+run_name: amusing-mare-649
+run_uuid: 270e571955214dcb9f2bb5372f81a45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756799766797
+status: 3
+tags: []
+user_id: pedroasvalente

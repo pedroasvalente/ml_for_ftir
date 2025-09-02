@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/2d59b2a2209a47f186b0a764d0d03c4e/artifacts
+end_time: 1756801024028
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 2d59b2a2209a47f186b0a764d0d03c4e
+run_name: abrasive-kite-991
+run_uuid: 2d59b2a2209a47f186b0a764d0d03c4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801019576
+status: 3
+tags: []
+user_id: pedroasvalente

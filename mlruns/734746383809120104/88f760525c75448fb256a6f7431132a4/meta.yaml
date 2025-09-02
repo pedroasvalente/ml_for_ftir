@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/88f760525c75448fb256a6f7431132a4/artifacts
+end_time: 1756802183187
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 88f760525c75448fb256a6f7431132a4
+run_name: treasured-mule-106
+run_uuid: 88f760525c75448fb256a6f7431132a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756802171103
+status: 3
+tags: []
+user_id: pedroasvalente

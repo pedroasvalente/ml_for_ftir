@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/7c1fb614eb644a45b34587d7318229cd/artifacts
+end_time: 1756801421006
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 7c1fb614eb644a45b34587d7318229cd
+run_name: gifted-bee-391
+run_uuid: 7c1fb614eb644a45b34587d7318229cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801409508
+status: 3
+tags: []
+user_id: pedroasvalente

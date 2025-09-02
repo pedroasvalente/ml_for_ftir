@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/dca349cb931849ea9f4f58541cc7bc7a/artifacts
+end_time: 1756800770288
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: dca349cb931849ea9f4f58541cc7bc7a
+run_name: charming-swan-843
+run_uuid: dca349cb931849ea9f4f58541cc7bc7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800745362
+status: 3
+tags: []
+user_id: pedroasvalente

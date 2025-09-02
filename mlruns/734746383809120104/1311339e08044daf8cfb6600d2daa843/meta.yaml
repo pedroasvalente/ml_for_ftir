@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/1311339e08044daf8cfb6600d2daa843/artifacts
+end_time: 1756800925606
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 1311339e08044daf8cfb6600d2daa843
+run_name: sneaky-zebra-343
+run_uuid: 1311339e08044daf8cfb6600d2daa843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800912396
+status: 3
+tags: []
+user_id: pedroasvalente

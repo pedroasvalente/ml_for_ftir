@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/8537bb1b2caa426e888d60994316cff4/artifacts
+end_time: 1756800681976
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 8537bb1b2caa426e888d60994316cff4
+run_name: grandiose-foal-548
+run_uuid: 8537bb1b2caa426e888d60994316cff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800656802
+status: 3
+tags: []
+user_id: pedroasvalente

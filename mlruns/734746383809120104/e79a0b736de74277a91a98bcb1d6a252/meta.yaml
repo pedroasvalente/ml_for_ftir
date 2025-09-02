@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/e79a0b736de74277a91a98bcb1d6a252/artifacts
+end_time: 1756800816492
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: e79a0b736de74277a91a98bcb1d6a252
+run_name: nervous-snipe-357
+run_uuid: e79a0b736de74277a91a98bcb1d6a252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800790249
+status: 3
+tags: []
+user_id: pedroasvalente

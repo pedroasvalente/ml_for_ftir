@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/c0c6d71f5abc4450ad57be3aa179a267/artifacts
+end_time: 1756802930003
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: c0c6d71f5abc4450ad57be3aa179a267
+run_name: valuable-kit-983
+run_uuid: c0c6d71f5abc4450ad57be3aa179a267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756802800622
+status: 3
+tags: []
+user_id: pedroasvalente

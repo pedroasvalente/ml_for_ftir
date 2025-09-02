@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/c0aca70ce18e4c889db9e67078a3ee75/artifacts
+end_time: 1756800637504
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: c0aca70ce18e4c889db9e67078a3ee75
+run_name: legendary-deer-275
+run_uuid: c0aca70ce18e4c889db9e67078a3ee75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800612975
+status: 3
+tags: []
+user_id: pedroasvalente

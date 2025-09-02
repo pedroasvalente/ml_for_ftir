@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/e92208de69244a9a892a0c23029ace99/artifacts
+end_time: 1756799866189
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: e92208de69244a9a892a0c23029ace99
+run_name: angry-deer-835
+run_uuid: e92208de69244a9a892a0c23029ace99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756799794092
+status: 3
+tags: []
+user_id: pedroasvalente

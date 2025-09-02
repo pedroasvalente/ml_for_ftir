@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/4504ea9d43e4477d8ca410ee8fddc448/artifacts
+end_time: 1756799791902
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 4504ea9d43e4477d8ca410ee8fddc448
+run_name: secretive-koi-117
+run_uuid: 4504ea9d43e4477d8ca410ee8fddc448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756799766797
+status: 3
+tags: []
+user_id: pedroasvalente

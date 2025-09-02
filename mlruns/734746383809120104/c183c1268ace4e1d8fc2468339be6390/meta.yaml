@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/c183c1268ace4e1d8fc2468339be6390/artifacts
+end_time: 1756801824348
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: c183c1268ace4e1d8fc2468339be6390
+run_name: flawless-dog-117
+run_uuid: c183c1268ace4e1d8fc2468339be6390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801693813
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/28553f6b4f2e41e695c62aae8a3d380f/artifacts
+end_time: 1756800877620
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 28553f6b4f2e41e695c62aae8a3d380f
+run_name: valuable-wren-692
+run_uuid: 28553f6b4f2e41e695c62aae8a3d380f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800864875
+status: 3
+tags: []
+user_id: pedroasvalente

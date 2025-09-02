@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/619b2280ef164e99909060e458c8f407/artifacts
+end_time: 1756801421006
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 619b2280ef164e99909060e458c8f407
+run_name: treasured-owl-706
+run_uuid: 619b2280ef164e99909060e458c8f407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801409508
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/76057197221944c186594597ff20b0df/artifacts
+end_time: 1756801280847
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 76057197221944c186594597ff20b0df
+run_name: orderly-fish-941
+run_uuid: 76057197221944c186594597ff20b0df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801253438
+status: 3
+tags: []
+user_id: pedroasvalente

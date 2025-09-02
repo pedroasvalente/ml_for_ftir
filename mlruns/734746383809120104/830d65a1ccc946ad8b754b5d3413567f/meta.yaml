@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/830d65a1ccc946ad8b754b5d3413567f/artifacts
+end_time: 1756800209191
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 830d65a1ccc946ad8b754b5d3413567f
+run_name: delightful-crow-27
+run_uuid: 830d65a1ccc946ad8b754b5d3413567f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800180253
+status: 3
+tags: []
+user_id: pedroasvalente

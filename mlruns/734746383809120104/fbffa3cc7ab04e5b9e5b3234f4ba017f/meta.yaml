@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/fbffa3cc7ab04e5b9e5b3234f4ba017f/artifacts
+end_time: 1756800071351
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: fbffa3cc7ab04e5b9e5b3234f4ba017f
+run_name: charming-fly-531
+run_uuid: fbffa3cc7ab04e5b9e5b3234f4ba017f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800059033
+status: 3
+tags: []
+user_id: pedroasvalente

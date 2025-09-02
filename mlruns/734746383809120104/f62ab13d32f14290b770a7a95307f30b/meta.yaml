@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/f62ab13d32f14290b770a7a95307f30b/artifacts
+end_time: 1756801547307
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: f62ab13d32f14290b770a7a95307f30b
+run_name: gaudy-dolphin-670
+run_uuid: f62ab13d32f14290b770a7a95307f30b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801535357
+status: 3
+tags: []
+user_id: pedroasvalente

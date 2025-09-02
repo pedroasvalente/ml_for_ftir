@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/9130d79218994c8c90473897a42adfdc/artifacts
+end_time: 1756801169012
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 9130d79218994c8c90473897a42adfdc
+run_name: intelligent-bear-519
+run_uuid: 9130d79218994c8c90473897a42adfdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801145480
+status: 3
+tags: []
+user_id: pedroasvalente

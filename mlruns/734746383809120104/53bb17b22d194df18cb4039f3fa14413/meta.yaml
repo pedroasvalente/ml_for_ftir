@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/53bb17b22d194df18cb4039f3fa14413/artifacts
+end_time: 1756800545057
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 53bb17b22d194df18cb4039f3fa14413
+run_name: colorful-goose-301
+run_uuid: 53bb17b22d194df18cb4039f3fa14413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800531323
+status: 3
+tags: []
+user_id: pedroasvalente

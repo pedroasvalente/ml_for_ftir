@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/a74f99b920e14b0ea68449370ea4b819/artifacts
+end_time: 1756800907645
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: a74f99b920e14b0ea68449370ea4b819
+run_name: flawless-bug-933
+run_uuid: a74f99b920e14b0ea68449370ea4b819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800881569
+status: 3
+tags: []
+user_id: pedroasvalente

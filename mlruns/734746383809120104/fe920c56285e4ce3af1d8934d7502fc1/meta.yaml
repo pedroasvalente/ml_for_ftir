@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/fe920c56285e4ce3af1d8934d7502fc1/artifacts
+end_time: 1756800637504
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: fe920c56285e4ce3af1d8934d7502fc1
+run_name: delightful-cub-342
+run_uuid: fe920c56285e4ce3af1d8934d7502fc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800612975
+status: 3
+tags: []
+user_id: pedroasvalente

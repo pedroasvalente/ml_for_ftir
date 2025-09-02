@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/09d2670d818b4ab1832ed820447e855c/artifacts
+end_time: 1756800681976
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 09d2670d818b4ab1832ed820447e855c
+run_name: skittish-roo-575
+run_uuid: 09d2670d818b4ab1832ed820447e855c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800656802
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/e4bf39af13c64117ae3ee20e5e560f4c/artifacts
+end_time: 1756802930003
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: e4bf39af13c64117ae3ee20e5e560f4c
+run_name: worried-steed-493
+run_uuid: e4bf39af13c64117ae3ee20e5e560f4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756802800622
+status: 3
+tags: []
+user_id: pedroasvalente

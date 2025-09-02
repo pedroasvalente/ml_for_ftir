@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/f5e52277e8024430971a28f12100ce9b/artifacts
+end_time: 1756801098427
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: f5e52277e8024430971a28f12100ce9b
+run_name: peaceful-grub-158
+run_uuid: f5e52277e8024430971a28f12100ce9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801068109
+status: 3
+tags: []
+user_id: pedroasvalente

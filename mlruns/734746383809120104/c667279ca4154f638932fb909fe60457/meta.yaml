@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/c667279ca4154f638932fb909fe60457/artifacts
+end_time: 1756802637098
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: c667279ca4154f638932fb909fe60457
+run_name: resilient-grouse-634
+run_uuid: c667279ca4154f638932fb909fe60457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756802504922
+status: 3
+tags: []
+user_id: pedroasvalente

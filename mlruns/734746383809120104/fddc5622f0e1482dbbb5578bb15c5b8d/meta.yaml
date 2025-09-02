@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/fddc5622f0e1482dbbb5578bb15c5b8d/artifacts
+end_time: 1756800609715
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: fddc5622f0e1482dbbb5578bb15c5b8d
+run_name: kindly-calf-188
+run_uuid: fddc5622f0e1482dbbb5578bb15c5b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800597198
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/a34e9a5853fc445abb495b96d839f6f2/artifacts
+end_time: 1756800056534
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: a34e9a5853fc445abb495b96d839f6f2
+run_name: loud-doe-982
+run_uuid: a34e9a5853fc445abb495b96d839f6f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800031884
+status: 3
+tags: []
+user_id: pedroasvalente

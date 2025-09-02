@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/4d93847f788a44328417c3ddf0af14b9/artifacts
+end_time: 1756801329511
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 4d93847f788a44328417c3ddf0af14b9
+run_name: secretive-shoat-888
+run_uuid: 4d93847f788a44328417c3ddf0af14b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801326021
+status: 3
+tags: []
+user_id: pedroasvalente

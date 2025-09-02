@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/b315ce798a564b8bbdb52d733fc4f6a0/artifacts
+end_time: 1756801669609
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: b315ce798a564b8bbdb52d733fc4f6a0
+run_name: stylish-skink-288
+run_uuid: b315ce798a564b8bbdb52d733fc4f6a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801552701
+status: 3
+tags: []
+user_id: pedroasvalente

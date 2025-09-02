@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/844f07746f3b47928af4678f9b74179b/artifacts
+end_time: 1756799913412
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 844f07746f3b47928af4678f9b74179b
+run_name: delicate-finch-591
+run_uuid: 844f07746f3b47928af4678f9b74179b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756799897654
+status: 3
+tags: []
+user_id: pedroasvalente

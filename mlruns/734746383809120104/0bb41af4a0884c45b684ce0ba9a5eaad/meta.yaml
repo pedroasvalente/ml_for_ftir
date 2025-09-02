@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/0bb41af4a0884c45b684ce0ba9a5eaad/artifacts
+end_time: 1756799947059
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 0bb41af4a0884c45b684ce0ba9a5eaad
+run_name: glamorous-shrew-903
+run_uuid: 0bb41af4a0884c45b684ce0ba9a5eaad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756799922452
+status: 3
+tags: []
+user_id: pedroasvalente

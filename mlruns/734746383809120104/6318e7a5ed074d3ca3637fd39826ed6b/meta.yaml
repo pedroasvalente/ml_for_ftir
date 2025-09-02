@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/6318e7a5ed074d3ca3637fd39826ed6b/artifacts
+end_time: 1756802164890
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 6318e7a5ed074d3ca3637fd39826ed6b
+run_name: worried-turtle-691
+run_uuid: 6318e7a5ed074d3ca3637fd39826ed6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756802030916
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/69ed671cf1f04f6fa3eed4242a2bc540/artifacts
+end_time: 1756800609715
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 69ed671cf1f04f6fa3eed4242a2bc540
+run_name: clumsy-goose-476
+run_uuid: 69ed671cf1f04f6fa3eed4242a2bc540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800597198
+status: 3
+tags: []
+user_id: pedroasvalente

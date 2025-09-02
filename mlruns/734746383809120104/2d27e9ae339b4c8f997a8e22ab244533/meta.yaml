@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/2d27e9ae339b4c8f997a8e22ab244533/artifacts
+end_time: 1756799791902
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 2d27e9ae339b4c8f997a8e22ab244533
+run_name: funny-boar-530
+run_uuid: 2d27e9ae339b4c8f997a8e22ab244533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756799766797
+status: 3
+tags: []
+user_id: pedroasvalente

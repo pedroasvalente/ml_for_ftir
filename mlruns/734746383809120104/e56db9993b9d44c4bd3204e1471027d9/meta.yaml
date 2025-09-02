@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/e56db9993b9d44c4bd3204e1471027d9/artifacts
+end_time: 1756800566761
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: e56db9993b9d44c4bd3204e1471027d9
+run_name: youthful-sow-620
+run_uuid: e56db9993b9d44c4bd3204e1471027d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800554627
+status: 3
+tags: []
+user_id: pedroasvalente

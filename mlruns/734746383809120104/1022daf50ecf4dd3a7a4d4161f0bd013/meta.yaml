@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/1022daf50ecf4dd3a7a4d4161f0bd013/artifacts
+end_time: 1756800056534
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 1022daf50ecf4dd3a7a4d4161f0bd013
+run_name: rogue-hawk-93
+run_uuid: 1022daf50ecf4dd3a7a4d4161f0bd013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756800031884
+status: 3
+tags: []
+user_id: pedroasvalente

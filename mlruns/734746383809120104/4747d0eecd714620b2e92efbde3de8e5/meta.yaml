@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/4747d0eecd714620b2e92efbde3de8e5/artifacts
+end_time: 1756801359292
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: 4747d0eecd714620b2e92efbde3de8e5
+run_name: nervous-swan-442
+run_uuid: 4747d0eecd714620b2e92efbde3de8e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801333662
+status: 3
+tags: []
+user_id: pedroasvalente

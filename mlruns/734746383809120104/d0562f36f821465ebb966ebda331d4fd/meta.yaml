@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/d0562f36f821465ebb966ebda331d4fd/artifacts
+end_time: 1756799895462
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: d0562f36f821465ebb966ebda331d4fd
+run_name: overjoyed-newt-478
+run_uuid: d0562f36f821465ebb966ebda331d4fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756799870034
+status: 3
+tags: []
+user_id: pedroasvalente

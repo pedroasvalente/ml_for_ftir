@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/734746383809120104/ee14c21d6f7c4263bad055372b3723c8/artifacts
+end_time: 1756801098427
+entry_point_name: ''
+experiment_id: '734746383809120104'
+lifecycle_stage: active
+run_id: ee14c21d6f7c4263bad055372b3723c8
+run_name: clumsy-gnat-189
+run_uuid: ee14c21d6f7c4263bad055372b3723c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756801068109
+status: 3
+tags: []
+user_id: pedroasvalente
