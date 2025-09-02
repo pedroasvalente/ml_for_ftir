@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/581d76d87c9e48b8a801bf0838e6e2bd/artifacts
+end_time: 1756729819387
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 581d76d87c9e48b8a801bf0838e6e2bd
+run_name: grandiose-sloth-60
+run_uuid: 581d76d87c9e48b8a801bf0838e6e2bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756729714523
+status: 3
+tags: []
+user_id: pedroasvalente

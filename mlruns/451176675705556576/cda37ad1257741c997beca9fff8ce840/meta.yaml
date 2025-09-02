@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/cda37ad1257741c997beca9fff8ce840/artifacts
+end_time: 1756717291556
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: cda37ad1257741c997beca9fff8ce840
+run_name: worried-hen-807
+run_uuid: cda37ad1257741c997beca9fff8ce840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717287978
+status: 3
+tags: []
+user_id: pedroasvalente

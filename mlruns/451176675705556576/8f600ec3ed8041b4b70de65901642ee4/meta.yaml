@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/8f600ec3ed8041b4b70de65901642ee4/artifacts
+end_time: 1756716830640
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 8f600ec3ed8041b4b70de65901642ee4
+run_name: masked-cub-632
+run_uuid: 8f600ec3ed8041b4b70de65901642ee4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716818277
+status: 3
+tags: []
+user_id: pedroasvalente

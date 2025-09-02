@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/b42990a9011a49d8a674e98fd35d6829/artifacts
+end_time: 1756725960949
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: b42990a9011a49d8a674e98fd35d6829
+run_name: experiment_linear_leukocytes
+run_uuid: b42990a9011a49d8a674e98fd35d6829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716137350
+status: 3
+tags: []
+user_id: pedroasvalente

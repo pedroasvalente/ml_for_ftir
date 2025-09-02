@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/787a621ddf4644cabaca054065400956/artifacts
+end_time: 1756739611166
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 787a621ddf4644cabaca054065400956
+run_name: salty-donkey-539
+run_uuid: 787a621ddf4644cabaca054065400956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739580787
+status: 3
+tags: []
+user_id: pedroasvalente

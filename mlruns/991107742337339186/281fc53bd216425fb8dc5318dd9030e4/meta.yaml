@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/281fc53bd216425fb8dc5318dd9030e4/artifacts
+end_time: 1756740613357
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 281fc53bd216425fb8dc5318dd9030e4
+run_name: gifted-cub-85
+run_uuid: 281fc53bd216425fb8dc5318dd9030e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756740480911
+status: 3
+tags: []
+user_id: pedroasvalente

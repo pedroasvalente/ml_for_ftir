@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/823f25fb35334336bd571856bed6a26f/artifacts
+end_time: 1756739726185
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 823f25fb35334336bd571856bed6a26f
+run_name: lyrical-gull-725
+run_uuid: 823f25fb35334336bd571856bed6a26f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739722392
+status: 3
+tags: []
+user_id: pedroasvalente

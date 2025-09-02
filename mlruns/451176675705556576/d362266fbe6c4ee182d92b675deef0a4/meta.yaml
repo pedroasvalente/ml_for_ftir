@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/d362266fbe6c4ee182d92b675deef0a4/artifacts
+end_time: 1756716830640
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: d362266fbe6c4ee182d92b675deef0a4
+run_name: serious-sloth-196
+run_uuid: d362266fbe6c4ee182d92b675deef0a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716818277
+status: 3
+tags: []
+user_id: pedroasvalente

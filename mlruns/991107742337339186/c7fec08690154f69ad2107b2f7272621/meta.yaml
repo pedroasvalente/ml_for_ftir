@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/c7fec08690154f69ad2107b2f7272621/artifacts
+end_time: 1756739414028
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: c7fec08690154f69ad2107b2f7272621
+run_name: adaptable-ram-735
+run_uuid: c7fec08690154f69ad2107b2f7272621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739409739
+status: 3
+tags: []
+user_id: pedroasvalente

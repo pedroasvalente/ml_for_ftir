@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/93dd8b86fae247e78e27444bac0c84ef/artifacts
+end_time: 1756739873287
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 93dd8b86fae247e78e27444bac0c84ef
+run_name: chill-ant-763
+run_uuid: 93dd8b86fae247e78e27444bac0c84ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739774877
+status: 3
+tags: []
+user_id: pedroasvalente

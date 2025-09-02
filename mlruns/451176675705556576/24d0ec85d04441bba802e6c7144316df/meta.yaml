@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/24d0ec85d04441bba802e6c7144316df/artifacts
+end_time: 1756717394865
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 24d0ec85d04441bba802e6c7144316df
+run_name: monumental-kite-655
+run_uuid: 24d0ec85d04441bba802e6c7144316df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717391382
+status: 3
+tags: []
+user_id: pedroasvalente

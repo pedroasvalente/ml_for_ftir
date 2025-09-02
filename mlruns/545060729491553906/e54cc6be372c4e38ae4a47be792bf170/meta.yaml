@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/e54cc6be372c4e38ae4a47be792bf170/artifacts
+end_time: 1756728550700
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: e54cc6be372c4e38ae4a47be792bf170
+run_name: redolent-gnat-82
+run_uuid: e54cc6be372c4e38ae4a47be792bf170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728539204
+status: 3
+tags: []
+user_id: pedroasvalente

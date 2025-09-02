@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/732d6530e313456d8e1297b5ec00782c/artifacts
+end_time: 1756739576125
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 732d6530e313456d8e1297b5ec00782c
+run_name: upbeat-zebra-192
+run_uuid: 732d6530e313456d8e1297b5ec00782c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739572326
+status: 3
+tags: []
+user_id: pedroasvalente

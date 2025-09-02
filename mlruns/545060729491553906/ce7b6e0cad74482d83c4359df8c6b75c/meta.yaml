@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/ce7b6e0cad74482d83c4359df8c6b75c/artifacts
+end_time: 1756728936397
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: ce7b6e0cad74482d83c4359df8c6b75c
+run_name: caring-bear-320
+run_uuid: ce7b6e0cad74482d83c4359df8c6b75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728819102
+status: 3
+tags: []
+user_id: pedroasvalente

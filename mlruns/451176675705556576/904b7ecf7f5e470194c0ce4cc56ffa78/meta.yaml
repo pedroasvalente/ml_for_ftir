@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/904b7ecf7f5e470194c0ce4cc56ffa78/artifacts
+end_time: 1756716674983
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 904b7ecf7f5e470194c0ce4cc56ffa78
+run_name: hilarious-ox-427
+run_uuid: 904b7ecf7f5e470194c0ce4cc56ffa78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716655636
+status: 3
+tags: []
+user_id: pedroasvalente

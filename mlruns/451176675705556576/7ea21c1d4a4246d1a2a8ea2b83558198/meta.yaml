@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/7ea21c1d4a4246d1a2a8ea2b83558198/artifacts
+end_time: 1756717561180
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 7ea21c1d4a4246d1a2a8ea2b83558198
+run_name: bedecked-perch-99
+run_uuid: 7ea21c1d4a4246d1a2a8ea2b83558198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717539581
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/f15e87f72e274a33b9b5dfcb4dff9389/artifacts
+end_time: 1756717577216
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: f15e87f72e274a33b9b5dfcb4dff9389
+run_name: polite-shoat-442
+run_uuid: f15e87f72e274a33b9b5dfcb4dff9389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717566200
+status: 3
+tags: []
+user_id: pedroasvalente

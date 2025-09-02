@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/e3a360ae965f470f8dfab52c58eb4468/artifacts
+end_time: 1756728253001
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: e3a360ae965f470f8dfab52c58eb4468
+run_name: adaptable-pig-330
+run_uuid: e3a360ae965f470f8dfab52c58eb4468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728249591
+status: 3
+tags: []
+user_id: pedroasvalente

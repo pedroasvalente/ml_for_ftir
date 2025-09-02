@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/37b5e6243ae447e0b5a58f46be9e72cf/artifacts
+end_time: 1756727768448
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 37b5e6243ae447e0b5a58f46be9e72cf
+run_name: abrasive-seal-844
+run_uuid: 37b5e6243ae447e0b5a58f46be9e72cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727743799
+status: 3
+tags: []
+user_id: pedroasvalente

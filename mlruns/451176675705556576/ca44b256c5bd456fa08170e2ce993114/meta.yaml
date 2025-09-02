@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/ca44b256c5bd456fa08170e2ce993114/artifacts
+end_time: 1756718997642
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: ca44b256c5bd456fa08170e2ce993114
+run_name: worried-conch-648
+run_uuid: ca44b256c5bd456fa08170e2ce993114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718877567
+status: 3
+tags: []
+user_id: pedroasvalente

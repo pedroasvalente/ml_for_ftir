@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/5178d9fe6f1c453b96cb325bf675b45c/artifacts
+end_time: 1756733279685
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 5178d9fe6f1c453b96cb325bf675b45c
+run_name: Random Forest Regressor
+run_uuid: 5178d9fe6f1c453b96cb325bf675b45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756732758622
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/d32fa4e5a1da474188cb841b39a598e5/artifacts
+end_time: 1756727384598
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: d32fa4e5a1da474188cb841b39a598e5
+run_name: angry-smelt-884
+run_uuid: d32fa4e5a1da474188cb841b39a598e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727366556
+status: 3
+tags: []
+user_id: pedroasvalente

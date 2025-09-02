@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/0fa4649e4abd4b8685d9dae853dc73df/artifacts
+end_time: 1756740028123
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 0fa4649e4abd4b8685d9dae853dc73df
+run_name: defiant-moose-409
+run_uuid: 0fa4649e4abd4b8685d9dae853dc73df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756740016499
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/add1a6dc3ff6475fbabb83381c4c617d/artifacts
+end_time: 1756738898847
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: add1a6dc3ff6475fbabb83381c4c617d
+run_name: worried-mole-36
+run_uuid: add1a6dc3ff6475fbabb83381c4c617d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738885337
+status: 3
+tags: []
+user_id: pedroasvalente

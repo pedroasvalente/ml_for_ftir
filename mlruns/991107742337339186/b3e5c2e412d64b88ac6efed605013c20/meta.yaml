@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/b3e5c2e412d64b88ac6efed605013c20/artifacts
+end_time: 1756739646237
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: b3e5c2e412d64b88ac6efed605013c20
+run_name: adorable-pug-637
+run_uuid: b3e5c2e412d64b88ac6efed605013c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739623221
+status: 3
+tags: []
+user_id: pedroasvalente

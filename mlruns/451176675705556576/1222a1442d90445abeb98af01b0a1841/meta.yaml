@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/1222a1442d90445abeb98af01b0a1841/artifacts
+end_time: 1756718997642
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 1222a1442d90445abeb98af01b0a1841
+run_name: loud-ox-879
+run_uuid: 1222a1442d90445abeb98af01b0a1841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718877567
+status: 3
+tags: []
+user_id: pedroasvalente

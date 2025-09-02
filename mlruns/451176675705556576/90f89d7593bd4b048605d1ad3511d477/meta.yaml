@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/90f89d7593bd4b048605d1ad3511d477/artifacts
+end_time: 1756718006954
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 90f89d7593bd4b048605d1ad3511d477
+run_name: legendary-horse-551
+run_uuid: 90f89d7593bd4b048605d1ad3511d477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717995441
+status: 3
+tags: []
+user_id: pedroasvalente

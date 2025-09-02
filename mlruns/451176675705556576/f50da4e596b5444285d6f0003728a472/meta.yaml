@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/f50da4e596b5444285d6f0003728a472/artifacts
+end_time: 1756717990058
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: f50da4e596b5444285d6f0003728a472
+run_name: defiant-deer-778
+run_uuid: f50da4e596b5444285d6f0003728a472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717858392
+status: 3
+tags: []
+user_id: pedroasvalente

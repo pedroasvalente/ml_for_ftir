@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/3f63e809820144168a812e8261f39e42/artifacts
+end_time: 1756738230512
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 3f63e809820144168a812e8261f39e42
+run_name: smiling-finch-790
+run_uuid: 3f63e809820144168a812e8261f39e42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738198929
+status: 3
+tags: []
+user_id: pedroasvalente

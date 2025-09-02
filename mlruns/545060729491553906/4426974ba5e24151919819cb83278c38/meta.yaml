@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/4426974ba5e24151919819cb83278c38/artifacts
+end_time: 1756727323122
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 4426974ba5e24151919819cb83278c38
+run_name: victorious-dove-567
+run_uuid: 4426974ba5e24151919819cb83278c38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727276619
+status: 3
+tags: []
+user_id: pedroasvalente

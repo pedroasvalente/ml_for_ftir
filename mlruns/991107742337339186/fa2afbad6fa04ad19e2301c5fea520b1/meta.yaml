@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/fa2afbad6fa04ad19e2301c5fea520b1/artifacts
+end_time: 1756739769946
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: fa2afbad6fa04ad19e2301c5fea520b1
+run_name: puzzled-moth-917
+run_uuid: fa2afbad6fa04ad19e2301c5fea520b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739758388
+status: 3
+tags: []
+user_id: pedroasvalente

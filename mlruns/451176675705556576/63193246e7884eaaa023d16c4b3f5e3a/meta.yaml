@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/63193246e7884eaaa023d16c4b3f5e3a/artifacts
+end_time: 1756716916694
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 63193246e7884eaaa023d16c4b3f5e3a
+run_name: delicate-fish-646
+run_uuid: 63193246e7884eaaa023d16c4b3f5e3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716904534
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/b207e7b83d5047a1a1ba961fd2f8d93d/artifacts
+end_time: 1756716633759
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: b207e7b83d5047a1a1ba961fd2f8d93d
+run_name: youthful-bee-328
+run_uuid: b207e7b83d5047a1a1ba961fd2f8d93d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716614102
+status: 3
+tags: []
+user_id: pedroasvalente

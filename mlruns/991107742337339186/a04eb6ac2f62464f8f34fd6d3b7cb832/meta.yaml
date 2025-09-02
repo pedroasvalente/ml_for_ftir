@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/a04eb6ac2f62464f8f34fd6d3b7cb832/artifacts
+end_time: 1756738230512
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: a04eb6ac2f62464f8f34fd6d3b7cb832
+run_name: peaceful-ox-498
+run_uuid: a04eb6ac2f62464f8f34fd6d3b7cb832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738198929
+status: 3
+tags: []
+user_id: pedroasvalente

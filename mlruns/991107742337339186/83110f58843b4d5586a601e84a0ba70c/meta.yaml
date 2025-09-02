@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/83110f58843b4d5586a601e84a0ba70c/artifacts
+end_time: 1756741060386
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 83110f58843b4d5586a601e84a0ba70c
+run_name: salty-donkey-554
+run_uuid: 83110f58843b4d5586a601e84a0ba70c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756741048602
+status: 3
+tags: []
+user_id: pedroasvalente

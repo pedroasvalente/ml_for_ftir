@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/bd5bccd4c2ea4c6babd7c614f53a1860/artifacts
+end_time: 1756716766120
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: bd5bccd4c2ea4c6babd7c614f53a1860
+run_name: likeable-dog-344
+run_uuid: bd5bccd4c2ea4c6babd7c614f53a1860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716756082
+status: 3
+tags: []
+user_id: pedroasvalente

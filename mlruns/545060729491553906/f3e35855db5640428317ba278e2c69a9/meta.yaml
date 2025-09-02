@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/f3e35855db5640428317ba278e2c69a9/artifacts
+end_time: 1756729392440
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: f3e35855db5640428317ba278e2c69a9
+run_name: fortunate-seal-284
+run_uuid: f3e35855db5640428317ba278e2c69a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756729257364
+status: 3
+tags: []
+user_id: pedroasvalente

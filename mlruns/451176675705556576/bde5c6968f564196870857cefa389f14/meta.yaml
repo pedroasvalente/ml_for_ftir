@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/bde5c6968f564196870857cefa389f14/artifacts
+end_time: 1756717394865
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: bde5c6968f564196870857cefa389f14
+run_name: selective-vole-717
+run_uuid: bde5c6968f564196870857cefa389f14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717391382
+status: 3
+tags: []
+user_id: pedroasvalente

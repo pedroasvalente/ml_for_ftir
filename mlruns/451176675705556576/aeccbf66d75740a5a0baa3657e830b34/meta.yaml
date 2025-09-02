@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/aeccbf66d75740a5a0baa3657e830b34/artifacts
+end_time: 1756716633759
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: aeccbf66d75740a5a0baa3657e830b34
+run_name: spiffy-chimp-534
+run_uuid: aeccbf66d75740a5a0baa3657e830b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716614102
+status: 3
+tags: []
+user_id: pedroasvalente

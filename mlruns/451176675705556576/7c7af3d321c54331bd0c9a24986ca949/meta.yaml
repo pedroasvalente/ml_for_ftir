@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/7c7af3d321c54331bd0c9a24986ca949/artifacts
+end_time: 1756716259550
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 7c7af3d321c54331bd0c9a24986ca949
+run_name: bittersweet-carp-935
+run_uuid: 7c7af3d321c54331bd0c9a24986ca949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716236552
+status: 3
+tags: []
+user_id: pedroasvalente

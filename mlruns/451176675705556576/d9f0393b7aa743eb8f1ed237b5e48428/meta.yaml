@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/d9f0393b7aa743eb8f1ed237b5e48428/artifacts
+end_time: 1756717853114
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: d9f0393b7aa743eb8f1ed237b5e48428
+run_name: casual-jay-542
+run_uuid: d9f0393b7aa743eb8f1ed237b5e48428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717839647
+status: 3
+tags: []
+user_id: pedroasvalente

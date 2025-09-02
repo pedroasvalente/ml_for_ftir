@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/a7811e6de7b04d2a8ad6b745ce18b791/artifacts
+end_time: 1756727950905
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: a7811e6de7b04d2a8ad6b745ce18b791
+run_name: puzzled-bird-206
+run_uuid: a7811e6de7b04d2a8ad6b745ce18b791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727924610
+status: 3
+tags: []
+user_id: pedroasvalente

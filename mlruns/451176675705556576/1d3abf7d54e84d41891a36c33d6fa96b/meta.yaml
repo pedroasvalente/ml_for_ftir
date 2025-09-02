@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/1d3abf7d54e84d41891a36c33d6fa96b/artifacts
+end_time: 1756716232409
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 1d3abf7d54e84d41891a36c33d6fa96b
+run_name: unleashed-rat-109
+run_uuid: 1d3abf7d54e84d41891a36c33d6fa96b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716162296
+status: 3
+tags: []
+user_id: pedroasvalente

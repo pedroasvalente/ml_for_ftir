@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/3f10f71781d1465dadd9412ae3ce7097/artifacts
+end_time: 1756739654312
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 3f10f71781d1465dadd9412ae3ce7097
+run_name: rebellious-steed-210
+run_uuid: 3f10f71781d1465dadd9412ae3ce7097
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739650930
+status: 3
+tags: []
+user_id: pedroasvalente

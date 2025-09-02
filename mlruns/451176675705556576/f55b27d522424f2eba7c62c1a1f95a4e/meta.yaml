@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/f55b27d522424f2eba7c62c1a1f95a4e/artifacts
+end_time: 1756718584576
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: f55b27d522424f2eba7c62c1a1f95a4e
+run_name: masked-wolf-983
+run_uuid: f55b27d522424f2eba7c62c1a1f95a4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718476432
+status: 3
+tags: []
+user_id: pedroasvalente

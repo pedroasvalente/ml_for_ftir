@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/064f7d955c0b4462b18ba4c01154fea1/artifacts
+end_time: 1756727384598
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 064f7d955c0b4462b18ba4c01154fea1
+run_name: suave-calf-328
+run_uuid: 064f7d955c0b4462b18ba4c01154fea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727366556
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/8a4c942bbe3f4e82ad4b51286e58aa7e/artifacts
+end_time: 1756738898847
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 8a4c942bbe3f4e82ad4b51286e58aa7e
+run_name: melodic-rook-280
+run_uuid: 8a4c942bbe3f4e82ad4b51286e58aa7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738885337
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/70504d314cc34e568d55282e3cf42c36/artifacts
+end_time: 1756716259550
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 70504d314cc34e568d55282e3cf42c36
+run_name: bustling-snail-247
+run_uuid: 70504d314cc34e568d55282e3cf42c36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716236552
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/99fcc549bd2f40079e5be0e25605a0bd/artifacts
+end_time: 1756727533606
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 99fcc549bd2f40079e5be0e25605a0bd
+run_name: worried-finch-134
+run_uuid: 99fcc549bd2f40079e5be0e25605a0bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727483788
+status: 3
+tags: []
+user_id: pedroasvalente

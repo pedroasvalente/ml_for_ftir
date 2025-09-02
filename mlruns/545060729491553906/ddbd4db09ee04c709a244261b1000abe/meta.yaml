@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/ddbd4db09ee04c709a244261b1000abe/artifacts
+end_time: 1756727921098
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: ddbd4db09ee04c709a244261b1000abe
+run_name: orderly-steed-590
+run_uuid: ddbd4db09ee04c709a244261b1000abe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727908519
+status: 3
+tags: []
+user_id: pedroasvalente

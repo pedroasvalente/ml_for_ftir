@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/647edc6a852f4d878d07179709d195eb/artifacts
+end_time: 1756740457120
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 647edc6a852f4d878d07179709d195eb
+run_name: sedate-lark-417
+run_uuid: 647edc6a852f4d878d07179709d195eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756740337919
+status: 3
+tags: []
+user_id: pedroasvalente

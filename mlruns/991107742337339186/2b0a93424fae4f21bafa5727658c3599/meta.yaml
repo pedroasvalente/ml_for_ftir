@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/2b0a93424fae4f21bafa5727658c3599/artifacts
+end_time: 1756738898847
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 2b0a93424fae4f21bafa5727658c3599
+run_name: peaceful-shoat-296
+run_uuid: 2b0a93424fae4f21bafa5727658c3599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738885337
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/9c6f56aa66e544868640c75cc4a268ae/artifacts
+end_time: 1756740457120
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 9c6f56aa66e544868640c75cc4a268ae
+run_name: angry-gnat-401
+run_uuid: 9c6f56aa66e544868640c75cc4a268ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756740337919
+status: 3
+tags: []
+user_id: pedroasvalente

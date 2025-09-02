@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/2880021fe30643f3ab1a3cd3cb1b2394/artifacts
+end_time: 1756718872657
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 2880021fe30643f3ab1a3cd3cb1b2394
+run_name: bemused-snake-342
+run_uuid: 2880021fe30643f3ab1a3cd3cb1b2394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718861686
+status: 3
+tags: []
+user_id: pedroasvalente

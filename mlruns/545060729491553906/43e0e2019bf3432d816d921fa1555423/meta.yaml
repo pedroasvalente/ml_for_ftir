@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/43e0e2019bf3432d816d921fa1555423/artifacts
+end_time: 1756727555613
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 43e0e2019bf3432d816d921fa1555423
+run_name: nimble-tern-590
+run_uuid: 43e0e2019bf3432d816d921fa1555423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727538017
+status: 3
+tags: []
+user_id: pedroasvalente

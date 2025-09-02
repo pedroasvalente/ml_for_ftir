@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/06514440a397495680d491321c22c025/artifacts
+end_time: 1756716508164
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 06514440a397495680d491321c22c025
+run_name: bedecked-fox-199
+run_uuid: 06514440a397495680d491321c22c025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716488416
+status: 3
+tags: []
+user_id: pedroasvalente

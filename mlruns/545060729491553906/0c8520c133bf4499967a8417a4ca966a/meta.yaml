@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/0c8520c133bf4499967a8417a4ca966a/artifacts
+end_time: 1756727413539
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 0c8520c133bf4499967a8417a4ca966a
+run_name: youthful-roo-187
+run_uuid: 0c8520c133bf4499967a8417a4ca966a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727386996
+status: 3
+tags: []
+user_id: pedroasvalente

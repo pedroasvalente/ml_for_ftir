@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/029bbd37630e488db3a4c025e1287a72/artifacts
+end_time: 1756738558576
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 029bbd37630e488db3a4c025e1287a72
+run_name: defiant-robin-225
+run_uuid: 029bbd37630e488db3a4c025e1287a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738534114
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/3bdc23a3717848ff8b27f324d94637ad/artifacts
+end_time: 1756739619398
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 3bdc23a3717848ff8b27f324d94637ad
+run_name: merciful-newt-200
+run_uuid: 3bdc23a3717848ff8b27f324d94637ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739615938
+status: 3
+tags: []
+user_id: pedroasvalente

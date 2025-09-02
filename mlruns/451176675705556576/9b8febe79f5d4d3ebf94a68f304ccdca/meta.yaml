@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/9b8febe79f5d4d3ebf94a68f304ccdca/artifacts
+end_time: 1756716729399
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 9b8febe79f5d4d3ebf94a68f304ccdca
+run_name: luxuriant-ox-107
+run_uuid: 9b8febe79f5d4d3ebf94a68f304ccdca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716677820
+status: 3
+tags: []
+user_id: pedroasvalente

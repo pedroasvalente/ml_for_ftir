@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/efd0c069cf054854ac33bc835fe5c80a/artifacts
+end_time: 1756739444275
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: efd0c069cf054854ac33bc835fe5c80a
+run_name: spiffy-zebra-943
+run_uuid: efd0c069cf054854ac33bc835fe5c80a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739417605
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/44bb1861a90040be99864ea68cd0b6b9/artifacts
+end_time: 1756718173593
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 44bb1861a90040be99864ea68cd0b6b9
+run_name: big-carp-434
+run_uuid: 44bb1861a90040be99864ea68cd0b6b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718162258
+status: 3
+tags: []
+user_id: pedroasvalente

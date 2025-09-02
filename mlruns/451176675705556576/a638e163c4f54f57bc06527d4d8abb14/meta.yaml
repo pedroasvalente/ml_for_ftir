@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/a638e163c4f54f57bc06527d4d8abb14/artifacts
+end_time: 1756717143138
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: a638e163c4f54f57bc06527d4d8abb14
+run_name: youthful-skink-711
+run_uuid: a638e163c4f54f57bc06527d4d8abb14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717130859
+status: 3
+tags: []
+user_id: pedroasvalente

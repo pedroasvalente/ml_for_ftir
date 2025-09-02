@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/25be18d7793149528a79d5e62d0407e7/artifacts
+end_time: 1756716259550
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 25be18d7793149528a79d5e62d0407e7
+run_name: capricious-goose-883
+run_uuid: 25be18d7793149528a79d5e62d0407e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716236552
+status: 3
+tags: []
+user_id: pedroasvalente

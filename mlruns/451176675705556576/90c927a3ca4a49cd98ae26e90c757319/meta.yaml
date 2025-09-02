@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/90c927a3ca4a49cd98ae26e90c757319/artifacts
+end_time: 1756717143138
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 90c927a3ca4a49cd98ae26e90c757319
+run_name: luminous-moth-103
+run_uuid: 90c927a3ca4a49cd98ae26e90c757319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717130859
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/2d285d62e0984b67b14a6a6d33f32103/artifacts
+end_time: 1756728443272
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 2d285d62e0984b67b14a6a6d33f32103
+run_name: carefree-grouse-313
+run_uuid: 2d285d62e0984b67b14a6a6d33f32103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728415395
+status: 3
+tags: []
+user_id: pedroasvalente

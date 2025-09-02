@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/7fc7cd2326b34955a0f000513b9864ba/artifacts
+end_time: 1756718997642
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 7fc7cd2326b34955a0f000513b9864ba
+run_name: flawless-wren-801
+run_uuid: 7fc7cd2326b34955a0f000513b9864ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718877567
+status: 3
+tags: []
+user_id: pedroasvalente

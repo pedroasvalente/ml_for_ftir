@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/7b14fcb33e304d4d8197919122071561/artifacts
+end_time: 1756727697871
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 7b14fcb33e304d4d8197919122071561
+run_name: dapper-quail-994
+run_uuid: 7b14fcb33e304d4d8197919122071561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727685446
+status: 3
+tags: []
+user_id: pedroasvalente

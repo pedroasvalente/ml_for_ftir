@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/cc87f365714b4a0d8dbd9908584ca2bc/artifacts
+end_time: 1756716944892
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: cc87f365714b4a0d8dbd9908584ca2bc
+run_name: gentle-loon-434
+run_uuid: cc87f365714b4a0d8dbd9908584ca2bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716919912
+status: 3
+tags: []
+user_id: pedroasvalente

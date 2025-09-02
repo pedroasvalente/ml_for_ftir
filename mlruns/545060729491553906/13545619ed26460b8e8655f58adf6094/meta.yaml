@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/13545619ed26460b8e8655f58adf6094/artifacts
+end_time: 1756728042043
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 13545619ed26460b8e8655f58adf6094
+run_name: valuable-bug-765
+run_uuid: 13545619ed26460b8e8655f58adf6094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728016026
+status: 3
+tags: []
+user_id: pedroasvalente

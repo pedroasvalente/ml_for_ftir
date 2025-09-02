@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/558c21275beb4cb3aaaf6d57c081a7f1/artifacts
+end_time: 1756727413539
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 558c21275beb4cb3aaaf6d57c081a7f1
+run_name: adorable-snipe-222
+run_uuid: 558c21275beb4cb3aaaf6d57c081a7f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727386996
+status: 3
+tags: []
+user_id: pedroasvalente

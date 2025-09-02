@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/e961985ace934ef4bca4fb714398b739/artifacts
+end_time: 1756716609632
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: e961985ace934ef4bca4fb714398b739
+run_name: whimsical-mink-670
+run_uuid: e961985ace934ef4bca4fb714398b739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716556380
+status: 3
+tags: []
+user_id: pedroasvalente

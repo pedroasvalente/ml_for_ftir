@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/e7757f9b6d904221aafc99ef8fc162fc/artifacts
+end_time: 1756728487587
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: e7757f9b6d904221aafc99ef8fc162fc
+run_name: dapper-sloth-409
+run_uuid: e7757f9b6d904221aafc99ef8fc162fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728455802
+status: 3
+tags: []
+user_id: pedroasvalente

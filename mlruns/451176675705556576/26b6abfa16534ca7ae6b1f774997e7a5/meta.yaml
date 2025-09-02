@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/26b6abfa16534ca7ae6b1f774997e7a5/artifacts
+end_time: 1756717098522
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 26b6abfa16534ca7ae6b1f774997e7a5
+run_name: glamorous-tern-416
+run_uuid: 26b6abfa16534ca7ae6b1f774997e7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717085841
+status: 3
+tags: []
+user_id: pedroasvalente

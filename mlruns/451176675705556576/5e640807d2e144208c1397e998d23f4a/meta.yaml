@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/5e640807d2e144208c1397e998d23f4a/artifacts
+end_time: 1756717387061
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 5e640807d2e144208c1397e998d23f4a
+run_name: luxuriant-stork-842
+run_uuid: 5e640807d2e144208c1397e998d23f4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717361269
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/e8d001696adb44b5b018642334a15007/artifacts
+end_time: 1756738921531
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: e8d001696adb44b5b018642334a15007
+run_name: angry-jay-586
+run_uuid: e8d001696adb44b5b018642334a15007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738908969
+status: 3
+tags: []
+user_id: pedroasvalente

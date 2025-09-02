@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/a9ff3dc6472041768bb3e769f26ea3ee/artifacts
+end_time: 1756728141548
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: a9ff3dc6472041768bb3e769f26ea3ee
+run_name: upset-skink-565
+run_uuid: a9ff3dc6472041768bb3e769f26ea3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728137898
+status: 3
+tags: []
+user_id: pedroasvalente

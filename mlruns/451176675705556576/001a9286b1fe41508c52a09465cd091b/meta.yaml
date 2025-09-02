@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/001a9286b1fe41508c52a09465cd091b/artifacts
+end_time: 1756716766120
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 001a9286b1fe41508c52a09465cd091b
+run_name: flawless-colt-488
+run_uuid: 001a9286b1fe41508c52a09465cd091b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716756082
+status: 3
+tags: []
+user_id: pedroasvalente

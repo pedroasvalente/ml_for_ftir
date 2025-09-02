@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/ac57a4ae00fa4b26b20d87bb69d02f30/artifacts
+end_time: 1756717502694
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: ac57a4ae00fa4b26b20d87bb69d02f30
+run_name: honorable-horse-222
+run_uuid: ac57a4ae00fa4b26b20d87bb69d02f30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717499168
+status: 3
+tags: []
+user_id: pedroasvalente

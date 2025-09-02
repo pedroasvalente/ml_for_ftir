@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/5957eb04ef6f4bfeb8e75c80141be04b/artifacts
+end_time: 1756717853114
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 5957eb04ef6f4bfeb8e75c80141be04b
+run_name: thoughtful-bird-769
+run_uuid: 5957eb04ef6f4bfeb8e75c80141be04b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717839647
+status: 3
+tags: []
+user_id: pedroasvalente

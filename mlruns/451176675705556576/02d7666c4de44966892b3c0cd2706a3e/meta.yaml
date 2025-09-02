@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/02d7666c4de44966892b3c0cd2706a3e/artifacts
+end_time: 1756717350049
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 02d7666c4de44966892b3c0cd2706a3e
+run_name: nebulous-stork-288
+run_uuid: 02d7666c4de44966892b3c0cd2706a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717327639
+status: 3
+tags: []
+user_id: pedroasvalente

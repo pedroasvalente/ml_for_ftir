@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/ee52a5cb94e44b9ea2561e6221e918b7/artifacts
+end_time: 1756717222640
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: ee52a5cb94e44b9ea2561e6221e918b7
+run_name: charming-sloth-106
+run_uuid: ee52a5cb94e44b9ea2561e6221e918b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717219182
+status: 3
+tags: []
+user_id: pedroasvalente

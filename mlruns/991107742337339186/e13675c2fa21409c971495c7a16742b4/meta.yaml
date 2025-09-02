@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/e13675c2fa21409c971495c7a16742b4/artifacts
+end_time: 1756739292182
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: e13675c2fa21409c971495c7a16742b4
+run_name: calm-turtle-96
+run_uuid: e13675c2fa21409c971495c7a16742b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739279412
+status: 3
+tags: []
+user_id: pedroasvalente

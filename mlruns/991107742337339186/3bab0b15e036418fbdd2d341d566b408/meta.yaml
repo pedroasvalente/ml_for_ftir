@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/3bab0b15e036418fbdd2d341d566b408/artifacts
+end_time: 1756738683966
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 3bab0b15e036418fbdd2d341d566b408
+run_name: placid-chimp-578
+run_uuid: 3bab0b15e036418fbdd2d341d566b408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738622397
+status: 3
+tags: []
+user_id: pedroasvalente

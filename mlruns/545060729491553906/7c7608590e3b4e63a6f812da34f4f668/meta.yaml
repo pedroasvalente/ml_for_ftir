@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/7c7608590e3b4e63a6f812da34f4f668/artifacts
+end_time: 1756727357365
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 7c7608590e3b4e63a6f812da34f4f668
+run_name: loud-zebra-673
+run_uuid: 7c7608590e3b4e63a6f812da34f4f668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727347329
+status: 3
+tags: []
+user_id: pedroasvalente

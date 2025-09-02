@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/980970bc259447c9ba039865fa3f8439/artifacts
+end_time: 1756716916694
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 980970bc259447c9ba039865fa3f8439
+run_name: unleashed-bat-827
+run_uuid: 980970bc259447c9ba039865fa3f8439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716904534
+status: 3
+tags: []
+user_id: pedroasvalente

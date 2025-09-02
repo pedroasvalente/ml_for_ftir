@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/ed5214c23ec340b48237ba053b6bad7b/artifacts
+end_time: 1756738388012
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: ed5214c23ec340b48237ba053b6bad7b
+run_name: enchanting-kite-765
+run_uuid: ed5214c23ec340b48237ba053b6bad7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738364310
+status: 3
+tags: []
+user_id: pedroasvalente

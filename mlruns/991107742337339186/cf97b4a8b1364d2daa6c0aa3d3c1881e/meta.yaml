@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/cf97b4a8b1364d2daa6c0aa3d3c1881e/artifacts
+end_time: 1756739717539
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: cf97b4a8b1364d2daa6c0aa3d3c1881e
+run_name: merciful-chimp-275
+run_uuid: cf97b4a8b1364d2daa6c0aa3d3c1881e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739695061
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/ffbfd0102bdd412c9f82ab1a15f0fe91/artifacts
+end_time: 1756717458919
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: ffbfd0102bdd412c9f82ab1a15f0fe91
+run_name: entertaining-rat-798
+run_uuid: ffbfd0102bdd412c9f82ab1a15f0fe91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717437409
+status: 3
+tags: []
+user_id: pedroasvalente

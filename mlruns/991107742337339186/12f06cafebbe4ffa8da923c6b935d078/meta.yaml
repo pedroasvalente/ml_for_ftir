@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/12f06cafebbe4ffa8da923c6b935d078/artifacts
+end_time: 1756740313712
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 12f06cafebbe4ffa8da923c6b935d078
+run_name: ambitious-deer-466
+run_uuid: 12f06cafebbe4ffa8da923c6b935d078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756740173560
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/9c4940ede8d244dbaaa452a6163f5caf/artifacts
+end_time: 1756728058245
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 9c4940ede8d244dbaaa452a6163f5caf
+run_name: whimsical-sponge-913
+run_uuid: 9c4940ede8d244dbaaa452a6163f5caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728045820
+status: 3
+tags: []
+user_id: pedroasvalente

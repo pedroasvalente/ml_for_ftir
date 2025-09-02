@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/8525477b6ff24adba5f623831fb90ea6/artifacts
+end_time: 1756728141548
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 8525477b6ff24adba5f623831fb90ea6
+run_name: bemused-ram-296
+run_uuid: 8525477b6ff24adba5f623831fb90ea6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728137898
+status: 3
+tags: []
+user_id: pedroasvalente

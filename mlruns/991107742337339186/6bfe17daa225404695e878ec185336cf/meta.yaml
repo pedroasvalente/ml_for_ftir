@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/6bfe17daa225404695e878ec185336cf/artifacts
+end_time: 1756739452056
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 6bfe17daa225404695e878ec185336cf
+run_name: fun-wren-80
+run_uuid: 6bfe17daa225404695e878ec185336cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739448598
+status: 3
+tags: []
+user_id: pedroasvalente

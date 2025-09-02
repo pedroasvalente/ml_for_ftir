@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/2c0e8dd250e6495da48f06db23c93027/artifacts
+end_time: 1756739338330
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 2c0e8dd250e6495da48f06db23c93027
+run_name: youthful-dove-903
+run_uuid: 2c0e8dd250e6495da48f06db23c93027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739325872
+status: 3
+tags: []
+user_id: pedroasvalente

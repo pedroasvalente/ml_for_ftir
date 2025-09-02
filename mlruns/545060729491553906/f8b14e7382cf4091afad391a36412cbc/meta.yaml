@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/f8b14e7382cf4091afad391a36412cbc/artifacts
+end_time: 1756728133936
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: f8b14e7382cf4091afad391a36412cbc
+run_name: big-hog-775
+run_uuid: f8b14e7382cf4091afad391a36412cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728107458
+status: 3
+tags: []
+user_id: pedroasvalente

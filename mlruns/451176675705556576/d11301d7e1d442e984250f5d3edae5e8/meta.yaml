@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/d11301d7e1d442e984250f5d3edae5e8/artifacts
+end_time: 1756717222640
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: d11301d7e1d442e984250f5d3edae5e8
+run_name: sedate-frog-569
+run_uuid: d11301d7e1d442e984250f5d3edae5e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717219182
+status: 3
+tags: []
+user_id: pedroasvalente

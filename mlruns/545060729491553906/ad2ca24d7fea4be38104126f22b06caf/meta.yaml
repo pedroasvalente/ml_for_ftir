@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/ad2ca24d7fea4be38104126f22b06caf/artifacts
+end_time: 1756729967344
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: ad2ca24d7fea4be38104126f22b06caf
+run_name: salty-tern-891
+run_uuid: ad2ca24d7fea4be38104126f22b06caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756729845197
+status: 3
+tags: []
+user_id: pedroasvalente

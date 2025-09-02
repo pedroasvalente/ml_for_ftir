@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/99d43a483c13405ba9b387ced4284aa7/artifacts
+end_time: 1756718314380
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 99d43a483c13405ba9b387ced4284aa7
+run_name: lyrical-gnat-723
+run_uuid: 99d43a483c13405ba9b387ced4284aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718303182
+status: 3
+tags: []
+user_id: pedroasvalente

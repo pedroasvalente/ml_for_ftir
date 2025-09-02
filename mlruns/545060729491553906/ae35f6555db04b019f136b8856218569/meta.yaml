@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/ae35f6555db04b019f136b8856218569/artifacts
+end_time: 1756728245180
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: ae35f6555db04b019f136b8856218569
+run_name: magnificent-asp-377
+run_uuid: ae35f6555db04b019f136b8856218569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728218060
+status: 3
+tags: []
+user_id: pedroasvalente

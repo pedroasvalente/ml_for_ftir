@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/57da5992aef94100970b67b562f3615c/artifacts
+end_time: 1756740919662
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 57da5992aef94100970b67b562f3615c
+run_name: rare-shrike-750
+run_uuid: 57da5992aef94100970b67b562f3615c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756740907829
+status: 3
+tags: []
+user_id: pedroasvalente

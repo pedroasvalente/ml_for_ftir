@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/1f46b19156464757b83165d85fc52991/artifacts
+end_time: 1756717990058
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 1f46b19156464757b83165d85fc52991
+run_name: loud-gnat-105
+run_uuid: 1f46b19156464757b83165d85fc52991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717858392
+status: 3
+tags: []
+user_id: pedroasvalente

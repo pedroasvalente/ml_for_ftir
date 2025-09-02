@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/5144ee0edbfd4343a1b864f461d9da53/artifacts
+end_time: 1756728796979
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 5144ee0edbfd4343a1b864f461d9da53
+run_name: handsome-loon-495
+run_uuid: 5144ee0edbfd4343a1b864f461d9da53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728678473
+status: 3
+tags: []
+user_id: pedroasvalente

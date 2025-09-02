@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/57580821ce0f4668ae0d4ace4f26ae3d/artifacts
+end_time: 1756716382917
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 57580821ce0f4668ae0d4ace4f26ae3d
+run_name: colorful-dolphin-898
+run_uuid: 57580821ce0f4668ae0d4ace4f26ae3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716363067
+status: 3
+tags: []
+user_id: pedroasvalente

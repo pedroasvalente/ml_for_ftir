@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/888f3e7bd6d34790afdce175e6c03ffb/artifacts
+end_time: 1756729708197
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 888f3e7bd6d34790afdce175e6c03ffb
+run_name: overjoyed-crab-291
+run_uuid: 888f3e7bd6d34790afdce175e6c03ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756729696938
+status: 3
+tags: []
+user_id: pedroasvalente

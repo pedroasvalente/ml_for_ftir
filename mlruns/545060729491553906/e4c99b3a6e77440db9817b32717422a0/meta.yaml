@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/e4c99b3a6e77440db9817b32717422a0/artifacts
+end_time: 1756737113464
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: e4c99b3a6e77440db9817b32717422a0
+run_name: experiment_linear_lymphocytes
+run_uuid: e4c99b3a6e77440db9817b32717422a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727132334
+status: 3
+tags: []
+user_id: pedroasvalente

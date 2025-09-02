@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/e3f2c0b708c844d2904fd60fcd3a2ccd/artifacts
+end_time: 1756718156961
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: e3f2c0b708c844d2904fd60fcd3a2ccd
+run_name: smiling-frog-609
+run_uuid: e3f2c0b708c844d2904fd60fcd3a2ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718012170
+status: 3
+tags: []
+user_id: pedroasvalente

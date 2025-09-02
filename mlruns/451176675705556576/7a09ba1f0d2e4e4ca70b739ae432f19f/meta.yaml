@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/7a09ba1f0d2e4e4ca70b739ae432f19f/artifacts
+end_time: 1756716646457
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 7a09ba1f0d2e4e4ca70b739ae432f19f
+run_name: bittersweet-cow-281
+run_uuid: 7a09ba1f0d2e4e4ca70b739ae432f19f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716636309
+status: 3
+tags: []
+user_id: pedroasvalente

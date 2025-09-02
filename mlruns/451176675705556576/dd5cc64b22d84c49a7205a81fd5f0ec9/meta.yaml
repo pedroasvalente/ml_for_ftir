@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/dd5cc64b22d84c49a7205a81fd5f0ec9/artifacts
+end_time: 1756717425593
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: dd5cc64b22d84c49a7205a81fd5f0ec9
+run_name: victorious-quail-52
+run_uuid: dd5cc64b22d84c49a7205a81fd5f0ec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717398773
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/c69d09fcc51a413a97ea7ad662dd7219/artifacts
+end_time: 1756739087455
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: c69d09fcc51a413a97ea7ad662dd7219
+run_name: skillful-toad-641
+run_uuid: c69d09fcc51a413a97ea7ad662dd7219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739060452
+status: 3
+tags: []
+user_id: pedroasvalente

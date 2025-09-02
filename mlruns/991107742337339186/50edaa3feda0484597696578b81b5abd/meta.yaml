@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/50edaa3feda0484597696578b81b5abd/artifacts
+end_time: 1756740900746
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 50edaa3feda0484597696578b81b5abd
+run_name: rare-sow-596
+run_uuid: 50edaa3feda0484597696578b81b5abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756740770305
+status: 3
+tags: []
+user_id: pedroasvalente

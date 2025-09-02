@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/8ded639e9398472694842e5107c5fb22/artifacts
+end_time: 1756739057037
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 8ded639e9398472694842e5107c5fb22
+run_name: industrious-lynx-418
+run_uuid: 8ded639e9398472694842e5107c5fb22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739044437
+status: 3
+tags: []
+user_id: pedroasvalente

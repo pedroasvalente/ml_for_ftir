@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/815d7fc9ae9a4fa3be122c1a047981db/artifacts
+end_time: 1756716873179
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 815d7fc9ae9a4fa3be122c1a047981db
+run_name: worried-toad-59
+run_uuid: 815d7fc9ae9a4fa3be122c1a047981db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716860881
+status: 3
+tags: []
+user_id: pedroasvalente

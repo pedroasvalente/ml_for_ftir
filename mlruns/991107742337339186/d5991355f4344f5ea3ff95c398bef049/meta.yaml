@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/d5991355f4344f5ea3ff95c398bef049/artifacts
+end_time: 1756739057037
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: d5991355f4344f5ea3ff95c398bef049
+run_name: gifted-ox-21
+run_uuid: d5991355f4344f5ea3ff95c398bef049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739044437
+status: 3
+tags: []
+user_id: pedroasvalente

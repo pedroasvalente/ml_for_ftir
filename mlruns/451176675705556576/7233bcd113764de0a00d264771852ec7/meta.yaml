@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/7233bcd113764de0a00d264771852ec7/artifacts
+end_time: 1756717357653
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 7233bcd113764de0a00d264771852ec7
+run_name: funny-finch-906
+run_uuid: 7233bcd113764de0a00d264771852ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717354180
+status: 3
+tags: []
+user_id: pedroasvalente

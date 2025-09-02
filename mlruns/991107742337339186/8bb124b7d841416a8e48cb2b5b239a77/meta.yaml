@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/8bb124b7d841416a8e48cb2b5b239a77/artifacts
+end_time: 1756739292182
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 8bb124b7d841416a8e48cb2b5b239a77
+run_name: thoughtful-shad-590
+run_uuid: 8bb124b7d841416a8e48cb2b5b239a77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739279412
+status: 3
+tags: []
+user_id: pedroasvalente

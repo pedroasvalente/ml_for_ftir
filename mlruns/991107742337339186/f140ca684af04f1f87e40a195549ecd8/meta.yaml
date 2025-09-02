@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/f140ca684af04f1f87e40a195549ecd8/artifacts
+end_time: 1756738882305
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: f140ca684af04f1f87e40a195549ecd8
+run_name: fearless-kit-152
+run_uuid: f140ca684af04f1f87e40a195549ecd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738853249
+status: 3
+tags: []
+user_id: pedroasvalente

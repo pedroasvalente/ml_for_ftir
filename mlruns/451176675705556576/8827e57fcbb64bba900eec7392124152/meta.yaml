@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/8827e57fcbb64bba900eec7392124152/artifacts
+end_time: 1756717081998
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 8827e57fcbb64bba900eec7392124152
+run_name: abrasive-asp-923
+run_uuid: 8827e57fcbb64bba900eec7392124152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717058068
+status: 3
+tags: []
+user_id: pedroasvalente

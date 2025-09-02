@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/c67cbc379da7459d859296622a734da7/artifacts
+end_time: 1756740457120
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: c67cbc379da7459d859296622a734da7
+run_name: suave-hen-91
+run_uuid: c67cbc379da7459d859296622a734da7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756740337919
+status: 3
+tags: []
+user_id: pedroasvalente

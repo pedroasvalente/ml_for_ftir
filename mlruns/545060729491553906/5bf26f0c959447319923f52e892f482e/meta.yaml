@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/5bf26f0c959447319923f52e892f482e/artifacts
+end_time: 1756727675477
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 5bf26f0c959447319923f52e892f482e
+run_name: calm-chimp-819
+run_uuid: 5bf26f0c959447319923f52e892f482e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727663807
+status: 3
+tags: []
+user_id: pedroasvalente

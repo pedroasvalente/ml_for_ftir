@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/03f76fd217054767b588d6795c19124d/artifacts
+end_time: 1756738586558
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 03f76fd217054767b588d6795c19124d
+run_name: learned-owl-994
+run_uuid: 03f76fd217054767b588d6795c19124d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738561541
+status: 3
+tags: []
+user_id: pedroasvalente

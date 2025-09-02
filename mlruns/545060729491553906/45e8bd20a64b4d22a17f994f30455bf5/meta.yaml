@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/45e8bd20a64b4d22a17f994f30455bf5/artifacts
+end_time: 1756728487587
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 45e8bd20a64b4d22a17f994f30455bf5
+run_name: enchanting-fish-516
+run_uuid: 45e8bd20a64b4d22a17f994f30455bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728455802
+status: 3
+tags: []
+user_id: pedroasvalente

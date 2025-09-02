@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/5b1c79d01f2c437aaf2faa25a6e81b77/artifacts
+end_time: 1756716259550
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 5b1c79d01f2c437aaf2faa25a6e81b77
+run_name: mercurial-carp-596
+run_uuid: 5b1c79d01f2c437aaf2faa25a6e81b77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716236552
+status: 3
+tags: []
+user_id: pedroasvalente

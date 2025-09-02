@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/ef5deb1d54d5401285e7dd7ae19385a3/artifacts
+end_time: 1756739717539
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: ef5deb1d54d5401285e7dd7ae19385a3
+run_name: nervous-owl-218
+run_uuid: ef5deb1d54d5401285e7dd7ae19385a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739695061
+status: 3
+tags: []
+user_id: pedroasvalente

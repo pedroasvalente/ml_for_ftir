@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/e1bd3da85ae143dda21cdbedb1f98125/artifacts
+end_time: 1756739889924
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: e1bd3da85ae143dda21cdbedb1f98125
+run_name: salty-shrew-554
+run_uuid: e1bd3da85ae143dda21cdbedb1f98125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739878473
+status: 3
+tags: []
+user_id: pedroasvalente

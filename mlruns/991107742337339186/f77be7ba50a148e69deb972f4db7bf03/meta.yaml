@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/f77be7ba50a148e69deb972f4db7bf03/artifacts
+end_time: 1756738734220
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: f77be7ba50a148e69deb972f4db7bf03
+run_name: redolent-dog-558
+run_uuid: f77be7ba50a148e69deb972f4db7bf03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738715044
+status: 3
+tags: []
+user_id: pedroasvalente

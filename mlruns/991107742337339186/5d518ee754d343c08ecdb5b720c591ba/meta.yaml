@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/5d518ee754d343c08ecdb5b720c591ba/artifacts
+end_time: 1756739873287
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 5d518ee754d343c08ecdb5b720c591ba
+run_name: exultant-bear-118
+run_uuid: 5d518ee754d343c08ecdb5b720c591ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739774877
+status: 3
+tags: []
+user_id: pedroasvalente

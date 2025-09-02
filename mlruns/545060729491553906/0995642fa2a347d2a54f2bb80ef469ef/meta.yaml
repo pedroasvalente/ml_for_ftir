@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/0995642fa2a347d2a54f2bb80ef469ef/artifacts
+end_time: 1756728012157
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 0995642fa2a347d2a54f2bb80ef469ef
+run_name: luxuriant-crab-87
+run_uuid: 0995642fa2a347d2a54f2bb80ef469ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727999742
+status: 3
+tags: []
+user_id: pedroasvalente

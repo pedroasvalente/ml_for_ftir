@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/b974208a56994947852875061749adba/artifacts
+end_time: 1756717081998
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: b974208a56994947852875061749adba
+run_name: charming-shrew-913
+run_uuid: b974208a56994947852875061749adba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717058068
+status: 3
+tags: []
+user_id: pedroasvalente

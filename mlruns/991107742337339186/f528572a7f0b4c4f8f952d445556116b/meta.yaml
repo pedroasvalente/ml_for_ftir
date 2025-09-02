@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/f528572a7f0b4c4f8f952d445556116b/artifacts
+end_time: 1756739275467
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: f528572a7f0b4c4f8f952d445556116b
+run_name: chill-chimp-600
+run_uuid: f528572a7f0b4c4f8f952d445556116b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739250130
+status: 3
+tags: []
+user_id: pedroasvalente

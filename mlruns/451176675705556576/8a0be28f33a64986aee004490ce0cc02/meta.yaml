@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/8a0be28f33a64986aee004490ce0cc02/artifacts
+end_time: 1756717037701
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 8a0be28f33a64986aee004490ce0cc02
+run_name: amazing-shrew-33
+run_uuid: 8a0be28f33a64986aee004490ce0cc02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717009605
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/d7be04eca69343f8854b44608db49c64/artifacts
+end_time: 1756716944892
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: d7be04eca69343f8854b44608db49c64
+run_name: dashing-fox-51
+run_uuid: d7be04eca69343f8854b44608db49c64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716919912
+status: 3
+tags: []
+user_id: pedroasvalente

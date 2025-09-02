@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/bf08d8aad32c4f5ba4c5ed874d5d0d2e/artifacts
+end_time: 1756718314380
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: bf08d8aad32c4f5ba4c5ed874d5d0d2e
+run_name: grandiose-flea-756
+run_uuid: bf08d8aad32c4f5ba4c5ed874d5d0d2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718303182
+status: 3
+tags: []
+user_id: pedroasvalente

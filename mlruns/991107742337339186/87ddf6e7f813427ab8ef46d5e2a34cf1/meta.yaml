@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/87ddf6e7f813427ab8ef46d5e2a34cf1/artifacts
+end_time: 1756739245844
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 87ddf6e7f813427ab8ef46d5e2a34cf1
+run_name: unruly-dog-944
+run_uuid: 87ddf6e7f813427ab8ef46d5e2a34cf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739233632
+status: 3
+tags: []
+user_id: pedroasvalente

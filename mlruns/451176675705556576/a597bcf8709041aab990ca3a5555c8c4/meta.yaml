@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/a597bcf8709041aab990ca3a5555c8c4/artifacts
+end_time: 1756717187716
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: a597bcf8709041aab990ca3a5555c8c4
+run_name: colorful-rat-999
+run_uuid: a597bcf8709041aab990ca3a5555c8c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717174504
+status: 3
+tags: []
+user_id: pedroasvalente

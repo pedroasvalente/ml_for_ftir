@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/cde96e5360604d4599897d481b56e906/artifacts
+end_time: 1756729111370
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: cde96e5360604d4599897d481b56e906
+run_name: polite-shrew-834
+run_uuid: cde96e5360604d4599897d481b56e906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756729099553
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/665c6f6223074cbd827eadebe95e7b24/artifacts
+end_time: 1756727638788
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 665c6f6223074cbd827eadebe95e7b24
+run_name: bald-fish-380
+run_uuid: 665c6f6223074cbd827eadebe95e7b24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727598237
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/8e48d569e6224edabdc5c30dfe37a04a/artifacts
+end_time: 1756728953348
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 8e48d569e6224edabdc5c30dfe37a04a
+run_name: merciful-sloth-567
+run_uuid: 8e48d569e6224edabdc5c30dfe37a04a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728941696
+status: 3
+tags: []
+user_id: pedroasvalente

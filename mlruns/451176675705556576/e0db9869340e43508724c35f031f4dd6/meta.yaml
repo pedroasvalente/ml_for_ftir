@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/e0db9869340e43508724c35f031f4dd6/artifacts
+end_time: 1756717458919
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: e0db9869340e43508724c35f031f4dd6
+run_name: nebulous-shrike-63
+run_uuid: e0db9869340e43508724c35f031f4dd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717437409
+status: 3
+tags: []
+user_id: pedroasvalente

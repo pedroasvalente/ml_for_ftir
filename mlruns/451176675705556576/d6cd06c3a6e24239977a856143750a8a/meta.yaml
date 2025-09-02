@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/d6cd06c3a6e24239977a856143750a8a/artifacts
+end_time: 1756717291556
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: d6cd06c3a6e24239977a856143750a8a
+run_name: placid-shrew-720
+run_uuid: d6cd06c3a6e24239977a856143750a8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717287978
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/d3a902f6d4af473abe70368a401b5fef/artifacts
+end_time: 1756739769946
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: d3a902f6d4af473abe70368a401b5fef
+run_name: adventurous-trout-6
+run_uuid: d3a902f6d4af473abe70368a401b5fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739758388
+status: 3
+tags: []
+user_id: pedroasvalente

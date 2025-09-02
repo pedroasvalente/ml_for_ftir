@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/898dce9e5ac1466f82399368ab697a63/artifacts
+end_time: 1756739292182
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 898dce9e5ac1466f82399368ab697a63
+run_name: upset-whale-298
+run_uuid: 898dce9e5ac1466f82399368ab697a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739279412
+status: 3
+tags: []
+user_id: pedroasvalente

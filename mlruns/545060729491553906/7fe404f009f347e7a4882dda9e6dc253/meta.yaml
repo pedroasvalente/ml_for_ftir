@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/7fe404f009f347e7a4882dda9e6dc253/artifacts
+end_time: 1756728253001
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 7fe404f009f347e7a4882dda9e6dc253
+run_name: bemused-fawn-411
+run_uuid: 7fe404f009f347e7a4882dda9e6dc253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728249591
+status: 3
+tags: []
+user_id: pedroasvalente

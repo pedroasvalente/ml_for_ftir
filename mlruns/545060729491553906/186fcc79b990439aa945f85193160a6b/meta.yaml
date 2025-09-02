@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/186fcc79b990439aa945f85193160a6b/artifacts
+end_time: 1756728285273
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 186fcc79b990439aa945f85193160a6b
+run_name: luminous-snake-199
+run_uuid: 186fcc79b990439aa945f85193160a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728256798
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/c7d46dd24dcb494c9b1a3d13677c961b/artifacts
+end_time: 1756738360227
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: c7d46dd24dcb494c9b1a3d13677c961b
+run_name: orderly-turtle-179
+run_uuid: c7d46dd24dcb494c9b1a3d13677c961b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738281013
+status: 3
+tags: []
+user_id: pedroasvalente

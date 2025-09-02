@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/41234984a34549d69df31a780f03c6c2/artifacts
+end_time: 1756718006954
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 41234984a34549d69df31a780f03c6c2
+run_name: unleashed-seal-464
+run_uuid: 41234984a34549d69df31a780f03c6c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717995441
+status: 3
+tags: []
+user_id: pedroasvalente

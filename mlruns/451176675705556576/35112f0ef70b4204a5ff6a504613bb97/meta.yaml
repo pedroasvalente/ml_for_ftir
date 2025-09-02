@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/35112f0ef70b4204a5ff6a504613bb97/artifacts
+end_time: 1756717316363
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 35112f0ef70b4204a5ff6a504613bb97
+run_name: sedate-grub-148
+run_uuid: 35112f0ef70b4204a5ff6a504613bb97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717295142
+status: 3
+tags: []
+user_id: pedroasvalente

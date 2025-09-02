@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/da0e8d4a304e48199b4c59c16ed68652/artifacts
+end_time: 1756738882305
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: da0e8d4a304e48199b4c59c16ed68652
+run_name: awesome-eel-137
+run_uuid: da0e8d4a304e48199b4c59c16ed68652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756738853249
+status: 3
+tags: []
+user_id: pedroasvalente

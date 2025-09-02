@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/579fc574562a46788edd7730ea48f984/artifacts
+end_time: 1756727344811
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 579fc574562a46788edd7730ea48f984
+run_name: adorable-grub-93
+run_uuid: 579fc574562a46788edd7730ea48f984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756727327206
+status: 3
+tags: []
+user_id: pedroasvalente

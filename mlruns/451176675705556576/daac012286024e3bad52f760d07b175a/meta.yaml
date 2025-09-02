@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/daac012286024e3bad52f760d07b175a/artifacts
+end_time: 1756716508164
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: daac012286024e3bad52f760d07b175a
+run_name: mysterious-gull-455
+run_uuid: daac012286024e3bad52f760d07b175a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756716488416
+status: 3
+tags: []
+user_id: pedroasvalente

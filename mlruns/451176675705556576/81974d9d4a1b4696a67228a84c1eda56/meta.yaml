@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/81974d9d4a1b4696a67228a84c1eda56/artifacts
+end_time: 1756717990058
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 81974d9d4a1b4696a67228a84c1eda56
+run_name: monumental-shad-885
+run_uuid: 81974d9d4a1b4696a67228a84c1eda56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717858392
+status: 3
+tags: []
+user_id: pedroasvalente

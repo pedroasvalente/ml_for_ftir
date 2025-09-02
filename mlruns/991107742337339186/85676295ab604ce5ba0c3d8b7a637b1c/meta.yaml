@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991107742337339186/85676295ab604ce5ba0c3d8b7a637b1c/artifacts
+end_time: 1756739717539
+entry_point_name: ''
+experiment_id: '991107742337339186'
+lifecycle_stage: active
+run_id: 85676295ab604ce5ba0c3d8b7a637b1c
+run_name: casual-steed-801
+run_uuid: 85676295ab604ce5ba0c3d8b7a637b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756739695061
+status: 3
+tags: []
+user_id: pedroasvalente

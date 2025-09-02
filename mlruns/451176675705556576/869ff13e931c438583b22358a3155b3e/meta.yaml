@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/869ff13e931c438583b22358a3155b3e/artifacts
+end_time: 1756718314380
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: 869ff13e931c438583b22358a3155b3e
+run_name: sedate-mule-929
+run_uuid: 869ff13e931c438583b22358a3155b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718303182
+status: 3
+tags: []
+user_id: pedroasvalente

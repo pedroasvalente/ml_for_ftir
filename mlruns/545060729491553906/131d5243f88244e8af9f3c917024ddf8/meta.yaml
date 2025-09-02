@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/545060729491553906/131d5243f88244e8af9f3c917024ddf8/artifacts
+end_time: 1756728331645
+entry_point_name: ''
+experiment_id: '545060729491553906'
+lifecycle_stage: active
+run_id: 131d5243f88244e8af9f3c917024ddf8
+run_name: bedecked-moth-656
+run_uuid: 131d5243f88244e8af9f3c917024ddf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756728327647
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451176675705556576/e3e15a9f9203490d8fe8686437a39fc7/artifacts
+end_time: 1756717291556
+entry_point_name: ''
+experiment_id: '451176675705556576'
+lifecycle_stage: active
+run_id: e3e15a9f9203490d8fe8686437a39fc7
+run_name: welcoming-eel-362
+run_uuid: e3e15a9f9203490d8fe8686437a39fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756717287978
+status: 3
+tags: []
+user_id: pedroasvalente
