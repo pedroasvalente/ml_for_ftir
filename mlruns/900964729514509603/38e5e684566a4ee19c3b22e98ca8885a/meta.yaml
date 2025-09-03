@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/38e5e684566a4ee19c3b22e98ca8885a/artifacts
+end_time: 1756822211836
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 38e5e684566a4ee19c3b22e98ca8885a
+run_name: unequaled-tern-282
+run_uuid: 38e5e684566a4ee19c3b22e98ca8885a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822198416
+status: 3
+tags: []
+user_id: pedroasvalente

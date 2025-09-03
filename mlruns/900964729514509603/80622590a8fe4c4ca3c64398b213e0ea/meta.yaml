@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/80622590a8fe4c4ca3c64398b213e0ea/artifacts
+end_time: 1756822249490
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 80622590a8fe4c4ca3c64398b213e0ea
+run_name: wise-skink-714
+run_uuid: 80622590a8fe4c4ca3c64398b213e0ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822245962
+status: 3
+tags: []
+user_id: pedroasvalente

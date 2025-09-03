@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/140ba890450140a9b9539ae89c8994dd/artifacts
+end_time: 1756822055598
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 140ba890450140a9b9539ae89c8994dd
+run_name: luxuriant-sheep-166
+run_uuid: 140ba890450140a9b9539ae89c8994dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822029812
+status: 3
+tags: []
+user_id: pedroasvalente

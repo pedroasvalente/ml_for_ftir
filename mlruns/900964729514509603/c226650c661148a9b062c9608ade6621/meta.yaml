@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/c226650c661148a9b062c9608ade6621/artifacts
+end_time: 1756822286508
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: c226650c661148a9b062c9608ade6621
+run_name: delicate-zebra-102
+run_uuid: c226650c661148a9b062c9608ade6621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822282701
+status: 3
+tags: []
+user_id: pedroasvalente

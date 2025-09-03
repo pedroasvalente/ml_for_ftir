@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/2fc1fff0ea1c466bbd57bd5bf6e5769b/artifacts
+end_time: 1756822009285
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 2fc1fff0ea1c466bbd57bd5bf6e5769b
+run_name: clean-grouse-673
+run_uuid: 2fc1fff0ea1c466bbd57bd5bf6e5769b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821983434
+status: 3
+tags: []
+user_id: pedroasvalente

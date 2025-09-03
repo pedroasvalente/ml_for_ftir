@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/e30ed23d0b2d4ad89efd4b0c60102d4c/artifacts
+end_time: 1756822071915
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: e30ed23d0b2d4ad89efd4b0c60102d4c
+run_name: fortunate-sloth-311
+run_uuid: e30ed23d0b2d4ad89efd4b0c60102d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822059857
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/faffd9962b704dc0a4eb4035b708c82a/artifacts
+end_time: 1756821202338
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: faffd9962b704dc0a4eb4035b708c82a
+run_name: bemused-hare-101
+run_uuid: faffd9962b704dc0a4eb4035b708c82a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821145729
+status: 3
+tags: []
+user_id: pedroasvalente

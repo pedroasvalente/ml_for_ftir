@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/02d683eea87547c9829fbe1a4745a31f/artifacts
+end_time: 1756821235087
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 02d683eea87547c9829fbe1a4745a31f
+run_name: victorious-fish-854
+run_uuid: 02d683eea87547c9829fbe1a4745a31f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821206791
+status: 3
+tags: []
+user_id: pedroasvalente

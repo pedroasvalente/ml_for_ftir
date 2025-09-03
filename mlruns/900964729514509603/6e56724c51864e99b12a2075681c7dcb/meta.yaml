@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/6e56724c51864e99b12a2075681c7dcb/artifacts
+end_time: 1756821106121
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 6e56724c51864e99b12a2075681c7dcb
+run_name: grandiose-pig-936
+run_uuid: 6e56724c51864e99b12a2075681c7dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821082024
+status: 3
+tags: []
+user_id: pedroasvalente

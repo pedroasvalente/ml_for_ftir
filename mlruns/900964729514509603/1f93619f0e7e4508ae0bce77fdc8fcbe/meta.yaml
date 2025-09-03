@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/1f93619f0e7e4508ae0bce77fdc8fcbe/artifacts
+end_time: 1756824045217
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 1f93619f0e7e4508ae0bce77fdc8fcbe
+run_name: GridSearchCV
+run_uuid: 1f93619f0e7e4508ae0bce77fdc8fcbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821608804
+status: 3
+tags: []
+user_id: pedroasvalente

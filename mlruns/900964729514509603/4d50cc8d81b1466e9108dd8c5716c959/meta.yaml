@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/4d50cc8d81b1466e9108dd8c5716c959/artifacts
+end_time: 1756821474512
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 4d50cc8d81b1466e9108dd8c5716c959
+run_name: bedecked-hound-500
+run_uuid: 4d50cc8d81b1466e9108dd8c5716c959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821447361
+status: 3
+tags: []
+user_id: pedroasvalente

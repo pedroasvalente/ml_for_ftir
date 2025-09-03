@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/52ce7bc19c3e4322b7fb5e04874e0caf/artifacts
+end_time: 1756820987789
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 52ce7bc19c3e4322b7fb5e04874e0caf
+run_name: unleashed-goat-84
+run_uuid: 52ce7bc19c3e4322b7fb5e04874e0caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756820958392
+status: 3
+tags: []
+user_id: pedroasvalente

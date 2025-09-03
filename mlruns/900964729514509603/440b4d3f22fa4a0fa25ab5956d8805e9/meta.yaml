@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/440b4d3f22fa4a0fa25ab5956d8805e9/artifacts
+end_time: 1756822575219
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 440b4d3f22fa4a0fa25ab5956d8805e9
+run_name: fearless-doe-211
+run_uuid: 440b4d3f22fa4a0fa25ab5956d8805e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822552585
+status: 3
+tags: []
+user_id: pedroasvalente

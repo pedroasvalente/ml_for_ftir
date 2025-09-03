@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/d52dc8d740f64be49d33f1289998fb95/artifacts
+end_time: 1756821047972
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: d52dc8d740f64be49d33f1289998fb95
+run_name: intelligent-ray-793
+run_uuid: d52dc8d740f64be49d33f1289998fb95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756820989964
+status: 3
+tags: []
+user_id: pedroasvalente

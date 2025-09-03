@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/f920f03e81e64f34b3ecb4936f92679a/artifacts
+end_time: 1756822211836
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: f920f03e81e64f34b3ecb4936f92679a
+run_name: righteous-crane-621
+run_uuid: f920f03e81e64f34b3ecb4936f92679a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822198416
+status: 3
+tags: []
+user_id: pedroasvalente

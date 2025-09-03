@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/8d5bc249b32940078ab4ea9a5c8d4054/artifacts
+end_time: 1756822118456
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 8d5bc249b32940078ab4ea9a5c8d4054
+run_name: gregarious-calf-179
+run_uuid: 8d5bc249b32940078ab4ea9a5c8d4054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822105791
+status: 3
+tags: []
+user_id: pedroasvalente

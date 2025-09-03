@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/672c52eb6d684a189de840994179b0ce/artifacts
+end_time: 1756822118456
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 672c52eb6d684a189de840994179b0ce
+run_name: rebellious-flea-881
+run_uuid: 672c52eb6d684a189de840994179b0ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822105791
+status: 3
+tags: []
+user_id: pedroasvalente

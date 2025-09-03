@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/cd29479fc3ee46b1b7ee5a5a578ae752/artifacts
+end_time: 1756821979830
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: cd29479fc3ee46b1b7ee5a5a578ae752
+run_name: clumsy-smelt-638
+run_uuid: cd29479fc3ee46b1b7ee5a5a578ae752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821966862
+status: 3
+tags: []
+user_id: pedroasvalente

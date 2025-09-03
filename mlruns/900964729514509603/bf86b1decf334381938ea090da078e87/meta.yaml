@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/bf86b1decf334381938ea090da078e87/artifacts
+end_time: 1756821714203
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: bf86b1decf334381938ea090da078e87
+run_name: gaudy-fish-743
+run_uuid: bf86b1decf334381938ea090da078e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821642349
+status: 3
+tags: []
+user_id: pedroasvalente

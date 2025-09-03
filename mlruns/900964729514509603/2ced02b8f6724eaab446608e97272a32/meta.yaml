@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/2ced02b8f6724eaab446608e97272a32/artifacts
+end_time: 1756822025772
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 2ced02b8f6724eaab446608e97272a32
+run_name: wise-cub-908
+run_uuid: 2ced02b8f6724eaab446608e97272a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822013205
+status: 3
+tags: []
+user_id: pedroasvalente

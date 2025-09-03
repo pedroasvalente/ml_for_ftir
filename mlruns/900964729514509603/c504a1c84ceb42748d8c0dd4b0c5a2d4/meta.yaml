@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/c504a1c84ceb42748d8c0dd4b0c5a2d4/artifacts
+end_time: 1756822009285
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: c504a1c84ceb42748d8c0dd4b0c5a2d4
+run_name: blushing-sheep-133
+run_uuid: c504a1c84ceb42748d8c0dd4b0c5a2d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821983434
+status: 3
+tags: []
+user_id: pedroasvalente

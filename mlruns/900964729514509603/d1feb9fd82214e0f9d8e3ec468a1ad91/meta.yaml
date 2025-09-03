@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/d1feb9fd82214e0f9d8e3ec468a1ad91/artifacts
+end_time: 1756822211836
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: d1feb9fd82214e0f9d8e3ec468a1ad91
+run_name: blushing-ape-15
+run_uuid: d1feb9fd82214e0f9d8e3ec468a1ad91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822198416
+status: 3
+tags: []
+user_id: pedroasvalente

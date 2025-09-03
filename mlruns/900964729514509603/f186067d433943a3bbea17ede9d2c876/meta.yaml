@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/f186067d433943a3bbea17ede9d2c876/artifacts
+end_time: 1756822439350
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: f186067d433943a3bbea17ede9d2c876
+run_name: worried-sow-589
+run_uuid: f186067d433943a3bbea17ede9d2c876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822435641
+status: 3
+tags: []
+user_id: pedroasvalente

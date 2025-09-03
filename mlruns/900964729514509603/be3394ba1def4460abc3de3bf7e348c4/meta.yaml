@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/be3394ba1def4460abc3de3bf7e348c4/artifacts
+end_time: 1756822118456
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: be3394ba1def4460abc3de3bf7e348c4
+run_name: bittersweet-hound-78
+run_uuid: be3394ba1def4460abc3de3bf7e348c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822105791
+status: 3
+tags: []
+user_id: pedroasvalente

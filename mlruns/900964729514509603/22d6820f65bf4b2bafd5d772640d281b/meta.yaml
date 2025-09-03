@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/22d6820f65bf4b2bafd5d772640d281b/artifacts
+end_time: 1756822439350
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 22d6820f65bf4b2bafd5d772640d281b
+run_name: skittish-smelt-618
+run_uuid: 22d6820f65bf4b2bafd5d772640d281b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822435641
+status: 3
+tags: []
+user_id: pedroasvalente

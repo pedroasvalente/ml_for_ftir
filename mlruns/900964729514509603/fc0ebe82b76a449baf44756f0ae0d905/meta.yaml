@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/fc0ebe82b76a449baf44756f0ae0d905/artifacts
+end_time: 1756822727314
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: fc0ebe82b76a449baf44756f0ae0d905
+run_name: merciful-colt-500
+run_uuid: fc0ebe82b76a449baf44756f0ae0d905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822631655
+status: 3
+tags: []
+user_id: pedroasvalente

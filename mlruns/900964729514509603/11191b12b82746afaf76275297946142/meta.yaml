@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/11191b12b82746afaf76275297946142/artifacts
+end_time: 1756822880532
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 11191b12b82746afaf76275297946142
+run_name: hilarious-quail-681
+run_uuid: 11191b12b82746afaf76275297946142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822869170
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/a7d323f17a0e4ec38ba7f1f29df55d90/artifacts
+end_time: 1756821540313
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: a7d323f17a0e4ec38ba7f1f29df55d90
+run_name: clumsy-bass-892
+run_uuid: a7d323f17a0e4ec38ba7f1f29df55d90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821477072
+status: 3
+tags: []
+user_id: pedroasvalente

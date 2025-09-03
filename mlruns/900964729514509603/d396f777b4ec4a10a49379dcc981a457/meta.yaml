@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/d396f777b4ec4a10a49379dcc981a457/artifacts
+end_time: 1756822278454
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: d396f777b4ec4a10a49379dcc981a457
+run_name: big-shrike-899
+run_uuid: d396f777b4ec4a10a49379dcc981a457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822253248
+status: 3
+tags: []
+user_id: pedroasvalente

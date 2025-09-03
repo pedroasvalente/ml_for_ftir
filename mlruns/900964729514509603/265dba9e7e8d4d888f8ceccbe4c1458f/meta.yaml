@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/265dba9e7e8d4d888f8ceccbe4c1458f/artifacts
+end_time: 1756821800403
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 265dba9e7e8d4d888f8ceccbe4c1458f
+run_name: lyrical-ape-885
+run_uuid: 265dba9e7e8d4d888f8ceccbe4c1458f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821788565
+status: 3
+tags: []
+user_id: pedroasvalente

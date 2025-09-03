@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/e144612cd0dd4f5abae9b3ed169178ae/artifacts
+end_time: 1756822241952
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: e144612cd0dd4f5abae9b3ed169178ae
+run_name: overjoyed-bass-242
+run_uuid: e144612cd0dd4f5abae9b3ed169178ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822216615
+status: 3
+tags: []
+user_id: pedroasvalente

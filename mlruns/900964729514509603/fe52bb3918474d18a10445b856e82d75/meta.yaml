@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/fe52bb3918474d18a10445b856e82d75/artifacts
+end_time: 1756822477379
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: fe52bb3918474d18a10445b856e82d75
+run_name: overjoyed-hare-127
+run_uuid: fe52bb3918474d18a10445b856e82d75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822473939
+status: 3
+tags: []
+user_id: pedroasvalente

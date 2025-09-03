@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/0067d4d9b02644e594effbfe5a10ea08/artifacts
+end_time: 1756822727314
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 0067d4d9b02644e594effbfe5a10ea08
+run_name: rogue-horse-503
+run_uuid: 0067d4d9b02644e594effbfe5a10ea08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822631655
+status: 3
+tags: []
+user_id: pedroasvalente

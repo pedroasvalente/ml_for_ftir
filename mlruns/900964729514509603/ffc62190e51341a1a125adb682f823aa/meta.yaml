@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/ffc62190e51341a1a125adb682f823aa/artifacts
+end_time: 1756821963366
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: ffc62190e51341a1a125adb682f823aa
+run_name: dazzling-rook-684
+run_uuid: ffc62190e51341a1a125adb682f823aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821936778
+status: 3
+tags: []
+user_id: pedroasvalente

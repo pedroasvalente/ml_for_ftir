@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/a35b68fdfded4f65859e5f8d149a92ba/artifacts
+end_time: 1756821714203
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: a35b68fdfded4f65859e5f8d149a92ba
+run_name: charming-duck-11
+run_uuid: a35b68fdfded4f65859e5f8d149a92ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821642349
+status: 3
+tags: []
+user_id: pedroasvalente

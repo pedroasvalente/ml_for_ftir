@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/b6d708b394394017980f9b36ce7af8ae/artifacts
+end_time: 1756822511937
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: b6d708b394394017980f9b36ce7af8ae
+run_name: youthful-duck-463
+run_uuid: b6d708b394394017980f9b36ce7af8ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822508564
+status: 3
+tags: []
+user_id: pedroasvalente

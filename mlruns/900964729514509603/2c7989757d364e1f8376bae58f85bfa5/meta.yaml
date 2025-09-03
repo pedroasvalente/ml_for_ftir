@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/2c7989757d364e1f8376bae58f85bfa5/artifacts
+end_time: 1756822863755
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 2c7989757d364e1f8376bae58f85bfa5
+run_name: shivering-sheep-964
+run_uuid: 2c7989757d364e1f8376bae58f85bfa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822748696
+status: 3
+tags: []
+user_id: pedroasvalente

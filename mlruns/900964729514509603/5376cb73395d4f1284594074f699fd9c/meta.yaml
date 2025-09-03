@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/5376cb73395d4f1284594074f699fd9c/artifacts
+end_time: 1756822511937
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 5376cb73395d4f1284594074f699fd9c
+run_name: silent-goose-906
+run_uuid: 5376cb73395d4f1284594074f699fd9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822508564
+status: 3
+tags: []
+user_id: pedroasvalente

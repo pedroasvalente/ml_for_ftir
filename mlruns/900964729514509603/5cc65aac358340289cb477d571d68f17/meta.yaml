@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/5cc65aac358340289cb477d571d68f17/artifacts
+end_time: 1756822627420
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 5cc65aac358340289cb477d571d68f17
+run_name: gregarious-midge-72
+run_uuid: 5cc65aac358340289cb477d571d68f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822616582
+status: 3
+tags: []
+user_id: pedroasvalente

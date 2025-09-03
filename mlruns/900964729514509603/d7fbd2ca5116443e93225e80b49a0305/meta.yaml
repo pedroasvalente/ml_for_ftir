@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/d7fbd2ca5116443e93225e80b49a0305/artifacts
+end_time: 1756821714203
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: d7fbd2ca5116443e93225e80b49a0305
+run_name: upset-horse-388
+run_uuid: d7fbd2ca5116443e93225e80b49a0305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821642349
+status: 3
+tags: []
+user_id: pedroasvalente

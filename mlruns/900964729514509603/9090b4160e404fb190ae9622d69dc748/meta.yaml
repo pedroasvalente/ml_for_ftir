@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/9090b4160e404fb190ae9622d69dc748/artifacts
+end_time: 1756822863755
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 9090b4160e404fb190ae9622d69dc748
+run_name: delightful-shoat-427
+run_uuid: 9090b4160e404fb190ae9622d69dc748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822748696
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/2694f0c5d0e747fb950a463b9cbf3a18/artifacts
+end_time: 1756822394508
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 2694f0c5d0e747fb950a463b9cbf3a18
+run_name: gregarious-crane-436
+run_uuid: 2694f0c5d0e747fb950a463b9cbf3a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822366775
+status: 3
+tags: []
+user_id: pedroasvalente

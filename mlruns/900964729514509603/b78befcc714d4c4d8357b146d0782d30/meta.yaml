@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/b78befcc714d4c4d8357b146d0782d30/artifacts
+end_time: 1756823335146
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: b78befcc714d4c4d8357b146d0782d30
+run_name: colorful-shad-310
+run_uuid: b78befcc714d4c4d8357b146d0782d30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756823323740
+status: 3
+tags: []
+user_id: pedroasvalente

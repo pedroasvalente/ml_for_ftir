@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/5b1ccd2564e24789bba9e29eaac65e22/artifacts
+end_time: 1756821714203
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 5b1ccd2564e24789bba9e29eaac65e22
+run_name: bouncy-chimp-68
+run_uuid: 5b1ccd2564e24789bba9e29eaac65e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821642349
+status: 3
+tags: []
+user_id: pedroasvalente

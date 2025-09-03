@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/8ad768e1a3234b94a52770adb06f9cf2/artifacts
+end_time: 1756821143436
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 8ad768e1a3234b94a52770adb06f9cf2
+run_name: bouncy-dog-586
+run_uuid: 8ad768e1a3234b94a52770adb06f9cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821114766
+status: 3
+tags: []
+user_id: pedroasvalente

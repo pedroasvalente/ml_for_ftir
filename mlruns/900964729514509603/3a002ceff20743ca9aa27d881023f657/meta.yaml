@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/3a002ceff20743ca9aa27d881023f657/artifacts
+end_time: 1756821474512
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 3a002ceff20743ca9aa27d881023f657
+run_name: handsome-bird-853
+run_uuid: 3a002ceff20743ca9aa27d881023f657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821447361
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/3a84de1b4ae449528ca4601d0aa0e477/artifacts
+end_time: 1756822743783
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 3a84de1b4ae449528ca4601d0aa0e477
+run_name: gifted-doe-669
+run_uuid: 3a84de1b4ae449528ca4601d0aa0e477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822732554
+status: 3
+tags: []
+user_id: pedroasvalente

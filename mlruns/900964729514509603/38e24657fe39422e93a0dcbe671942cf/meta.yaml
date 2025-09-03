@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/38e24657fe39422e93a0dcbe671942cf/artifacts
+end_time: 1756821827212
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 38e24657fe39422e93a0dcbe671942cf
+run_name: dashing-shrew-551
+run_uuid: 38e24657fe39422e93a0dcbe671942cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756821803725
+status: 3
+tags: []
+user_id: pedroasvalente

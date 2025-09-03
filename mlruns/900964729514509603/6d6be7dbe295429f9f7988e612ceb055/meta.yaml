@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/6d6be7dbe295429f9f7988e612ceb055/artifacts
+end_time: 1756822147955
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 6d6be7dbe295429f9f7988e612ceb055
+run_name: suave-wasp-188
+run_uuid: 6d6be7dbe295429f9f7988e612ceb055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822122480
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/900964729514509603/349da60a641d4dae93cdaf65f1e9e3f9/artifacts
+end_time: 1756822055598
+entry_point_name: ''
+experiment_id: '900964729514509603'
+lifecycle_stage: active
+run_id: 349da60a641d4dae93cdaf65f1e9e3f9
+run_name: rumbling-fawn-397
+run_uuid: 349da60a641d4dae93cdaf65f1e9e3f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756822029812
+status: 3
+tags: []
+user_id: pedroasvalente
