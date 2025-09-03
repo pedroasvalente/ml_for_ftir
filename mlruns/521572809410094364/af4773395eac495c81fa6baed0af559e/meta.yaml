@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/af4773395eac495c81fa6baed0af559e/artifacts
+end_time: 1756886700820
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: af4773395eac495c81fa6baed0af559e
+run_name: rumbling-seal-873
+run_uuid: af4773395eac495c81fa6baed0af559e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886644317
+status: 3
+tags: []
+user_id: pedroasvalente

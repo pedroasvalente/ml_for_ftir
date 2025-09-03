@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/9d1214b0cec24bdf8a1e05af8e4f1451/artifacts
+end_time: 1756887490492
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 9d1214b0cec24bdf8a1e05af8e4f1451
+run_name: overjoyed-hawk-836
+run_uuid: 9d1214b0cec24bdf8a1e05af8e4f1451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887478225
+status: 3
+tags: []
+user_id: pedroasvalente

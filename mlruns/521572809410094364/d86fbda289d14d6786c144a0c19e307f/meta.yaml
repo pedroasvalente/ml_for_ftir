@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/d86fbda289d14d6786c144a0c19e307f/artifacts
+end_time: 1756887581202
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: d86fbda289d14d6786c144a0c19e307f
+run_name: kindly-shoat-364
+run_uuid: d86fbda289d14d6786c144a0c19e307f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887568876
+status: 3
+tags: []
+user_id: pedroasvalente

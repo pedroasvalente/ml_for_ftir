@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/fea4ed858480445e9e0b418444682583/artifacts
+end_time: 1756889034897
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: fea4ed858480445e9e0b418444682583
+run_name: mysterious-cow-520
+run_uuid: fea4ed858480445e9e0b418444682583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756889022252
+status: 3
+tags: []
+user_id: pedroasvalente

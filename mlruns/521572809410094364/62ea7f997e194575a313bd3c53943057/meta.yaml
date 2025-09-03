@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/62ea7f997e194575a313bd3c53943057/artifacts
+end_time: 1756888255845
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 62ea7f997e194575a313bd3c53943057
+run_name: unleashed-snake-762
+run_uuid: 62ea7f997e194575a313bd3c53943057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888133330
+status: 3
+tags: []
+user_id: pedroasvalente

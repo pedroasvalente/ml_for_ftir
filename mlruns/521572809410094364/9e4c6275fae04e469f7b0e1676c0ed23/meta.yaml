@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/9e4c6275fae04e469f7b0e1676c0ed23/artifacts
+end_time: 1756887400285
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 9e4c6275fae04e469f7b0e1676c0ed23
+run_name: suave-zebra-461
+run_uuid: 9e4c6275fae04e469f7b0e1676c0ed23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887387330
+status: 3
+tags: []
+user_id: pedroasvalente

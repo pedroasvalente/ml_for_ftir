@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/cb3b19b917c145a89543ce580aeb393e/artifacts
+end_time: 1756886840699
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: cb3b19b917c145a89543ce580aeb393e
+run_name: exultant-gnu-37
+run_uuid: cb3b19b917c145a89543ce580aeb393e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886817159
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/613261e7e3f54168a96cc1d57a07f0e4/artifacts
+end_time: 1756887730220
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 613261e7e3f54168a96cc1d57a07f0e4
+run_name: shivering-vole-388
+run_uuid: 613261e7e3f54168a96cc1d57a07f0e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887705012
+status: 3
+tags: []
+user_id: pedroasvalente

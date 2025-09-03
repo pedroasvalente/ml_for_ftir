@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/499f5759349949ef90b6faccdc87dde4/artifacts
+end_time: 1756887769042
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 499f5759349949ef90b6faccdc87dde4
+run_name: popular-moth-602
+run_uuid: 499f5759349949ef90b6faccdc87dde4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887742450
+status: 3
+tags: []
+user_id: pedroasvalente

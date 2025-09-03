@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/7218d572d39349bda8d0009eb54bd269/artifacts
+end_time: 1756888867953
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 7218d572d39349bda8d0009eb54bd269
+run_name: glamorous-fish-836
+run_uuid: 7218d572d39349bda8d0009eb54bd269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888725801
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/d9edff5c4c3e43179d80498266114666/artifacts
+end_time: 1756887964213
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: d9edff5c4c3e43179d80498266114666
+run_name: angry-dove-273
+run_uuid: d9edff5c4c3e43179d80498266114666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887960483
+status: 3
+tags: []
+user_id: pedroasvalente

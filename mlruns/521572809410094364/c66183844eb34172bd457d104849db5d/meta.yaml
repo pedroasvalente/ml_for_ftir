@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/c66183844eb34172bd457d104849db5d/artifacts
+end_time: 1756889015085
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: c66183844eb34172bd457d104849db5d
+run_name: skillful-turtle-79
+run_uuid: c66183844eb34172bd457d104849db5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888893328
+status: 3
+tags: []
+user_id: pedroasvalente

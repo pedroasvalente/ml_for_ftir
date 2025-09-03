@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/eb634c29349442abaa005218a1c76054/artifacts
+end_time: 1756888415175
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: eb634c29349442abaa005218a1c76054
+run_name: gaudy-hawk-812
+run_uuid: eb634c29349442abaa005218a1c76054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888404179
+status: 3
+tags: []
+user_id: pedroasvalente

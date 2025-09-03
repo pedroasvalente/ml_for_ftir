@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/cfd69efee3d2400e8bc05228fd860f1a/artifacts
+end_time: 1756896475383
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: cfd69efee3d2400e8bc05228fd860f1a
+run_name: experiment_linear_monocytes
+run_uuid: cfd69efee3d2400e8bc05228fd860f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886612302
+status: 3
+tags: []
+user_id: pedroasvalente

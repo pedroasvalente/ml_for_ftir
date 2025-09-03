@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/036ca485fa9a4069b66d4852ab05951d/artifacts
+end_time: 1756887536537
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 036ca485fa9a4069b66d4852ab05951d
+run_name: lyrical-wolf-250
+run_uuid: 036ca485fa9a4069b66d4852ab05951d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887524070
+status: 3
+tags: []
+user_id: pedroasvalente

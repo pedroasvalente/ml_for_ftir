@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/4b4b46f7e5064c438791ccdfcb2577af/artifacts
+end_time: 1756887917742
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 4b4b46f7e5064c438791ccdfcb2577af
+run_name: stylish-hare-774
+run_uuid: 4b4b46f7e5064c438791ccdfcb2577af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887891955
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/f66d46fadbde4b6b926b5399240f0a49/artifacts
+end_time: 1756888702970
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: f66d46fadbde4b6b926b5399240f0a49
+run_name: gaudy-chimp-567
+run_uuid: f66d46fadbde4b6b926b5399240f0a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888582305
+status: 3
+tags: []
+user_id: pedroasvalente

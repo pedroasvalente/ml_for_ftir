@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/7ff4362a64c3486db2499d4a109cef82/artifacts
+end_time: 1756886887344
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 7ff4362a64c3486db2499d4a109cef82
+run_name: enchanting-cub-380
+run_uuid: 7ff4362a64c3486db2499d4a109cef82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886863864
+status: 3
+tags: []
+user_id: pedroasvalente

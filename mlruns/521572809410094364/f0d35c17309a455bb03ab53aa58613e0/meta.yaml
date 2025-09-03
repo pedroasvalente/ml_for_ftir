@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/f0d35c17309a455bb03ab53aa58613e0/artifacts
+end_time: 1756888272741
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: f0d35c17309a455bb03ab53aa58613e0
+run_name: learned-stork-901
+run_uuid: f0d35c17309a455bb03ab53aa58613e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888261418
+status: 3
+tags: []
+user_id: pedroasvalente

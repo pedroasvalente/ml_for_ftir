@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/67e976fff3514829a23ba7a8c89c56de/artifacts
+end_time: 1756886813110
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 67e976fff3514829a23ba7a8c89c56de
+run_name: placid-cow-812
+run_uuid: 67e976fff3514829a23ba7a8c89c56de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886780710
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/64144cd05b3d4808a0a1b29a597dce3b/artifacts
+end_time: 1756887429605
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 64144cd05b3d4808a0a1b29a597dce3b
+run_name: abundant-kite-491
+run_uuid: 64144cd05b3d4808a0a1b29a597dce3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887404053
+status: 3
+tags: []
+user_id: pedroasvalente

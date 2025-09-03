@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/4532bd449d15485495983b897edba893/artifacts
+end_time: 1756887142236
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 4532bd449d15485495983b897edba893
+run_name: amusing-fish-30
+run_uuid: 4532bd449d15485495983b897edba893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887125648
+status: 3
+tags: []
+user_id: pedroasvalente

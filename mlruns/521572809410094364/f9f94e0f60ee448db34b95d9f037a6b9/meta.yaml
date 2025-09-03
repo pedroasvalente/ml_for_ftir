@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/f9f94e0f60ee448db34b95d9f037a6b9/artifacts
+end_time: 1756888558090
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: f9f94e0f60ee448db34b95d9f037a6b9
+run_name: upset-ram-59
+run_uuid: f9f94e0f60ee448db34b95d9f037a6b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888420568
+status: 3
+tags: []
+user_id: pedroasvalente

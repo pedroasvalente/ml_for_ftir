@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/64c86251115c4ef19225c3abfba200fe/artifacts
+end_time: 1756887536537
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 64c86251115c4ef19225c3abfba200fe
+run_name: spiffy-newt-847
+run_uuid: 64c86251115c4ef19225c3abfba200fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887524070
+status: 3
+tags: []
+user_id: pedroasvalente

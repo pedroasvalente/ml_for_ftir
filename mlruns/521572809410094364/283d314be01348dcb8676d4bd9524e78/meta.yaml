@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/283d314be01348dcb8676d4bd9524e78/artifacts
+end_time: 1756887155237
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 283d314be01348dcb8676d4bd9524e78
+run_name: amusing-deer-6
+run_uuid: 283d314be01348dcb8676d4bd9524e78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887145237
+status: 3
+tags: []
+user_id: pedroasvalente

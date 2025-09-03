@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/5e9c64ef280444549477cd9c5b4e4e07/artifacts
+end_time: 1756887659994
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 5e9c64ef280444549477cd9c5b4e4e07
+run_name: abrasive-robin-355
+run_uuid: 5e9c64ef280444549477cd9c5b4e4e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887656287
+status: 3
+tags: []
+user_id: pedroasvalente

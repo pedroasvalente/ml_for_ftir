@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/1a805ab3b8684a8c904307268bbf394a/artifacts
+end_time: 1756887352941
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 1a805ab3b8684a8c904307268bbf394a
+run_name: zealous-hound-784
+run_uuid: 1a805ab3b8684a8c904307268bbf394a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887340571
+status: 3
+tags: []
+user_id: pedroasvalente

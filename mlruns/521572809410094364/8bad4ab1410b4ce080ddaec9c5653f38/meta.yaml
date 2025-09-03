@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/8bad4ab1410b4ce080ddaec9c5653f38/artifacts
+end_time: 1756887490492
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 8bad4ab1410b4ce080ddaec9c5653f38
+run_name: zealous-whale-316
+run_uuid: 8bad4ab1410b4ce080ddaec9c5653f38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887478225
+status: 3
+tags: []
+user_id: pedroasvalente

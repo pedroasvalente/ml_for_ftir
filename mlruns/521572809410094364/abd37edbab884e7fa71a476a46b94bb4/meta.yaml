@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/abd37edbab884e7fa71a476a46b94bb4/artifacts
+end_time: 1756889015085
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: abd37edbab884e7fa71a476a46b94bb4
+run_name: bemused-boar-968
+run_uuid: abd37edbab884e7fa71a476a46b94bb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888893328
+status: 3
+tags: []
+user_id: pedroasvalente

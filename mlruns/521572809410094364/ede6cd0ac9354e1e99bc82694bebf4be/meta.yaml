@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/ede6cd0ac9354e1e99bc82694bebf4be/artifacts
+end_time: 1756887177214
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: ede6cd0ac9354e1e99bc82694bebf4be
+run_name: calm-goat-575
+run_uuid: ede6cd0ac9354e1e99bc82694bebf4be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887165172
+status: 3
+tags: []
+user_id: pedroasvalente

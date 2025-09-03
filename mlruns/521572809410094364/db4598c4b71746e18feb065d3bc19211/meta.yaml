@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/db4598c4b71746e18feb065d3bc19211/artifacts
+end_time: 1756886947992
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: db4598c4b71746e18feb065d3bc19211
+run_name: righteous-crow-892
+run_uuid: db4598c4b71746e18feb065d3bc19211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886934306
+status: 3
+tags: []
+user_id: pedroasvalente

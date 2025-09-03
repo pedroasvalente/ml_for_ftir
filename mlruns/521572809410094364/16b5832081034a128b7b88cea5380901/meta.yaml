@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/16b5832081034a128b7b88cea5380901/artifacts
+end_time: 1756889181272
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 16b5832081034a128b7b88cea5380901
+run_name: magnificent-bat-37
+run_uuid: 16b5832081034a128b7b88cea5380901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756889041804
+status: 3
+tags: []
+user_id: pedroasvalente

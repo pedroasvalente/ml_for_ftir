@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/5fdee739bae24ef0a1fb55c6e1a72078/artifacts
+end_time: 1756887651932
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 5fdee739bae24ef0a1fb55c6e1a72078
+run_name: rogue-snake-619
+run_uuid: 5fdee739bae24ef0a1fb55c6e1a72078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887624071
+status: 3
+tags: []
+user_id: pedroasvalente

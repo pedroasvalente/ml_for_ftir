@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/a5c75c0fa5ff4ce484a9bd7fbd0f8bfa/artifacts
+end_time: 1756887520018
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: a5c75c0fa5ff4ce484a9bd7fbd0f8bfa
+run_name: gifted-dolphin-866
+run_uuid: a5c75c0fa5ff4ce484a9bd7fbd0f8bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887494542
+status: 3
+tags: []
+user_id: pedroasvalente

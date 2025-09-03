@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/4cc41a9a0a6b4bb5983fbd523037f266/artifacts
+end_time: 1756887887847
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 4cc41a9a0a6b4bb5983fbd523037f266
+run_name: clean-skunk-775
+run_uuid: 4cc41a9a0a6b4bb5983fbd523037f266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887884222
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/df10364b1ad44d89b081ba18ff3a3c95/artifacts
+end_time: 1756886642096
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: df10364b1ad44d89b081ba18ff3a3c95
+run_name: hilarious-wolf-533
+run_uuid: df10364b1ad44d89b081ba18ff3a3c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886612761
+status: 3
+tags: []
+user_id: pedroasvalente

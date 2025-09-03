@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/81bc98d260c145ec98e7414b5706db7d/artifacts
+end_time: 1756888112503
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 81bc98d260c145ec98e7414b5706db7d
+run_name: stylish-shoat-656
+run_uuid: 81bc98d260c145ec98e7414b5706db7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888015265
+status: 3
+tags: []
+user_id: pedroasvalente

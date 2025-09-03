@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/2fb1f78549574767a1ed9a07887f50a2/artifacts
+end_time: 1756886813110
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 2fb1f78549574767a1ed9a07887f50a2
+run_name: legendary-boar-763
+run_uuid: 2fb1f78549574767a1ed9a07887f50a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886780710
+status: 3
+tags: []
+user_id: pedroasvalente

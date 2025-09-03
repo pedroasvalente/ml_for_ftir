@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/5a3789904f634125816a848edd531846/artifacts
+end_time: 1756886642096
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 5a3789904f634125816a848edd531846
+run_name: stylish-ox-991
+run_uuid: 5a3789904f634125816a848edd531846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886612761
+status: 3
+tags: []
+user_id: pedroasvalente

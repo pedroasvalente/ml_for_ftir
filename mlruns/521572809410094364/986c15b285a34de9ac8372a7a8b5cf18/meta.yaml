@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/986c15b285a34de9ac8372a7a8b5cf18/artifacts
+end_time: 1756887701153
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 986c15b285a34de9ac8372a7a8b5cf18
+run_name: flawless-sheep-973
+run_uuid: 986c15b285a34de9ac8372a7a8b5cf18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887697261
+status: 3
+tags: []
+user_id: pedroasvalente

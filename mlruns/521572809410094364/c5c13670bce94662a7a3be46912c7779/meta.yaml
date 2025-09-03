@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/c5c13670bce94662a7a3be46912c7779/artifacts
+end_time: 1756887263469
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: c5c13670bce94662a7a3be46912c7779
+run_name: intrigued-pig-937
+run_uuid: c5c13670bce94662a7a3be46912c7779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887250930
+status: 3
+tags: []
+user_id: pedroasvalente

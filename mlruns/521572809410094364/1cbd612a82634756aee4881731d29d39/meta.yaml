@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/1cbd612a82634756aee4881731d29d39/artifacts
+end_time: 1756886778381
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 1cbd612a82634756aee4881731d29d39
+run_name: gregarious-skink-410
+run_uuid: 1cbd612a82634756aee4881731d29d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886755332
+status: 3
+tags: []
+user_id: pedroasvalente

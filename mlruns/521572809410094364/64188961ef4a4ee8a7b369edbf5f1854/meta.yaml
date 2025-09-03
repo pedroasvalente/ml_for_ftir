@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/64188961ef4a4ee8a7b369edbf5f1854/artifacts
+end_time: 1756887804883
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 64188961ef4a4ee8a7b369edbf5f1854
+run_name: calm-rat-173
+run_uuid: 64188961ef4a4ee8a7b369edbf5f1854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887781479
+status: 3
+tags: []
+user_id: pedroasvalente

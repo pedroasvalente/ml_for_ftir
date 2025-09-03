@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/25b99b3e5790492db776f5a212f3f072/artifacts
+end_time: 1756888702970
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 25b99b3e5790492db776f5a212f3f072
+run_name: treasured-bear-647
+run_uuid: 25b99b3e5790492db776f5a212f3f072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756888582305
+status: 3
+tags: []
+user_id: pedroasvalente

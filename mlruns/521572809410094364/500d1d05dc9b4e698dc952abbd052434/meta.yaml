@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/500d1d05dc9b4e698dc952abbd052434/artifacts
+end_time: 1756887087703
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 500d1d05dc9b4e698dc952abbd052434
+run_name: caring-goose-500
+run_uuid: 500d1d05dc9b4e698dc952abbd052434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887070873
+status: 3
+tags: []
+user_id: pedroasvalente

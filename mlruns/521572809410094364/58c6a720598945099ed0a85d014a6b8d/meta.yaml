@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/58c6a720598945099ed0a85d014a6b8d/artifacts
+end_time: 1756887659994
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 58c6a720598945099ed0a85d014a6b8d
+run_name: burly-bass-343
+run_uuid: 58c6a720598945099ed0a85d014a6b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887656287
+status: 3
+tags: []
+user_id: pedroasvalente

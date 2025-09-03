@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/3c60ca4332154bbba94093887b87ed94/artifacts
+end_time: 1756886854223
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 3c60ca4332154bbba94093887b87ed94
+run_name: rumbling-moth-995
+run_uuid: 3c60ca4332154bbba94093887b87ed94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886843316
+status: 3
+tags: []
+user_id: pedroasvalente

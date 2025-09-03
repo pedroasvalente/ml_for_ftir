@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/68cd85e1d0bd4bb88d34b7a8ef8211c0/artifacts
+end_time: 1756887352941
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 68cd85e1d0bd4bb88d34b7a8ef8211c0
+run_name: grandiose-hen-855
+run_uuid: 68cd85e1d0bd4bb88d34b7a8ef8211c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756887340571
+status: 3
+tags: []
+user_id: pedroasvalente

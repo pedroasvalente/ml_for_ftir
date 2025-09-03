@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/775893485ade4b36bbcf607405c66071/artifacts
+end_time: 1756886887344
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 775893485ade4b36bbcf607405c66071
+run_name: gaudy-kite-848
+run_uuid: 775893485ade4b36bbcf607405c66071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886863864
+status: 3
+tags: []
+user_id: pedroasvalente

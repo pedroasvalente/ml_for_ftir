@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/07cdf0efaeba42e28e6fff4cfeb37730/artifacts
+end_time: 1756886978928
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: 07cdf0efaeba42e28e6fff4cfeb37730
+run_name: glamorous-shark-730
+run_uuid: 07cdf0efaeba42e28e6fff4cfeb37730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886957656
+status: 3
+tags: []
+user_id: pedroasvalente

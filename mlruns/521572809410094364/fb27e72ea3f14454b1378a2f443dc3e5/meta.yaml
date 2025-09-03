@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/521572809410094364/fb27e72ea3f14454b1378a2f443dc3e5/artifacts
+end_time: 1756886947992
+entry_point_name: ''
+experiment_id: '521572809410094364'
+lifecycle_stage: active
+run_id: fb27e72ea3f14454b1378a2f443dc3e5
+run_name: rare-cow-338
+run_uuid: fb27e72ea3f14454b1378a2f443dc3e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756886934306
+status: 3
+tags: []
+user_id: pedroasvalente
