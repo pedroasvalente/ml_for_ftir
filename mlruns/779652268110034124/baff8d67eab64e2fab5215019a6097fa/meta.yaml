@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/baff8d67eab64e2fab5215019a6097fa/artifacts
+end_time: 1756913149274
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: baff8d67eab64e2fab5215019a6097fa
+run_name: rebellious-bass-50
+run_uuid: baff8d67eab64e2fab5215019a6097fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913039746
+status: 3
+tags: []
+user_id: pedroasvalente

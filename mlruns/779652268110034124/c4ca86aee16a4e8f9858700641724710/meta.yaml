@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/c4ca86aee16a4e8f9858700641724710/artifacts
+end_time: 1756912617047
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: c4ca86aee16a4e8f9858700641724710
+run_name: capricious-shark-733
+run_uuid: c4ca86aee16a4e8f9858700641724710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912604658
+status: 3
+tags: []
+user_id: pedroasvalente

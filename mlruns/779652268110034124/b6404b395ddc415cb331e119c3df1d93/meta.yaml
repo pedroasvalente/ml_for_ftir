@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/b6404b395ddc415cb331e119c3df1d93/artifacts
+end_time: 1756911925343
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: b6404b395ddc415cb331e119c3df1d93
+run_name: polite-shrike-950
+run_uuid: b6404b395ddc415cb331e119c3df1d93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911904027
+status: 3
+tags: []
+user_id: pedroasvalente

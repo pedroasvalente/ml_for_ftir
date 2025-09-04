@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/837a978d16344265b5cce83face99e0a/artifacts
+end_time: 1756913881830
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 837a978d16344265b5cce83face99e0a
+run_name: redolent-fawn-358
+run_uuid: 837a978d16344265b5cce83face99e0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913870676
+status: 3
+tags: []
+user_id: pedroasvalente

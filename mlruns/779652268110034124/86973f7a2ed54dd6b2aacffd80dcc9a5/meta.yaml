@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/86973f7a2ed54dd6b2aacffd80dcc9a5/artifacts
+end_time: 1756914283123
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 86973f7a2ed54dd6b2aacffd80dcc9a5
+run_name: victorious-whale-251
+run_uuid: 86973f7a2ed54dd6b2aacffd80dcc9a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756914272167
+status: 3
+tags: []
+user_id: pedroasvalente

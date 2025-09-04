@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/5ce5b05a332941a5a91568a385df0bb0/artifacts
+end_time: 1756912655031
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 5ce5b05a332941a5a91568a385df0bb0
+run_name: agreeable-rook-498
+run_uuid: 5ce5b05a332941a5a91568a385df0bb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912651311
+status: 3
+tags: []
+user_id: pedroasvalente

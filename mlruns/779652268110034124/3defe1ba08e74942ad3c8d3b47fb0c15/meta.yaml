@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/3defe1ba08e74942ad3c8d3b47fb0c15/artifacts
+end_time: 1756913314636
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 3defe1ba08e74942ad3c8d3b47fb0c15
+run_name: spiffy-ray-992
+run_uuid: 3defe1ba08e74942ad3c8d3b47fb0c15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913302940
+status: 3
+tags: []
+user_id: pedroasvalente

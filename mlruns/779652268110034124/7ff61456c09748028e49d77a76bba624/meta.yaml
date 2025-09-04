@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/7ff61456c09748028e49d77a76bba624/artifacts
+end_time: 1756912460221
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 7ff61456c09748028e49d77a76bba624
+run_name: gifted-seal-438
+run_uuid: 7ff61456c09748028e49d77a76bba624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912433224
+status: 3
+tags: []
+user_id: pedroasvalente

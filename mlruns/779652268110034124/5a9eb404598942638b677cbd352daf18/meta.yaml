@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/5a9eb404598942638b677cbd352daf18/artifacts
+end_time: 1756912796887
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 5a9eb404598942638b677cbd352daf18
+run_name: nebulous-shad-111
+run_uuid: 5a9eb404598942638b677cbd352daf18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912793389
+status: 3
+tags: []
+user_id: pedroasvalente

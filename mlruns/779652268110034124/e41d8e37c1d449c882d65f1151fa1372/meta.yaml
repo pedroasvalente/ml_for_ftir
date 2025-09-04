@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/e41d8e37c1d449c882d65f1151fa1372/artifacts
+end_time: 1756912867840
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: e41d8e37c1d449c882d65f1151fa1372
+run_name: indecisive-colt-819
+run_uuid: e41d8e37c1d449c882d65f1151fa1372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912838632
+status: 3
+tags: []
+user_id: pedroasvalente

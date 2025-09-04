@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/6dd6c1d29f034728a2c6188b61c3bc94/artifacts
+end_time: 1756912876558
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 6dd6c1d29f034728a2c6188b61c3bc94
+run_name: monumental-fly-163
+run_uuid: 6dd6c1d29f034728a2c6188b61c3bc94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912873052
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/008a455385054251be18f65acdd260eb/artifacts
+end_time: 1756912985899
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 008a455385054251be18f65acdd260eb
+run_name: sedate-shad-413
+run_uuid: 008a455385054251be18f65acdd260eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912981957
+status: 3
+tags: []
+user_id: pedroasvalente

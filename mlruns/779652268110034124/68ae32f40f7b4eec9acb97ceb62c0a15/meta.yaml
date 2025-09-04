@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/68ae32f40f7b4eec9acb97ceb62c0a15/artifacts
+end_time: 1756912646182
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 68ae32f40f7b4eec9acb97ceb62c0a15
+run_name: handsome-pig-281
+run_uuid: 68ae32f40f7b4eec9acb97ceb62c0a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912621106
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/e493bacda72945dbae545116b5ec50b4/artifacts
+end_time: 1756913739238
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: e493bacda72945dbae545116b5ec50b4
+run_name: stylish-croc-830
+run_uuid: e493bacda72945dbae545116b5ec50b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913727967
+status: 3
+tags: []
+user_id: pedroasvalente

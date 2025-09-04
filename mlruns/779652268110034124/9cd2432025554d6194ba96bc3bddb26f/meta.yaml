@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/9cd2432025554d6194ba96bc3bddb26f/artifacts
+end_time: 1756912570121
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 9cd2432025554d6194ba96bc3bddb26f
+run_name: shivering-jay-861
+run_uuid: 9cd2432025554d6194ba96bc3bddb26f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912557773
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/db14ebb9d0514a229db2592c052450a2/artifacts
+end_time: 1756912646182
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: db14ebb9d0514a229db2592c052450a2
+run_name: awesome-pig-319
+run_uuid: db14ebb9d0514a229db2592c052450a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912621106
+status: 3
+tags: []
+user_id: pedroasvalente

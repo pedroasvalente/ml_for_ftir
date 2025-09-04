@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/a60075faa1d745baa7005193f7c9311c/artifacts
+end_time: 1756911641768
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: a60075faa1d745baa7005193f7c9311c
+run_name: serious-bass-180
+run_uuid: a60075faa1d745baa7005193f7c9311c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911578485
+status: 3
+tags: []
+user_id: pedroasvalente

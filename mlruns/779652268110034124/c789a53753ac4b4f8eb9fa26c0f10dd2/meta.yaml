@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/c789a53753ac4b4f8eb9fa26c0f10dd2/artifacts
+end_time: 1756912902681
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: c789a53753ac4b4f8eb9fa26c0f10dd2
+run_name: big-tern-804
+run_uuid: c789a53753ac4b4f8eb9fa26c0f10dd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912880737
+status: 3
+tags: []
+user_id: pedroasvalente

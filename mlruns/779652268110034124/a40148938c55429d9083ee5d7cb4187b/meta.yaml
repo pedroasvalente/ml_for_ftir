@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/a40148938c55429d9083ee5d7cb4187b/artifacts
+end_time: 1756912796887
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: a40148938c55429d9083ee5d7cb4187b
+run_name: gregarious-robin-262
+run_uuid: a40148938c55429d9083ee5d7cb4187b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912793389
+status: 3
+tags: []
+user_id: pedroasvalente

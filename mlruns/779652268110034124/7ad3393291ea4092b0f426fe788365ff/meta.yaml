@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/7ad3393291ea4092b0f426fe788365ff/artifacts
+end_time: 1756912834567
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 7ad3393291ea4092b0f426fe788365ff
+run_name: enthused-tern-562
+run_uuid: 7ad3393291ea4092b0f426fe788365ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912830992
+status: 3
+tags: []
+user_id: pedroasvalente

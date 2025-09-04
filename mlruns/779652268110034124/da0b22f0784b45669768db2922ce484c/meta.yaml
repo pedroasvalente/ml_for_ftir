@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/da0b22f0784b45669768db2922ce484c/artifacts
+end_time: 1756912570121
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: da0b22f0784b45669768db2922ce484c
+run_name: auspicious-hawk-458
+run_uuid: da0b22f0784b45669768db2922ce484c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912557773
+status: 3
+tags: []
+user_id: pedroasvalente

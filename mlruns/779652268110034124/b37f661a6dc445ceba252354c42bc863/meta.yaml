@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/b37f661a6dc445ceba252354c42bc863/artifacts
+end_time: 1756912166630
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: b37f661a6dc445ceba252354c42bc863
+run_name: caring-lark-718
+run_uuid: b37f661a6dc445ceba252354c42bc863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912148881
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/c7a248c2e0f1485face9885abb12c9be/artifacts
+end_time: 1756912068270
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: c7a248c2e0f1485face9885abb12c9be
+run_name: orderly-mare-161
+run_uuid: c7a248c2e0f1485face9885abb12c9be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912058435
+status: 3
+tags: []
+user_id: pedroasvalente

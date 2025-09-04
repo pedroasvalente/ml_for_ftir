@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/53f849536f964e87a9302c95d150fb20/artifacts
+end_time: 1756912166630
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 53f849536f964e87a9302c95d150fb20
+run_name: funny-mole-600
+run_uuid: 53f849536f964e87a9302c95d150fb20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912148881
+status: 3
+tags: []
+user_id: pedroasvalente

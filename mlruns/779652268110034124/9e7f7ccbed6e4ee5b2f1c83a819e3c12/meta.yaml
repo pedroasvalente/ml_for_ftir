@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/9e7f7ccbed6e4ee5b2f1c83a819e3c12/artifacts
+end_time: 1756912166630
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 9e7f7ccbed6e4ee5b2f1c83a819e3c12
+run_name: amazing-carp-22
+run_uuid: 9e7f7ccbed6e4ee5b2f1c83a819e3c12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912148881
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/716d42e74fb04ed0bd59d1259e22042c/artifacts
+end_time: 1756912876558
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 716d42e74fb04ed0bd59d1259e22042c
+run_name: carefree-toad-85
+run_uuid: 716d42e74fb04ed0bd59d1259e22042c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912873052
+status: 3
+tags: []
+user_id: pedroasvalente

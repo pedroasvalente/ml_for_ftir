@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/8c42dd646173493faa9002fad2cdd9e2/artifacts
+end_time: 1756911719688
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 8c42dd646173493faa9002fad2cdd9e2
+run_name: colorful-seal-24
+run_uuid: 8c42dd646173493faa9002fad2cdd9e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911698573
+status: 3
+tags: []
+user_id: pedroasvalente

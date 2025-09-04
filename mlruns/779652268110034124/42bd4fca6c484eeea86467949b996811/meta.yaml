@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/42bd4fca6c484eeea86467949b996811/artifacts
+end_time: 1756912274387
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 42bd4fca6c484eeea86467949b996811
+run_name: languid-seal-387
+run_uuid: 42bd4fca6c484eeea86467949b996811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912249898
+status: 3
+tags: []
+user_id: pedroasvalente

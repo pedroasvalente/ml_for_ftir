@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/8b5e337a03664c9fb38107a87c66a6c9/artifacts
+end_time: 1756912412957
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 8b5e337a03664c9fb38107a87c66a6c9
+run_name: gentle-elk-921
+run_uuid: 8b5e337a03664c9fb38107a87c66a6c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912387007
+status: 3
+tags: []
+user_id: pedroasvalente

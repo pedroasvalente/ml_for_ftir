@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/b7495e3c0a3c4a8fab327d42d6f3b9b2/artifacts
+end_time: 1756911944272
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: b7495e3c0a3c4a8fab327d42d6f3b9b2
+run_name: stylish-grub-617
+run_uuid: b7495e3c0a3c4a8fab327d42d6f3b9b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911928338
+status: 3
+tags: []
+user_id: pedroasvalente

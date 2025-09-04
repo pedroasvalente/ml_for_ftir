@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/acd1648b96584a298e564b264134ad7f/artifacts
+end_time: 1756912939115
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: acd1648b96584a298e564b264134ad7f
+run_name: welcoming-hen-957
+run_uuid: acd1648b96584a298e564b264134ad7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912915172
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/3081107755634d88bb707aecfbe3f35f/artifacts
+end_time: 1756912570121
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 3081107755634d88bb707aecfbe3f35f
+run_name: fortunate-cub-727
+run_uuid: 3081107755634d88bb707aecfbe3f35f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912557773
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/b45bc83c27404f648e269acfbfbcd1df/artifacts
+end_time: 1756911944272
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: b45bc83c27404f648e269acfbfbcd1df
+run_name: skillful-hog-257
+run_uuid: b45bc83c27404f648e269acfbfbcd1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911928338
+status: 3
+tags: []
+user_id: pedroasvalente

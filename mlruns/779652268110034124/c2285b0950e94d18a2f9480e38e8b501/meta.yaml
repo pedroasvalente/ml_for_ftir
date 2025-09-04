@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/c2285b0950e94d18a2f9480e38e8b501/artifacts
+end_time: 1756912985899
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: c2285b0950e94d18a2f9480e38e8b501
+run_name: classy-deer-488
+run_uuid: c2285b0950e94d18a2f9480e38e8b501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912981957
+status: 3
+tags: []
+user_id: pedroasvalente

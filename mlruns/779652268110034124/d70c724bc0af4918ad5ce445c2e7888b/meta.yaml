@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/d70c724bc0af4918ad5ce445c2e7888b/artifacts
+end_time: 1756911812679
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: d70c724bc0af4918ad5ce445c2e7888b
+run_name: fearless-horse-455
+run_uuid: d70c724bc0af4918ad5ce445c2e7888b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911800191
+status: 3
+tags: []
+user_id: pedroasvalente

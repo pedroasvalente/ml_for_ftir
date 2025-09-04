@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/9caeebf0cca14259a440ddcfc73b2e70/artifacts
+end_time: 1756912506919
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 9caeebf0cca14259a440ddcfc73b2e70
+run_name: stately-moth-428
+run_uuid: 9caeebf0cca14259a440ddcfc73b2e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912482722
+status: 3
+tags: []
+user_id: pedroasvalente

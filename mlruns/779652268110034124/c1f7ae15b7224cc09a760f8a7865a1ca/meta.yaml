@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/c1f7ae15b7224cc09a760f8a7865a1ca/artifacts
+end_time: 1756911925343
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: c1f7ae15b7224cc09a760f8a7865a1ca
+run_name: angry-squid-620
+run_uuid: c1f7ae15b7224cc09a760f8a7865a1ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911904027
+status: 3
+tags: []
+user_id: pedroasvalente

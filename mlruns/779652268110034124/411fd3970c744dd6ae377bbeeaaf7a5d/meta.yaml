@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/411fd3970c744dd6ae377bbeeaaf7a5d/artifacts
+end_time: 1756912600137
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 411fd3970c744dd6ae377bbeeaaf7a5d
+run_name: exultant-frog-941
+run_uuid: 411fd3970c744dd6ae377bbeeaaf7a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912574360
+status: 3
+tags: []
+user_id: pedroasvalente

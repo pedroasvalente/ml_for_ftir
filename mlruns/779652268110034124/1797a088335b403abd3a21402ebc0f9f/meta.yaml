@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/1797a088335b403abd3a21402ebc0f9f/artifacts
+end_time: 1756912902681
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 1797a088335b403abd3a21402ebc0f9f
+run_name: luminous-swan-542
+run_uuid: 1797a088335b403abd3a21402ebc0f9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912880737
+status: 3
+tags: []
+user_id: pedroasvalente

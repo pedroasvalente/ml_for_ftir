@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/c3e2d236715a40abbc6e885c4169e690/artifacts
+end_time: 1756912826474
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: c3e2d236715a40abbc6e885c4169e690
+run_name: bright-pig-135
+run_uuid: c3e2d236715a40abbc6e885c4169e690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912800854
+status: 3
+tags: []
+user_id: pedroasvalente

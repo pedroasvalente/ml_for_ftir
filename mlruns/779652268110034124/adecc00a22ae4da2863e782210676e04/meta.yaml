@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/adecc00a22ae4da2863e782210676e04/artifacts
+end_time: 1756911576052
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: adecc00a22ae4da2863e782210676e04
+run_name: caring-lynx-365
+run_uuid: adecc00a22ae4da2863e782210676e04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911546334
+status: 3
+tags: []
+user_id: pedroasvalente

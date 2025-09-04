@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/388b760d3eb84dfdbff81f6a6b76e251/artifacts
+end_time: 1756912030989
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 388b760d3eb84dfdbff81f6a6b76e251
+run_name: hilarious-crane-134
+run_uuid: 388b760d3eb84dfdbff81f6a6b76e251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911978417
+status: 3
+tags: []
+user_id: pedroasvalente

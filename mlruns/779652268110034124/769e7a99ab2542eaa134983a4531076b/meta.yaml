@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/769e7a99ab2542eaa134983a4531076b/artifacts
+end_time: 1756912724870
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 769e7a99ab2542eaa134983a4531076b
+run_name: carefree-shark-517
+run_uuid: 769e7a99ab2542eaa134983a4531076b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912721400
+status: 3
+tags: []
+user_id: pedroasvalente

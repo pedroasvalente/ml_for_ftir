@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/2294a05b8eaa45528b7c538e2e3c3ffb/artifacts
+end_time: 1756912055542
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 2294a05b8eaa45528b7c538e2e3c3ffb
+run_name: abrasive-moose-278
+run_uuid: 2294a05b8eaa45528b7c538e2e3c3ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912035589
+status: 3
+tags: []
+user_id: pedroasvalente

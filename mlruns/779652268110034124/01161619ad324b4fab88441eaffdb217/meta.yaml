@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/01161619ad324b4fab88441eaffdb217/artifacts
+end_time: 1756912068270
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 01161619ad324b4fab88441eaffdb217
+run_name: luminous-shad-660
+run_uuid: 01161619ad324b4fab88441eaffdb217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912058435
+status: 3
+tags: []
+user_id: pedroasvalente

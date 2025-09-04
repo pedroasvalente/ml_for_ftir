@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/d3b34346929b4f17b56f5b4ab206e601/artifacts
+end_time: 1756912939115
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: d3b34346929b4f17b56f5b4ab206e601
+run_name: dashing-bass-382
+run_uuid: d3b34346929b4f17b56f5b4ab206e601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912915172
+status: 3
+tags: []
+user_id: pedroasvalente

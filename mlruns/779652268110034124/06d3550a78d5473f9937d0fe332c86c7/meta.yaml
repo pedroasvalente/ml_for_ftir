@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/06d3550a78d5473f9937d0fe332c86c7/artifacts
+end_time: 1756912055542
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 06d3550a78d5473f9937d0fe332c86c7
+run_name: bright-crow-171
+run_uuid: 06d3550a78d5473f9937d0fe332c86c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912035589
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/6477eac0453b432b995bd9d9489557ae/artifacts
+end_time: 1756913739238
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 6477eac0453b432b995bd9d9489557ae
+run_name: valuable-goose-435
+run_uuid: 6477eac0453b432b995bd9d9489557ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913727967
+status: 3
+tags: []
+user_id: pedroasvalente

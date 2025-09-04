@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/141ec16c04684a018c90e070ebc6949c/artifacts
+end_time: 1756912867840
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 141ec16c04684a018c90e070ebc6949c
+run_name: unleashed-gnat-516
+run_uuid: 141ec16c04684a018c90e070ebc6949c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912838632
+status: 3
+tags: []
+user_id: pedroasvalente

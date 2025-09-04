@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/c699dbe8b90b4fe7941b82b391919dab/artifacts
+end_time: 1756912826474
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: c699dbe8b90b4fe7941b82b391919dab
+run_name: gifted-shrike-999
+run_uuid: c699dbe8b90b4fe7941b82b391919dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912800854
+status: 3
+tags: []
+user_id: pedroasvalente

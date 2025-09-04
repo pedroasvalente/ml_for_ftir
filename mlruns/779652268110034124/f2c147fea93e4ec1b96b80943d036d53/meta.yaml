@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/f2c147fea93e4ec1b96b80943d036d53/artifacts
+end_time: 1756912985899
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: f2c147fea93e4ec1b96b80943d036d53
+run_name: delicate-quail-459
+run_uuid: f2c147fea93e4ec1b96b80943d036d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912981957
+status: 3
+tags: []
+user_id: pedroasvalente

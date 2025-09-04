@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/9cd3463b20764c8a8434236cfd98a34c/artifacts
+end_time: 1756912646182
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 9cd3463b20764c8a8434236cfd98a34c
+run_name: gentle-shad-951
+run_uuid: 9cd3463b20764c8a8434236cfd98a34c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912621106
+status: 3
+tags: []
+user_id: pedroasvalente

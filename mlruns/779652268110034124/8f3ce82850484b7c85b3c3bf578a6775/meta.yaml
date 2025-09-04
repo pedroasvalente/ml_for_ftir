@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/8f3ce82850484b7c85b3c3bf578a6775/artifacts
+end_time: 1756912095558
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 8f3ce82850484b7c85b3c3bf578a6775
+run_name: auspicious-finch-10
+run_uuid: 8f3ce82850484b7c85b3c3bf578a6775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912077758
+status: 3
+tags: []
+user_id: pedroasvalente

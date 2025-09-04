@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/87562f1426194d48afc765276f11b4ac/artifacts
+end_time: 1756912506919
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 87562f1426194d48afc765276f11b4ac
+run_name: bold-goose-204
+run_uuid: 87562f1426194d48afc765276f11b4ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912482722
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/3cbebea81eb44856bfd41b965dbd801b/artifacts
+end_time: 1756912166630
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 3cbebea81eb44856bfd41b965dbd801b
+run_name: shivering-loon-314
+run_uuid: 3cbebea81eb44856bfd41b965dbd801b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912148881
+status: 3
+tags: []
+user_id: pedroasvalente

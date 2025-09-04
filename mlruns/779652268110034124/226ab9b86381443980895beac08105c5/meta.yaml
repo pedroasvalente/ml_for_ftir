@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/226ab9b86381443980895beac08105c5/artifacts
+end_time: 1756912246529
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 226ab9b86381443980895beac08105c5
+run_name: skittish-steed-469
+run_uuid: 226ab9b86381443980895beac08105c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912234404
+status: 3
+tags: []
+user_id: pedroasvalente

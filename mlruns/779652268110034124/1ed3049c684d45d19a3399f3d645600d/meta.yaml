@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/1ed3049c684d45d19a3399f3d645600d/artifacts
+end_time: 1756911719688
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 1ed3049c684d45d19a3399f3d645600d
+run_name: dapper-smelt-236
+run_uuid: 1ed3049c684d45d19a3399f3d645600d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911698573
+status: 3
+tags: []
+user_id: pedroasvalente

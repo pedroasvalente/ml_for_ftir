@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/15e5147aaef0497ab1eb020c2466c254/artifacts
+end_time: 1756913995208
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 15e5147aaef0497ab1eb020c2466c254
+run_name: traveling-newt-101
+run_uuid: 15e5147aaef0497ab1eb020c2466c254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913887788
+status: 3
+tags: []
+user_id: pedroasvalente

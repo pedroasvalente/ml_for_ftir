@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/29cb200705c44c6eb5bd351673058d52/artifacts
+end_time: 1756913995208
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 29cb200705c44c6eb5bd351673058d52
+run_name: enchanting-robin-725
+run_uuid: 29cb200705c44c6eb5bd351673058d52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913887788
+status: 3
+tags: []
+user_id: pedroasvalente

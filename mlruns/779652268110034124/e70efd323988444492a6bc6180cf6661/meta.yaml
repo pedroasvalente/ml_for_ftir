@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/e70efd323988444492a6bc6180cf6661/artifacts
+end_time: 1756912460221
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: e70efd323988444492a6bc6180cf6661
+run_name: shivering-owl-678
+run_uuid: e70efd323988444492a6bc6180cf6661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912433224
+status: 3
+tags: []
+user_id: pedroasvalente

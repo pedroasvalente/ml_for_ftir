@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/81766cf27b6a4028a1de5140acddf62f/artifacts
+end_time: 1756912834567
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 81766cf27b6a4028a1de5140acddf62f
+run_name: traveling-hare-802
+run_uuid: 81766cf27b6a4028a1de5140acddf62f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912830992
+status: 3
+tags: []
+user_id: pedroasvalente

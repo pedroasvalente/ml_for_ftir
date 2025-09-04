@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/67fa34ebe5934f79b0d9b3b5fedf31ce/artifacts
+end_time: 1756912902681
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 67fa34ebe5934f79b0d9b3b5fedf31ce
+run_name: caring-snake-298
+run_uuid: 67fa34ebe5934f79b0d9b3b5fedf31ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912880737
+status: 3
+tags: []
+user_id: pedroasvalente

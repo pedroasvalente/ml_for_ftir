@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/ae6d767b78254c9e841b4c528134698b/artifacts
+end_time: 1756912320178
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: ae6d767b78254c9e841b4c528134698b
+run_name: sedate-vole-337
+run_uuid: ae6d767b78254c9e841b4c528134698b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912295371
+status: 3
+tags: []
+user_id: pedroasvalente

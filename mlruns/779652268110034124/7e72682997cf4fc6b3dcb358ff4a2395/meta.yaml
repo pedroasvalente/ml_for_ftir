@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/7e72682997cf4fc6b3dcb358ff4a2395/artifacts
+end_time: 1756912826474
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 7e72682997cf4fc6b3dcb358ff4a2395
+run_name: enthused-stoat-493
+run_uuid: 7e72682997cf4fc6b3dcb358ff4a2395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912800854
+status: 3
+tags: []
+user_id: pedroasvalente

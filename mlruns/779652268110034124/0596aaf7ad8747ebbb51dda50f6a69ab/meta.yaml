@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/0596aaf7ad8747ebbb51dda50f6a69ab/artifacts
+end_time: 1756911975353
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 0596aaf7ad8747ebbb51dda50f6a69ab
+run_name: auspicious-grub-912
+run_uuid: 0596aaf7ad8747ebbb51dda50f6a69ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911954206
+status: 3
+tags: []
+user_id: pedroasvalente

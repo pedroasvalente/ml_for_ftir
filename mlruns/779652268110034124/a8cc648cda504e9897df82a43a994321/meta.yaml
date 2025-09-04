@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/a8cc648cda504e9897df82a43a994321/artifacts
+end_time: 1756912180117
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: a8cc648cda504e9897df82a43a994321
+run_name: handsome-ape-691
+run_uuid: a8cc648cda504e9897df82a43a994321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756912169852
+status: 3
+tags: []
+user_id: pedroasvalente

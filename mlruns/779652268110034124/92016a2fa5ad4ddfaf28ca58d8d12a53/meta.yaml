@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/92016a2fa5ad4ddfaf28ca58d8d12a53/artifacts
+end_time: 1756914142290
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 92016a2fa5ad4ddfaf28ca58d8d12a53
+run_name: kindly-seal-560
+run_uuid: 92016a2fa5ad4ddfaf28ca58d8d12a53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756914017470
+status: 3
+tags: []
+user_id: pedroasvalente

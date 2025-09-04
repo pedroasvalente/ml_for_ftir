@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/454afcf8f99f4e3fa94cb0d0acfcd871/artifacts
+end_time: 1756911812679
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: 454afcf8f99f4e3fa94cb0d0acfcd871
+run_name: redolent-sheep-235
+run_uuid: 454afcf8f99f4e3fa94cb0d0acfcd871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911800191
+status: 3
+tags: []
+user_id: pedroasvalente

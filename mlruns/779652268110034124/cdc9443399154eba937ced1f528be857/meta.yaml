@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/779652268110034124/cdc9443399154eba937ced1f528be857/artifacts
+end_time: 1756913034076
+entry_point_name: ''
+experiment_id: '779652268110034124'
+lifecycle_stage: active
+run_id: cdc9443399154eba937ced1f528be857
+run_name: crawling-fish-874
+run_uuid: cdc9443399154eba937ced1f528be857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756913020907
+status: 3
+tags: []
+user_id: pedroasvalente
