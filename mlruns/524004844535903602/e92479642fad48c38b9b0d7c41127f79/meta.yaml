@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/e92479642fad48c38b9b0d7c41127f79/artifacts
+end_time: 1756972953401
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: e92479642fad48c38b9b0d7c41127f79
+run_name: delicate-croc-635
+run_uuid: e92479642fad48c38b9b0d7c41127f79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972919815
+status: 3
+tags: []
+user_id: pedroasvalente

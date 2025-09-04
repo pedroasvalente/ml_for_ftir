@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/7e023d333e364347a5e100f3693ab285/artifacts
+end_time: 1756974343987
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 7e023d333e364347a5e100f3693ab285
+run_name: glamorous-bee-785
+run_uuid: 7e023d333e364347a5e100f3693ab285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974319825
+status: 3
+tags: []
+user_id: pedroasvalente

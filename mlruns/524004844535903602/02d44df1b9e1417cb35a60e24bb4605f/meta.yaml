@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/02d44df1b9e1417cb35a60e24bb4605f/artifacts
+end_time: 1756974460698
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 02d44df1b9e1417cb35a60e24bb4605f
+run_name: nimble-jay-7
+run_uuid: 02d44df1b9e1417cb35a60e24bb4605f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974457321
+status: 3
+tags: []
+user_id: pedroasvalente

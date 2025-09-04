@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/f5753c3732ab46e9b7ba771c339a91fb/artifacts
+end_time: 1756974826587
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: f5753c3732ab46e9b7ba771c339a91fb
+run_name: righteous-lark-63
+run_uuid: f5753c3732ab46e9b7ba771c339a91fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974814196
+status: 3
+tags: []
+user_id: pedroasvalente

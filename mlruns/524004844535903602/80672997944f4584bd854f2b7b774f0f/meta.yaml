@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/80672997944f4584bd854f2b7b774f0f/artifacts
+end_time: 1756975505135
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 80672997944f4584bd854f2b7b774f0f
+run_name: handsome-lynx-418
+run_uuid: 80672997944f4584bd854f2b7b774f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975492922
+status: 3
+tags: []
+user_id: pedroasvalente

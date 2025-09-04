@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/f40d76d670e74fbdbb808e2853437c08/artifacts
+end_time: 1756973621154
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: f40d76d670e74fbdbb808e2853437c08
+run_name: zealous-stork-46
+run_uuid: f40d76d670e74fbdbb808e2853437c08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973545390
+status: 3
+tags: []
+user_id: pedroasvalente

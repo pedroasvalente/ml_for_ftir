@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/ddc1c4085b9542109955552525f9fd3b/artifacts
+end_time: 1756974171952
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: ddc1c4085b9542109955552525f9fd3b
+run_name: adorable-yak-577
+run_uuid: ddc1c4085b9542109955552525f9fd3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974168481
+status: 3
+tags: []
+user_id: pedroasvalente

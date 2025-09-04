@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/4d29c796585445f6ab1e7e27c5e7b026/artifacts
+end_time: 1756974025382
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 4d29c796585445f6ab1e7e27c5e7b026
+run_name: judicious-wolf-302
+run_uuid: 4d29c796585445f6ab1e7e27c5e7b026
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974000492
+status: 3
+tags: []
+user_id: pedroasvalente

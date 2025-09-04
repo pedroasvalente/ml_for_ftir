@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/89517243753a4ce7b57b2a353ce513b5/artifacts
+end_time: 1756974452762
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 89517243753a4ce7b57b2a353ce513b5
+run_name: selective-bird-944
+run_uuid: 89517243753a4ce7b57b2a353ce513b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974428862
+status: 3
+tags: []
+user_id: pedroasvalente

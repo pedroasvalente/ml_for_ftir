@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/bd4add0c5eee48c18dacb2a2e7402f61/artifacts
+end_time: 1756973621154
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: bd4add0c5eee48c18dacb2a2e7402f61
+run_name: debonair-toad-769
+run_uuid: bd4add0c5eee48c18dacb2a2e7402f61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973545390
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/7219a022e2424fdfb30047c8681f8327/artifacts
+end_time: 1756973355043
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 7219a022e2424fdfb30047c8681f8327
+run_name: classy-loon-623
+run_uuid: 7219a022e2424fdfb30047c8681f8327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973323229
+status: 3
+tags: []
+user_id: pedroasvalente

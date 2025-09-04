@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/39238a2ecaaa42f0aef5da7579386894/artifacts
+end_time: 1756974826587
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 39238a2ecaaa42f0aef5da7579386894
+run_name: brawny-mare-890
+run_uuid: 39238a2ecaaa42f0aef5da7579386894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974814196
+status: 3
+tags: []
+user_id: pedroasvalente

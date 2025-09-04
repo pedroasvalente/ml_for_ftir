@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/ae80d488dffd4c419ae57a245d0e5509/artifacts
+end_time: 1756974042104
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: ae80d488dffd4c419ae57a245d0e5509
+run_name: funny-eel-665
+run_uuid: ae80d488dffd4c419ae57a245d0e5509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974029527
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/47170dd1d94c441d88974b889509681f/artifacts
+end_time: 1756975145966
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 47170dd1d94c441d88974b889509681f
+run_name: clumsy-snipe-209
+run_uuid: 47170dd1d94c441d88974b889509681f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974989514
+status: 3
+tags: []
+user_id: pedroasvalente

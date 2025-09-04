@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/7eddc1ab28844e668afd994472e9212a/artifacts
+end_time: 1756973951041
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 7eddc1ab28844e668afd994472e9212a
+run_name: fortunate-shrimp-154
+run_uuid: 7eddc1ab28844e668afd994472e9212a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973937778
+status: 3
+tags: []
+user_id: pedroasvalente

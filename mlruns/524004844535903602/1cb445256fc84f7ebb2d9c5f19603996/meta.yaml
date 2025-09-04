@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/1cb445256fc84f7ebb2d9c5f19603996/artifacts
+end_time: 1756973858535
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 1cb445256fc84f7ebb2d9c5f19603996
+run_name: polite-bass-596
+run_uuid: 1cb445256fc84f7ebb2d9c5f19603996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973846087
+status: 3
+tags: []
+user_id: pedroasvalente

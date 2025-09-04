@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/df0a24e2de3747e0b646963370548a6f/artifacts
+end_time: 1756974089051
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: df0a24e2de3747e0b646963370548a6f
+run_name: youthful-ram-361
+run_uuid: df0a24e2de3747e0b646963370548a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974076426
+status: 3
+tags: []
+user_id: pedroasvalente

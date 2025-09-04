@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/33e8d4a384104bc48ced603037786af1/artifacts
+end_time: 1756973501881
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 33e8d4a384104bc48ced603037786af1
+run_name: capricious-shad-280
+run_uuid: 33e8d4a384104bc48ced603037786af1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973459504
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/bd67bb947cbf49518e7fcb21fd87eca3/artifacts
+end_time: 1756973771865
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: bd67bb947cbf49518e7fcb21fd87eca3
+run_name: polite-goose-635
+run_uuid: bd67bb947cbf49518e7fcb21fd87eca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973758743
+status: 3
+tags: []
+user_id: pedroasvalente

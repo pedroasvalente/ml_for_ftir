@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/376a88823fe442ada417b417fd62f2de/artifacts
+end_time: 1756976095450
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 376a88823fe442ada417b417fd62f2de
+run_name: merciful-dolphin-233
+run_uuid: 376a88823fe442ada417b417fd62f2de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975969596
+status: 3
+tags: []
+user_id: pedroasvalente

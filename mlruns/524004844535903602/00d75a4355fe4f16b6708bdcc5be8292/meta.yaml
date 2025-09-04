@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/00d75a4355fe4f16b6708bdcc5be8292/artifacts
+end_time: 1756974134968
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 00d75a4355fe4f16b6708bdcc5be8292
+run_name: delightful-frog-335
+run_uuid: 00d75a4355fe4f16b6708bdcc5be8292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974122592
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/aa4e16573e9b439588a45f7c92126a61/artifacts
+end_time: 1756975164024
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: aa4e16573e9b439588a45f7c92126a61
+run_name: calm-skunk-598
+run_uuid: aa4e16573e9b439588a45f7c92126a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975151947
+status: 3
+tags: []
+user_id: pedroasvalente

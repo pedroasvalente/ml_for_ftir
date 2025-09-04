@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/85b826a00c37400188fe7ca5e8a80204/artifacts
+end_time: 1756974315569
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 85b826a00c37400188fe7ca5e8a80204
+run_name: sedate-gnat-110
+run_uuid: 85b826a00c37400188fe7ca5e8a80204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974311955
+status: 3
+tags: []
+user_id: pedroasvalente

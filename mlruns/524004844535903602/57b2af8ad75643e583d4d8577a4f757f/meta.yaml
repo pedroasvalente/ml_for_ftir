@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/57b2af8ad75643e583d4d8577a4f757f/artifacts
+end_time: 1756974272423
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 57b2af8ad75643e583d4d8577a4f757f
+run_name: melodic-koi-900
+run_uuid: 57b2af8ad75643e583d4d8577a4f757f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974249076
+status: 3
+tags: []
+user_id: pedroasvalente

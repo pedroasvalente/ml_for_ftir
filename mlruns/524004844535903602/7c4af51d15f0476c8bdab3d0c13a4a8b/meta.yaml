@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/7c4af51d15f0476c8bdab3d0c13a4a8b/artifacts
+end_time: 1756973542597
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 7c4af51d15f0476c8bdab3d0c13a4a8b
+run_name: mercurial-fox-462
+run_uuid: 7c4af51d15f0476c8bdab3d0c13a4a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973511156
+status: 3
+tags: []
+user_id: pedroasvalente

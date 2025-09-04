@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/a13efefe79b84eacbbe973d99e97d84a/artifacts
+end_time: 1756974237309
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: a13efefe79b84eacbbe973d99e97d84a
+run_name: flawless-mare-676
+run_uuid: a13efefe79b84eacbbe973d99e97d84a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974211869
+status: 3
+tags: []
+user_id: pedroasvalente

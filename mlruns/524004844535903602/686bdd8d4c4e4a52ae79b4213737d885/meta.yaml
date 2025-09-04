@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/686bdd8d4c4e4a52ae79b4213737d885/artifacts
+end_time: 1756974089051
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 686bdd8d4c4e4a52ae79b4213737d885
+run_name: gaudy-shad-353
+run_uuid: 686bdd8d4c4e4a52ae79b4213737d885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974076426
+status: 3
+tags: []
+user_id: pedroasvalente

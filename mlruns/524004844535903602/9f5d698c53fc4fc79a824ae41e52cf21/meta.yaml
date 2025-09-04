@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/9f5d698c53fc4fc79a824ae41e52cf21/artifacts
+end_time: 1756975299717
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 9f5d698c53fc4fc79a824ae41e52cf21
+run_name: receptive-trout-135
+run_uuid: 9f5d698c53fc4fc79a824ae41e52cf21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975169530
+status: 3
+tags: []
+user_id: pedroasvalente

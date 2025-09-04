@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/b870c413b3e145ca83a74b1db7af2543/artifacts
+end_time: 1756973814849
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: b870c413b3e145ca83a74b1db7af2543
+run_name: nervous-dolphin-718
+run_uuid: b870c413b3e145ca83a74b1db7af2543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973802386
+status: 3
+tags: []
+user_id: pedroasvalente

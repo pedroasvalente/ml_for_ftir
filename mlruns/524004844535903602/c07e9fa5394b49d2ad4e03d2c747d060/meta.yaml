@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/c07e9fa5394b49d2ad4e03d2c747d060/artifacts
+end_time: 1756973771865
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: c07e9fa5394b49d2ad4e03d2c747d060
+run_name: adaptable-crab-180
+run_uuid: c07e9fa5394b49d2ad4e03d2c747d060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973758743
+status: 3
+tags: []
+user_id: pedroasvalente

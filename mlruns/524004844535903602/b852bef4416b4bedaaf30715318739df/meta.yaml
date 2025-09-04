@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/b852bef4416b4bedaaf30715318739df/artifacts
+end_time: 1756973152292
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: b852bef4416b4bedaaf30715318739df
+run_name: skittish-mare-703
+run_uuid: b852bef4416b4bedaaf30715318739df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973117452
+status: 3
+tags: []
+user_id: pedroasvalente

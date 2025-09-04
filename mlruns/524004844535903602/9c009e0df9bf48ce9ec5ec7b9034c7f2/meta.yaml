@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/9c009e0df9bf48ce9ec5ec7b9034c7f2/artifacts
+end_time: 1756973858535
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 9c009e0df9bf48ce9ec5ec7b9034c7f2
+run_name: enchanting-lynx-864
+run_uuid: 9c009e0df9bf48ce9ec5ec7b9034c7f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973846087
+status: 3
+tags: []
+user_id: pedroasvalente

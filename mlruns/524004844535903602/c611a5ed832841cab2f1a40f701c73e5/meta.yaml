@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/c611a5ed832841cab2f1a40f701c73e5/artifacts
+end_time: 1756975649204
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: c611a5ed832841cab2f1a40f701c73e5
+run_name: dapper-conch-883
+run_uuid: c611a5ed832841cab2f1a40f701c73e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975637688
+status: 3
+tags: []
+user_id: pedroasvalente

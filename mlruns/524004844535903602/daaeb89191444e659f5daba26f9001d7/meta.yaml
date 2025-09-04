@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/daaeb89191444e659f5daba26f9001d7/artifacts
+end_time: 1756974352688
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: daaeb89191444e659f5daba26f9001d7
+run_name: funny-owl-165
+run_uuid: daaeb89191444e659f5daba26f9001d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974348919
+status: 3
+tags: []
+user_id: pedroasvalente

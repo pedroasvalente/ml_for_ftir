@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/70beea1a7e964553b540afcffc94ad00/artifacts
+end_time: 1756973501881
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 70beea1a7e964553b540afcffc94ad00
+run_name: bittersweet-foal-153
+run_uuid: 70beea1a7e964553b540afcffc94ad00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973459504
+status: 3
+tags: []
+user_id: pedroasvalente

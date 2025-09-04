@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/74d33ecd5c6e4fb9be6edd746b768516/artifacts
+end_time: 1756973421317
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 74d33ecd5c6e4fb9be6edd746b768516
+run_name: invincible-carp-241
+run_uuid: 74d33ecd5c6e4fb9be6edd746b768516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973357647
+status: 3
+tags: []
+user_id: pedroasvalente

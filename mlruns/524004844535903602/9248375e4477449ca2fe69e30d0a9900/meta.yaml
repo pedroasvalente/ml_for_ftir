@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/9248375e4477449ca2fe69e30d0a9900/artifacts
+end_time: 1756974416897
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 9248375e4477449ca2fe69e30d0a9900
+run_name: intrigued-dove-548
+run_uuid: 9248375e4477449ca2fe69e30d0a9900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974394499
+status: 3
+tags: []
+user_id: pedroasvalente

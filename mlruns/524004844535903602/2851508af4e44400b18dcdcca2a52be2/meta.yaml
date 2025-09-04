@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/2851508af4e44400b18dcdcca2a52be2/artifacts
+end_time: 1756975164024
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 2851508af4e44400b18dcdcca2a52be2
+run_name: amusing-gnu-206
+run_uuid: 2851508af4e44400b18dcdcca2a52be2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975151947
+status: 3
+tags: []
+user_id: pedroasvalente

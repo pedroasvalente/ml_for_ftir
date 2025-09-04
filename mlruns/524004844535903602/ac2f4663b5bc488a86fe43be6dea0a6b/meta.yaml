@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/ac2f4663b5bc488a86fe43be6dea0a6b/artifacts
+end_time: 1756972953401
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: ac2f4663b5bc488a86fe43be6dea0a6b
+run_name: casual-whale-26
+run_uuid: ac2f4663b5bc488a86fe43be6dea0a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972919815
+status: 3
+tags: []
+user_id: pedroasvalente

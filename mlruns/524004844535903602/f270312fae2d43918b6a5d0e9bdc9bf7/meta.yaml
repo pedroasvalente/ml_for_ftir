@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/f270312fae2d43918b6a5d0e9bdc9bf7/artifacts
+end_time: 1756973996883
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: f270312fae2d43918b6a5d0e9bdc9bf7
+run_name: skittish-perch-13
+run_uuid: f270312fae2d43918b6a5d0e9bdc9bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973984180
+status: 3
+tags: []
+user_id: pedroasvalente

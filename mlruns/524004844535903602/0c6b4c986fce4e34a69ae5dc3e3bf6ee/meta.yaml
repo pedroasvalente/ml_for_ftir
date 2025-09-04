@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/0c6b4c986fce4e34a69ae5dc3e3bf6ee/artifacts
+end_time: 1756974118489
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 0c6b4c986fce4e34a69ae5dc3e3bf6ee
+run_name: bemused-lamb-612
+run_uuid: 0c6b4c986fce4e34a69ae5dc3e3bf6ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974093133
+status: 3
+tags: []
+user_id: pedroasvalente

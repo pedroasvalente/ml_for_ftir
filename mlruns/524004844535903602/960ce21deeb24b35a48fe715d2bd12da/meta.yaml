@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/960ce21deeb24b35a48fe715d2bd12da/artifacts
+end_time: 1756975317716
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 960ce21deeb24b35a48fe715d2bd12da
+run_name: victorious-seal-396
+run_uuid: 960ce21deeb24b35a48fe715d2bd12da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975305397
+status: 3
+tags: []
+user_id: pedroasvalente

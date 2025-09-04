@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/e451cb8449d44e3b93394cd8b2eb3412/artifacts
+end_time: 1756973313108
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: e451cb8449d44e3b93394cd8b2eb3412
+run_name: dashing-zebra-387
+run_uuid: e451cb8449d44e3b93394cd8b2eb3412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973263357
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/6becfc20911d42288637f45da12f4b97/artifacts
+end_time: 1756974965820
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 6becfc20911d42288637f45da12f4b97
+run_name: righteous-dove-790
+run_uuid: 6becfc20911d42288637f45da12f4b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974831960
+status: 3
+tags: []
+user_id: pedroasvalente

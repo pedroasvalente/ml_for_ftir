@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/41c34f8ef33e4e0ea37e6810474ac2bf/artifacts
+end_time: 1756973933279
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 41c34f8ef33e4e0ea37e6810474ac2bf
+run_name: classy-trout-847
+run_uuid: 41c34f8ef33e4e0ea37e6810474ac2bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973907703
+status: 3
+tags: []
+user_id: pedroasvalente

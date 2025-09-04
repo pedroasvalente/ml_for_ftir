@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/2ac5f071b08c47b7bf445a8e1b3c9f6a/artifacts
+end_time: 1756975649204
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 2ac5f071b08c47b7bf445a8e1b3c9f6a
+run_name: invincible-hare-174
+run_uuid: 2ac5f071b08c47b7bf445a8e1b3c9f6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975637688
+status: 3
+tags: []
+user_id: pedroasvalente

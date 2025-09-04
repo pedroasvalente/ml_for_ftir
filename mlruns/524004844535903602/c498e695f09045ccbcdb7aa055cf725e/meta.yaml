@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/c498e695f09045ccbcdb7aa055cf725e/artifacts
+end_time: 1756974245300
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: c498e695f09045ccbcdb7aa055cf725e
+run_name: bittersweet-yak-254
+run_uuid: c498e695f09045ccbcdb7aa055cf725e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974241693
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/b05b941bf95b46e4b0a57aeb4ab151a8/artifacts
+end_time: 1756974315569
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: b05b941bf95b46e4b0a57aeb4ab151a8
+run_name: bouncy-sloth-215
+run_uuid: b05b941bf95b46e4b0a57aeb4ab151a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974311955
+status: 3
+tags: []
+user_id: pedroasvalente

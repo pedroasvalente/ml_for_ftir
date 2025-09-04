@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/2a8d3a923d854133871f538ad90cce8e/artifacts
+end_time: 1756974163929
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 2a8d3a923d854133871f538ad90cce8e
+run_name: invincible-conch-133
+run_uuid: 2a8d3a923d854133871f538ad90cce8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974138779
+status: 3
+tags: []
+user_id: pedroasvalente

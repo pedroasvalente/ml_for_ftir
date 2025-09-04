@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/2782581e6d684712b4ad5f4734c40b05/artifacts
+end_time: 1756973221986
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 2782581e6d684712b4ad5f4734c40b05
+run_name: flawless-panda-259
+run_uuid: 2782581e6d684712b4ad5f4734c40b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973154726
+status: 3
+tags: []
+user_id: pedroasvalente

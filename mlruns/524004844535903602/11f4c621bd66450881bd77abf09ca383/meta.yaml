@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/11f4c621bd66450881bd77abf09ca383/artifacts
+end_time: 1756973421317
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 11f4c621bd66450881bd77abf09ca383
+run_name: secretive-bat-860
+run_uuid: 11f4c621bd66450881bd77abf09ca383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973357647
+status: 3
+tags: []
+user_id: pedroasvalente

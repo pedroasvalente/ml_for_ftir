@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/391669ae772c4b64bef414b555c2cc5e/artifacts
+end_time: 1756973542597
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 391669ae772c4b64bef414b555c2cc5e
+run_name: polite-dog-199
+run_uuid: 391669ae772c4b64bef414b555c2cc5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973511156
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/90fdf4a39564457c92b0738efb2d6c85/artifacts
+end_time: 1756974280499
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 90fdf4a39564457c92b0738efb2d6c85
+run_name: traveling-flea-465
+run_uuid: 90fdf4a39564457c92b0738efb2d6c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974276997
+status: 3
+tags: []
+user_id: pedroasvalente

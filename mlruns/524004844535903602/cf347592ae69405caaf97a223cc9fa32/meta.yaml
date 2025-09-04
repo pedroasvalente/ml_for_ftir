@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/cf347592ae69405caaf97a223cc9fa32/artifacts
+end_time: 1756975484025
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: cf347592ae69405caaf97a223cc9fa32
+run_name: peaceful-swan-539
+run_uuid: cf347592ae69405caaf97a223cc9fa32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975323308
+status: 3
+tags: []
+user_id: pedroasvalente

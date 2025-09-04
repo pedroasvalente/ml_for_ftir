@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/a96452f3ccbf461ca822c7613f7ee37f/artifacts
+end_time: 1756976095450
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: a96452f3ccbf461ca822c7613f7ee37f
+run_name: rogue-vole-206
+run_uuid: a96452f3ccbf461ca822c7613f7ee37f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975969596
+status: 3
+tags: []
+user_id: pedroasvalente

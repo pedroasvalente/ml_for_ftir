@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/ef433e4c112f4354b066c3f5d55b44ec/artifacts
+end_time: 1756975299717
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: ef433e4c112f4354b066c3f5d55b44ec
+run_name: bold-skink-718
+run_uuid: ef433e4c112f4354b066c3f5d55b44ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975169530
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/f765414fed2b430b989fd2f8e63f2c2b/artifacts
+end_time: 1756973501881
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: f765414fed2b430b989fd2f8e63f2c2b
+run_name: amazing-calf-372
+run_uuid: f765414fed2b430b989fd2f8e63f2c2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973459504
+status: 3
+tags: []
+user_id: pedroasvalente

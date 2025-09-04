@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/7f45f9ec48b84b39b584ed6f9adacc98/artifacts
+end_time: 1756973018256
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 7f45f9ec48b84b39b584ed6f9adacc98
+run_name: angry-sheep-207
+run_uuid: 7f45f9ec48b84b39b584ed6f9adacc98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972955635
+status: 3
+tags: []
+user_id: pedroasvalente

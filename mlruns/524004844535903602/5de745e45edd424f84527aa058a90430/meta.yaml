@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/5de745e45edd424f84527aa058a90430/artifacts
+end_time: 1756973152292
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 5de745e45edd424f84527aa058a90430
+run_name: treasured-deer-273
+run_uuid: 5de745e45edd424f84527aa058a90430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973117452
+status: 3
+tags: []
+user_id: pedroasvalente

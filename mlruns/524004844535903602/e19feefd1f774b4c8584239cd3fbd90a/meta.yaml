@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/e19feefd1f774b4c8584239cd3fbd90a/artifacts
+end_time: 1756972824971
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: e19feefd1f774b4c8584239cd3fbd90a
+run_name: sneaky-sponge-132
+run_uuid: e19feefd1f774b4c8584239cd3fbd90a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972765307
+status: 3
+tags: []
+user_id: pedroasvalente

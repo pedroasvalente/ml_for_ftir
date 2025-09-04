@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/1d30f39479a440e9a56306b6220ceeca/artifacts
+end_time: 1756973814849
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 1d30f39479a440e9a56306b6220ceeca
+run_name: adorable-sow-173
+run_uuid: 1d30f39479a440e9a56306b6220ceeca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973802386
+status: 3
+tags: []
+user_id: pedroasvalente

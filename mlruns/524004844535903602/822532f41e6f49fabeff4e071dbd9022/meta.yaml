@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/822532f41e6f49fabeff4e071dbd9022/artifacts
+end_time: 1756974983453
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 822532f41e6f49fabeff4e071dbd9022
+run_name: gifted-mare-519
+run_uuid: 822532f41e6f49fabeff4e071dbd9022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974971746
+status: 3
+tags: []
+user_id: pedroasvalente

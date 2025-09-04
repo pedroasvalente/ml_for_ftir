@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/c0a3756cb7394f4490365eab3c9d8c71/artifacts
+end_time: 1756974072107
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: c0a3756cb7394f4490365eab3c9d8c71
+run_name: upbeat-calf-969
+run_uuid: c0a3756cb7394f4490365eab3c9d8c71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974046198
+status: 3
+tags: []
+user_id: pedroasvalente

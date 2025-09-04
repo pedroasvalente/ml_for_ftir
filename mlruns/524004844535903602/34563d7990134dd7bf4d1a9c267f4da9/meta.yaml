@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/34563d7990134dd7bf4d1a9c267f4da9/artifacts
+end_time: 1756974424973
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 34563d7990134dd7bf4d1a9c267f4da9
+run_name: abundant-smelt-540
+run_uuid: 34563d7990134dd7bf4d1a9c267f4da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974421622
+status: 3
+tags: []
+user_id: pedroasvalente

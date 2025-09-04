@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/cb9ed39214594a1fb5c74fea660f9bf0/artifacts
+end_time: 1756973313108
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: cb9ed39214594a1fb5c74fea660f9bf0
+run_name: placid-smelt-674
+run_uuid: cb9ed39214594a1fb5c74fea660f9bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973263357
+status: 3
+tags: []
+user_id: pedroasvalente

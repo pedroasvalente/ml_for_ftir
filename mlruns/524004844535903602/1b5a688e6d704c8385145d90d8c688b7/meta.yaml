@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/1b5a688e6d704c8385145d90d8c688b7/artifacts
+end_time: 1756973996883
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 1b5a688e6d704c8385145d90d8c688b7
+run_name: loud-deer-329
+run_uuid: 1b5a688e6d704c8385145d90d8c688b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973984180
+status: 3
+tags: []
+user_id: pedroasvalente

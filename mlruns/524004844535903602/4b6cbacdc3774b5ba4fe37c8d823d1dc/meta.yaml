@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/4b6cbacdc3774b5ba4fe37c8d823d1dc/artifacts
+end_time: 1756973814849
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 4b6cbacdc3774b5ba4fe37c8d823d1dc
+run_name: silent-seal-574
+run_uuid: 4b6cbacdc3774b5ba4fe37c8d823d1dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973802386
+status: 3
+tags: []
+user_id: pedroasvalente

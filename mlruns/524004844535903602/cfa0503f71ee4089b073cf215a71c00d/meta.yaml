@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/cfa0503f71ee4089b073cf215a71c00d/artifacts
+end_time: 1756973951041
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: cfa0503f71ee4089b073cf215a71c00d
+run_name: merciful-goose-425
+run_uuid: cfa0503f71ee4089b073cf215a71c00d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973937778
+status: 3
+tags: []
+user_id: pedroasvalente

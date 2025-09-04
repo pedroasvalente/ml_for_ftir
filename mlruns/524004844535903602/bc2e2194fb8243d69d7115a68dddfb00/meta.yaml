@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/bc2e2194fb8243d69d7115a68dddfb00/artifacts
+end_time: 1756974452762
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: bc2e2194fb8243d69d7115a68dddfb00
+run_name: stylish-lark-325
+run_uuid: bc2e2194fb8243d69d7115a68dddfb00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974428862
+status: 3
+tags: []
+user_id: pedroasvalente

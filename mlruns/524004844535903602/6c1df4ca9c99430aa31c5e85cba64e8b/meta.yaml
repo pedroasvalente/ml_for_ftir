@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/6c1df4ca9c99430aa31c5e85cba64e8b/artifacts
+end_time: 1756975962664
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 6c1df4ca9c99430aa31c5e85cba64e8b
+run_name: beautiful-duck-782
+run_uuid: 6c1df4ca9c99430aa31c5e85cba64e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975950815
+status: 3
+tags: []
+user_id: pedroasvalente

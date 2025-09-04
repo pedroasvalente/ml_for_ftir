@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/34ad70ad90a74c7fb596a6fecf97f3fb/artifacts
+end_time: 1756984436140
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 34ad70ad90a74c7fb596a6fecf97f3fb
+run_name: experiment_linear_platetes
+run_uuid: 34ad70ad90a74c7fb596a6fecf97f3fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972728290
+status: 3
+tags: []
+user_id: pedroasvalente

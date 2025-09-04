@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/28cfef0408ca4d1a9393bb77269624a3/artifacts
+end_time: 1756972953401
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 28cfef0408ca4d1a9393bb77269624a3
+run_name: mercurial-seal-644
+run_uuid: 28cfef0408ca4d1a9393bb77269624a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756972919815
+status: 3
+tags: []
+user_id: pedroasvalente

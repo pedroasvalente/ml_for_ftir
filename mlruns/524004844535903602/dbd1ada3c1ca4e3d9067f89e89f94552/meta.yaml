@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/dbd1ada3c1ca4e3d9067f89e89f94552/artifacts
+end_time: 1756975631398
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: dbd1ada3c1ca4e3d9067f89e89f94552
+run_name: thundering-worm-916
+run_uuid: dbd1ada3c1ca4e3d9067f89e89f94552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975511893
+status: 3
+tags: []
+user_id: pedroasvalente

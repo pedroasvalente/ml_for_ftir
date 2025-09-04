@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/6ad05166174444f3913534a9a6e6e948/artifacts
+end_time: 1756975145966
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 6ad05166174444f3913534a9a6e6e948
+run_name: colorful-calf-314
+run_uuid: 6ad05166174444f3913534a9a6e6e948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974989514
+status: 3
+tags: []
+user_id: pedroasvalente

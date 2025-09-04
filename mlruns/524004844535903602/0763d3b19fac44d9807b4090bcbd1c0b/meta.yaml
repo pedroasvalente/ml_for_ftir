@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/0763d3b19fac44d9807b4090bcbd1c0b/artifacts
+end_time: 1756974163929
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 0763d3b19fac44d9807b4090bcbd1c0b
+run_name: angry-hawk-780
+run_uuid: 0763d3b19fac44d9807b4090bcbd1c0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974138779
+status: 3
+tags: []
+user_id: pedroasvalente

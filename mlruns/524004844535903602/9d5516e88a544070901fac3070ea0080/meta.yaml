@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/9d5516e88a544070901fac3070ea0080/artifacts
+end_time: 1756974544725
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 9d5516e88a544070901fac3070ea0080
+run_name: monumental-cub-641
+run_uuid: 9d5516e88a544070901fac3070ea0080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974533006
+status: 3
+tags: []
+user_id: pedroasvalente

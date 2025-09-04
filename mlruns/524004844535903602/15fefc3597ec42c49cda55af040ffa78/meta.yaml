@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/15fefc3597ec42c49cda55af040ffa78/artifacts
+end_time: 1756974544725
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 15fefc3597ec42c49cda55af040ffa78
+run_name: fun-mule-952
+run_uuid: 15fefc3597ec42c49cda55af040ffa78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974533006
+status: 3
+tags: []
+user_id: pedroasvalente

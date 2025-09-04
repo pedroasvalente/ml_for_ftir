@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/a755a68488524e16966b733d3b10c1c0/artifacts
+end_time: 1756975826356
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: a755a68488524e16966b733d3b10c1c0
+run_name: fearless-swan-446
+run_uuid: a755a68488524e16966b733d3b10c1c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975813217
+status: 3
+tags: []
+user_id: pedroasvalente

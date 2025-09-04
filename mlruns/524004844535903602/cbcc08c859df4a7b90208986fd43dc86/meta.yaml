@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/cbcc08c859df4a7b90208986fd43dc86/artifacts
+end_time: 1756975631398
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: cbcc08c859df4a7b90208986fd43dc86
+run_name: fun-lark-8
+run_uuid: cbcc08c859df4a7b90208986fd43dc86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975511893
+status: 3
+tags: []
+user_id: pedroasvalente

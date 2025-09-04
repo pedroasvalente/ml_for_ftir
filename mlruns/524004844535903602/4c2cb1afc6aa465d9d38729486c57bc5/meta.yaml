@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/4c2cb1afc6aa465d9d38729486c57bc5/artifacts
+end_time: 1756975299717
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 4c2cb1afc6aa465d9d38729486c57bc5
+run_name: bald-skunk-996
+run_uuid: 4c2cb1afc6aa465d9d38729486c57bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975169530
+status: 3
+tags: []
+user_id: pedroasvalente

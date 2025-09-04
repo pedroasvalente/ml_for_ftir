@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/2caba84e6ec34958ab70584fb62e8575/artifacts
+end_time: 1756973658456
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 2caba84e6ec34958ab70584fb62e8575
+run_name: monumental-croc-40
+run_uuid: 2caba84e6ec34958ab70584fb62e8575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973626485
+status: 3
+tags: []
+user_id: pedroasvalente

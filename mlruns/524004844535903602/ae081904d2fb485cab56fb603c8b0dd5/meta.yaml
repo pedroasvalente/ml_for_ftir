@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/ae081904d2fb485cab56fb603c8b0dd5/artifacts
+end_time: 1756975505135
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: ae081904d2fb485cab56fb603c8b0dd5
+run_name: whimsical-pug-993
+run_uuid: ae081904d2fb485cab56fb603c8b0dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975492922
+status: 3
+tags: []
+user_id: pedroasvalente

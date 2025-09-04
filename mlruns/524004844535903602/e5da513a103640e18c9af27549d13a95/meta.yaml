@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/e5da513a103640e18c9af27549d13a95/artifacts
+end_time: 1756973727871
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: e5da513a103640e18c9af27549d13a95
+run_name: serious-smelt-202
+run_uuid: e5da513a103640e18c9af27549d13a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973714964
+status: 3
+tags: []
+user_id: pedroasvalente

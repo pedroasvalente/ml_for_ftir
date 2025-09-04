@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/613ebe141df647c68af81d5b09a31cce/artifacts
+end_time: 1756974200212
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 613ebe141df647c68af81d5b09a31cce
+run_name: rogue-panda-450
+run_uuid: 613ebe141df647c68af81d5b09a31cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974175501
+status: 3
+tags: []
+user_id: pedroasvalente

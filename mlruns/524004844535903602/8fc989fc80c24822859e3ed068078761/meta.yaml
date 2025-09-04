@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/8fc989fc80c24822859e3ed068078761/artifacts
+end_time: 1756973858535
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 8fc989fc80c24822859e3ed068078761
+run_name: useful-mare-519
+run_uuid: 8fc989fc80c24822859e3ed068078761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973846087
+status: 3
+tags: []
+user_id: pedroasvalente

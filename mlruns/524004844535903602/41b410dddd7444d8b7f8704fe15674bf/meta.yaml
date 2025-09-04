@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/41b410dddd7444d8b7f8704fe15674bf/artifacts
+end_time: 1756973313108
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 41b410dddd7444d8b7f8704fe15674bf
+run_name: handsome-gnat-789
+run_uuid: 41b410dddd7444d8b7f8704fe15674bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973263357
+status: 3
+tags: []
+user_id: pedroasvalente

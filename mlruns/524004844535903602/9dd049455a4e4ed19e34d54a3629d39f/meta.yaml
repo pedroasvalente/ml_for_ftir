@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/9dd049455a4e4ed19e34d54a3629d39f/artifacts
+end_time: 1756973456817
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 9dd049455a4e4ed19e34d54a3629d39f
+run_name: luminous-stoat-349
+run_uuid: 9dd049455a4e4ed19e34d54a3629d39f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973425744
+status: 3
+tags: []
+user_id: pedroasvalente

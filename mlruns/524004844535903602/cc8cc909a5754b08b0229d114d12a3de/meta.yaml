@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/cc8cc909a5754b08b0229d114d12a3de/artifacts
+end_time: 1756973814849
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: cc8cc909a5754b08b0229d114d12a3de
+run_name: unequaled-loon-648
+run_uuid: cc8cc909a5754b08b0229d114d12a3de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973802386
+status: 3
+tags: []
+user_id: pedroasvalente

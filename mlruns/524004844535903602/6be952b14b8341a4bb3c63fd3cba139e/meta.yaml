@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/6be952b14b8341a4bb3c63fd3cba139e/artifacts
+end_time: 1756975145966
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 6be952b14b8341a4bb3c63fd3cba139e
+run_name: zealous-mare-106
+run_uuid: 6be952b14b8341a4bb3c63fd3cba139e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974989514
+status: 3
+tags: []
+user_id: pedroasvalente

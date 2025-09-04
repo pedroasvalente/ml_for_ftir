@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/0574a34951ae4b0a84a30f9ba727da40/artifacts
+end_time: 1756974808918
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 0574a34951ae4b0a84a30f9ba727da40
+run_name: sincere-bass-388
+run_uuid: 0574a34951ae4b0a84a30f9ba727da40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974685375
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/6b103eff008c4a0e8432e394e9f93acd/artifacts
+end_time: 1756973842871
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 6b103eff008c4a0e8432e394e9f93acd
+run_name: debonair-calf-723
+run_uuid: 6b103eff008c4a0e8432e394e9f93acd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973818054
+status: 3
+tags: []
+user_id: pedroasvalente

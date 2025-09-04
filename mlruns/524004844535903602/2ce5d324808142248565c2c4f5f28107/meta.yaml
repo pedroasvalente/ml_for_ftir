@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/2ce5d324808142248565c2c4f5f28107/artifacts
+end_time: 1756974656903
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 2ce5d324808142248565c2c4f5f28107
+run_name: burly-hen-213
+run_uuid: 2ce5d324808142248565c2c4f5f28107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974549453
+status: 3
+tags: []
+user_id: pedroasvalente

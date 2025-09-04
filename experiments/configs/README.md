@@ -14,10 +14,7 @@ This guide explains how to run all ML4FIR training experiments in the `experimen
 2. **Add results and artifacts to git:**
 
    ```bash
-   git add mlruns/*
-   git add mlartifacts/*
-   git add experiments/*
-   git add results/*
+git p
    git commit -m "upload <experiment_file> experience"
    git push
    ```

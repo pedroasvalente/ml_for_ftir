@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/55f3be2b4de844afa5e49a082bda6527/artifacts
+end_time: 1756974315569
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 55f3be2b4de844afa5e49a082bda6527
+run_name: traveling-sloth-861
+run_uuid: 55f3be2b4de844afa5e49a082bda6527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974311955
+status: 3
+tags: []
+user_id: pedroasvalente

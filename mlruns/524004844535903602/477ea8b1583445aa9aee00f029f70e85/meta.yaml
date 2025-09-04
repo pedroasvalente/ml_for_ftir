@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/477ea8b1583445aa9aee00f029f70e85/artifacts
+end_time: 1756975806623
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 477ea8b1583445aa9aee00f029f70e85
+run_name: zealous-skink-792
+run_uuid: 477ea8b1583445aa9aee00f029f70e85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756975657207
+status: 3
+tags: []
+user_id: pedroasvalente

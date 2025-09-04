@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/eb2b0aa0f86447c9b7a3372c721619bc/artifacts
+end_time: 1756974315569
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: eb2b0aa0f86447c9b7a3372c721619bc
+run_name: righteous-stoat-473
+run_uuid: eb2b0aa0f86447c9b7a3372c721619bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974311955
+status: 3
+tags: []
+user_id: pedroasvalente

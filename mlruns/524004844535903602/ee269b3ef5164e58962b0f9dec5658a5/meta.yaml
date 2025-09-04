@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/ee269b3ef5164e58962b0f9dec5658a5/artifacts
+end_time: 1756973887262
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: ee269b3ef5164e58962b0f9dec5658a5
+run_name: vaunted-shoat-959
+run_uuid: ee269b3ef5164e58962b0f9dec5658a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973861909
+status: 3
+tags: []
+user_id: pedroasvalente

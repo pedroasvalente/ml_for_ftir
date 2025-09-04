@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/17da002b8a27498288c01321524dba15/artifacts
+end_time: 1756973057057
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 17da002b8a27498288c01321524dba15
+run_name: skillful-newt-801
+run_uuid: 17da002b8a27498288c01321524dba15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973022153
+status: 3
+tags: []
+user_id: pedroasvalente

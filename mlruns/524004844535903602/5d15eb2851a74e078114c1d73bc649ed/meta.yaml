@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/5d15eb2851a74e078114c1d73bc649ed/artifacts
+end_time: 1756973152292
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 5d15eb2851a74e078114c1d73bc649ed
+run_name: rebellious-colt-759
+run_uuid: 5d15eb2851a74e078114c1d73bc649ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973117452
+status: 3
+tags: []
+user_id: pedroasvalente

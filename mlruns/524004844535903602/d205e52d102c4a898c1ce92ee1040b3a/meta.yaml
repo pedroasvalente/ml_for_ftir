@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/d205e52d102c4a898c1ce92ee1040b3a/artifacts
+end_time: 1756973980568
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: d205e52d102c4a898c1ce92ee1040b3a
+run_name: flawless-ray-450
+run_uuid: d205e52d102c4a898c1ce92ee1040b3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973954585
+status: 3
+tags: []
+user_id: pedroasvalente

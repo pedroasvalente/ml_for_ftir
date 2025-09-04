@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/6093793505224ae584e0815a94daca26/artifacts
+end_time: 1756973705409
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 6093793505224ae584e0815a94daca26
+run_name: wise-conch-94
+run_uuid: 6093793505224ae584e0815a94daca26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973661287
+status: 3
+tags: []
+user_id: pedroasvalente

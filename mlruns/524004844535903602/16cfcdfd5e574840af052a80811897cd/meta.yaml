@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/16cfcdfd5e574840af052a80811897cd/artifacts
+end_time: 1756973658456
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 16cfcdfd5e574840af052a80811897cd
+run_name: persistent-croc-868
+run_uuid: 16cfcdfd5e574840af052a80811897cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756973626485
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/a16d6f0ae6c14d09bf6dcc41c11829db/artifacts
+end_time: 1756974208148
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: a16d6f0ae6c14d09bf6dcc41c11829db
+run_name: amazing-cub-801
+run_uuid: a16d6f0ae6c14d09bf6dcc41c11829db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974204432
+status: 3
+tags: []
+user_id: pedroasvalente

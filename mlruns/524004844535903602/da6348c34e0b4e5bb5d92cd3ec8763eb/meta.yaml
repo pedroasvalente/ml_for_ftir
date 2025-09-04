@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/da6348c34e0b4e5bb5d92cd3ec8763eb/artifacts
+end_time: 1756974072107
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: da6348c34e0b4e5bb5d92cd3ec8763eb
+run_name: skittish-crab-387
+run_uuid: da6348c34e0b4e5bb5d92cd3ec8763eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974046198
+status: 3
+tags: []
+user_id: pedroasvalente

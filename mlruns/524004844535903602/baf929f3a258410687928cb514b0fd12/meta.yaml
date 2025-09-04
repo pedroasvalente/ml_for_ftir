@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/baf929f3a258410687928cb514b0fd12/artifacts
+end_time: 1756974544725
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: baf929f3a258410687928cb514b0fd12
+run_name: gaudy-toad-165
+run_uuid: baf929f3a258410687928cb514b0fd12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974533006
+status: 3
+tags: []
+user_id: pedroasvalente

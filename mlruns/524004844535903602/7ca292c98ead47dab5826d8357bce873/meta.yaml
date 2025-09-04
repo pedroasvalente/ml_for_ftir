@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/7ca292c98ead47dab5826d8357bce873/artifacts
+end_time: 1756974072107
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: 7ca292c98ead47dab5826d8357bce873
+run_name: hilarious-ray-439
+run_uuid: 7ca292c98ead47dab5826d8357bce873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974046198
+status: 3
+tags: []
+user_id: pedroasvalente

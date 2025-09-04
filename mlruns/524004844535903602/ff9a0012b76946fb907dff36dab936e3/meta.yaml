@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524004844535903602/ff9a0012b76946fb907dff36dab936e3/artifacts
+end_time: 1756974280499
+entry_point_name: ''
+experiment_id: '524004844535903602'
+lifecycle_stage: active
+run_id: ff9a0012b76946fb907dff36dab936e3
+run_name: brawny-shrike-935
+run_uuid: ff9a0012b76946fb907dff36dab936e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756974276997
+status: 3
+tags: []
+user_id: pedroasvalente
