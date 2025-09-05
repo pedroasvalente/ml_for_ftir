@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/c8ff7ea4708a4d4e8e92a3313d8e7c2f/artifacts
+end_time: 1756991459103
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: c8ff7ea4708a4d4e8e92a3313d8e7c2f
+run_name: handsome-skunk-384
+run_uuid: c8ff7ea4708a4d4e8e92a3313d8e7c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991447562
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/553b6443817c47948871dde936d2af0d/artifacts
+end_time: 1756989759665
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 553b6443817c47948871dde936d2af0d
+run_name: rumbling-grouse-802
+run_uuid: 553b6443817c47948871dde936d2af0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989738417
+status: 3
+tags: []
+user_id: pedroasvalente

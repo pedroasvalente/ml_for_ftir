@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/22d478398c5040f18ed0372ec87d0bca/artifacts
+end_time: 1756989965472
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 22d478398c5040f18ed0372ec87d0bca
+run_name: dazzling-flea-624
+run_uuid: 22d478398c5040f18ed0372ec87d0bca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989906040
+status: 3
+tags: []
+user_id: pedroasvalente

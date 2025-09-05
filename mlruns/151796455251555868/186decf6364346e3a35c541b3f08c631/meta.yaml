@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/186decf6364346e3a35c541b3f08c631/artifacts
+end_time: 1756989419671
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 186decf6364346e3a35c541b3f08c631
+run_name: incongruous-ray-113
+run_uuid: 186decf6364346e3a35c541b3f08c631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989389174
+status: 3
+tags: []
+user_id: pedroasvalente

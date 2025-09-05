@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/6da4088eb7784958aad2379dd1a19067/artifacts
+end_time: 1756992199830
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 6da4088eb7784958aad2379dd1a19067
+run_name: skittish-fowl-598
+run_uuid: 6da4088eb7784958aad2379dd1a19067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756992081007
+status: 3
+tags: []
+user_id: pedroasvalente

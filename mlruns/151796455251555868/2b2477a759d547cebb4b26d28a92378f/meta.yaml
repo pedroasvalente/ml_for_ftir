@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/2b2477a759d547cebb4b26d28a92378f/artifacts
+end_time: 1756990389174
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 2b2477a759d547cebb4b26d28a92378f
+run_name: flawless-stag-313
+run_uuid: 2b2477a759d547cebb4b26d28a92378f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990377069
+status: 3
+tags: []
+user_id: pedroasvalente

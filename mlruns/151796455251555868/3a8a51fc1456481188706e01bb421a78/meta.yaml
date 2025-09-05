@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/3a8a51fc1456481188706e01bb421a78/artifacts
+end_time: 1756990468483
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 3a8a51fc1456481188706e01bb421a78
+run_name: bemused-skink-522
+run_uuid: 3a8a51fc1456481188706e01bb421a78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990464871
+status: 3
+tags: []
+user_id: pedroasvalente

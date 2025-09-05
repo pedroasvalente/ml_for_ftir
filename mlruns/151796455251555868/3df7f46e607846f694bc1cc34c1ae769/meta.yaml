@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/3df7f46e607846f694bc1cc34c1ae769/artifacts
+end_time: 1756990416505
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 3df7f46e607846f694bc1cc34c1ae769
+run_name: dapper-squirrel-176
+run_uuid: 3df7f46e607846f694bc1cc34c1ae769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990393076
+status: 3
+tags: []
+user_id: pedroasvalente

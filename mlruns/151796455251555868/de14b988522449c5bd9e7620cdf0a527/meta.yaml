@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/de14b988522449c5bd9e7620cdf0a527/artifacts
+end_time: 1756991139369
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: de14b988522449c5bd9e7620cdf0a527
+run_name: adorable-snail-233
+run_uuid: de14b988522449c5bd9e7620cdf0a527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991126886
+status: 3
+tags: []
+user_id: pedroasvalente

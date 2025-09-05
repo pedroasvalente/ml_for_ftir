@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/35cd3a9e48d34eeba6e76b9704a9c2bc/artifacts
+end_time: 1756991893433
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 35cd3a9e48d34eeba6e76b9704a9c2bc
+run_name: handsome-penguin-881
+run_uuid: 35cd3a9e48d34eeba6e76b9704a9c2bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991774919
+status: 3
+tags: []
+user_id: pedroasvalente

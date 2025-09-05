@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/89479d347b0f469b9ba95a3011b892fc/artifacts
+end_time: 1756990532214
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 89479d347b0f469b9ba95a3011b892fc
+run_name: funny-moose-662
+run_uuid: 89479d347b0f469b9ba95a3011b892fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990506477
+status: 3
+tags: []
+user_id: pedroasvalente

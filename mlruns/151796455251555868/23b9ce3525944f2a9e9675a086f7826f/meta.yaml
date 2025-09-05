@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/23b9ce3525944f2a9e9675a086f7826f/artifacts
+end_time: 1756990146981
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 23b9ce3525944f2a9e9675a086f7826f
+run_name: righteous-lamb-875
+run_uuid: 23b9ce3525944f2a9e9675a086f7826f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990122329
+status: 3
+tags: []
+user_id: pedroasvalente

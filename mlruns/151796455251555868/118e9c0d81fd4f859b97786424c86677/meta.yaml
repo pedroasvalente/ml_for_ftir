@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/118e9c0d81fd4f859b97786424c86677/artifacts
+end_time: 1756991139369
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 118e9c0d81fd4f859b97786424c86677
+run_name: bustling-bird-453
+run_uuid: 118e9c0d81fd4f859b97786424c86677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991126886
+status: 3
+tags: []
+user_id: pedroasvalente

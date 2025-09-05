@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/df39db2ac7cc4ce3b824e4a16ca8c992/artifacts
+end_time: 1756991441530
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: df39db2ac7cc4ce3b824e4a16ca8c992
+run_name: chill-gnu-59
+run_uuid: df39db2ac7cc4ce3b824e4a16ca8c992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991295218
+status: 3
+tags: []
+user_id: pedroasvalente

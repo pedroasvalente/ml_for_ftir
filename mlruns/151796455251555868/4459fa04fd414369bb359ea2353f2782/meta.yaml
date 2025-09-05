@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/4459fa04fd414369bb359ea2353f2782/artifacts
+end_time: 1756989866973
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 4459fa04fd414369bb359ea2353f2782
+run_name: exultant-chimp-636
+run_uuid: 4459fa04fd414369bb359ea2353f2782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989856878
+status: 3
+tags: []
+user_id: pedroasvalente

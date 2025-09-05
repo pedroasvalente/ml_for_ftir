@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/f90919bff8584402901cf92fd0cc9054/artifacts
+end_time: 1756989853845
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: f90919bff8584402901cf92fd0cc9054
+run_name: youthful-dog-184
+run_uuid: f90919bff8584402901cf92fd0cc9054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989832214
+status: 3
+tags: []
+user_id: pedroasvalente

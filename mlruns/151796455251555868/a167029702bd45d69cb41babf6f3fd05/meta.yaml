@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/a167029702bd45d69cb41babf6f3fd05/artifacts
+end_time: 1756991585368
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: a167029702bd45d69cb41babf6f3fd05
+run_name: puzzled-crane-601
+run_uuid: a167029702bd45d69cb41babf6f3fd05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991464569
+status: 3
+tags: []
+user_id: pedroasvalente

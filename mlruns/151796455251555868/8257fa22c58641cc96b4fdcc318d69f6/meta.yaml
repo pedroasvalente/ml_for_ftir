@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/8257fa22c58641cc96b4fdcc318d69f6/artifacts
+end_time: 1756991119421
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 8257fa22c58641cc96b4fdcc318d69f6
+run_name: masked-mink-681
+run_uuid: 8257fa22c58641cc96b4fdcc318d69f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990992103
+status: 3
+tags: []
+user_id: pedroasvalente

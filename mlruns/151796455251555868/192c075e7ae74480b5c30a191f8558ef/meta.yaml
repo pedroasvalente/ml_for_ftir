@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/192c075e7ae74480b5c30a191f8558ef/artifacts
+end_time: 1756989827669
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 192c075e7ae74480b5c30a191f8558ef
+run_name: rambunctious-koi-310
+run_uuid: 192c075e7ae74480b5c30a191f8558ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989762381
+status: 3
+tags: []
+user_id: pedroasvalente

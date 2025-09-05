@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/70fa6864ce334103ae01490041dd7771/artifacts
+end_time: 1756989728627
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 70fa6864ce334103ae01490041dd7771
+run_name: luminous-shrimp-299
+run_uuid: 70fa6864ce334103ae01490041dd7771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989717570
+status: 3
+tags: []
+user_id: pedroasvalente

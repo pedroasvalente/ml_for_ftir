@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/eaad5751c8504a9d8d72cff659a9e678/artifacts
+end_time: 1756989384760
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: eaad5751c8504a9d8d72cff659a9e678
+run_name: efficient-calf-165
+run_uuid: eaad5751c8504a9d8d72cff659a9e678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989318627
+status: 3
+tags: []
+user_id: pedroasvalente

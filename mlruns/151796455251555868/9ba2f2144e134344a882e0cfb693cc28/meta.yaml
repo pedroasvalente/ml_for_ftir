@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/9ba2f2144e134344a882e0cfb693cc28/artifacts
+end_time: 1756991769066
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 9ba2f2144e134344a882e0cfb693cc28
+run_name: agreeable-calf-437
+run_uuid: 9ba2f2144e134344a882e0cfb693cc28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991757086
+status: 3
+tags: []
+user_id: pedroasvalente

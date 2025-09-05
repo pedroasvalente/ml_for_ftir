@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/5f08ef84a3d34f87aa0b9fadd2636a7f/artifacts
+end_time: 1756991289772
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 5f08ef84a3d34f87aa0b9fadd2636a7f
+run_name: bold-duck-852
+run_uuid: 5f08ef84a3d34f87aa0b9fadd2636a7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991278252
+status: 3
+tags: []
+user_id: pedroasvalente

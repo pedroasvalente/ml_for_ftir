@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/50be817d3a084e478ed7fc7021cef9e0/artifacts
+end_time: 1756989714962
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 50be817d3a084e478ed7fc7021cef9e0
+run_name: upset-zebra-49
+run_uuid: 50be817d3a084e478ed7fc7021cef9e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989688696
+status: 3
+tags: []
+user_id: pedroasvalente

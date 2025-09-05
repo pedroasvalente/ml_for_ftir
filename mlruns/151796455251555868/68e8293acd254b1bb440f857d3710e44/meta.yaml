@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/68e8293acd254b1bb440f857d3710e44/artifacts
+end_time: 1756990967919
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 68e8293acd254b1bb440f857d3710e44
+run_name: amusing-hawk-901
+run_uuid: 68e8293acd254b1bb440f857d3710e44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990856571
+status: 3
+tags: []
+user_id: pedroasvalente

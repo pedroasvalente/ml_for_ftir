@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/70b3e5dc9c5c4359a7ffe167ede12c6d/artifacts
+end_time: 1756991911921
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 70b3e5dc9c5c4359a7ffe167ede12c6d
+run_name: shivering-mule-702
+run_uuid: 70b3e5dc9c5c4359a7ffe167ede12c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991899889
+status: 3
+tags: []
+user_id: pedroasvalente

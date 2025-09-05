@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/1fc3c5be3ef14add91f78f15d0fe6f63/artifacts
+end_time: 1756989574974
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 1fc3c5be3ef14add91f78f15d0fe6f63
+run_name: auspicious-mouse-535
+run_uuid: 1fc3c5be3ef14add91f78f15d0fe6f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989564552
+status: 3
+tags: []
+user_id: pedroasvalente

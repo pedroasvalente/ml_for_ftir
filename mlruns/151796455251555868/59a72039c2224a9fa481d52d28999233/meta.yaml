@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/59a72039c2224a9fa481d52d28999233/artifacts
+end_time: 1756990757699
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 59a72039c2224a9fa481d52d28999233
+run_name: grandiose-sponge-518
+run_uuid: 59a72039c2224a9fa481d52d28999233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990735929
+status: 3
+tags: []
+user_id: pedroasvalente

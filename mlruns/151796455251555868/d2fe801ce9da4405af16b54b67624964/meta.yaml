@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/d2fe801ce9da4405af16b54b67624964/artifacts
+end_time: 1756989384760
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: d2fe801ce9da4405af16b54b67624964
+run_name: charming-mink-692
+run_uuid: d2fe801ce9da4405af16b54b67624964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989318627
+status: 3
+tags: []
+user_id: pedroasvalente

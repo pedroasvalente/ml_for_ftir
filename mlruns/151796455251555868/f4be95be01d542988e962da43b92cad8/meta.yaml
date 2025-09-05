@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/f4be95be01d542988e962da43b92cad8/artifacts
+end_time: 1756990967919
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: f4be95be01d542988e962da43b92cad8
+run_name: industrious-duck-157
+run_uuid: f4be95be01d542988e962da43b92cad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990856571
+status: 3
+tags: []
+user_id: pedroasvalente

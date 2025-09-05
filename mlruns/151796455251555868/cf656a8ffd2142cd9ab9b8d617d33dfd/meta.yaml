@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/cf656a8ffd2142cd9ab9b8d617d33dfd/artifacts
+end_time: 1756990033132
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: cf656a8ffd2142cd9ab9b8d617d33dfd
+run_name: thundering-swan-321
+run_uuid: cf656a8ffd2142cd9ab9b8d617d33dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990021022
+status: 3
+tags: []
+user_id: pedroasvalente

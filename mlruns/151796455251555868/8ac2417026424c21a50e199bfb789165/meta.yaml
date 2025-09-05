@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/8ac2417026424c21a50e199bfb789165/artifacts
+end_time: 1756990540372
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 8ac2417026424c21a50e199bfb789165
+run_name: stately-newt-134
+run_uuid: 8ac2417026424c21a50e199bfb789165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990536780
+status: 3
+tags: []
+user_id: pedroasvalente

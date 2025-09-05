@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/c1987e2a11a14d7db6c5efbfa2112772/artifacts
+end_time: 1756990075666
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: c1987e2a11a14d7db6c5efbfa2112772
+run_name: lyrical-rook-814
+run_uuid: c1987e2a11a14d7db6c5efbfa2112772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990063441
+status: 3
+tags: []
+user_id: pedroasvalente

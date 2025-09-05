@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/a669023e44794a92b32ccaee8e8fc9cd/artifacts
+end_time: 1756990688985
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: a669023e44794a92b32ccaee8e8fc9cd
+run_name: bouncy-mink-328
+run_uuid: a669023e44794a92b32ccaee8e8fc9cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990658944
+status: 3
+tags: []
+user_id: pedroasvalente

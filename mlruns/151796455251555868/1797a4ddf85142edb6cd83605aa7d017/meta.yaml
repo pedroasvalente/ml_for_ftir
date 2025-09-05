@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/1797a4ddf85142edb6cd83605aa7d017/artifacts
+end_time: 1756989684300
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 1797a4ddf85142edb6cd83605aa7d017
+run_name: peaceful-toad-444
+run_uuid: 1797a4ddf85142edb6cd83605aa7d017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989613217
+status: 3
+tags: []
+user_id: pedroasvalente

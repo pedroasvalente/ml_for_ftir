@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/a15bd63dcd9440c7b99a4a2220a73e4a/artifacts
+end_time: 1756989436930
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: a15bd63dcd9440c7b99a4a2220a73e4a
+run_name: bouncy-calf-24
+run_uuid: a15bd63dcd9440c7b99a4a2220a73e4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989421838
+status: 3
+tags: []
+user_id: pedroasvalente

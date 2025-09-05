@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/072afc2e3ff1454f8384d1828b355357/artifacts
+end_time: 1756989536127
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 072afc2e3ff1454f8384d1828b355357
+run_name: serious-hog-47
+run_uuid: 072afc2e3ff1454f8384d1828b355357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989469161
+status: 3
+tags: []
+user_id: pedroasvalente

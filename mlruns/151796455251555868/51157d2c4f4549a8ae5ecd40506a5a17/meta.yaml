@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/51157d2c4f4549a8ae5ecd40506a5a17/artifacts
+end_time: 1756991119421
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 51157d2c4f4549a8ae5ecd40506a5a17
+run_name: suave-flea-343
+run_uuid: 51157d2c4f4549a8ae5ecd40506a5a17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990992103
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/1b85213a11164524af871e7e60cbba64/artifacts
+end_time: 1756991441530
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 1b85213a11164524af871e7e60cbba64
+run_name: wistful-rook-339
+run_uuid: 1b85213a11164524af871e7e60cbba64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991295218
+status: 3
+tags: []
+user_id: pedroasvalente

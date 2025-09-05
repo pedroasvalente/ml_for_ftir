@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/32da5358841f4701b1294c454c181832/artifacts
+end_time: 1756989853845
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 32da5358841f4701b1294c454c181832
+run_name: magnificent-rook-924
+run_uuid: 32da5358841f4701b1294c454c181832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989832214
+status: 3
+tags: []
+user_id: pedroasvalente

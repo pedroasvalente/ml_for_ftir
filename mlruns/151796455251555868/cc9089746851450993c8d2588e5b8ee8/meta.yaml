@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/cc9089746851450993c8d2588e5b8ee8/artifacts
+end_time: 1756989903165
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: cc9089746851450993c8d2588e5b8ee8
+run_name: righteous-trout-173
+run_uuid: cc9089746851450993c8d2588e5b8ee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989876674
+status: 3
+tags: []
+user_id: pedroasvalente

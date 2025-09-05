@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/7542f25c6c44459fa4adf995e4f20015/artifacts
+end_time: 1756989561874
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 7542f25c6c44459fa4adf995e4f20015
+run_name: sneaky-seal-849
+run_uuid: 7542f25c6c44459fa4adf995e4f20015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989540877
+status: 3
+tags: []
+user_id: pedroasvalente

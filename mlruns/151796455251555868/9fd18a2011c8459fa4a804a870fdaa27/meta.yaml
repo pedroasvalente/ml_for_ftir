@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/9fd18a2011c8459fa4a804a870fdaa27/artifacts
+end_time: 1756990604536
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 9fd18a2011c8459fa4a804a870fdaa27
+run_name: loud-bass-780
+run_uuid: 9fd18a2011c8459fa4a804a870fdaa27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990580592
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/c1d1322d87ff4d5f820e37dfbb5d4f3e/artifacts
+end_time: 1756992361412
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: c1d1322d87ff4d5f820e37dfbb5d4f3e
+run_name: gentle-hound-545
+run_uuid: c1d1322d87ff4d5f820e37dfbb5d4f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756992230631
+status: 3
+tags: []
+user_id: pedroasvalente

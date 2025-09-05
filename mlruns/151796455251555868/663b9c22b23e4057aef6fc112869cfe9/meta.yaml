@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/663b9c22b23e4057aef6fc112869cfe9/artifacts
+end_time: 1756991605560
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 663b9c22b23e4057aef6fc112869cfe9
+run_name: bald-grub-768
+run_uuid: 663b9c22b23e4057aef6fc112869cfe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991591537
+status: 3
+tags: []
+user_id: pedroasvalente

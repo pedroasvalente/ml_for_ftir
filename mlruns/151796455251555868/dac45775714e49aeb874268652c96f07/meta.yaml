@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/dac45775714e49aeb874268652c96f07/artifacts
+end_time: 1756990373039
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: dac45775714e49aeb874268652c96f07
+run_name: able-mule-802
+run_uuid: dac45775714e49aeb874268652c96f07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990348218
+status: 3
+tags: []
+user_id: pedroasvalente

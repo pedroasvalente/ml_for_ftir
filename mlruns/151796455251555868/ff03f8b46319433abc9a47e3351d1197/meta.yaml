@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/ff03f8b46319433abc9a47e3351d1197/artifacts
+end_time: 1756991139369
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: ff03f8b46319433abc9a47e3351d1197
+run_name: capricious-conch-418
+run_uuid: ff03f8b46319433abc9a47e3351d1197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756991126886
+status: 3
+tags: []
+user_id: pedroasvalente

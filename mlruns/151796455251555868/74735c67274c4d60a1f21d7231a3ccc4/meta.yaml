@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/74735c67274c4d60a1f21d7231a3ccc4/artifacts
+end_time: 1756990389174
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 74735c67274c4d60a1f21d7231a3ccc4
+run_name: luminous-penguin-580
+run_uuid: 74735c67274c4d60a1f21d7231a3ccc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990377069
+status: 3
+tags: []
+user_id: pedroasvalente

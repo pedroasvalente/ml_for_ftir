@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/ab09ad2195bc4f20baca76b09b232f9f/artifacts
+end_time: 1756989466849
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: ab09ad2195bc4f20baca76b09b232f9f
+run_name: charming-kite-608
+run_uuid: ab09ad2195bc4f20baca76b09b232f9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989445812
+status: 3
+tags: []
+user_id: pedroasvalente

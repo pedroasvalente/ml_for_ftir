@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/fd7cd63ff3b24d48a6a5e2ed9ac91840/artifacts
+end_time: 1756989536127
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: fd7cd63ff3b24d48a6a5e2ed9ac91840
+run_name: languid-horse-510
+run_uuid: fd7cd63ff3b24d48a6a5e2ed9ac91840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756989469161
+status: 3
+tags: []
+user_id: pedroasvalente

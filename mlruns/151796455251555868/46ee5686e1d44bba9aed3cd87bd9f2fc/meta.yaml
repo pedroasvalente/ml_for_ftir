@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/151796455251555868/46ee5686e1d44bba9aed3cd87bd9f2fc/artifacts
+end_time: 1756990967919
+entry_point_name: ''
+experiment_id: '151796455251555868'
+lifecycle_stage: active
+run_id: 46ee5686e1d44bba9aed3cd87bd9f2fc
+run_name: invincible-ox-630
+run_uuid: 46ee5686e1d44bba9aed3cd87bd9f2fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756990856571
+status: 3
+tags: []
+user_id: pedroasvalente
