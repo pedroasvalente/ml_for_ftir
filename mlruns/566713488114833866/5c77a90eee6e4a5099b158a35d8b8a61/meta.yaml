@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/5c77a90eee6e4a5099b158a35d8b8a61/artifacts
+end_time: 1757060487347
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 5c77a90eee6e4a5099b158a35d8b8a61
+run_name: upset-seal-236
+run_uuid: 5c77a90eee6e4a5099b158a35d8b8a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060460488
+status: 3
+tags: []
+user_id: pedroasvalente

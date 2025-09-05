@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/c62105153d4147d2a4b95eadf303e735/artifacts
+end_time: 1757060350194
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: c62105153d4147d2a4b95eadf303e735
+run_name: thoughtful-calf-702
+run_uuid: c62105153d4147d2a4b95eadf303e735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060326209
+status: 3
+tags: []
+user_id: pedroasvalente

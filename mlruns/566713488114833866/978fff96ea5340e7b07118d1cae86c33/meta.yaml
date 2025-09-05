@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/978fff96ea5340e7b07118d1cae86c33/artifacts
+end_time: 1757062268720
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 978fff96ea5340e7b07118d1cae86c33
+run_name: blushing-stag-207
+run_uuid: 978fff96ea5340e7b07118d1cae86c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062135509
+status: 3
+tags: []
+user_id: pedroasvalente

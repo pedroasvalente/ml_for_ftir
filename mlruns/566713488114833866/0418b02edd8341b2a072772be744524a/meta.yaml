@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/0418b02edd8341b2a072772be744524a/artifacts
+end_time: 1757061161821
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 0418b02edd8341b2a072772be744524a
+run_name: thundering-grub-220
+run_uuid: 0418b02edd8341b2a072772be744524a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061149940
+status: 3
+tags: []
+user_id: pedroasvalente

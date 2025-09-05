@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/66b8540b14a44c24835fedebfb63621c/artifacts
+end_time: 1757058323520
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 66b8540b14a44c24835fedebfb63621c
+run_name: adaptable-finch-427
+run_uuid: 66b8540b14a44c24835fedebfb63621c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058233490
+status: 3
+tags: []
+user_id: pedroasvalente

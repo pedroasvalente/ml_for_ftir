@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/ac6b460e6337484b8d3fd7109a026742/artifacts
+end_time: 1757060667967
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: ac6b460e6337484b8d3fd7109a026742
+run_name: glamorous-fly-851
+run_uuid: ac6b460e6337484b8d3fd7109a026742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060643028
+status: 3
+tags: []
+user_id: pedroasvalente

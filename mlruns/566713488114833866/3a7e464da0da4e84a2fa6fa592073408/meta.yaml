@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/3a7e464da0da4e84a2fa6fa592073408/artifacts
+end_time: 1757060702738
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 3a7e464da0da4e84a2fa6fa592073408
+run_name: upset-cub-38
+run_uuid: 3a7e464da0da4e84a2fa6fa592073408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060679773
+status: 3
+tags: []
+user_id: pedroasvalente

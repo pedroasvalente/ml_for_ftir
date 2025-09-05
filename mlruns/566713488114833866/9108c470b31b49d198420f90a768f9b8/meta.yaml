@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/9108c470b31b49d198420f90a768f9b8/artifacts
+end_time: 1757060667967
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 9108c470b31b49d198420f90a768f9b8
+run_name: glamorous-wren-419
+run_uuid: 9108c470b31b49d198420f90a768f9b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060643028
+status: 3
+tags: []
+user_id: pedroasvalente

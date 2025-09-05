@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/4be6fef2917f429cba52edc7d087b8fc/artifacts
+end_time: 1757061633836
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 4be6fef2917f429cba52edc7d087b8fc
+run_name: burly-snipe-926
+run_uuid: 4be6fef2917f429cba52edc7d087b8fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061621080
+status: 3
+tags: []
+user_id: pedroasvalente

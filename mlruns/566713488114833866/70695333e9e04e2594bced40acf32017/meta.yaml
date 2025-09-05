@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/70695333e9e04e2594bced40acf32017/artifacts
+end_time: 1757059575347
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 70695333e9e04e2594bced40acf32017
+run_name: redolent-yak-553
+run_uuid: 70695333e9e04e2594bced40acf32017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059497690
+status: 3
+tags: []
+user_id: pedroasvalente

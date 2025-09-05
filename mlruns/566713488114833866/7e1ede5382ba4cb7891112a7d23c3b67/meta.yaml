@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/7e1ede5382ba4cb7891112a7d23c3b67/artifacts
+end_time: 1757061633836
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 7e1ede5382ba4cb7891112a7d23c3b67
+run_name: debonair-skink-372
+run_uuid: 7e1ede5382ba4cb7891112a7d23c3b67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061621080
+status: 3
+tags: []
+user_id: pedroasvalente

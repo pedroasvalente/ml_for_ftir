@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/459d420712ba4dcfaf04939631b916ec/artifacts
+end_time: 1757062421269
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 459d420712ba4dcfaf04939631b916ec
+run_name: angry-lark-952
+run_uuid: 459d420712ba4dcfaf04939631b916ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062295587
+status: 3
+tags: []
+user_id: pedroasvalente

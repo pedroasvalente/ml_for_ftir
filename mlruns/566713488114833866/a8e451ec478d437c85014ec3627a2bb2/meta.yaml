@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/a8e451ec478d437c85014ec3627a2bb2/artifacts
+end_time: 1757060440051
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: a8e451ec478d437c85014ec3627a2bb2
+run_name: colorful-midge-377
+run_uuid: a8e451ec478d437c85014ec3627a2bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060413606
+status: 3
+tags: []
+user_id: pedroasvalente

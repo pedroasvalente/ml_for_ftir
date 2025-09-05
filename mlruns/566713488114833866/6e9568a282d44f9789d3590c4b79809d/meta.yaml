@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/6e9568a282d44f9789d3590c4b79809d/artifacts
+end_time: 1757060896664
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 6e9568a282d44f9789d3590c4b79809d
+run_name: sedate-koi-347
+run_uuid: 6e9568a282d44f9789d3590c4b79809d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060893033
+status: 3
+tags: []
+user_id: pedroasvalente

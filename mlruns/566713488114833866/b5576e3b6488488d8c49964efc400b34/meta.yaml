@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/b5576e3b6488488d8c49964efc400b34/artifacts
+end_time: 1757060676090
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: b5576e3b6488488d8c49964efc400b34
+run_name: adaptable-deer-135
+run_uuid: b5576e3b6488488d8c49964efc400b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060672610
+status: 3
+tags: []
+user_id: pedroasvalente

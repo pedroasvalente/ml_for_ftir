@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/321916268a9248968ef27cf995c21ba3/artifacts
+end_time: 1757059575347
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 321916268a9248968ef27cf995c21ba3
+run_name: bedecked-bug-547
+run_uuid: 321916268a9248968ef27cf995c21ba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059497690
+status: 3
+tags: []
+user_id: pedroasvalente

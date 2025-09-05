@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/a3951cc6b16949df81c0d29b4b12621f/artifacts
+end_time: 1757060237442
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: a3951cc6b16949df81c0d29b4b12621f
+run_name: stately-stoat-431
+run_uuid: a3951cc6b16949df81c0d29b4b12621f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060225204
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/5c935aa127ee483a803bc07ee17a85bd/artifacts
+end_time: 1757059325837
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 5c935aa127ee483a803bc07ee17a85bd
+run_name: capricious-newt-843
+run_uuid: 5c935aa127ee483a803bc07ee17a85bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059185879
+status: 3
+tags: []
+user_id: pedroasvalente

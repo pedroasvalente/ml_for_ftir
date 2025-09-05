@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/1a7b9ed846dc465bb5e65bae0e795f52/artifacts
+end_time: 1757061633836
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 1a7b9ed846dc465bb5e65bae0e795f52
+run_name: delicate-sponge-540
+run_uuid: 1a7b9ed846dc465bb5e65bae0e795f52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061621080
+status: 3
+tags: []
+user_id: pedroasvalente

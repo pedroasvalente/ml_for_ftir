@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/6cb806cf35bc4d82aec5196e4e284001/artifacts
+end_time: 1757062129398
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 6cb806cf35bc4d82aec5196e4e284001
+run_name: defiant-sheep-390
+run_uuid: 6cb806cf35bc4d82aec5196e4e284001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062116693
+status: 3
+tags: []
+user_id: pedroasvalente

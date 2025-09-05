@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/611099c59f8843129251e3615d390bfa/artifacts
+end_time: 1757059575347
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 611099c59f8843129251e3615d390bfa
+run_name: bedecked-trout-45
+run_uuid: 611099c59f8843129251e3615d390bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059497690
+status: 3
+tags: []
+user_id: pedroasvalente

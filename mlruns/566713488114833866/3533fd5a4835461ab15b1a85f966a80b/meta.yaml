@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/3533fd5a4835461ab15b1a85f966a80b/artifacts
+end_time: 1757060503083
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 3533fd5a4835461ab15b1a85f966a80b
+run_name: treasured-fly-66
+run_uuid: 3533fd5a4835461ab15b1a85f966a80b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060491165
+status: 3
+tags: []
+user_id: pedroasvalente

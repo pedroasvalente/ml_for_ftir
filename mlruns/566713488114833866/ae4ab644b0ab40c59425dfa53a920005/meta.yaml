@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/ae4ab644b0ab40c59425dfa53a920005/artifacts
+end_time: 1757060929187
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: ae4ab644b0ab40c59425dfa53a920005
+run_name: hilarious-snipe-6
+run_uuid: ae4ab644b0ab40c59425dfa53a920005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060925812
+status: 3
+tags: []
+user_id: pedroasvalente

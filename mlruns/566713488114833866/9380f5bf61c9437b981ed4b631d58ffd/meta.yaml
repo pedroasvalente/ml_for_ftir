@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/9380f5bf61c9437b981ed4b631d58ffd/artifacts
+end_time: 1757062268720
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 9380f5bf61c9437b981ed4b631d58ffd
+run_name: grandiose-squid-19
+run_uuid: 9380f5bf61c9437b981ed4b631d58ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062135509
+status: 3
+tags: []
+user_id: pedroasvalente

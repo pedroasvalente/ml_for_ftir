@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/12e9a777c3b74e529ed6b003a07ec38d/artifacts
+end_time: 1757058578515
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 12e9a777c3b74e529ed6b003a07ec38d
+run_name: burly-lark-770
+run_uuid: 12e9a777c3b74e529ed6b003a07ec38d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058482841
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/81831cc815a1490caed6941443621471/artifacts
+end_time: 1757061042550
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 81831cc815a1490caed6941443621471
+run_name: legendary-cow-127
+run_uuid: 81831cc815a1490caed6941443621471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061031288
+status: 3
+tags: []
+user_id: pedroasvalente

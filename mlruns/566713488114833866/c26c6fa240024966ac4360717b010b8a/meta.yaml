@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/c26c6fa240024966ac4360717b010b8a/artifacts
+end_time: 1757059183054
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: c26c6fa240024966ac4360717b010b8a
+run_name: fortunate-koi-814
+run_uuid: c26c6fa240024966ac4360717b010b8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059090506
+status: 3
+tags: []
+user_id: pedroasvalente

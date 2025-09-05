@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/a4f05f1d84374f69b8cfa24b15a2d705/artifacts
+end_time: 1757058747870
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: a4f05f1d84374f69b8cfa24b15a2d705
+run_name: auspicious-foal-912
+run_uuid: a4f05f1d84374f69b8cfa24b15a2d705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058653568
+status: 3
+tags: []
+user_id: pedroasvalente

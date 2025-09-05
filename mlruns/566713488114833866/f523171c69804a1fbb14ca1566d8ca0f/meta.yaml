@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/f523171c69804a1fbb14ca1566d8ca0f/artifacts
+end_time: 1757059408572
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: f523171c69804a1fbb14ca1566d8ca0f
+run_name: shivering-dove-105
+run_uuid: f523171c69804a1fbb14ca1566d8ca0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059335637
+status: 3
+tags: []
+user_id: pedroasvalente

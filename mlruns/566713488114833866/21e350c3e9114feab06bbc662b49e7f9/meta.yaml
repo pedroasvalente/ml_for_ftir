@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/21e350c3e9114feab06bbc662b49e7f9/artifacts
+end_time: 1757060638894
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 21e350c3e9114feab06bbc662b49e7f9
+run_name: wistful-conch-643
+run_uuid: 21e350c3e9114feab06bbc662b49e7f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060626755
+status: 3
+tags: []
+user_id: pedroasvalente

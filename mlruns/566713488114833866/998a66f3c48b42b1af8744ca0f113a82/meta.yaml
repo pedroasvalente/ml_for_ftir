@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/998a66f3c48b42b1af8744ca0f113a82/artifacts
+end_time: 1757060594456
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 998a66f3c48b42b1af8744ca0f113a82
+run_name: burly-dove-762
+run_uuid: 998a66f3c48b42b1af8744ca0f113a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060582113
+status: 3
+tags: []
+user_id: pedroasvalente

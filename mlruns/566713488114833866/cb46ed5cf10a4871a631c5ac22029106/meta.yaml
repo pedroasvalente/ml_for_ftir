@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/cb46ed5cf10a4871a631c5ac22029106/artifacts
+end_time: 1757059722318
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: cb46ed5cf10a4871a631c5ac22029106
+run_name: charming-lark-877
+run_uuid: cb46ed5cf10a4871a631c5ac22029106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059578089
+status: 3
+tags: []
+user_id: pedroasvalente

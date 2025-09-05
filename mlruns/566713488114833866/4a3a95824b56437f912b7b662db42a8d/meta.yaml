@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/4a3a95824b56437f912b7b662db42a8d/artifacts
+end_time: 1757058472458
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 4a3a95824b56437f912b7b662db42a8d
+run_name: puzzled-lamb-171
+run_uuid: 4a3a95824b56437f912b7b662db42a8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058325618
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/c130bc9354b74391b9e7363f04d84419/artifacts
+end_time: 1757061305864
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: c130bc9354b74391b9e7363f04d84419
+run_name: rumbling-asp-570
+run_uuid: c130bc9354b74391b9e7363f04d84419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061293791
+status: 3
+tags: []
+user_id: pedroasvalente

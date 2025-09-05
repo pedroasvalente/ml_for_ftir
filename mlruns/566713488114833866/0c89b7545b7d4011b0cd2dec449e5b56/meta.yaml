@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/0c89b7545b7d4011b0cd2dec449e5b56/artifacts
+end_time: 1757058747870
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 0c89b7545b7d4011b0cd2dec449e5b56
+run_name: caring-smelt-960
+run_uuid: 0c89b7545b7d4011b0cd2dec449e5b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058653568
+status: 3
+tags: []
+user_id: pedroasvalente

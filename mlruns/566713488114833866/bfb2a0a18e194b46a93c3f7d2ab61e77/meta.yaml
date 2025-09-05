@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/bfb2a0a18e194b46a93c3f7d2ab61e77/artifacts
+end_time: 1757068887475
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: bfb2a0a18e194b46a93c3f7d2ab61e77
+run_name: Decision Tree Regressor
+run_uuid: bfb2a0a18e194b46a93c3f7d2ab61e77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757068874991
+status: 3
+tags: []
+user_id: pedroasvalente

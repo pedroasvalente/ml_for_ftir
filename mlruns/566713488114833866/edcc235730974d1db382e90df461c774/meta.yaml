@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/edcc235730974d1db382e90df461c774/artifacts
+end_time: 1757062443460
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: edcc235730974d1db382e90df461c774
+run_name: popular-fly-576
+run_uuid: edcc235730974d1db382e90df461c774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062430832
+status: 3
+tags: []
+user_id: pedroasvalente

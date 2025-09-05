@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/94b4c45ad5444a6ca8b9b89f1489296c/artifacts
+end_time: 1757061042550
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 94b4c45ad5444a6ca8b9b89f1489296c
+run_name: luxuriant-shrike-698
+run_uuid: 94b4c45ad5444a6ca8b9b89f1489296c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061031288
+status: 3
+tags: []
+user_id: pedroasvalente

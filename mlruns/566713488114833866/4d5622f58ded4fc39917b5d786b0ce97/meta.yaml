@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/4d5622f58ded4fc39917b5d786b0ce97/artifacts
+end_time: 1757059492770
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 4d5622f58ded4fc39917b5d786b0ce97
+run_name: bouncy-stoat-671
+run_uuid: 4d5622f58ded4fc39917b5d786b0ce97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059411284
+status: 3
+tags: []
+user_id: pedroasvalente

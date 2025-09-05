@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/450826118f0e4ac086df4a208e92ec9e/artifacts
+end_time: 1757059575347
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 450826118f0e4ac086df4a208e92ec9e
+run_name: upbeat-finch-499
+run_uuid: 450826118f0e4ac086df4a208e92ec9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059497690
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/079a6c92c8114a54a9501dbeb7253e56/artifacts
+end_time: 1757062129398
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 079a6c92c8114a54a9501dbeb7253e56
+run_name: bouncy-loon-426
+run_uuid: 079a6c92c8114a54a9501dbeb7253e56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062116693
+status: 3
+tags: []
+user_id: pedroasvalente

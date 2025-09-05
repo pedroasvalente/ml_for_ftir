@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/633924177cdd4da795b34e56a004bee0/artifacts
+end_time: 1757060622571
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 633924177cdd4da795b34e56a004bee0
+run_name: upset-stag-205
+run_uuid: 633924177cdd4da795b34e56a004bee0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060598684
+status: 3
+tags: []
+user_id: pedroasvalente

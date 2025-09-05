@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/b539b20ab6dd41a1bc919723962cfe7f/artifacts
+end_time: 1757058323520
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: b539b20ab6dd41a1bc919723962cfe7f
+run_name: carefree-goat-31
+run_uuid: b539b20ab6dd41a1bc919723962cfe7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058233490
+status: 3
+tags: []
+user_id: pedroasvalente

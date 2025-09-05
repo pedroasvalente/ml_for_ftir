@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/b7bd7da8ace94c07a5849a8f8658d75c/artifacts
+end_time: 1757060440051
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: b7bd7da8ace94c07a5849a8f8658d75c
+run_name: debonair-bug-704
+run_uuid: b7bd7da8ace94c07a5849a8f8658d75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060413606
+status: 3
+tags: []
+user_id: pedroasvalente

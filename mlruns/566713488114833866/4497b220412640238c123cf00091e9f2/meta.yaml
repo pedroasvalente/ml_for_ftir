@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/4497b220412640238c123cf00091e9f2/artifacts
+end_time: 1757059722318
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 4497b220412640238c123cf00091e9f2
+run_name: vaunted-croc-328
+run_uuid: 4497b220412640238c123cf00091e9f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059578089
+status: 3
+tags: []
+user_id: pedroasvalente

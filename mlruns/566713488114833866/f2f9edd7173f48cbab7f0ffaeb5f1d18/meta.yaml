@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/f2f9edd7173f48cbab7f0ffaeb5f1d18/artifacts
+end_time: 1757060279967
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: f2f9edd7173f48cbab7f0ffaeb5f1d18
+run_name: luminous-kite-862
+run_uuid: f2f9edd7173f48cbab7f0ffaeb5f1d18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060267663
+status: 3
+tags: []
+user_id: pedroasvalente

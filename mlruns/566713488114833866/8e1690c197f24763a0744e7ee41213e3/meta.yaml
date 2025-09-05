@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/8e1690c197f24763a0744e7ee41213e3/artifacts
+end_time: 1757060070870
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 8e1690c197f24763a0744e7ee41213e3
+run_name: angry-finch-71
+run_uuid: 8e1690c197f24763a0744e7ee41213e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059971557
+status: 3
+tags: []
+user_id: pedroasvalente

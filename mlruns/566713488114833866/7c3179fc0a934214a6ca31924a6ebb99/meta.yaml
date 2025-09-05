@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/7c3179fc0a934214a6ca31924a6ebb99/artifacts
+end_time: 1757060577108
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 7c3179fc0a934214a6ca31924a6ebb99
+run_name: bald-finch-48
+run_uuid: 7c3179fc0a934214a6ca31924a6ebb99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060552442
+status: 3
+tags: []
+user_id: pedroasvalente

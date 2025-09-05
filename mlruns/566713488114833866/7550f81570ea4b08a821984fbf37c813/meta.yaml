@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/7550f81570ea4b08a821984fbf37c813/artifacts
+end_time: 1757060279967
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 7550f81570ea4b08a821984fbf37c813
+run_name: handsome-fawn-961
+run_uuid: 7550f81570ea4b08a821984fbf37c813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060267663
+status: 3
+tags: []
+user_id: pedroasvalente

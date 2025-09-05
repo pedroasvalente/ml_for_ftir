@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/8aefc78bc95a486b8a0afe2aff62ae2c/artifacts
+end_time: 1757061161821
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 8aefc78bc95a486b8a0afe2aff62ae2c
+run_name: awesome-goose-743
+run_uuid: 8aefc78bc95a486b8a0afe2aff62ae2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061149940
+status: 3
+tags: []
+user_id: pedroasvalente

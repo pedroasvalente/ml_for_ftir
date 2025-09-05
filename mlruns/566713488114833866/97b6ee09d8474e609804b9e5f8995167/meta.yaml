@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/97b6ee09d8474e609804b9e5f8995167/artifacts
+end_time: 1757060955107
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 97b6ee09d8474e609804b9e5f8995167
+run_name: gaudy-trout-831
+run_uuid: 97b6ee09d8474e609804b9e5f8995167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060933098
+status: 3
+tags: []
+user_id: pedroasvalente

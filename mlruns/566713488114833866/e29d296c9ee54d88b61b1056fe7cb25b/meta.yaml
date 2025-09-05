@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/e29d296c9ee54d88b61b1056fe7cb25b/artifacts
+end_time: 1757060350194
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: e29d296c9ee54d88b61b1056fe7cb25b
+run_name: smiling-deer-745
+run_uuid: e29d296c9ee54d88b61b1056fe7cb25b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060326209
+status: 3
+tags: []
+user_id: pedroasvalente

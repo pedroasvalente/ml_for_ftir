@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/3c78339d44a64003847d282584c365f9/artifacts
+end_time: 1757060237442
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 3c78339d44a64003847d282584c365f9
+run_name: charming-bear-187
+run_uuid: 3c78339d44a64003847d282584c365f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060225204
+status: 3
+tags: []
+user_id: pedroasvalente

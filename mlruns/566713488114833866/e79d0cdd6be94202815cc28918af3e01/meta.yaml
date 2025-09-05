@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/e79d0cdd6be94202815cc28918af3e01/artifacts
+end_time: 1757060667967
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: e79d0cdd6be94202815cc28918af3e01
+run_name: clumsy-dolphin-687
+run_uuid: e79d0cdd6be94202815cc28918af3e01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060643028
+status: 3
+tags: []
+user_id: pedroasvalente

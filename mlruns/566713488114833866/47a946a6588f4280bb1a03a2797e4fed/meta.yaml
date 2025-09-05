@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/47a946a6588f4280bb1a03a2797e4fed/artifacts
+end_time: 1757060487347
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 47a946a6588f4280bb1a03a2797e4fed
+run_name: traveling-asp-450
+run_uuid: 47a946a6588f4280bb1a03a2797e4fed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060460488
+status: 3
+tags: []
+user_id: pedroasvalente

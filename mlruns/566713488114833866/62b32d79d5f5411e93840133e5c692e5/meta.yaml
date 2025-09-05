@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/62b32d79d5f5411e93840133e5c692e5/artifacts
+end_time: 1757060998289
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 62b32d79d5f5411e93840133e5c692e5
+run_name: magnificent-ram-786
+run_uuid: 62b32d79d5f5411e93840133e5c692e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060994937
+status: 3
+tags: []
+user_id: pedroasvalente

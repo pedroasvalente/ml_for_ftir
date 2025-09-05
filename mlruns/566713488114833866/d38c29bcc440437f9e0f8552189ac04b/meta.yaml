@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/d38c29bcc440437f9e0f8552189ac04b/artifacts
+end_time: 1757061438278
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: d38c29bcc440437f9e0f8552189ac04b
+run_name: thundering-crow-855
+run_uuid: d38c29bcc440437f9e0f8552189ac04b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061311472
+status: 3
+tags: []
+user_id: pedroasvalente

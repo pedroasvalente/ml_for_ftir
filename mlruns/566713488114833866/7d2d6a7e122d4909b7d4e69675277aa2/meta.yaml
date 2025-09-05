@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/7d2d6a7e122d4909b7d4e69675277aa2/artifacts
+end_time: 1757059492770
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 7d2d6a7e122d4909b7d4e69675277aa2
+run_name: bustling-finch-125
+run_uuid: 7d2d6a7e122d4909b7d4e69675277aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059411284
+status: 3
+tags: []
+user_id: pedroasvalente

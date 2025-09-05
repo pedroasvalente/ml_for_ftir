@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/04d42971ea8e472a950bf7dbef760b81/artifacts
+end_time: 1757060896664
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 04d42971ea8e472a950bf7dbef760b81
+run_name: bedecked-carp-283
+run_uuid: 04d42971ea8e472a950bf7dbef760b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060893033
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/64a1acc9f22a454298af064a1b2ac0d8/artifacts
+end_time: 1757060676090
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 64a1acc9f22a454298af064a1b2ac0d8
+run_name: peaceful-turtle-588
+run_uuid: 64a1acc9f22a454298af064a1b2ac0d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060672610
+status: 3
+tags: []
+user_id: pedroasvalente

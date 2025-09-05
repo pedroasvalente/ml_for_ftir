@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/40b20ea8f4b24ebaa01de07c5f98c47b/artifacts
+end_time: 1757059086283
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 40b20ea8f4b24ebaa01de07c5f98c47b
+run_name: victorious-shrew-83
+run_uuid: 40b20ea8f4b24ebaa01de07c5f98c47b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058995139
+status: 3
+tags: []
+user_id: pedroasvalente

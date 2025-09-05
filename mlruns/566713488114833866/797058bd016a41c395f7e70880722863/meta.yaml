@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/797058bd016a41c395f7e70880722863/artifacts
+end_time: 1757060215539
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 797058bd016a41c395f7e70880722863
+run_name: blushing-lamb-990
+run_uuid: 797058bd016a41c395f7e70880722863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060073949
+status: 3
+tags: []
+user_id: pedroasvalente

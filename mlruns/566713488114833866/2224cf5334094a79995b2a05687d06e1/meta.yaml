@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/2224cf5334094a79995b2a05687d06e1/artifacts
+end_time: 1757060638894
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 2224cf5334094a79995b2a05687d06e1
+run_name: debonair-yak-53
+run_uuid: 2224cf5334094a79995b2a05687d06e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060626755
+status: 3
+tags: []
+user_id: pedroasvalente

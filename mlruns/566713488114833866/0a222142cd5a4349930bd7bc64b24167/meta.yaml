@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/0a222142cd5a4349930bd7bc64b24167/artifacts
+end_time: 1757060577108
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 0a222142cd5a4349930bd7bc64b24167
+run_name: resilient-shad-286
+run_uuid: 0a222142cd5a4349930bd7bc64b24167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060552442
+status: 3
+tags: []
+user_id: pedroasvalente

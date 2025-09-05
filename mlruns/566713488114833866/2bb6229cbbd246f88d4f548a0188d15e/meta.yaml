@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/2bb6229cbbd246f88d4f548a0188d15e/artifacts
+end_time: 1757062268720
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 2bb6229cbbd246f88d4f548a0188d15e
+run_name: stately-goose-1000
+run_uuid: 2bb6229cbbd246f88d4f548a0188d15e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062135509
+status: 3
+tags: []
+user_id: pedroasvalente

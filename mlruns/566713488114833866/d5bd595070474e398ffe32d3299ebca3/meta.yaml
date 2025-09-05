@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/d5bd595070474e398ffe32d3299ebca3/artifacts
+end_time: 1757060780227
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: d5bd595070474e398ffe32d3299ebca3
+run_name: ambitious-squid-79
+run_uuid: d5bd595070474e398ffe32d3299ebca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060776654
+status: 3
+tags: []
+user_id: pedroasvalente

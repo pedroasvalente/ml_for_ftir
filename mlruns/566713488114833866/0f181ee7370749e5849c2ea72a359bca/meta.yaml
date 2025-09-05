@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/0f181ee7370749e5849c2ea72a359bca/artifacts
+end_time: 1757061968229
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 0f181ee7370749e5849c2ea72a359bca
+run_name: treasured-slug-322
+run_uuid: 0f181ee7370749e5849c2ea72a359bca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061800439
+status: 3
+tags: []
+user_id: pedroasvalente

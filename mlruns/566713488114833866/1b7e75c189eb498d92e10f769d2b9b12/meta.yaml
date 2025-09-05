@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/1b7e75c189eb498d92e10f769d2b9b12/artifacts
+end_time: 1757058649567
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 1b7e75c189eb498d92e10f769d2b9b12
+run_name: thundering-hog-197
+run_uuid: 1b7e75c189eb498d92e10f769d2b9b12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058580816
+status: 3
+tags: []
+user_id: pedroasvalente

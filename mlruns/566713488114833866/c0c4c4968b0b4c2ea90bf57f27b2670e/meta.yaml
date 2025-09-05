@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/c0c4c4968b0b4c2ea90bf57f27b2670e/artifacts
+end_time: 1757060737180
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: c0c4c4968b0b4c2ea90bf57f27b2670e
+run_name: handsome-doe-790
+run_uuid: c0c4c4968b0b4c2ea90bf57f27b2670e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060713978
+status: 3
+tags: []
+user_id: pedroasvalente

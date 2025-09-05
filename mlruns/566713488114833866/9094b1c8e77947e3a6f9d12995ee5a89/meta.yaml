@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/9094b1c8e77947e3a6f9d12995ee5a89/artifacts
+end_time: 1757060409883
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 9094b1c8e77947e3a6f9d12995ee5a89
+run_name: youthful-elk-807
+run_uuid: 9094b1c8e77947e3a6f9d12995ee5a89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060396954
+status: 3
+tags: []
+user_id: pedroasvalente

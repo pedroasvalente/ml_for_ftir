@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/17ca6ac440f1433d8f813d3f8c8d6e4d/artifacts
+end_time: 1757060547785
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 17ca6ac440f1433d8f813d3f8c8d6e4d
+run_name: learned-shrimp-531
+run_uuid: 17ca6ac440f1433d8f813d3f8c8d6e4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060535365
+status: 3
+tags: []
+user_id: pedroasvalente

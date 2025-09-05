@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/a4da96014b6d4b71bb36a91f49b21b39/artifacts
+end_time: 1757061438278
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: a4da96014b6d4b71bb36a91f49b21b39
+run_name: charming-toad-703
+run_uuid: a4da96014b6d4b71bb36a91f49b21b39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061311472
+status: 3
+tags: []
+user_id: pedroasvalente

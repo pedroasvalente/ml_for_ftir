@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/4823c56fbd7a486398df6636d6d7468d/artifacts
+end_time: 1757060846752
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 4823c56fbd7a486398df6636d6d7468d
+run_name: puzzled-ray-23
+run_uuid: 4823c56fbd7a486398df6636d6d7468d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060819091
+status: 3
+tags: []
+user_id: pedroasvalente

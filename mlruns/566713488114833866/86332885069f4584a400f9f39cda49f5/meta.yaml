@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/86332885069f4584a400f9f39cda49f5/artifacts
+end_time: 1757059325837
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 86332885069f4584a400f9f39cda49f5
+run_name: adaptable-hawk-7
+run_uuid: 86332885069f4584a400f9f39cda49f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059185879
+status: 3
+tags: []
+user_id: pedroasvalente

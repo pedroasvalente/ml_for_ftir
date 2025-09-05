@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/d7f213ac18734372954abab89ea8880f/artifacts
+end_time: 1757060855326
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: d7f213ac18734372954abab89ea8880f
+run_name: abrasive-doe-946
+run_uuid: d7f213ac18734372954abab89ea8880f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060851796
+status: 3
+tags: []
+user_id: pedroasvalente

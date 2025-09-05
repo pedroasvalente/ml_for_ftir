@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/dbf6a4814a694a78b1903495df51f604/artifacts
+end_time: 1757060846752
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: dbf6a4814a694a78b1903495df51f604
+run_name: bittersweet-hawk-91
+run_uuid: dbf6a4814a694a78b1903495df51f604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060819091
+status: 3
+tags: []
+user_id: pedroasvalente

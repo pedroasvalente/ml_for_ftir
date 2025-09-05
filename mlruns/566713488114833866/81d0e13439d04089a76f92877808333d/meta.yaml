@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/81d0e13439d04089a76f92877808333d/artifacts
+end_time: 1757060638894
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 81d0e13439d04089a76f92877808333d
+run_name: nervous-sheep-42
+run_uuid: 81d0e13439d04089a76f92877808333d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060626755
+status: 3
+tags: []
+user_id: pedroasvalente

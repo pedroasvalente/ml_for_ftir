@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/8fe8e64c73144713bde518d2a407794e/artifacts
+end_time: 1757059086283
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 8fe8e64c73144713bde518d2a407794e
+run_name: upset-hog-723
+run_uuid: 8fe8e64c73144713bde518d2a407794e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058995139
+status: 3
+tags: []
+user_id: pedroasvalente

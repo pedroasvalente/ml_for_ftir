@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/4409204e97a647a88bc1bf23bbf60c5c/artifacts
+end_time: 1757060307057
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 4409204e97a647a88bc1bf23bbf60c5c
+run_name: unruly-snake-266
+run_uuid: 4409204e97a647a88bc1bf23bbf60c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060283111
+status: 3
+tags: []
+user_id: pedroasvalente

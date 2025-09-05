@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/ac09b00d178840148639c7a2fc4f1b88/artifacts
+end_time: 1757060855326
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: ac09b00d178840148639c7a2fc4f1b88
+run_name: big-koi-42
+run_uuid: ac09b00d178840148639c7a2fc4f1b88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060851796
+status: 3
+tags: []
+user_id: pedroasvalente

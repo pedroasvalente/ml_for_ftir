@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/46dbf2d1abbc46edb22920d260ae4eb4/artifacts
+end_time: 1757060710389
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 46dbf2d1abbc46edb22920d260ae4eb4
+run_name: sneaky-fish-166
+run_uuid: 46dbf2d1abbc46edb22920d260ae4eb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060707046
+status: 3
+tags: []
+user_id: pedroasvalente

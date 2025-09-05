@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/c0a8d26ba0334e51a5eca2ed72331d80/artifacts
+end_time: 1757061288378
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: c0a8d26ba0334e51a5eca2ed72331d80
+run_name: big-asp-291
+run_uuid: c0a8d26ba0334e51a5eca2ed72331d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061167204
+status: 3
+tags: []
+user_id: pedroasvalente

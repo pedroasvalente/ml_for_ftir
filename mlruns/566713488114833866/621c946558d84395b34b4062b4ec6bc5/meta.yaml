@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/621c946558d84395b34b4062b4ec6bc5/artifacts
+end_time: 1757061144656
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 621c946558d84395b34b4062b4ec6bc5
+run_name: marvelous-ray-399
+run_uuid: 621c946558d84395b34b4062b4ec6bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061047382
+status: 3
+tags: []
+user_id: pedroasvalente

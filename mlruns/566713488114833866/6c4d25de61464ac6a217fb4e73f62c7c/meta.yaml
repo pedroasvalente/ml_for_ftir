@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/6c4d25de61464ac6a217fb4e73f62c7c/artifacts
+end_time: 1757060365552
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 6c4d25de61464ac6a217fb4e73f62c7c
+run_name: stately-seal-73
+run_uuid: 6c4d25de61464ac6a217fb4e73f62c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060353595
+status: 3
+tags: []
+user_id: pedroasvalente

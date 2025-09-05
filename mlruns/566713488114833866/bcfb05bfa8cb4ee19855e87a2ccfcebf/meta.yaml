@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/bcfb05bfa8cb4ee19855e87a2ccfcebf/artifacts
+end_time: 1757061794044
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: bcfb05bfa8cb4ee19855e87a2ccfcebf
+run_name: polite-bird-572
+run_uuid: bcfb05bfa8cb4ee19855e87a2ccfcebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061781653
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/2aedb1c45d2949ab934c1d989fa981a1/artifacts
+end_time: 1757059722318
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 2aedb1c45d2949ab934c1d989fa981a1
+run_name: gifted-midge-210
+run_uuid: 2aedb1c45d2949ab934c1d989fa981a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059578089
+status: 3
+tags: []
+user_id: pedroasvalente

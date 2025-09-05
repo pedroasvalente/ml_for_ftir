@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/c05c83bd170a4833950f951d12e2933b/artifacts
+end_time: 1757062287376
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: c05c83bd170a4833950f951d12e2933b
+run_name: skittish-mouse-706
+run_uuid: c05c83bd170a4833950f951d12e2933b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062275322
+status: 3
+tags: []
+user_id: pedroasvalente

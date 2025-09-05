@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/26ca140f769e440286e2db6e841fc633/artifacts
+end_time: 1757060896664
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 26ca140f769e440286e2db6e841fc633
+run_name: indecisive-whale-961
+run_uuid: 26ca140f769e440286e2db6e841fc633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060893033
+status: 3
+tags: []
+user_id: pedroasvalente

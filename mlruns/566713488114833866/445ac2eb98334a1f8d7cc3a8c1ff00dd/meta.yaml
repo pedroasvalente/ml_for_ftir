@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/445ac2eb98334a1f8d7cc3a8c1ff00dd/artifacts
+end_time: 1757058890982
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 445ac2eb98334a1f8d7cc3a8c1ff00dd
+run_name: bald-sow-40
+run_uuid: 445ac2eb98334a1f8d7cc3a8c1ff00dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058750637
+status: 3
+tags: []
+user_id: pedroasvalente

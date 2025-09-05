@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/351137e3fd2a492495d59a7e74cd46f5/artifacts
+end_time: 1757061794044
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 351137e3fd2a492495d59a7e74cd46f5
+run_name: treasured-jay-110
+run_uuid: 351137e3fd2a492495d59a7e74cd46f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061781653
+status: 3
+tags: []
+user_id: pedroasvalente

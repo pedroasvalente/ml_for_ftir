@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/2c6e95c7d3e44b3d9cce900e96d95e8c/artifacts
+end_time: 1757059492770
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 2c6e95c7d3e44b3d9cce900e96d95e8c
+run_name: luminous-goose-417
+run_uuid: 2c6e95c7d3e44b3d9cce900e96d95e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059411284
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/453de602bc564eb5abda1a901d2e088c/artifacts
+end_time: 1757060921147
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 453de602bc564eb5abda1a901d2e088c
+run_name: clean-shoat-392
+run_uuid: 453de602bc564eb5abda1a901d2e088c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060900551
+status: 3
+tags: []
+user_id: pedroasvalente

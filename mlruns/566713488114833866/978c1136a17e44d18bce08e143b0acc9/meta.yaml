@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/978c1136a17e44d18bce08e143b0acc9/artifacts
+end_time: 1757060264366
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 978c1136a17e44d18bce08e143b0acc9
+run_name: righteous-mule-445
+run_uuid: 978c1136a17e44d18bce08e143b0acc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060240495
+status: 3
+tags: []
+user_id: pedroasvalente

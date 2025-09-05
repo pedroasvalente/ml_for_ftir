@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/ebc3f407c6c04712815251e0f4066e65/artifacts
+end_time: 1757058747870
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: ebc3f407c6c04712815251e0f4066e65
+run_name: able-hen-465
+run_uuid: ebc3f407c6c04712815251e0f4066e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058653568
+status: 3
+tags: []
+user_id: pedroasvalente

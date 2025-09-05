@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/c39ecf34dc594eb5b2a502ba740e2799/artifacts
+end_time: 1757058130178
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: c39ecf34dc594eb5b2a502ba740e2799
+run_name: bold-sponge-724
+run_uuid: c39ecf34dc594eb5b2a502ba740e2799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058037027
+status: 3
+tags: []
+user_id: pedroasvalente

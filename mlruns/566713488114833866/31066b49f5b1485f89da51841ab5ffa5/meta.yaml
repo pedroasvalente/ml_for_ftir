@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/31066b49f5b1485f89da51841ab5ffa5/artifacts
+end_time: 1757061026253
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 31066b49f5b1485f89da51841ab5ffa5
+run_name: youthful-ox-598
+run_uuid: 31066b49f5b1485f89da51841ab5ffa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061002571
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/6639bcba7e0d4ea7a994ab47cfd23b14/artifacts
+end_time: 1757062109315
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 6639bcba7e0d4ea7a994ab47cfd23b14
+run_name: rare-hen-388
+run_uuid: 6639bcba7e0d4ea7a994ab47cfd23b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061993427
+status: 3
+tags: []
+user_id: pedroasvalente

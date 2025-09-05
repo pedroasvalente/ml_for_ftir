@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/bb4ca9a69da94203bd90b23c6a84db91/artifacts
+end_time: 1757058992593
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: bb4ca9a69da94203bd90b23c6a84db91
+run_name: bald-yak-285
+run_uuid: bb4ca9a69da94203bd90b23c6a84db91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058900377
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/eade6a28cd1a4e6492f5789fef73c75e/artifacts
+end_time: 1757058747870
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: eade6a28cd1a4e6492f5789fef73c75e
+run_name: unequaled-whale-169
+run_uuid: eade6a28cd1a4e6492f5789fef73c75e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757058653568
+status: 3
+tags: []
+user_id: pedroasvalente

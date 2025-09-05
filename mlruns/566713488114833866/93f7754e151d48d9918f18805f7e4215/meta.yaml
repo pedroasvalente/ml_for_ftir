@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/93f7754e151d48d9918f18805f7e4215/artifacts
+end_time: 1757060215539
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 93f7754e151d48d9918f18805f7e4215
+run_name: popular-grouse-525
+run_uuid: 93f7754e151d48d9918f18805f7e4215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060073949
+status: 3
+tags: []
+user_id: pedroasvalente

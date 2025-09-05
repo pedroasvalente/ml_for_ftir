@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/ebcf53234cae49a9974dbab4ec1eaade/artifacts
+end_time: 1757060456770
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: ebcf53234cae49a9974dbab4ec1eaade
+run_name: popular-moose-928
+run_uuid: ebcf53234cae49a9974dbab4ec1eaade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060443848
+status: 3
+tags: []
+user_id: pedroasvalente

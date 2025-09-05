@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/ea7e57b6642a442580cc831653f00ef7/artifacts
+end_time: 1757062109315
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: ea7e57b6642a442580cc831653f00ef7
+run_name: bustling-shrew-386
+run_uuid: ea7e57b6642a442580cc831653f00ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061993427
+status: 3
+tags: []
+user_id: pedroasvalente

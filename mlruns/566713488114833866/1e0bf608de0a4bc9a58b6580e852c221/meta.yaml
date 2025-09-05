@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/1e0bf608de0a4bc9a58b6580e852c221/artifacts
+end_time: 1757062421269
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 1e0bf608de0a4bc9a58b6580e852c221
+run_name: auspicious-whale-609
+run_uuid: 1e0bf608de0a4bc9a58b6580e852c221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757062295587
+status: 3
+tags: []
+user_id: pedroasvalente

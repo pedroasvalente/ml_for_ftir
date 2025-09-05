@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/2707d2cc3230467bbc50ff619616edaf/artifacts
+end_time: 1757061305864
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 2707d2cc3230467bbc50ff619616edaf
+run_name: brawny-midge-405
+run_uuid: 2707d2cc3230467bbc50ff619616edaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061293791
+status: 3
+tags: []
+user_id: pedroasvalente

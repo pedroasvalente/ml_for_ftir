@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/ecc056ea353f44feb53668ddf126013c/artifacts
+end_time: 1757059966819
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: ecc056ea353f44feb53668ddf126013c
+run_name: marvelous-midge-312
+run_uuid: ecc056ea353f44feb53668ddf126013c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757059833884
+status: 3
+tags: []
+user_id: pedroasvalente

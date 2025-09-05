@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/835e4ff0a2af4e2cac3c0c9345ce5308/artifacts
+end_time: 1757060487347
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: 835e4ff0a2af4e2cac3c0c9345ce5308
+run_name: useful-bass-642
+run_uuid: 835e4ff0a2af4e2cac3c0c9345ce5308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060460488
+status: 3
+tags: []
+user_id: pedroasvalente

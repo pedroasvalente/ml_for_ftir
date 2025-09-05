@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/566713488114833866/f09a894c003e4216ad8881b8249124ef/artifacts
+end_time: 1757060921147
+entry_point_name: ''
+experiment_id: '566713488114833866'
+lifecycle_stage: active
+run_id: f09a894c003e4216ad8881b8249124ef
+run_name: colorful-gnat-634
+run_uuid: f09a894c003e4216ad8881b8249124ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060900551
+status: 3
+tags: []
+user_id: pedroasvalente
