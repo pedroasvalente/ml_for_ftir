@@ -3,7 +3,7 @@
     "run_name": "experiment_zero_deep_learning",
     "searchs_hipermetrics": ["grid", "bayes"],
     "model_types_to_train": ["cnn", "fcnn", "resnet"],
-    "train_percentages": [0.8, 0.7, 0.6],
+    "train_percentages": [0.8],
     "sample_types": ["CAPILAR", "PLASMA", "SALIVA", "SERUM", "URINE"],
     "targets_to_predict": ["vo2max_classes_simplified"],
     "scale":[true, false],
