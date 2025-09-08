@@ -3,6 +3,7 @@ from skopt.space import Categorical, Integer, Real
 from ml4fir.modeling.models import (
     DecisionTreeConfig,
     DecisionTreeRegressorConfig,
+    KerasMagiaClassifier,
     KerasMagiaRegressor,
     MLPConfig,
     MLPRegressorConfig,
@@ -195,47 +196,76 @@ xgboost_reg_config = XGBoostRegressorConfig(
 )
 
 
-# cnn_config = KerasMagiaClassifier(
-#     name="cnn",
-#     desc_name="Convolutional Neural Network",
-#     model_arch="CNN",
-#     model_kwargs={
-#         "filters": [16, 32, 64],
-#         "kernel_size": [3, 5],
-#         "pool_size": [2, 3],
-#         "dropout": [0.3, 0.5],
-#         "num_sequences": [1, 2, 3],
-#     },
-#     compile_kwargs={
-#         "optimizer": ["adam", "rmsprop"],
-#         "loss": ["categorical_crossentropy", "binary_crossentropy"],
-#         "metrics": ["accuracy"],
-#     },
-#     fit_kwargs={
-#         "epochs": [50, 100],
-#     },
-# )
+cnn_config = KerasMagiaClassifier(
+    name="cnn",
+    desc_name="Convolutional Neural Network",
+    model_arch="CNN",
+    model_kwargs={
+        "filters": [None, 16, 32, 64],
+        "kernel_size": [3],
+        "pool_size": [3],
+        "num_sequences": [1, 2, 4],
+        "interpretation_filters": [4, 8, 16],
+        "double_interpretation": [True],
+        "sklearn_wrapper": [True],
+        "activation_end": ["relu"],
+    },
+    compile_kwargs={
+        "optimizer": ["adam"],
+        "loss": ["categorical_crossentropy"],
+        "metrics": [["accuracy"]],
+    },
+    fit_kwargs={
+        "epochs": [300],
+        "verbose": [0],
+    },
+)
 
-# fcnn_config = KerasMagiaClassifier(
-#     name="fcnn",
-#     desc_name="Fully Connected Neural Network",
-#     model_arch="FCNN",
-#     model_kwargs={
-#         "input_dim": [16, 32, 64],
-#         "activation": ["relu"],
-#         "division_base_power": [2, 3],
-#         "num_sequences": [1, 2, 3],
-#     },
-#     compile_kwargs={
-#         "optimizer": "adam",
-#         "loss": "categorical_crossentropy",
-#         "metrics": ["accuracy"],
-#     },
-#     fit_kwargs={
-#         "epochs": [50, 100],
-#     },
-# )
+fcnn_config = KerasMagiaClassifier(
+    name="fcnn",
+    desc_name="Fully Connected Neural Network",
+    model_arch="FCNN",
+    model_kwargs={
+        "filters": [64, 32, None, 16],
+        "num_sequences": [4, 1, 2],
+        "interpretation_filters": [8, 16, 4],
+        "double_interpretation": [True],
+        "activation_end": ["relu"],
+        "division_per_dim": [False, True],
+    },
+    compile_kwargs={
+        "optimizer": ["adam"],
+        "loss": ["categorical_crossentropy"],
+        "metrics": [["accuracy"]],
+    },
+    fit_kwargs={
+        "epochs": [300],
+        "verbose": [0],
+    },
+)
 
+resnet_config = KerasMagiaClassifier(
+    name="resnet",
+    desc_name="Residual Neural Network",
+    model_arch="ResNET",
+    model_kwargs={
+        "n_filters": [None, 16, 32, 64],
+        "classes_method": ["dense"],
+        "activation_end": ["relu"],
+        "sklearn_wrapper": [True],
+        "interpretation_filters": [4, 8, 16],
+        "double_interpretation": [True],
+    },
+    compile_kwargs={
+        "optimizer": ["adam"],
+        "loss": ["categorical_crossentropy"],
+        "metrics": [["accuracy"]],
+    },
+    fit_kwargs={
+        "epochs": [300],
+        "verbose": [0],
+    },
+)
 # unet_config = KerasMagiaClassifier(
 #     name="unet",
 #     desc_name="UNet",
@@ -268,10 +298,8 @@ cnn_regressor_config = KerasMagiaRegressor(
         "num_sequences": [1, 2, 4],
         "interpretation_filters": [4, 8, 16],
         "double_interpretation": [True],
-        "sklearn_wrapper":[True],
+        "sklearn_wrapper": [True],
         "activation_end": ["relu"],
-
-
     },
     compile_kwargs={
         "optimizer": ["adam"],
@@ -291,10 +319,10 @@ fcnn_regressor_config = KerasMagiaRegressor(
     model_kwargs={
         "filters": [64, 32, None, 16],
         "num_sequences": [4, 1, 2],
-        "interpretation_filters": [8, 16,4],
+        "interpretation_filters": [8, 16, 4],
         "double_interpretation": [True],
         "activation_end": ["relu"],
-        "division_per_dim":[False,True]
+        "division_per_dim": [False, True],
     },
     compile_kwargs={
         "optimizer": ["adam"],
@@ -312,10 +340,10 @@ unet_regressor_config = KerasMagiaRegressor(
     desc_name="UNet Regressor",
     model_arch="UNET",
     model_kwargs={
-        "n_filters": [16,32, 64],
-        "classes_method":["dense"],
+        "n_filters": [16, 32, 64],
+        "classes_method": ["dense"],
         "activation_end": ["relu"],
-        "sklearn_wrapper":[True],
+        "sklearn_wrapper": [True],
         "interpretation_filters": [4, 8, 16],
         "double_interpretation": [True],
         # "n_filters": [16],
@@ -324,7 +352,6 @@ unet_regressor_config = KerasMagiaRegressor(
         # "interpretation_filters": [4],
         # "sklearn_wrapper": [True],
         # "double_interpretation": [True],
-
     },
     compile_kwargs={
         "optimizer": ["adam"],
@@ -343,10 +370,10 @@ resnet_regressor_config = KerasMagiaRegressor(
     desc_name="ResNET Regressor",
     model_arch="ResNET",
     model_kwargs={
-        "n_filters": [16,32, 64],
-        "classes_method":["dense"],
+        "n_filters": [None, 16, 32, 64],
+        "classes_method": ["dense"],
         "activation_end": ["relu"],
-        "sklearn_wrapper":[True],
+        "sklearn_wrapper": [True],
         "interpretation_filters": [4, 8, 16],
         "double_interpretation": [True],
         # "n_filters": [16],
@@ -355,7 +382,6 @@ resnet_regressor_config = KerasMagiaRegressor(
         # "interpretation_filters": [4],
         # "sklearn_wrapper": [True],
         # "double_interpretation": [True],
-
     },
     compile_kwargs={
         "optimizer": ["adam"],
@@ -374,11 +400,11 @@ attresnet_regressor_config = KerasMagiaRegressor(
     desc_name="AttResUNet Regressor",
     model_arch="AttResUNet",
     model_kwargs={
-        "n_filters": [16,32, 64],
-        "classes_method":["dense"],
+        "n_filters": [16, 32, 64],
+        "classes_method": ["dense"],
         "activation_end": ["relu"],
         "interpretation_filters": [4, 8, 16],
-        "sklearn_wrapper":[True],
+        "sklearn_wrapper": [True],
         "double_interpretation": [True],
         # "n_filters": [16],
         # "classes_method": ["dense"],
@@ -386,7 +412,6 @@ attresnet_regressor_config = KerasMagiaRegressor(
         # "interpretation_filters": [4],
         # "sklearn_wrapper": [True],
         # "double_interpretation": [True],
-
     },
     compile_kwargs={
         "optimizer": ["adam"],
@@ -405,19 +430,18 @@ resunet_regressor_config = KerasMagiaRegressor(
     desc_name="ResUNet Regressor",
     model_arch="ResUNet",
     model_kwargs={
-        "n_filters": [16,32, 64],
-        "classes_method":["dense"],
+        "n_filters": [16, 32, 64],
+        "classes_method": ["dense"],
         "activation_end": ["relu"],
-        "sklearn_wrapper":[True],
+        "sklearn_wrapper": [True],
         "interpretation_filters": [4, 8, 16],
         "double_interpretation": [True],
-    # "n_filters": [16],
-    # "classes_method": ["dense"],
-    # "activation_end": ["linear"],
-    # "interpretation_filters": [4],
-    # "sklearn_wrapper": [True],
-    # "double_interpretation": [True],
-
+        # "n_filters": [16],
+        # "classes_method": ["dense"],
+        # "activation_end": ["linear"],
+        # "interpretation_filters": [4],
+        # "sklearn_wrapper": [True],
+        # "double_interpretation": [True],
     },
     compile_kwargs={
         "optimizer": ["adam"],
@@ -439,8 +463,9 @@ models_experiment = {
     "mlp_regressor": mlp_reg_config,
     "decision_tree_regressor": decision_tree_reg_config,
     "xgboost_regressor": xgboost_reg_config,
-    # "cnn": cnn_config,
-    # "fcnn": fcnn_config,
+    "cnn": cnn_config,
+    "fcnn": fcnn_config,
+    "resnet": resnet_config,
     # "unet": unet_config,
     "cnn_regressor": cnn_regressor_config,
     "fcnn_regressor": fcnn_regressor_config,
