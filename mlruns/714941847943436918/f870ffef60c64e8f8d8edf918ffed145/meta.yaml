@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/f870ffef60c64e8f8d8edf918ffed145/artifacts
+end_time: 1757321655048
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: f870ffef60c64e8f8d8edf918ffed145
+run_name: traveling-lark-341
+run_uuid: f870ffef60c64e8f8d8edf918ffed145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321643164
+status: 3
+tags: []
+user_id: pedroasvalente

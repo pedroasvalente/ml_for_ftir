@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/674f1eaca4ca46b687524b95b0ee4ec6/artifacts
+end_time: 1757320245462
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 674f1eaca4ca46b687524b95b0ee4ec6
+run_name: bald-kite-24
+run_uuid: 674f1eaca4ca46b687524b95b0ee4ec6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320221980
+status: 3
+tags: []
+user_id: pedroasvalente

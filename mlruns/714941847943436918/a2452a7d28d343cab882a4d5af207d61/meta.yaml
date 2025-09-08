@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/a2452a7d28d343cab882a4d5af207d61/artifacts
+end_time: 1757320172748
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: a2452a7d28d343cab882a4d5af207d61
+run_name: flawless-cow-921
+run_uuid: a2452a7d28d343cab882a4d5af207d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320145053
+status: 3
+tags: []
+user_id: pedroasvalente

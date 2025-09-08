@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/b0cd3c786c394bb489e07847238ea32c/artifacts
+end_time: 1757320097036
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: b0cd3c786c394bb489e07847238ea32c
+run_name: righteous-grub-270
+run_uuid: b0cd3c786c394bb489e07847238ea32c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320074656
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/747f8dc3c0464913a64f8c75faeab6cb/artifacts
+end_time: 1757319811330
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 747f8dc3c0464913a64f8c75faeab6cb
+run_name: shivering-conch-523
+run_uuid: 747f8dc3c0464913a64f8c75faeab6cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319799282
+status: 3
+tags: []
+user_id: pedroasvalente

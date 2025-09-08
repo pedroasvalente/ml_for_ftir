@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/3fafd9a350c944628bab1bfd91637518/artifacts
+end_time: 1757320482959
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 3fafd9a350c944628bab1bfd91637518
+run_name: victorious-duck-724
+run_uuid: 3fafd9a350c944628bab1bfd91637518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320469840
+status: 3
+tags: []
+user_id: pedroasvalente

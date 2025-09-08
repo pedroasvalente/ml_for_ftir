@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/d3c6ea84fbbd4268b98d1d2479c6c236/artifacts
+end_time: 1757319837323
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: d3c6ea84fbbd4268b98d1d2479c6c236
+run_name: righteous-carp-465
+run_uuid: d3c6ea84fbbd4268b98d1d2479c6c236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319814771
+status: 3
+tags: []
+user_id: pedroasvalente

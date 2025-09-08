@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/ed9b636c9c244c1ba83807a1396dc180/artifacts
+end_time: 1757321775259
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: ed9b636c9c244c1ba83807a1396dc180
+run_name: traveling-dog-699
+run_uuid: ed9b636c9c244c1ba83807a1396dc180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321661265
+status: 3
+tags: []
+user_id: pedroasvalente

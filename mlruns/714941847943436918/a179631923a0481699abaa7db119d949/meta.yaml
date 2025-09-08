@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/a179631923a0481699abaa7db119d949/artifacts
+end_time: 1757320063117
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: a179631923a0481699abaa7db119d949
+run_name: luminous-shark-491
+run_uuid: a179631923a0481699abaa7db119d949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320042077
+status: 3
+tags: []
+user_id: pedroasvalente

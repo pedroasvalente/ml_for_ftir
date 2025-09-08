@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/40986a3826654491977abaf8da8452bc/artifacts
+end_time: 1757320245462
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 40986a3826654491977abaf8da8452bc
+run_name: resilient-perch-942
+run_uuid: 40986a3826654491977abaf8da8452bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320221980
+status: 3
+tags: []
+user_id: pedroasvalente

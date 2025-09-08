@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/950683d16cdd4deab0e533f0f75c21c9/artifacts
+end_time: 1757320172748
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 950683d16cdd4deab0e533f0f75c21c9
+run_name: bedecked-sow-545
+run_uuid: 950683d16cdd4deab0e533f0f75c21c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320145053
+status: 3
+tags: []
+user_id: pedroasvalente

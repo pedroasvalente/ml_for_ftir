@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/e2e60e5d064346f9983cc89485b6bcee/artifacts
+end_time: 1757320989195
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: e2e60e5d064346f9983cc89485b6bcee
+run_name: stylish-carp-61
+run_uuid: e2e60e5d064346f9983cc89485b6bcee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320976772
+status: 3
+tags: []
+user_id: pedroasvalente

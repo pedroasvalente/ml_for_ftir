@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/ec1dd3fe1e73435a9e8312a31af7542d/artifacts
+end_time: 1757320970555
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: ec1dd3fe1e73435a9e8312a31af7542d
+run_name: blushing-bird-724
+run_uuid: ec1dd3fe1e73435a9e8312a31af7542d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320811336
+status: 3
+tags: []
+user_id: pedroasvalente

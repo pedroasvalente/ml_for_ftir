@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/aee8c43c50af417bbd8ee653bfd88c3d/artifacts
+end_time: 1757321795690
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: aee8c43c50af417bbd8ee653bfd88c3d
+run_name: casual-cow-145
+run_uuid: aee8c43c50af417bbd8ee653bfd88c3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321783776
+status: 3
+tags: []
+user_id: pedroasvalente

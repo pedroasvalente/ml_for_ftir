@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/d1a901af31654c2da762ae42ac28bc70/artifacts
+end_time: 1757320245462
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: d1a901af31654c2da762ae42ac28bc70
+run_name: exultant-gnat-365
+run_uuid: d1a901af31654c2da762ae42ac28bc70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320221980
+status: 3
+tags: []
+user_id: pedroasvalente

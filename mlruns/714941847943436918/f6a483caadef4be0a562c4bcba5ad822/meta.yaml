@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/f6a483caadef4be0a562c4bcba5ad822/artifacts
+end_time: 1757320482959
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: f6a483caadef4be0a562c4bcba5ad822
+run_name: entertaining-ox-725
+run_uuid: f6a483caadef4be0a562c4bcba5ad822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320469840
+status: 3
+tags: []
+user_id: pedroasvalente

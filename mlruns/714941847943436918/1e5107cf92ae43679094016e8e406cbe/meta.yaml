@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/1e5107cf92ae43679094016e8e406cbe/artifacts
+end_time: 1757319076406
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 1e5107cf92ae43679094016e8e406cbe
+run_name: fearless-gnat-801
+run_uuid: 1e5107cf92ae43679094016e8e406cbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319061865
+status: 3
+tags: []
+user_id: pedroasvalente

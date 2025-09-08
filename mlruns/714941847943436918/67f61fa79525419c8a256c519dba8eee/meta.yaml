@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/67f61fa79525419c8a256c519dba8eee/artifacts
+end_time: 1757320038245
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 67f61fa79525419c8a256c519dba8eee
+run_name: bright-snipe-138
+run_uuid: 67f61fa79525419c8a256c519dba8eee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320034830
+status: 3
+tags: []
+user_id: pedroasvalente

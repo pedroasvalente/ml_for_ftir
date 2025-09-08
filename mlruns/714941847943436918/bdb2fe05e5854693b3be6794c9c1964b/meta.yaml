@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/bdb2fe05e5854693b3be6794c9c1964b/artifacts
+end_time: 1757319811330
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: bdb2fe05e5854693b3be6794c9c1964b
+run_name: amusing-elk-786
+run_uuid: bdb2fe05e5854693b3be6794c9c1964b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319799282
+status: 3
+tags: []
+user_id: pedroasvalente

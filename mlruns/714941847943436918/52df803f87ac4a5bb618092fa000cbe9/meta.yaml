@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/52df803f87ac4a5bb618092fa000cbe9/artifacts
+end_time: 1757321158388
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 52df803f87ac4a5bb618092fa000cbe9
+run_name: rumbling-midge-456
+run_uuid: 52df803f87ac4a5bb618092fa000cbe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321145837
+status: 3
+tags: []
+user_id: pedroasvalente

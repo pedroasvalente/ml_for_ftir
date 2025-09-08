@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/40699dc020a14560a77128d2b352029e/artifacts
+end_time: 1757320140827
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 40699dc020a14560a77128d2b352029e
+run_name: abundant-asp-829
+run_uuid: 40699dc020a14560a77128d2b352029e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320137344
+status: 3
+tags: []
+user_id: pedroasvalente

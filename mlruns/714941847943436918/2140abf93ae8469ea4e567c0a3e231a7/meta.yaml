@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/2140abf93ae8469ea4e567c0a3e231a7/artifacts
+end_time: 1757319895780
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 2140abf93ae8469ea4e567c0a3e231a7
+run_name: intrigued-gnat-863
+run_uuid: 2140abf93ae8469ea4e567c0a3e231a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319883779
+status: 3
+tags: []
+user_id: pedroasvalente

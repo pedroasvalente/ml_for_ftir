@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/662199e04eec425785c0bb7571d896ff/artifacts
+end_time: 1757319764269
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 662199e04eec425785c0bb7571d896ff
+run_name: rare-fowl-475
+run_uuid: 662199e04eec425785c0bb7571d896ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319750997
+status: 3
+tags: []
+user_id: pedroasvalente

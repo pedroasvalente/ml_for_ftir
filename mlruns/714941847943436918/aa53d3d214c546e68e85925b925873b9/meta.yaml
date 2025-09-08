@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/aa53d3d214c546e68e85925b925873b9/artifacts
+end_time: 1757320104640
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: aa53d3d214c546e68e85925b925873b9
+run_name: unleashed-newt-689
+run_uuid: aa53d3d214c546e68e85925b925873b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320100993
+status: 3
+tags: []
+user_id: pedroasvalente

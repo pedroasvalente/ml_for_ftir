@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/80d0e1ccdef546728dbce6aa4417141c/artifacts
+end_time: 1757319746991
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 80d0e1ccdef546728dbce6aa4417141c
+run_name: learned-croc-700
+run_uuid: 80d0e1ccdef546728dbce6aa4417141c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319719793
+status: 3
+tags: []
+user_id: pedroasvalente

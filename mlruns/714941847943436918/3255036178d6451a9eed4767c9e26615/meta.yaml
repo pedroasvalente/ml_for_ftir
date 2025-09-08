@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/3255036178d6451a9eed4767c9e26615/artifacts
+end_time: 1757319837323
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 3255036178d6451a9eed4767c9e26615
+run_name: carefree-bass-697
+run_uuid: 3255036178d6451a9eed4767c9e26615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319814771
+status: 3
+tags: []
+user_id: pedroasvalente

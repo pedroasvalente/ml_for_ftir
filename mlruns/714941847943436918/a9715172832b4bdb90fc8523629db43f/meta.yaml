@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/a9715172832b4bdb90fc8523629db43f/artifacts
+end_time: 1757320172748
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: a9715172832b4bdb90fc8523629db43f
+run_name: merciful-vole-172
+run_uuid: a9715172832b4bdb90fc8523629db43f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320145053
+status: 3
+tags: []
+user_id: pedroasvalente

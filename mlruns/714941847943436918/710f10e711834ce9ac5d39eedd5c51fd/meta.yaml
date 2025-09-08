@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/710f10e711834ce9ac5d39eedd5c51fd/artifacts
+end_time: 1757319648946
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 710f10e711834ce9ac5d39eedd5c51fd
+run_name: gifted-gnu-367
+run_uuid: 710f10e711834ce9ac5d39eedd5c51fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319623127
+status: 3
+tags: []
+user_id: pedroasvalente

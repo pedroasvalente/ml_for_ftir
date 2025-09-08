@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/007ef78a2ca1420dbe006356b601c731/artifacts
+end_time: 1757319213254
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 007ef78a2ca1420dbe006356b601c731
+run_name: nosy-shrew-265
+run_uuid: 007ef78a2ca1420dbe006356b601c731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319195049
+status: 3
+tags: []
+user_id: pedroasvalente

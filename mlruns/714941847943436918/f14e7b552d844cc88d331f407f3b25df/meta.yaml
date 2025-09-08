@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/f14e7b552d844cc88d331f407f3b25df/artifacts
+end_time: 1757320030394
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: f14e7b552d844cc88d331f407f3b25df
+run_name: polite-fish-338
+run_uuid: f14e7b552d844cc88d331f407f3b25df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320008864
+status: 3
+tags: []
+user_id: pedroasvalente

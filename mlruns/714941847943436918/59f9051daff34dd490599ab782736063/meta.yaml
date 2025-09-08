@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/59f9051daff34dd490599ab782736063/artifacts
+end_time: 1757319922504
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 59f9051daff34dd490599ab782736063
+run_name: dazzling-toad-300
+run_uuid: 59f9051daff34dd490599ab782736063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319899356
+status: 3
+tags: []
+user_id: pedroasvalente

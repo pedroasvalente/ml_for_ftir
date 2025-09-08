@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/8ba5b63043f14c30aff580d4f837a981/artifacts
+end_time: 1757320133062
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 8ba5b63043f14c30aff580d4f837a981
+run_name: invincible-shrew-903
+run_uuid: 8ba5b63043f14c30aff580d4f837a981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320108611
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/474ac9024fce400c80eb93aedc77a7e1/artifacts
+end_time: 1757320030394
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 474ac9024fce400c80eb93aedc77a7e1
+run_name: traveling-roo-84
+run_uuid: 474ac9024fce400c80eb93aedc77a7e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320008864
+status: 3
+tags: []
+user_id: pedroasvalente

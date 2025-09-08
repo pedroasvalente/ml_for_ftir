@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/7958369c64d140aaa831c47b8cdb2e28/artifacts
+end_time: 1757320290654
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 7958369c64d140aaa831c47b8cdb2e28
+run_name: upbeat-perch-814
+run_uuid: 7958369c64d140aaa831c47b8cdb2e28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320286420
+status: 3
+tags: []
+user_id: pedroasvalente

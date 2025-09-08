@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/53dc34a37c544fb89c7158966576735b/artifacts
+end_time: 1757319922504
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 53dc34a37c544fb89c7158966576735b
+run_name: wistful-gull-436
+run_uuid: 53dc34a37c544fb89c7158966576735b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319899356
+status: 3
+tags: []
+user_id: pedroasvalente

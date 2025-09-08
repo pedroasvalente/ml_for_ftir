@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/98a4448136874891a289f3b6bcc16687/artifacts
+end_time: 1757319213254
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 98a4448136874891a289f3b6bcc16687
+run_name: mysterious-panda-670
+run_uuid: 98a4448136874891a289f3b6bcc16687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319195049
+status: 3
+tags: []
+user_id: pedroasvalente

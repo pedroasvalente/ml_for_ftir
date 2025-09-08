@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/32303db4b3f64f3b9f938785f8727bb7/artifacts
+end_time: 1757321636749
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 32303db4b3f64f3b9f938785f8727bb7
+run_name: caring-wren-148
+run_uuid: 32303db4b3f64f3b9f938785f8727bb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321506541
+status: 3
+tags: []
+user_id: pedroasvalente

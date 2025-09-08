@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/083ea60b429d4819a66174cb26efa182/artifacts
+end_time: 1757321500466
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 083ea60b429d4819a66174cb26efa182
+run_name: dashing-lark-288
+run_uuid: 083ea60b429d4819a66174cb26efa182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321488686
+status: 3
+tags: []
+user_id: pedroasvalente

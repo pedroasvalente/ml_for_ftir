@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/0d81b8a40e024f22b0c9fd1017d41dd0/artifacts
+end_time: 1757320989195
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 0d81b8a40e024f22b0c9fd1017d41dd0
+run_name: redolent-steed-324
+run_uuid: 0d81b8a40e024f22b0c9fd1017d41dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320976772
+status: 3
+tags: []
+user_id: pedroasvalente

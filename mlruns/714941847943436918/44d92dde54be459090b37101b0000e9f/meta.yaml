@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/44d92dde54be459090b37101b0000e9f/artifacts
+end_time: 1757329263492
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 44d92dde54be459090b37101b0000e9f
+run_name: XGBoost Regressor
+run_uuid: 44d92dde54be459090b37101b0000e9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757329206768
+status: 3
+tags: []
+user_id: pedroasvalente

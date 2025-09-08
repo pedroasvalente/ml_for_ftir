@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/79e86c74334749a18ca9ebc515695124/artifacts
+end_time: 1757320133062
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 79e86c74334749a18ca9ebc515695124
+run_name: welcoming-carp-371
+run_uuid: 79e86c74334749a18ca9ebc515695124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320108611
+status: 3
+tags: []
+user_id: pedroasvalente

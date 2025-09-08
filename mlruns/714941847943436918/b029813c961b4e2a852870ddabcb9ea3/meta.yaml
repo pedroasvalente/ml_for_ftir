@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/b029813c961b4e2a852870ddabcb9ea3/artifacts
+end_time: 1757321931974
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: b029813c961b4e2a852870ddabcb9ea3
+run_name: whimsical-trout-320
+run_uuid: b029813c961b4e2a852870ddabcb9ea3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321802094
+status: 3
+tags: []
+user_id: pedroasvalente

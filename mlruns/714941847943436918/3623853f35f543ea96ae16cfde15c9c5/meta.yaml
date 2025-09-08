@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/3623853f35f543ea96ae16cfde15c9c5/artifacts
+end_time: 1757319922504
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 3623853f35f543ea96ae16cfde15c9c5
+run_name: stately-toad-31
+run_uuid: 3623853f35f543ea96ae16cfde15c9c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319899356
+status: 3
+tags: []
+user_id: pedroasvalente

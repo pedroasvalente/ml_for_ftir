@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/fec9b8cb5c0b44b0b71e802026cf703b/artifacts
+end_time: 1757321655048
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: fec9b8cb5c0b44b0b71e802026cf703b
+run_name: carefree-snipe-297
+run_uuid: fec9b8cb5c0b44b0b71e802026cf703b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321643164
+status: 3
+tags: []
+user_id: pedroasvalente

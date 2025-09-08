@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/a0497899ad024939bc5ed3b71aca59f9/artifacts
+end_time: 1757320639920
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: a0497899ad024939bc5ed3b71aca59f9
+run_name: righteous-fox-669
+run_uuid: a0497899ad024939bc5ed3b71aca59f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320626551
+status: 3
+tags: []
+user_id: pedroasvalente

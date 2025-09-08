@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/bd765fdaf4144fcbaf90a0631914a716/artifacts
+end_time: 1757320070446
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: bd765fdaf4144fcbaf90a0631914a716
+run_name: awesome-shad-129
+run_uuid: bd765fdaf4144fcbaf90a0631914a716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320067045
+status: 3
+tags: []
+user_id: pedroasvalente

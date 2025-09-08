@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/2ba7ca28e2fb4ba7b6575d8e3ffd6430/artifacts
+end_time: 1757319746991
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 2ba7ca28e2fb4ba7b6575d8e3ffd6430
+run_name: nimble-mouse-928
+run_uuid: 2ba7ca28e2fb4ba7b6575d8e3ffd6430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319719793
+status: 3
+tags: []
+user_id: pedroasvalente

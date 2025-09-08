@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/2809831dea0d4dca829ed61c27941684/artifacts
+end_time: 1757321931974
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 2809831dea0d4dca829ed61c27941684
+run_name: painted-ant-375
+run_uuid: 2809831dea0d4dca829ed61c27941684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321802094
+status: 3
+tags: []
+user_id: pedroasvalente

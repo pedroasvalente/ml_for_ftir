@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/a0755ae0f05142d6a7f8e5c36e89cc0b/artifacts
+end_time: 1757319192349
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: a0755ae0f05142d6a7f8e5c36e89cc0b
+run_name: delicate-midge-140
+run_uuid: a0755ae0f05142d6a7f8e5c36e89cc0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319169941
+status: 3
+tags: []
+user_id: pedroasvalente

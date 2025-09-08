@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/f194ec656c0642299ba6f6ff11913a1b/artifacts
+end_time: 1757319837323
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: f194ec656c0642299ba6f6ff11913a1b
+run_name: abrasive-pug-928
+run_uuid: f194ec656c0642299ba6f6ff11913a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319814771
+status: 3
+tags: []
+user_id: pedroasvalente

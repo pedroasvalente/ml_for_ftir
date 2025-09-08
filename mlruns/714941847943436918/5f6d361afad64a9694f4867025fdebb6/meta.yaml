@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/5f6d361afad64a9694f4867025fdebb6/artifacts
+end_time: 1757318944677
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 5f6d361afad64a9694f4867025fdebb6
+run_name: bemused-asp-331
+run_uuid: 5f6d361afad64a9694f4867025fdebb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757318928259
+status: 3
+tags: []
+user_id: pedroasvalente

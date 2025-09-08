@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/918871b88273460480d0eabad3c24702/artifacts
+end_time: 1757319619157
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 918871b88273460480d0eabad3c24702
+run_name: flawless-shrike-881
+run_uuid: 918871b88273460480d0eabad3c24702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319605427
+status: 3
+tags: []
+user_id: pedroasvalente

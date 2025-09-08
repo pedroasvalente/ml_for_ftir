@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/804630acd9bc444c876e76d3b0475942/artifacts
+end_time: 1757321655048
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 804630acd9bc444c876e76d3b0475942
+run_name: fearless-duck-237
+run_uuid: 804630acd9bc444c876e76d3b0475942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321643164
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/fa53999b9c3b464f9d3e933c6bf5db34/artifacts
+end_time: 1757318898379
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: fa53999b9c3b464f9d3e933c6bf5db34
+run_name: defiant-bee-650
+run_uuid: fa53999b9c3b464f9d3e933c6bf5db34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757318828788
+status: 3
+tags: []
+user_id: pedroasvalente

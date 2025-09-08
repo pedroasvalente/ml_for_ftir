@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/cf0da46dddcb4cfaa2758b5ad0e87870/artifacts
+end_time: 1757320215215
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: cf0da46dddcb4cfaa2758b5ad0e87870
+run_name: abrasive-perch-830
+run_uuid: cf0da46dddcb4cfaa2758b5ad0e87870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320211002
+status: 3
+tags: []
+user_id: pedroasvalente

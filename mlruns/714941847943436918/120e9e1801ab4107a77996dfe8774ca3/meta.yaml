@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/120e9e1801ab4107a77996dfe8774ca3/artifacts
+end_time: 1757320482959
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 120e9e1801ab4107a77996dfe8774ca3
+run_name: handsome-fox-351
+run_uuid: 120e9e1801ab4107a77996dfe8774ca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320469840
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/d278688f65cb4bf5a01648ba2027fb02/artifacts
+end_time: 1757319494543
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: d278688f65cb4bf5a01648ba2027fb02
+run_name: honorable-fox-4
+run_uuid: d278688f65cb4bf5a01648ba2027fb02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319479289
+status: 3
+tags: []
+user_id: pedroasvalente

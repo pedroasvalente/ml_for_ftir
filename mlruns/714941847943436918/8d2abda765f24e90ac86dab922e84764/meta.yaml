@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/8d2abda765f24e90ac86dab922e84764/artifacts
+end_time: 1757320030394
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 8d2abda765f24e90ac86dab922e84764
+run_name: unruly-smelt-22
+run_uuid: 8d2abda765f24e90ac86dab922e84764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320008864
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/d4ab8c9a9bbd40e2910f7df9c594dc0b/artifacts
+end_time: 1757319565438
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: d4ab8c9a9bbd40e2910f7df9c594dc0b
+run_name: thundering-sow-709
+run_uuid: d4ab8c9a9bbd40e2910f7df9c594dc0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319545922
+status: 3
+tags: []
+user_id: pedroasvalente

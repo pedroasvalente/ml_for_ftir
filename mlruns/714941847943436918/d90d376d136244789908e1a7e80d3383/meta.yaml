@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/d90d376d136244789908e1a7e80d3383/artifacts
+end_time: 1757319968514
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: d90d376d136244789908e1a7e80d3383
+run_name: big-shark-850
+run_uuid: d90d376d136244789908e1a7e80d3383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319944957
+status: 3
+tags: []
+user_id: pedroasvalente

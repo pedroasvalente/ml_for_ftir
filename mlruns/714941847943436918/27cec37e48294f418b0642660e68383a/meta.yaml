@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/27cec37e48294f418b0642660e68383a/artifacts
+end_time: 1757318826039
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 27cec37e48294f418b0642660e68383a
+run_name: entertaining-rook-60
+run_uuid: 27cec37e48294f418b0642660e68383a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757318796214
+status: 3
+tags: []
+user_id: pedroasvalente

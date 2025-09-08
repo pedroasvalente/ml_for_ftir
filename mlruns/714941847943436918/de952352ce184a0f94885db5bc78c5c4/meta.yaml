@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/de952352ce184a0f94885db5bc78c5c4/artifacts
+end_time: 1757319696296
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: de952352ce184a0f94885db5bc78c5c4
+run_name: whimsical-seal-483
+run_uuid: de952352ce184a0f94885db5bc78c5c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319670631
+status: 3
+tags: []
+user_id: pedroasvalente

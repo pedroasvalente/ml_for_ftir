@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/60d26e0d4b5f46f09e26f09cf1e65d86/artifacts
+end_time: 1757319764269
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 60d26e0d4b5f46f09e26f09cf1e65d86
+run_name: rebellious-skink-449
+run_uuid: 60d26e0d4b5f46f09e26f09cf1e65d86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319750997
+status: 3
+tags: []
+user_id: pedroasvalente

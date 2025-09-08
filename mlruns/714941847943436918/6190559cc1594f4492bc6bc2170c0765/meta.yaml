@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/6190559cc1594f4492bc6bc2170c0765/artifacts
+end_time: 1757319853083
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 6190559cc1594f4492bc6bc2170c0765
+run_name: lyrical-shrimp-555
+run_uuid: 6190559cc1594f4492bc6bc2170c0765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319840806
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/5f8d38f259f04d6ab4b2360a30766343/artifacts
+end_time: 1757320070446
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 5f8d38f259f04d6ab4b2360a30766343
+run_name: angry-cod-800
+run_uuid: 5f8d38f259f04d6ab4b2360a30766343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320067045
+status: 3
+tags: []
+user_id: pedroasvalente

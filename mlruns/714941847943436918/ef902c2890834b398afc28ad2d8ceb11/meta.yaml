@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/ef902c2890834b398afc28ad2d8ceb11/artifacts
+end_time: 1757319975668
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: ef902c2890834b398afc28ad2d8ceb11
+run_name: exultant-calf-950
+run_uuid: ef902c2890834b398afc28ad2d8ceb11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319972243
+status: 3
+tags: []
+user_id: pedroasvalente

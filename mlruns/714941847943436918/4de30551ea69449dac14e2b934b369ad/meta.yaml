@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/4de30551ea69449dac14e2b934b369ad/artifacts
+end_time: 1757328272223
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 4de30551ea69449dac14e2b934b369ad
+run_name: CAPILAR
+run_uuid: 4de30551ea69449dac14e2b934b369ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757318795715
+status: 3
+tags: []
+user_id: pedroasvalente

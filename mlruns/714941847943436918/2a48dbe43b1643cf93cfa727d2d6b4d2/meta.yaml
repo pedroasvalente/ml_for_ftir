@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/2a48dbe43b1643cf93cfa727d2d6b4d2/artifacts
+end_time: 1757321482123
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 2a48dbe43b1643cf93cfa727d2d6b4d2
+run_name: angry-whale-765
+run_uuid: 2a48dbe43b1643cf93cfa727d2d6b4d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321356853
+status: 3
+tags: []
+user_id: pedroasvalente

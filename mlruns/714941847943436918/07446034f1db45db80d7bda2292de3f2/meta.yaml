@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/07446034f1db45db80d7bda2292de3f2/artifacts
+end_time: 1757321795690
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 07446034f1db45db80d7bda2292de3f2
+run_name: delightful-skunk-353
+run_uuid: 07446034f1db45db80d7bda2292de3f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321783776
+status: 3
+tags: []
+user_id: pedroasvalente

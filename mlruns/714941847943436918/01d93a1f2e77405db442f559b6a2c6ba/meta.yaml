@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/01d93a1f2e77405db442f559b6a2c6ba/artifacts
+end_time: 1757320323044
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 01d93a1f2e77405db442f559b6a2c6ba
+run_name: dapper-goat-753
+run_uuid: 01d93a1f2e77405db442f559b6a2c6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320296735
+status: 3
+tags: []
+user_id: pedroasvalente

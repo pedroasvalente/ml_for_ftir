@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/cb8a05e66429402eb9e63442f0161964/artifacts
+end_time: 1757321158388
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: cb8a05e66429402eb9e63442f0161964
+run_name: bouncy-shrew-490
+run_uuid: cb8a05e66429402eb9e63442f0161964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321145837
+status: 3
+tags: []
+user_id: pedroasvalente

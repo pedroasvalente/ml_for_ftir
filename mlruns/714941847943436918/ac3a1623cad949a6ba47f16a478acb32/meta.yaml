@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/ac3a1623cad949a6ba47f16a478acb32/artifacts
+end_time: 1757321139595
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: ac3a1623cad949a6ba47f16a478acb32
+run_name: awesome-mink-865
+run_uuid: ac3a1623cad949a6ba47f16a478acb32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320995351
+status: 3
+tags: []
+user_id: pedroasvalente

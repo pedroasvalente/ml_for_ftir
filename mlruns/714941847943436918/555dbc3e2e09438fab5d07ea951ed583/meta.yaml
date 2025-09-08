@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/555dbc3e2e09438fab5d07ea951ed583/artifacts
+end_time: 1757321795690
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 555dbc3e2e09438fab5d07ea951ed583
+run_name: serious-turtle-770
+run_uuid: 555dbc3e2e09438fab5d07ea951ed583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321783776
+status: 3
+tags: []
+user_id: pedroasvalente

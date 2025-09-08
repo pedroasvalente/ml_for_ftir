@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/08b5d06cdf5e4dab89119079ff0306cb/artifacts
+end_time: 1757320787458
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 08b5d06cdf5e4dab89119079ff0306cb
+run_name: vaunted-yak-426
+run_uuid: 08b5d06cdf5e4dab89119079ff0306cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320645360
+status: 3
+tags: []
+user_id: pedroasvalente

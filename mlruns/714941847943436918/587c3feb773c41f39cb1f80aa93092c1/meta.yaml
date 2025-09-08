@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/587c3feb773c41f39cb1f80aa93092c1/artifacts
+end_time: 1757319349899
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 587c3feb773c41f39cb1f80aa93092c1
+run_name: efficient-asp-263
+run_uuid: 587c3feb773c41f39cb1f80aa93092c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319335763
+status: 3
+tags: []
+user_id: pedroasvalente

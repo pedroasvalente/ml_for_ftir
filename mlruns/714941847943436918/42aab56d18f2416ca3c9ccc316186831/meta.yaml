@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/42aab56d18f2416ca3c9ccc316186831/artifacts
+end_time: 1757319879841
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 42aab56d18f2416ca3c9ccc316186831
+run_name: classy-sow-854
+run_uuid: 42aab56d18f2416ca3c9ccc316186831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319856640
+status: 3
+tags: []
+user_id: pedroasvalente

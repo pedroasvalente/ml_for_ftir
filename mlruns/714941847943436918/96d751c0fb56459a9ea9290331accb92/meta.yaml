@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/96d751c0fb56459a9ea9290331accb92/artifacts
+end_time: 1757319448719
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 96d751c0fb56459a9ea9290331accb92
+run_name: peaceful-gnat-721
+run_uuid: 96d751c0fb56459a9ea9290331accb92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319384757
+status: 3
+tags: []
+user_id: pedroasvalente

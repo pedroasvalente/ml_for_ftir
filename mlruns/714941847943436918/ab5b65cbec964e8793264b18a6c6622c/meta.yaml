@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/ab5b65cbec964e8793264b18a6c6622c/artifacts
+end_time: 1757320097036
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: ab5b65cbec964e8793264b18a6c6622c
+run_name: fearless-bee-972
+run_uuid: ab5b65cbec964e8793264b18a6c6622c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320074656
+status: 3
+tags: []
+user_id: pedroasvalente

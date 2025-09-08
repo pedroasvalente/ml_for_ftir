@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/f66e1884f6bc4142b2925792306e8696/artifacts
+end_time: 1757320639920
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: f66e1884f6bc4142b2925792306e8696
+run_name: hilarious-snake-362
+run_uuid: f66e1884f6bc4142b2925792306e8696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320626551
+status: 3
+tags: []
+user_id: pedroasvalente

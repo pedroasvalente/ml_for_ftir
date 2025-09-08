@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/c38458042e114e788784591df756a75a/artifacts
+end_time: 1757319076406
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: c38458042e114e788784591df756a75a
+run_name: skillful-ant-8
+run_uuid: c38458042e114e788784591df756a75a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319061865
+status: 3
+tags: []
+user_id: pedroasvalente

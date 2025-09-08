@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/10fdb2157ba34f86914e6b3abc6dc299/artifacts
+end_time: 1757319192349
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 10fdb2157ba34f86914e6b3abc6dc299
+run_name: wistful-deer-334
+run_uuid: 10fdb2157ba34f86914e6b3abc6dc299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319169941
+status: 3
+tags: []
+user_id: pedroasvalente

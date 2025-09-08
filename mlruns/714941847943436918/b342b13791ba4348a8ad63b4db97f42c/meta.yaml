@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/b342b13791ba4348a8ad63b4db97f42c/artifacts
+end_time: 1757319853083
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: b342b13791ba4348a8ad63b4db97f42c
+run_name: gaudy-bear-374
+run_uuid: b342b13791ba4348a8ad63b4db97f42c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319840806
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/0d6b6bdb121d4df7917b5dea559353ae/artifacts
+end_time: 1757319332304
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 0d6b6bdb121d4df7917b5dea559353ae
+run_name: vaunted-gull-303
+run_uuid: 0d6b6bdb121d4df7917b5dea559353ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319309802
+status: 3
+tags: []
+user_id: pedroasvalente

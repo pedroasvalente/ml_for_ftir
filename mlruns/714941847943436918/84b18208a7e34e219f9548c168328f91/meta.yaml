@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/84b18208a7e34e219f9548c168328f91/artifacts
+end_time: 1757320172748
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 84b18208a7e34e219f9548c168328f91
+run_name: intrigued-quail-78
+run_uuid: 84b18208a7e34e219f9548c168328f91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320145053
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/4f7f89bb3f57463f9fb64be00f453f79/artifacts
+end_time: 1757319305080
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 4f7f89bb3f57463f9fb64be00f453f79
+run_name: righteous-panda-299
+run_uuid: 4f7f89bb3f57463f9fb64be00f453f79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319248679
+status: 3
+tags: []
+user_id: pedroasvalente

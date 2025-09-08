@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/21fef3533f164aa68707a2cf78eebf44/artifacts
+end_time: 1757319895780
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 21fef3533f164aa68707a2cf78eebf44
+run_name: enchanting-koi-632
+run_uuid: 21fef3533f164aa68707a2cf78eebf44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319883779
+status: 3
+tags: []
+user_id: pedroasvalente

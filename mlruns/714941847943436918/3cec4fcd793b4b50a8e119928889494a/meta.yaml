@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/3cec4fcd793b4b50a8e119928889494a/artifacts
+end_time: 1757320070446
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 3cec4fcd793b4b50a8e119928889494a
+run_name: industrious-wren-632
+run_uuid: 3cec4fcd793b4b50a8e119928889494a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320067045
+status: 3
+tags: []
+user_id: pedroasvalente

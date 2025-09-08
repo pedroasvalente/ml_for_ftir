@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/d6da9ebab903427795c98a235f9fed00/artifacts
+end_time: 1757318944677
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: d6da9ebab903427795c98a235f9fed00
+run_name: bedecked-goose-148
+run_uuid: d6da9ebab903427795c98a235f9fed00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757318928259
+status: 3
+tags: []
+user_id: pedroasvalente

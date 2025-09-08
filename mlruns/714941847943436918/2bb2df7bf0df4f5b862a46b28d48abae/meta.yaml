@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/2bb2df7bf0df4f5b862a46b28d48abae/artifacts
+end_time: 1757321636749
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 2bb2df7bf0df4f5b862a46b28d48abae
+run_name: clumsy-carp-802
+run_uuid: 2bb2df7bf0df4f5b862a46b28d48abae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757321506541
+status: 3
+tags: []
+user_id: pedroasvalente

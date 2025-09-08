@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/e39f6cfa2c6640989958968e0c8631f6/artifacts
+end_time: 1757318925792
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: e39f6cfa2c6640989958968e0c8631f6
+run_name: bald-stork-464
+run_uuid: e39f6cfa2c6640989958968e0c8631f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757318902373
+status: 3
+tags: []
+user_id: pedroasvalente

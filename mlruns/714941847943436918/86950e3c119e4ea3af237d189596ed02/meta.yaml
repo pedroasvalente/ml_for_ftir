@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/86950e3c119e4ea3af237d189596ed02/artifacts
+end_time: 1757319332304
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 86950e3c119e4ea3af237d189596ed02
+run_name: gentle-cow-837
+run_uuid: 86950e3c119e4ea3af237d189596ed02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319309802
+status: 3
+tags: []
+user_id: pedroasvalente

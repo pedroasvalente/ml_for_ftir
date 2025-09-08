@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/56e3c91132544c1397be9d5aff9bb3cb/artifacts
+end_time: 1757319975668
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 56e3c91132544c1397be9d5aff9bb3cb
+run_name: delightful-mole-105
+run_uuid: 56e3c91132544c1397be9d5aff9bb3cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757319972243
+status: 3
+tags: []
+user_id: pedroasvalente

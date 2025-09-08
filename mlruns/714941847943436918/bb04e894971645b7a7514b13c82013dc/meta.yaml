@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/bb04e894971645b7a7514b13c82013dc/artifacts
+end_time: 1757320063117
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: bb04e894971645b7a7514b13c82013dc
+run_name: efficient-elk-687
+run_uuid: bb04e894971645b7a7514b13c82013dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320042077
+status: 3
+tags: []
+user_id: pedroasvalente

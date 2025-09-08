@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/714941847943436918/3352bff3d3634b24ac8cccb1e9349c65/artifacts
+end_time: 1757320342132
+entry_point_name: ''
+experiment_id: '714941847943436918'
+lifecycle_stage: active
+run_id: 3352bff3d3634b24ac8cccb1e9349c65
+run_name: melodic-seal-416
+run_uuid: 3352bff3d3634b24ac8cccb1e9349c65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757320328729
+status: 3
+tags: []
+user_id: pedroasvalente
