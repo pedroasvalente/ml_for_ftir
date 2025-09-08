@@ -1,0 +1,13 @@
+{
+    "experiment_name": "FTIR Supervised Training - VO2MAX_CLASSES_SIMPLIFIED",
+    "run_name": "experiment_zero_deep_learning",
+    "searchs_hipermetrics": ["grid", "bayes"],
+    "model_types_to_train": ["cnn", "fcnn", "resnet"],
+    "train_percentages": [0.8, 0.7, 0.6],
+    "sample_types": ["CAPILAR", "PLASMA", "SALIVA", "SERUM", "URINE"],
+    "targets_to_predict": ["vo2max_classes_simplified"],
+    "scale":[true, false],
+    "apply_pls":[true, false],
+    "apply_smote_resampling":[true, false],
+    "n_components": [10]
+}
