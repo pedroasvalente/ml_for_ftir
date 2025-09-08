@@ -7,7 +7,9 @@ stratified_cv = StratifiedKFold(
 )
 regression_cv = KFold(n_splits=5, shuffle=True, random_state=random_seed)
 regression_cv_keras = KFold(n_splits=2, shuffle=True, random_state=random_seed)
-
+stratified_cv_keras = StratifiedKFold(
+    n_splits=2, shuffle=True, random_state=random_seed
+)
 
 grid_search_args = {
     "scoring": "balanced_accuracy",
@@ -104,7 +106,7 @@ search_args = {
             "n_iter": 50,
             "n_jobs": -1,
             "n_points": 10,
-            "cv": stratified_cv,
+            "cv": stratified_cv_keras,
             "scoring": "balanced_accuracy",
         },
     },
@@ -114,7 +116,17 @@ search_args = {
             "n_iter": 50,
             "n_jobs": -1,
             "n_points": 10,
-            "cv": stratified_cv,
+            "cv": stratified_cv_keras,
+            "scoring": "balanced_accuracy",
+        },
+    },
+    "resnet": {
+        "GridSearchCV": grid_search_args,
+        "BayesSearchCV": {
+            "n_iter": 50,
+            "n_jobs": -1,
+            "n_points": 10,
+            "cv": stratified_cv_keras,
             "scoring": "balanced_accuracy",
         },
     },
@@ -124,7 +136,7 @@ search_args = {
             "n_iter": 50,
             "n_jobs": -1,
             "n_points": 10,
-            "cv": stratified_cv,
+            "cv": stratified_cv_keras,
             "scoring": "balanced_accuracy",
         },
     },

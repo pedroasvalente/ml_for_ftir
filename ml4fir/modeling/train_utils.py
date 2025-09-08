@@ -467,7 +467,7 @@ def supervised_training(
                             "best model",
                             signature=signature,
                         )
-                    except Exception as e:
+                    except Exception:
                         mlflow.keras.save.log_model(
                             best_model.model(**best_model.model_kwargs),
                             "best model",
@@ -497,7 +497,9 @@ def supervised_training(
                 # Transpor os loadings
                 if loadings is not None:
                     pls_loadings = loadings.transpose()
-                    wavenumber_importances = np.abs(lv_importance @ pls_loadings)
+                    wavenumber_importances = np.abs(
+                        lv_importance @ pls_loadings
+                    )
                 else:
                     wavenumber_importances = np.abs(lv_importance)
                 wavenumber_importances /= wavenumber_importances.sum()
