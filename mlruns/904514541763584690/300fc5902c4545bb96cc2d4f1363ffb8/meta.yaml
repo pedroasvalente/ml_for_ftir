@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/300fc5902c4545bb96cc2d4f1363ffb8/artifacts
+end_time: 1757079000132
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 300fc5902c4545bb96cc2d4f1363ffb8
+run_name: entertaining-ape-570
+run_uuid: 300fc5902c4545bb96cc2d4f1363ffb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078907964
+status: 3
+tags: []
+user_id: pedroasvalente

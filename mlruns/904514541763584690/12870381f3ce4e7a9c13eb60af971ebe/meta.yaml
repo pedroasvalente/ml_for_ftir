@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/12870381f3ce4e7a9c13eb60af971ebe/artifacts
+end_time: 1757079747738
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 12870381f3ce4e7a9c13eb60af971ebe
+run_name: valuable-stag-85
+run_uuid: 12870381f3ce4e7a9c13eb60af971ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757079736575
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/7b27afaa9ca14f1c85bd97ff835f9663/artifacts
+end_time: 1757078192876
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 7b27afaa9ca14f1c85bd97ff835f9663
+run_name: aged-calf-727
+run_uuid: 7b27afaa9ca14f1c85bd97ff835f9663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078166727
+status: 3
+tags: []
+user_id: pedroasvalente

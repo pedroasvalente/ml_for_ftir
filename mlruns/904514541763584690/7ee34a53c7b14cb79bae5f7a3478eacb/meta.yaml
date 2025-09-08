@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/7ee34a53c7b14cb79bae5f7a3478eacb/artifacts
+end_time: 1757078101370
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 7ee34a53c7b14cb79bae5f7a3478eacb
+run_name: glamorous-skunk-55
+run_uuid: 7ee34a53c7b14cb79bae5f7a3478eacb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078077875
+status: 3
+tags: []
+user_id: pedroasvalente

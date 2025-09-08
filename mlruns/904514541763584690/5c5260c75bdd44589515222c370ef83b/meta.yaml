@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/5c5260c75bdd44589515222c370ef83b/artifacts
+end_time: 1757078209678
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 5c5260c75bdd44589515222c370ef83b
+run_name: secretive-swan-919
+run_uuid: 5c5260c75bdd44589515222c370ef83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078196519
+status: 3
+tags: []
+user_id: pedroasvalente

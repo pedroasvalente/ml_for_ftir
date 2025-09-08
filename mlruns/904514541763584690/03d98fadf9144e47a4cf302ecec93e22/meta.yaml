@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/03d98fadf9144e47a4cf302ecec93e22/artifacts
+end_time: 1757079123742
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 03d98fadf9144e47a4cf302ecec93e22
+run_name: intrigued-frog-928
+run_uuid: 03d98fadf9144e47a4cf302ecec93e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757079113187
+status: 3
+tags: []
+user_id: pedroasvalente

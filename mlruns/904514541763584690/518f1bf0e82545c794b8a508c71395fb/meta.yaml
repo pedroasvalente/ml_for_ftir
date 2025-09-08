@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/518f1bf0e82545c794b8a508c71395fb/artifacts
+end_time: 1757078593543
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 518f1bf0e82545c794b8a508c71395fb
+run_name: suave-dog-487
+run_uuid: 518f1bf0e82545c794b8a508c71395fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078589983
+status: 3
+tags: []
+user_id: pedroasvalente

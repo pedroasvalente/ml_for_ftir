@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/2697ca33f4fc40058a4c59b13043aeba/artifacts
+end_time: 1757079016236
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 2697ca33f4fc40058a4c59b13043aeba
+run_name: hilarious-lynx-564
+run_uuid: 2697ca33f4fc40058a4c59b13043aeba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757079005500
+status: 3
+tags: []
+user_id: pedroasvalente

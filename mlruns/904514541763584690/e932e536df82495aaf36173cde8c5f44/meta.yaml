@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/e932e536df82495aaf36173cde8c5f44/artifacts
+end_time: 1757078557676
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: e932e536df82495aaf36173cde8c5f44
+run_name: sassy-robin-714
+run_uuid: e932e536df82495aaf36173cde8c5f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078554121
+status: 3
+tags: []
+user_id: pedroasvalente

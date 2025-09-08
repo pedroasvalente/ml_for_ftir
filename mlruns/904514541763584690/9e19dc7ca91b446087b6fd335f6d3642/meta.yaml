@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/9e19dc7ca91b446087b6fd335f6d3642/artifacts
+end_time: 1757078490963
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 9e19dc7ca91b446087b6fd335f6d3642
+run_name: fearless-dolphin-224
+run_uuid: 9e19dc7ca91b446087b6fd335f6d3642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078487551
+status: 3
+tags: []
+user_id: pedroasvalente

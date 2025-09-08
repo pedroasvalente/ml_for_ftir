@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/3d72e93046694d30a216b520c534d5d5/artifacts
+end_time: 1757079233217
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 3d72e93046694d30a216b520c534d5d5
+run_name: delicate-dolphin-321
+run_uuid: 3d72e93046694d30a216b520c534d5d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757079129115
+status: 3
+tags: []
+user_id: pedroasvalente

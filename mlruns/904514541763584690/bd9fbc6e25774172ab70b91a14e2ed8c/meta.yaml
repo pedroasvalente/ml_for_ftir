@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/bd9fbc6e25774172ab70b91a14e2ed8c/artifacts
+end_time: 1757078666887
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: bd9fbc6e25774172ab70b91a14e2ed8c
+run_name: overjoyed-eel-480
+run_uuid: bd9fbc6e25774172ab70b91a14e2ed8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078663165
+status: 3
+tags: []
+user_id: pedroasvalente

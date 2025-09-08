@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/e00af40dbe9346bbac78a70d4d2493e3/artifacts
+end_time: 1757077341882
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: e00af40dbe9346bbac78a70d4d2493e3
+run_name: amusing-crow-709
+run_uuid: e00af40dbe9346bbac78a70d4d2493e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757077313270
+status: 3
+tags: []
+user_id: pedroasvalente

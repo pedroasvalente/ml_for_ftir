@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/b4e2d5d34e454a068a7857e81c33ebc4/artifacts
+end_time: 1757077439652
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: b4e2d5d34e454a068a7857e81c33ebc4
+run_name: flawless-fawn-218
+run_uuid: b4e2d5d34e454a068a7857e81c33ebc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757077381443
+status: 3
+tags: []
+user_id: pedroasvalente

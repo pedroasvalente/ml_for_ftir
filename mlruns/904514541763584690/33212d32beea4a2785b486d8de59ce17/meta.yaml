@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/33212d32beea4a2785b486d8de59ce17/artifacts
+end_time: 1757078118136
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 33212d32beea4a2785b486d8de59ce17
+run_name: traveling-wolf-820
+run_uuid: 33212d32beea4a2785b486d8de59ce17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078104995
+status: 3
+tags: []
+user_id: pedroasvalente

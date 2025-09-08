@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/e188fccd9766437f8301b6c25eed0679/artifacts
+end_time: 1757077670470
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: e188fccd9766437f8301b6c25eed0679
+run_name: adorable-smelt-105
+run_uuid: e188fccd9766437f8301b6c25eed0679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757077639093
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/9081c904a12c4f9a8d22e244a75e63bd/artifacts
+end_time: 1757079123742
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 9081c904a12c4f9a8d22e244a75e63bd
+run_name: caring-mule-424
+run_uuid: 9081c904a12c4f9a8d22e244a75e63bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757079113187
+status: 3
+tags: []
+user_id: pedroasvalente

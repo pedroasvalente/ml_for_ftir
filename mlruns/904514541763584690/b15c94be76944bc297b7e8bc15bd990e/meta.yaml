@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/b15c94be76944bc297b7e8bc15bd990e/artifacts
+end_time: 1757078343602
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: b15c94be76944bc297b7e8bc15bd990e
+run_name: fearless-hog-826
+run_uuid: b15c94be76944bc297b7e8bc15bd990e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078331702
+status: 3
+tags: []
+user_id: pedroasvalente

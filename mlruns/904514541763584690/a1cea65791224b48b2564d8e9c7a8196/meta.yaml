@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/a1cea65791224b48b2564d8e9c7a8196/artifacts
+end_time: 1757077310929
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: a1cea65791224b48b2564d8e9c7a8196
+run_name: secretive-squid-398
+run_uuid: a1cea65791224b48b2564d8e9c7a8196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757077282232
+status: 3
+tags: []
+user_id: pedroasvalente

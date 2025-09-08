@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/74f7b3625af6488ba719c57f9d984225/artifacts
+end_time: 1757078059123
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 74f7b3625af6488ba719c57f9d984225
+run_name: nosy-pig-988
+run_uuid: 74f7b3625af6488ba719c57f9d984225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078035494
+status: 3
+tags: []
+user_id: pedroasvalente

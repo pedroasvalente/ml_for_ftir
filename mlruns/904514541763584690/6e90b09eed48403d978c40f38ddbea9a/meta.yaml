@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/6e90b09eed48403d978c40f38ddbea9a/artifacts
+end_time: 1757077670470
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 6e90b09eed48403d978c40f38ddbea9a
+run_name: dazzling-newt-417
+run_uuid: 6e90b09eed48403d978c40f38ddbea9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757077639093
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/cb179d9c03ff464b9580b4f7768b9900/artifacts
+end_time: 1757077218263
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: cb179d9c03ff464b9580b4f7768b9900
+run_name: bittersweet-flea-773
+run_uuid: cb179d9c03ff464b9580b4f7768b9900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757077186665
+status: 3
+tags: []
+user_id: pedroasvalente

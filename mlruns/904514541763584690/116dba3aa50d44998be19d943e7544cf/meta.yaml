@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/116dba3aa50d44998be19d943e7544cf/artifacts
+end_time: 1757078451959
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 116dba3aa50d44998be19d943e7544cf
+run_name: invincible-sloth-717
+run_uuid: 116dba3aa50d44998be19d943e7544cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078429645
+status: 3
+tags: []
+user_id: pedroasvalente

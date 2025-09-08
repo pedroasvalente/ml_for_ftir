@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/9e0b2952e1a24795b060d4a0ad9a399a/artifacts
+end_time: 1757079000132
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 9e0b2952e1a24795b060d4a0ad9a399a
+run_name: colorful-fox-109
+run_uuid: 9e0b2952e1a24795b060d4a0ad9a399a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078907964
+status: 3
+tags: []
+user_id: pedroasvalente

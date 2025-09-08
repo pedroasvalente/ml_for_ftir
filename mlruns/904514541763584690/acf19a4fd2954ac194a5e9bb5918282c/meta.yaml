@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/acf19a4fd2954ac194a5e9bb5918282c/artifacts
+end_time: 1757078792584
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: acf19a4fd2954ac194a5e9bb5918282c
+run_name: traveling-shrike-199
+run_uuid: acf19a4fd2954ac194a5e9bb5918282c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078770825
+status: 3
+tags: []
+user_id: pedroasvalente

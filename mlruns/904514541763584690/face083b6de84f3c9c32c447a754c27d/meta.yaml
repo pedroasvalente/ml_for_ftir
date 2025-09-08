@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/face083b6de84f3c9c32c447a754c27d/artifacts
+end_time: 1757078162998
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: face083b6de84f3c9c32c447a754c27d
+run_name: bald-shad-523
+run_uuid: face083b6de84f3c9c32c447a754c27d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078150030
+status: 3
+tags: []
+user_id: pedroasvalente

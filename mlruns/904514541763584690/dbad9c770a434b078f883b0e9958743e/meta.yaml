@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/dbad9c770a434b078f883b0e9958743e/artifacts
+end_time: 1757078059123
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: dbad9c770a434b078f883b0e9958743e
+run_name: fearless-pug-188
+run_uuid: dbad9c770a434b078f883b0e9958743e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078035494
+status: 3
+tags: []
+user_id: pedroasvalente

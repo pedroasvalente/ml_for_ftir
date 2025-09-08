@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/04f6dfca8083463d9386303052c6b9e5/artifacts
+end_time: 1757078724559
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 04f6dfca8083463d9386303052c6b9e5
+run_name: thoughtful-bass-522
+run_uuid: 04f6dfca8083463d9386303052c6b9e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078702603
+status: 3
+tags: []
+user_id: pedroasvalente

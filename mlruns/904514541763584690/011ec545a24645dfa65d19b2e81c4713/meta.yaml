@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/011ec545a24645dfa65d19b2e81c4713/artifacts
+end_time: 1757078691325
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 011ec545a24645dfa65d19b2e81c4713
+run_name: bemused-jay-545
+run_uuid: 011ec545a24645dfa65d19b2e81c4713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078670880
+status: 3
+tags: []
+user_id: pedroasvalente

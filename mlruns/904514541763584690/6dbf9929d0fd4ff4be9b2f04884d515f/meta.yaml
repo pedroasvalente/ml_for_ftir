@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/6dbf9929d0fd4ff4be9b2f04884d515f/artifacts
+end_time: 1757079859250
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 6dbf9929d0fd4ff4be9b2f04884d515f
+run_name: glamorous-grouse-493
+run_uuid: 6dbf9929d0fd4ff4be9b2f04884d515f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757079754077
+status: 3
+tags: []
+user_id: pedroasvalente

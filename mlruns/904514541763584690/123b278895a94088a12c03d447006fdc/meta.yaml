@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/123b278895a94088a12c03d447006fdc/artifacts
+end_time: 1757078557676
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 123b278895a94088a12c03d447006fdc
+run_name: abrasive-trout-807
+run_uuid: 123b278895a94088a12c03d447006fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078554121
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/940923a1cc294c9f831963cbf074ad53/artifacts
+end_time: 1757078887529
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 940923a1cc294c9f831963cbf074ad53
+run_name: valuable-steed-814
+run_uuid: 940923a1cc294c9f831963cbf074ad53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078812371
+status: 3
+tags: []
+user_id: pedroasvalente

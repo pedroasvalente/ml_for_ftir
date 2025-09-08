@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/9a9111562fa042f3bc574da232d5439d/artifacts
+end_time: 1757078517007
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 9a9111562fa042f3bc574da232d5439d
+run_name: shivering-seal-190
+run_uuid: 9a9111562fa042f3bc574da232d5439d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078494510
+status: 3
+tags: []
+user_id: pedroasvalente

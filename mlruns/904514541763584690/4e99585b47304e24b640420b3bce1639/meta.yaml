@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/4e99585b47304e24b640420b3bce1639/artifacts
+end_time: 1757078732823
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 4e99585b47304e24b640420b3bce1639
+run_name: silent-stoat-922
+run_uuid: 4e99585b47304e24b640420b3bce1639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078729354
+status: 3
+tags: []
+user_id: pedroasvalente

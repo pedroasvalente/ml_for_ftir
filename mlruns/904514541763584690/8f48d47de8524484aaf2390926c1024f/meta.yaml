@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/8f48d47de8524484aaf2390926c1024f/artifacts
+end_time: 1757078257021
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 8f48d47de8524484aaf2390926c1024f
+run_name: sneaky-crab-803
+run_uuid: 8f48d47de8524484aaf2390926c1024f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078243555
+status: 3
+tags: []
+user_id: pedroasvalente

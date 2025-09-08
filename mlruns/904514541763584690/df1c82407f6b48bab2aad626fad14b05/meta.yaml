@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/df1c82407f6b48bab2aad626fad14b05/artifacts
+end_time: 1757078629117
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: df1c82407f6b48bab2aad626fad14b05
+run_name: abrasive-finch-556
+run_uuid: df1c82407f6b48bab2aad626fad14b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078625605
+status: 3
+tags: []
+user_id: pedroasvalente

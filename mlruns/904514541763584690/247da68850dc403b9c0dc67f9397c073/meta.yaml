@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/247da68850dc403b9c0dc67f9397c073/artifacts
+end_time: 1757078032219
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 247da68850dc403b9c0dc67f9397c073
+run_name: clean-seal-968
+run_uuid: 247da68850dc403b9c0dc67f9397c073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078019761
+status: 3
+tags: []
+user_id: pedroasvalente

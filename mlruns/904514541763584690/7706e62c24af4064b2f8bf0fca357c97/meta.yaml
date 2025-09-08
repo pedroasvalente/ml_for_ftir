@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/7706e62c24af4064b2f8bf0fca357c97/artifacts
+end_time: 1757087499029
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 7706e62c24af4064b2f8bf0fca357c97
+run_name: experiment_linear_respiratorycompensation_bpm
+run_uuid: 7706e62c24af4064b2f8bf0fca357c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757077185852
+status: 3
+tags: []
+user_id: pedroasvalente

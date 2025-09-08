@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/719d12b0cd604886995a51ca999129fd/artifacts
+end_time: 1757077829322
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 719d12b0cd604886995a51ca999129fd
+run_name: merciful-toad-16
+run_uuid: 719d12b0cd604886995a51ca999129fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757077798076
+status: 3
+tags: []
+user_id: pedroasvalente

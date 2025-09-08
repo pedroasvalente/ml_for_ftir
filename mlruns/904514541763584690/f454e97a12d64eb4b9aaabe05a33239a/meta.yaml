@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/f454e97a12d64eb4b9aaabe05a33239a/artifacts
+end_time: 1757078101370
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: f454e97a12d64eb4b9aaabe05a33239a
+run_name: funny-wolf-266
+run_uuid: f454e97a12d64eb4b9aaabe05a33239a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078077875
+status: 3
+tags: []
+user_id: pedroasvalente

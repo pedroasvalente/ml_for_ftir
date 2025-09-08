@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/04cb06b74a584dc4a91c4c603d6d9321/artifacts
+end_time: 1757078239799
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 04cb06b74a584dc4a91c4c603d6d9321
+run_name: unruly-skink-795
+run_uuid: 04cb06b74a584dc4a91c4c603d6d9321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078213307
+status: 3
+tags: []
+user_id: pedroasvalente

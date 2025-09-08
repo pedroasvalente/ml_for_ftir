@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/3504cdc5b1a84f4f97f7b51624094c93/artifacts
+end_time: 1757077439652
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 3504cdc5b1a84f4f97f7b51624094c93
+run_name: colorful-stork-326
+run_uuid: 3504cdc5b1a84f4f97f7b51624094c93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757077381443
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/517e0ef7872448d89256d8caa728bbfd/artifacts
+end_time: 1757077310929
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 517e0ef7872448d89256d8caa728bbfd
+run_name: vaunted-horse-513
+run_uuid: 517e0ef7872448d89256d8caa728bbfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757077282232
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/ba55e056c21b4b6192695387ffcacb9e/artifacts
+end_time: 1757078192876
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: ba55e056c21b4b6192695387ffcacb9e
+run_name: overjoyed-ape-827
+run_uuid: ba55e056c21b4b6192695387ffcacb9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078166727
+status: 3
+tags: []
+user_id: pedroasvalente

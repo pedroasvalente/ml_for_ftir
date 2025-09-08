@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/d0891897206b45b5b0995dc7fbb3e1d2/artifacts
+end_time: 1757078724559
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: d0891897206b45b5b0995dc7fbb3e1d2
+run_name: chill-shoat-72
+run_uuid: d0891897206b45b5b0995dc7fbb3e1d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078702603
+status: 3
+tags: []
+user_id: pedroasvalente

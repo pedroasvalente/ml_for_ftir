@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/36e2854ec0df4bad8b2bf97d4ad87144/artifacts
+end_time: 1757078691325
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: 36e2854ec0df4bad8b2bf97d4ad87144
+run_name: luminous-robin-293
+run_uuid: 36e2854ec0df4bad8b2bf97d4ad87144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078670880
+status: 3
+tags: []
+user_id: pedroasvalente

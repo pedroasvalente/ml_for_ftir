@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/b499826015424394b52ede4cd52d3f1a/artifacts
+end_time: 1757078490963
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: b499826015424394b52ede4cd52d3f1a
+run_name: bright-rat-240
+run_uuid: b499826015424394b52ede4cd52d3f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078487551
+status: 3
+tags: []
+user_id: pedroasvalente

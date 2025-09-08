@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/c87489278cc941679043d7071024721f/artifacts
+end_time: 1757078426151
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: c87489278cc941679043d7071024721f
+run_name: luminous-seal-81
+run_uuid: c87489278cc941679043d7071024721f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078414500
+status: 3
+tags: []
+user_id: pedroasvalente

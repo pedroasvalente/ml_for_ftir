@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/904514541763584690/b8674e208f9848f194d93ddc75f5ab56/artifacts
+end_time: 1757078484031
+entry_point_name: ''
+experiment_id: '904514541763584690'
+lifecycle_stage: active
+run_id: b8674e208f9848f194d93ddc75f5ab56
+run_name: masked-snipe-896
+run_uuid: b8674e208f9848f194d93ddc75f5ab56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757078462593
+status: 3
+tags: []
+user_id: pedroasvalente
