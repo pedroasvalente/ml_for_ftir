@@ -1,0 +1,13 @@
+{
+    "experiment_name": "FTIR Supervised Training - BODYFAT_CLASSES_SIMPLIFIED",
+    "run_name": "experiment_zero",
+    "searchs_hipermetrics": ["grid", "bayes"],
+    "model_types_to_train": ["random_forest", "mlp_classifier", "decision_tree", "xgboost"],
+    "train_percentages": [0.8, 0.7, 0.6],
+    "sample_types": ["CAPILAR", "PLASMA", "SALIVA", "SERUM", "URINE"],
+    "targets_to_predict": ["bodyfat_classes_simplified"],
+    "scale":[true, false],
+    "apply_pls":[true, false],
+    "apply_smote_resampling":[true, false],
+    "n_components": [10]
+}
