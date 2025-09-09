@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/385afbaa57bf4fa3a219f7a68761f3c3/artifacts
+end_time: 1757374936799
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 385afbaa57bf4fa3a219f7a68761f3c3
+run_name: flawless-ram-578
+run_uuid: 385afbaa57bf4fa3a219f7a68761f3c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757374454104
+status: 3
+tags: []
+user_id: joao

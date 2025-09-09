@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/ada8debbfa5b4792b420d5cb010a62dd/artifacts
+end_time: 1757370728078
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: ada8debbfa5b4792b420d5cb010a62dd
+run_name: ResNET Regressor
+run_uuid: ada8debbfa5b4792b420d5cb010a62dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757370198060
+status: 3
+tags: []
+user_id: joao

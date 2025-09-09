@@ -1,0 +1,1 @@
+{'n_filters': 16, 'classes_method': 'dense', 'activation_end': 'relu', 'sklearn_wrapper': True, 'interpretation_filters': 16, 'double_interpretation': True, 'compile_kwargs': {'optimizer': 'adam', 'loss': 'mse', 'metrics': ['mae', 'mape']}}

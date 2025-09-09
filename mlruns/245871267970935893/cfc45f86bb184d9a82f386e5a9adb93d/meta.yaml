@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/cfc45f86bb184d9a82f386e5a9adb93d/artifacts
+end_time: 1757377808057
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: cfc45f86bb184d9a82f386e5a9adb93d
+run_name: traveling-wasp-421
+run_uuid: cfc45f86bb184d9a82f386e5a9adb93d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757375030728
+status: 3
+tags: []
+user_id: joao

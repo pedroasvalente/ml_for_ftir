@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/2455dce6166a4629864505524dafc47b/artifacts
+end_time: 1757377808057
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 2455dce6166a4629864505524dafc47b
+run_name: lyrical-hen-559
+run_uuid: 2455dce6166a4629864505524dafc47b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757375030728
+status: 3
+tags: []
+user_id: joao

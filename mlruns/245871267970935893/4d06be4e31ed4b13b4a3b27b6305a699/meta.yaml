@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/4d06be4e31ed4b13b4a3b27b6305a699/artifacts
+end_time: 1757378108434
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 4d06be4e31ed4b13b4a3b27b6305a699
+run_name: CAPILAR
+run_uuid: 4d06be4e31ed4b13b4a3b27b6305a699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757370175451
+status: 3
+tags: []
+user_id: joao

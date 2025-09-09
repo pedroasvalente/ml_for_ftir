@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245871267970935893/157c18eded7b48ea90e9926ee55ca30b/artifacts
+end_time: 1757370721471
+entry_point_name: ''
+experiment_id: '245871267970935893'
+lifecycle_stage: active
+run_id: 157c18eded7b48ea90e9926ee55ca30b
+run_name: merciful-ant-435
+run_uuid: 157c18eded7b48ea90e9926ee55ca30b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757370198060
+status: 3
+tags: []
+user_id: joao
