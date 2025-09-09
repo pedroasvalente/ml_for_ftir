@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/470297744325376092/9a756877dfc64d33b2d27b7a292e081c/artifacts
+end_time: 1757381442414
+entry_point_name: ''
+experiment_id: '470297744325376092'
+lifecycle_stage: active
+run_id: 9a756877dfc64d33b2d27b7a292e081c
+run_name: shivering-tern-591
+run_uuid: 9a756877dfc64d33b2d27b7a292e081c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757378167353
+status: 3
+tags: []
+user_id: joao

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/470297744325376092/82a83cbf98674b2996867ec9e96143e3/artifacts
+end_time: 1757381443064
+entry_point_name: ''
+experiment_id: '470297744325376092'
+lifecycle_stage: active
+run_id: 82a83cbf98674b2996867ec9e96143e3
+run_name: experiment_zero_deep_learning_bodyfat_classes
+run_uuid: 82a83cbf98674b2996867ec9e96143e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757378166213
+status: 4
+tags: []
+user_id: joao

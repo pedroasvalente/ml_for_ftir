@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/470297744325376092/ac1cbe1f122f48f89032dcf47426a017/artifacts
+end_time: 1757381442414
+entry_point_name: ''
+experiment_id: '470297744325376092'
+lifecycle_stage: active
+run_id: ac1cbe1f122f48f89032dcf47426a017
+run_name: fun-newt-696
+run_uuid: ac1cbe1f122f48f89032dcf47426a017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757378167353
+status: 3
+tags: []
+user_id: joao

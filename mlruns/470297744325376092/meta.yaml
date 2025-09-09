@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/470297744325376092
+creation_time: 1757378166125
+experiment_id: '470297744325376092'
+last_update_time: 1757378166125
+lifecycle_stage: active
+name: FTIR Supervised Training - BODYFAT_CLASSES

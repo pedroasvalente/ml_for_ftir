@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/470297744325376092/c850b9e38b04402481192dad04c4dcc3/artifacts
+end_time: 1757381442764
+entry_point_name: ''
+experiment_id: '470297744325376092'
+lifecycle_stage: active
+run_id: c850b9e38b04402481192dad04c4dcc3
+run_name: Convolutional Neural Network
+run_uuid: c850b9e38b04402481192dad04c4dcc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757378167353
+status: 4
+tags: []
+user_id: joao
