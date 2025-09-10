@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/5d2cbfb33b0b49b89207bb1c198a8fdb/artifacts
+end_time: 1757518285268
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 5d2cbfb33b0b49b89207bb1c198a8fdb
+run_name: amazing-flea-524
+run_uuid: 5d2cbfb33b0b49b89207bb1c198a8fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518125423
+status: 3
+tags: []
+user_id: pedroasvalente

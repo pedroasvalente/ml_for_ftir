@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/54b2a00fc38d45c19789dbf0f21995bf/artifacts
+end_time: 1757520286528
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 54b2a00fc38d45c19789dbf0f21995bf
+run_name: amusing-hen-213
+run_uuid: 54b2a00fc38d45c19789dbf0f21995bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757520275535
+status: 3
+tags: []
+user_id: pedroasvalente

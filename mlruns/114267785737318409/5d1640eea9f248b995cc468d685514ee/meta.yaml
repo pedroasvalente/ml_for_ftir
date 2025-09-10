@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/5d1640eea9f248b995cc468d685514ee/artifacts
+end_time: 1757518703369
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 5d1640eea9f248b995cc468d685514ee
+run_name: wistful-koi-343
+run_uuid: 5d1640eea9f248b995cc468d685514ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518691140
+status: 3
+tags: []
+user_id: pedroasvalente

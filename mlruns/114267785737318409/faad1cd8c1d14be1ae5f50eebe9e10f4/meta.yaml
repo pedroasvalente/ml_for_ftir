@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/faad1cd8c1d14be1ae5f50eebe9e10f4/artifacts
+end_time: 1757519049819
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: faad1cd8c1d14be1ae5f50eebe9e10f4
+run_name: receptive-penguin-23
+run_uuid: faad1cd8c1d14be1ae5f50eebe9e10f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519046462
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/8b713c7e9b0f49a0b385a87211407e5e/artifacts
+end_time: 1757519361260
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 8b713c7e9b0f49a0b385a87211407e5e
+run_name: monumental-colt-983
+run_uuid: 8b713c7e9b0f49a0b385a87211407e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519349911
+status: 3
+tags: []
+user_id: pedroasvalente

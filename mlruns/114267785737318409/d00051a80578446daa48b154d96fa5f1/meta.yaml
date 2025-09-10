@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/d00051a80578446daa48b154d96fa5f1/artifacts
+end_time: 1757520400281
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: d00051a80578446daa48b154d96fa5f1
+run_name: gaudy-shark-606
+run_uuid: d00051a80578446daa48b154d96fa5f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757520292021
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/36cad342e01043048d04be537234c7ce/artifacts
+end_time: 1757518802575
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 36cad342e01043048d04be537234c7ce
+run_name: traveling-lamb-443
+run_uuid: 36cad342e01043048d04be537234c7ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518799216
+status: 3
+tags: []
+user_id: pedroasvalente

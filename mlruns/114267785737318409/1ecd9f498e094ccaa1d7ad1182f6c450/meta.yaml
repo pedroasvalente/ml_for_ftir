@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/1ecd9f498e094ccaa1d7ad1182f6c450/artifacts
+end_time: 1757520417073
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 1ecd9f498e094ccaa1d7ad1182f6c450
+run_name: able-snake-174
+run_uuid: 1ecd9f498e094ccaa1d7ad1182f6c450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757520406128
+status: 3
+tags: []
+user_id: pedroasvalente

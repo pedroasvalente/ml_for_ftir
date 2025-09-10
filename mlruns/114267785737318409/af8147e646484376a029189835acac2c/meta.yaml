@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/af8147e646484376a029189835acac2c/artifacts
+end_time: 1757520116063
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: af8147e646484376a029189835acac2c
+run_name: unruly-rat-31
+run_uuid: af8147e646484376a029189835acac2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757520002280
+status: 3
+tags: []
+user_id: pedroasvalente

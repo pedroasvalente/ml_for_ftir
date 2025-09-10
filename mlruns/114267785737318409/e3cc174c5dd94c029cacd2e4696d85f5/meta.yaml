@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/e3cc174c5dd94c029cacd2e4696d85f5/artifacts
+end_time: 1757517309780
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: e3cc174c5dd94c029cacd2e4696d85f5
+run_name: loud-squirrel-40
+run_uuid: e3cc174c5dd94c029cacd2e4696d85f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757517163190
+status: 3
+tags: []
+user_id: pedroasvalente

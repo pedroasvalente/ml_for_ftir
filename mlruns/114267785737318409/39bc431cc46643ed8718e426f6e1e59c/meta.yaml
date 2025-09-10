@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/39bc431cc46643ed8718e426f6e1e59c/artifacts
+end_time: 1757518905005
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 39bc431cc46643ed8718e426f6e1e59c
+run_name: flawless-grouse-844
+run_uuid: 39bc431cc46643ed8718e426f6e1e59c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518901626
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/de83a5d486714bd5ad950ebaadbd5455/artifacts
+end_time: 1757518644177
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: de83a5d486714bd5ad950ebaadbd5455
+run_name: merciful-grub-42
+run_uuid: de83a5d486714bd5ad950ebaadbd5455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518619985
+status: 3
+tags: []
+user_id: pedroasvalente

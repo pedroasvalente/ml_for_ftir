@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/8ece2aa4f15a4ce793cb003af2a06f18/artifacts
+end_time: 1757518978843
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 8ece2aa4f15a4ce793cb003af2a06f18
+run_name: debonair-mole-741
+run_uuid: 8ece2aa4f15a4ce793cb003af2a06f18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518975465
+status: 3
+tags: []
+user_id: pedroasvalente

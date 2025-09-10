@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/354b8067bab046cd85ef235c04388bf3/artifacts
+end_time: 1757519503095
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 354b8067bab046cd85ef235c04388bf3
+run_name: monumental-sheep-898
+run_uuid: 354b8067bab046cd85ef235c04388bf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519491928
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/97c70ae1cf144923bf404586d13ccefc/artifacts
+end_time: 1757516361930
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 97c70ae1cf144923bf404586d13ccefc
+run_name: nervous-midge-389
+run_uuid: 97c70ae1cf144923bf404586d13ccefc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757516224397
+status: 3
+tags: []
+user_id: pedroasvalente

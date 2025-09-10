@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/ec7e8e03673b4327a94f7840fc3beecd/artifacts
+end_time: 1757517032642
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: ec7e8e03673b4327a94f7840fc3beecd
+run_name: gifted-sloth-483
+run_uuid: ec7e8e03673b4327a94f7840fc3beecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757516911524
+status: 3
+tags: []
+user_id: pedroasvalente

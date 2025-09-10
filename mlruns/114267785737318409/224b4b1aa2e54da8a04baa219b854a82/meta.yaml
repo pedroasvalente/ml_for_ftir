@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/224b4b1aa2e54da8a04baa219b854a82/artifacts
+end_time: 1757520400281
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 224b4b1aa2e54da8a04baa219b854a82
+run_name: dazzling-fly-458
+run_uuid: 224b4b1aa2e54da8a04baa219b854a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757520292021
+status: 3
+tags: []
+user_id: pedroasvalente

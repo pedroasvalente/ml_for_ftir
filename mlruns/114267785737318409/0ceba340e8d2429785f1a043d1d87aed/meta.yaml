@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/0ceba340e8d2429785f1a043d1d87aed/artifacts
+end_time: 1757516015936
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 0ceba340e8d2429785f1a043d1d87aed
+run_name: selective-tern-26
+run_uuid: 0ceba340e8d2429785f1a043d1d87aed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515918559
+status: 3
+tags: []
+user_id: pedroasvalente

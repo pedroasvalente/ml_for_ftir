@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/5cba456270e84dcfb757e313a3eaf13e/artifacts
+end_time: 1757519093418
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 5cba456270e84dcfb757e313a3eaf13e
+run_name: delightful-stork-830
+run_uuid: 5cba456270e84dcfb757e313a3eaf13e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519082186
+status: 3
+tags: []
+user_id: pedroasvalente

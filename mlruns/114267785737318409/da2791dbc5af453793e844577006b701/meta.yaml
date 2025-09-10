@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/da2791dbc5af453793e844577006b701/artifacts
+end_time: 1757519503095
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: da2791dbc5af453793e844577006b701
+run_name: gentle-ray-911
+run_uuid: da2791dbc5af453793e844577006b701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519491928
+status: 3
+tags: []
+user_id: pedroasvalente

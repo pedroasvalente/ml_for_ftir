@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/a9d4e472c5f94cd898fa925f85e51530/artifacts
+end_time: 1757520547931
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: a9d4e472c5f94cd898fa925f85e51530
+run_name: upbeat-mink-629
+run_uuid: a9d4e472c5f94cd898fa925f85e51530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757520422460
+status: 3
+tags: []
+user_id: pedroasvalente

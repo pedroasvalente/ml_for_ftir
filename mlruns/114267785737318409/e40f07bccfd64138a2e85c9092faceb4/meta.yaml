@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/e40f07bccfd64138a2e85c9092faceb4/artifacts
+end_time: 1757519049819
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: e40f07bccfd64138a2e85c9092faceb4
+run_name: gentle-robin-565
+run_uuid: e40f07bccfd64138a2e85c9092faceb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519046462
+status: 3
+tags: []
+user_id: pedroasvalente

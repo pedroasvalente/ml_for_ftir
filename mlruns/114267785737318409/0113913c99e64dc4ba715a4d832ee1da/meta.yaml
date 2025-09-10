@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/0113913c99e64dc4ba715a4d832ee1da/artifacts
+end_time: 1757519202667
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 0113913c99e64dc4ba715a4d832ee1da
+run_name: skittish-cow-139
+run_uuid: 0113913c99e64dc4ba715a4d832ee1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519098098
+status: 3
+tags: []
+user_id: pedroasvalente

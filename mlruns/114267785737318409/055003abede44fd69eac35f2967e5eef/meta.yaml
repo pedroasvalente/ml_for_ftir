@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/055003abede44fd69eac35f2967e5eef/artifacts
+end_time: 1757518616419
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 055003abede44fd69eac35f2967e5eef
+run_name: likeable-colt-599
+run_uuid: 055003abede44fd69eac35f2967e5eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518604340
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/dbd1ef4ce3264feca25ebcf6a6b4452d/artifacts
+end_time: 1757519202667
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: dbd1ef4ce3264feca25ebcf6a6b4452d
+run_name: delicate-loon-482
+run_uuid: dbd1ef4ce3264feca25ebcf6a6b4452d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519098098
+status: 3
+tags: []
+user_id: pedroasvalente

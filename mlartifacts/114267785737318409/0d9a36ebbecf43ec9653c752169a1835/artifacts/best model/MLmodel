@@ -1,0 +1,637 @@
+artifact_path: best model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.8
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.21.3
+model_size_bytes: 16601
+model_uuid: 41929c7e270c45bfab9e151e76856a7b
+prompts: null
+run_id: 0d9a36ebbecf43ec9653c752169a1835
+signature:
+  inputs: '[{"type": "double", "name": "3050.854846120364", "required": true}, {"type":
+    "double", "name": "3048.926366445193", "required": true}, {"type": "double", "name":
+    "3046.997886770022", "required": true}, {"type": "double", "name": "3045.069407094851",
+    "required": true}, {"type": "double", "name": "3043.14092741968", "required":
+    true}, {"type": "double", "name": "3041.212447744509", "required": true}, {"type":
+    "double", "name": "3039.283968069338", "required": true}, {"type": "double", "name":
+    "3037.355488394167", "required": true}, {"type": "double", "name": "3035.427008718997",
+    "required": true}, {"type": "double", "name": "3033.498529043825", "required":
+    true}, {"type": "double", "name": "3031.570049368655", "required": true}, {"type":
+    "double", "name": "3029.641569693484", "required": true}, {"type": "double", "name":
+    "3027.713090018313", "required": true}, {"type": "double", "name": "3025.784610343142",
+    "required": true}, {"type": "double", "name": "3023.856130667971", "required":
+    true}, {"type": "double", "name": "3021.9276509928", "required": true}, {"type":
+    "double", "name": "3019.999171317629", "required": true}, {"type": "double", "name":
+    "3018.070691642458", "required": true}, {"type": "double", "name": "3016.142211967287",
+    "required": true}, {"type": "double", "name": "3014.213732292117", "required":
+    true}, {"type": "double", "name": "3012.285252616945", "required": true}, {"type":
+    "double", "name": "3010.356772941775", "required": true}, {"type": "double", "name":
+    "3008.428293266604", "required": true}, {"type": "double", "name": "3006.499813591433",
+    "required": true}, {"type": "double", "name": "3004.571333916262", "required":
+    true}, {"type": "double", "name": "3002.642854241091", "required": true}, {"type":
+    "double", "name": "3000.71437456592", "required": true}, {"type": "double", "name":
+    "2998.785894890749", "required": true}, {"type": "double", "name": "2996.857415215578",
+    "required": true}, {"type": "double", "name": "2994.928935540408", "required":
+    true}, {"type": "double", "name": "2993.000455865237", "required": true}, {"type":
+    "double", "name": "2991.071976190066", "required": true}, {"type": "double", "name":
+    "2989.143496514895", "required": true}, {"type": "double", "name": "2987.215016839724",
+    "required": true}, {"type": "double", "name": "2985.286537164553", "required":
+    true}, {"type": "double", "name": "2983.358057489382", "required": true}, {"type":
+    "double", "name": "2981.429577814211", "required": true}, {"type": "double", "name":
+    "2979.501098139041", "required": true}, {"type": "double", "name": "2977.572618463869",
+    "required": true}, {"type": "double", "name": "2975.644138788698", "required":
+    true}, {"type": "double", "name": "2973.715659113528", "required": true}, {"type":
+    "double", "name": "2971.787179438357", "required": true}, {"type": "double", "name":
+    "2969.858699763186", "required": true}, {"type": "double", "name": "2967.930220088015",
+    "required": true}, {"type": "double", "name": "2966.001740412844", "required":
+    true}, {"type": "double", "name": "2964.073260737673", "required": true}, {"type":
+    "double", "name": "2962.144781062502", "required": true}, {"type": "double", "name":
+    "2960.216301387331", "required": true}, {"type": "double", "name": "2958.287821712161",
+    "required": true}, {"type": "double", "name": "2956.359342036989", "required":
+    true}, {"type": "double", "name": "2954.430862361819", "required": true}, {"type":
+    "double", "name": "2952.502382686648", "required": true}, {"type": "double", "name":
+    "2950.573903011477", "required": true}, {"type": "double", "name": "2948.645423336306",
+    "required": true}, {"type": "double", "name": "2946.716943661135", "required":
+    true}, {"type": "double", "name": "2944.788463985964", "required": true}, {"type":
+    "double", "name": "2942.859984310793", "required": true}, {"type": "double", "name":
+    "2940.931504635622", "required": true}, {"type": "double", "name": "2939.003024960452",
+    "required": true}, {"type": "double", "name": "2937.074545285281", "required":
+    true}, {"type": "double", "name": "2935.146065610109", "required": true}, {"type":
+    "double", "name": "2933.217585934939", "required": true}, {"type": "double", "name":
+    "2931.289106259768", "required": true}, {"type": "double", "name": "2929.360626584597",
+    "required": true}, {"type": "double", "name": "2927.432146909426", "required":
+    true}, {"type": "double", "name": "2925.503667234255", "required": true}, {"type":
+    "double", "name": "2923.575187559084", "required": true}, {"type": "double", "name":
+    "2921.646707883913", "required": true}, {"type": "double", "name": "2919.718228208742",
+    "required": true}, {"type": "double", "name": "2917.789748533572", "required":
+    true}, {"type": "double", "name": "2915.861268858401", "required": true}, {"type":
+    "double", "name": "2913.93278918323", "required": true}, {"type": "double", "name":
+    "2912.004309508059", "required": true}, {"type": "double", "name": "2910.075829832888",
+    "required": true}, {"type": "double", "name": "2908.147350157717", "required":
+    true}, {"type": "double", "name": "2906.218870482546", "required": true}, {"type":
+    "double", "name": "2904.290390807375", "required": true}, {"type": "double", "name":
+    "2902.361911132204", "required": true}, {"type": "double", "name": "2900.433431457033",
+    "required": true}, {"type": "double", "name": "2898.504951781862", "required":
+    true}, {"type": "double", "name": "2896.576472106692", "required": true}, {"type":
+    "double", "name": "2894.647992431521", "required": true}, {"type": "double", "name":
+    "2892.71951275635", "required": true}, {"type": "double", "name": "2890.791033081179",
+    "required": true}, {"type": "double", "name": "2888.862553406008", "required":
+    true}, {"type": "double", "name": "2886.934073730837", "required": true}, {"type":
+    "double", "name": "2885.005594055666", "required": true}, {"type": "double", "name":
+    "2883.077114380495", "required": true}, {"type": "double", "name": "2881.148634705325",
+    "required": true}, {"type": "double", "name": "2879.220155030153", "required":
+    true}, {"type": "double", "name": "2877.291675354983", "required": true}, {"type":
+    "double", "name": "2875.363195679812", "required": true}, {"type": "double", "name":
+    "2873.434716004641", "required": true}, {"type": "double", "name": "2871.50623632947",
+    "required": true}, {"type": "double", "name": "2869.577756654299", "required":
+    true}, {"type": "double", "name": "2867.649276979128", "required": true}, {"type":
+    "double", "name": "2865.720797303957", "required": true}, {"type": "double", "name":
+    "2863.792317628786", "required": true}, {"type": "double", "name": "2861.863837953616",
+    "required": true}, {"type": "double", "name": "2859.935358278445", "required":
+    true}, {"type": "double", "name": "2858.006878603273", "required": true}, {"type":
+    "double", "name": "2856.078398928103", "required": true}, {"type": "double", "name":
+    "2854.149919252932", "required": true}, {"type": "double", "name": "2852.221439577761",
+    "required": true}, {"type": "double", "name": "2850.29295990259", "required":
+    true}, {"type": "double", "name": "2848.364480227419", "required": true}, {"type":
+    "double", "name": "2846.436000552248", "required": true}, {"type": "double", "name":
+    "2844.507520877077", "required": true}, {"type": "double", "name": "2842.579041201906",
+    "required": true}, {"type": "double", "name": "2840.650561526736", "required":
+    true}, {"type": "double", "name": "2838.722081851565", "required": true}, {"type":
+    "double", "name": "2836.793602176394", "required": true}, {"type": "double", "name":
+    "2834.865122501223", "required": true}, {"type": "double", "name": "2832.936642826052",
+    "required": true}, {"type": "double", "name": "2831.008163150881", "required":
+    true}, {"type": "double", "name": "2829.07968347571", "required": true}, {"type":
+    "double", "name": "2827.151203800539", "required": true}, {"type": "double", "name":
+    "2825.222724125369", "required": true}, {"type": "double", "name": "2823.294244450197",
+    "required": true}, {"type": "double", "name": "2821.365764775026", "required":
+    true}, {"type": "double", "name": "2819.437285099856", "required": true}, {"type":
+    "double", "name": "2817.508805424685", "required": true}, {"type": "double", "name":
+    "2815.580325749514", "required": true}, {"type": "double", "name": "2813.651846074343",
+    "required": true}, {"type": "double", "name": "2811.723366399172", "required":
+    true}, {"type": "double", "name": "2809.794886724001", "required": true}, {"type":
+    "double", "name": "2807.86640704883", "required": true}, {"type": "double", "name":
+    "2805.937927373659", "required": true}, {"type": "double", "name": "2804.009447698489",
+    "required": true}, {"type": "double", "name": "2802.080968023317", "required":
+    true}, {"type": "double", "name": "2800.152488348147", "required": true}, {"type":
+    "double", "name": "2798.224008672976", "required": true}, {"type": "double", "name":
+    "2796.295528997805", "required": true}, {"type": "double", "name": "2794.367049322634",
+    "required": true}, {"type": "double", "name": "2792.438569647463", "required":
+    true}, {"type": "double", "name": "2790.510089972292", "required": true}, {"type":
+    "double", "name": "2788.581610297121", "required": true}, {"type": "double", "name":
+    "2786.65313062195", "required": true}, {"type": "double", "name": "2784.72465094678",
+    "required": true}, {"type": "double", "name": "2782.796171271609", "required":
+    true}, {"type": "double", "name": "2780.867691596438", "required": true}, {"type":
+    "double", "name": "2778.939211921267", "required": true}, {"type": "double", "name":
+    "2777.010732246096", "required": true}, {"type": "double", "name": "2775.082252570925",
+    "required": true}, {"type": "double", "name": "2773.153772895754", "required":
+    true}, {"type": "double", "name": "2771.225293220583", "required": true}, {"type":
+    "double", "name": "2769.296813545412", "required": true}, {"type": "double", "name":
+    "2767.368333870241", "required": true}, {"type": "double", "name": "2765.43985419507",
+    "required": true}, {"type": "double", "name": "2763.5113745199", "required": true},
+    {"type": "double", "name": "2761.582894844729", "required": true}, {"type": "double",
+    "name": "2759.654415169558", "required": true}, {"type": "double", "name": "2757.725935494387",
+    "required": true}, {"type": "double", "name": "2755.797455819216", "required":
+    true}, {"type": "double", "name": "2753.868976144045", "required": true}, {"type":
+    "double", "name": "2751.940496468874", "required": true}, {"type": "double", "name":
+    "2750.012016793703", "required": true}, {"type": "double", "name": "2748.083537118532",
+    "required": true}, {"type": "double", "name": "2746.155057443361", "required":
+    true}, {"type": "double", "name": "2744.226577768191", "required": true}, {"type":
+    "double", "name": "2742.29809809302", "required": true}, {"type": "double", "name":
+    "2740.369618417849", "required": true}, {"type": "double", "name": "2738.441138742678",
+    "required": true}, {"type": "double", "name": "2736.512659067507", "required":
+    true}, {"type": "double", "name": "2734.584179392336", "required": true}, {"type":
+    "double", "name": "2732.655699717165", "required": true}, {"type": "double", "name":
+    "2730.727220041994", "required": true}, {"type": "double", "name": "2728.798740366823",
+    "required": true}, {"type": "double", "name": "2726.870260691652", "required":
+    true}, {"type": "double", "name": "2724.941781016481", "required": true}, {"type":
+    "double", "name": "2723.013301341311", "required": true}, {"type": "double", "name":
+    "2721.08482166614", "required": true}, {"type": "double", "name": "2719.156341990969",
+    "required": true}, {"type": "double", "name": "2717.227862315798", "required":
+    true}, {"type": "double", "name": "2715.299382640627", "required": true}, {"type":
+    "double", "name": "2713.370902965456", "required": true}, {"type": "double", "name":
+    "2711.442423290285", "required": true}, {"type": "double", "name": "2709.513943615114",
+    "required": true}, {"type": "double", "name": "2707.585463939944", "required":
+    true}, {"type": "double", "name": "2705.656984264772", "required": true}, {"type":
+    "double", "name": "2703.728504589601", "required": true}, {"type": "double", "name":
+    "2701.800024914431", "required": true}, {"type": "double", "name": "2699.87154523926",
+    "required": true}, {"type": "double", "name": "2697.943065564089", "required":
+    true}, {"type": "double", "name": "2696.014585888918", "required": true}, {"type":
+    "double", "name": "2694.086106213747", "required": true}, {"type": "double", "name":
+    "2692.157626538576", "required": true}, {"type": "double", "name": "2690.229146863405",
+    "required": true}, {"type": "double", "name": "2688.300667188234", "required":
+    true}, {"type": "double", "name": "2686.372187513064", "required": true}, {"type":
+    "double", "name": "2684.443707837893", "required": true}, {"type": "double", "name":
+    "2682.515228162722", "required": true}, {"type": "double", "name": "2680.586748487551",
+    "required": true}, {"type": "double", "name": "2678.65826881238", "required":
+    true}, {"type": "double", "name": "2676.729789137209", "required": true}, {"type":
+    "double", "name": "2674.801309462038", "required": true}, {"type": "double", "name":
+    "2672.872829786867", "required": true}, {"type": "double", "name": "2670.944350111697",
+    "required": true}, {"type": "double", "name": "2669.015870436525", "required":
+    true}, {"type": "double", "name": "2667.087390761355", "required": true}, {"type":
+    "double", "name": "2665.158911086184", "required": true}, {"type": "double", "name":
+    "2663.230431411013", "required": true}, {"type": "double", "name": "2661.301951735842",
+    "required": true}, {"type": "double", "name": "2659.373472060671", "required":
+    true}, {"type": "double", "name": "2657.4449923855", "required": true}, {"type":
+    "double", "name": "2655.516512710329", "required": true}, {"type": "double", "name":
+    "2653.588033035158", "required": true}, {"type": "double", "name": "2651.659553359988",
+    "required": true}, {"type": "double", "name": "2649.731073684817", "required":
+    true}, {"type": "double", "name": "2647.802594009645", "required": true}, {"type":
+    "double", "name": "2645.874114334475", "required": true}, {"type": "double", "name":
+    "2643.945634659304", "required": true}, {"type": "double", "name": "2642.017154984133",
+    "required": true}, {"type": "double", "name": "2640.088675308962", "required":
+    true}, {"type": "double", "name": "2638.160195633791", "required": true}, {"type":
+    "double", "name": "2636.23171595862", "required": true}, {"type": "double", "name":
+    "2634.303236283449", "required": true}, {"type": "double", "name": "2632.374756608278",
+    "required": true}, {"type": "double", "name": "2630.446276933108", "required":
+    true}, {"type": "double", "name": "2628.517797257937", "required": true}, {"type":
+    "double", "name": "2626.589317582765", "required": true}, {"type": "double", "name":
+    "2624.660837907595", "required": true}, {"type": "double", "name": "2622.732358232424",
+    "required": true}, {"type": "double", "name": "2620.803878557253", "required":
+    true}, {"type": "double", "name": "2618.875398882082", "required": true}, {"type":
+    "double", "name": "2616.946919206911", "required": true}, {"type": "double", "name":
+    "2615.01843953174", "required": true}, {"type": "double", "name": "2613.089959856569",
+    "required": true}, {"type": "double", "name": "2611.161480181398", "required":
+    true}, {"type": "double", "name": "2609.233000506228", "required": true}, {"type":
+    "double", "name": "2607.304520831057", "required": true}, {"type": "double", "name":
+    "2605.376041155886", "required": true}, {"type": "double", "name": "2603.447561480715",
+    "required": true}, {"type": "double", "name": "2601.519081805544", "required":
+    true}, {"type": "double", "name": "2599.590602130373", "required": true}, {"type":
+    "double", "name": "2597.662122455202", "required": true}, {"type": "double", "name":
+    "2595.733642780031", "required": true}, {"type": "double", "name": "2593.80516310486",
+    "required": true}, {"type": "double", "name": "2591.876683429689", "required":
+    true}, {"type": "double", "name": "2589.948203754519", "required": true}, {"type":
+    "double", "name": "2588.019724079348", "required": true}, {"type": "double", "name":
+    "2586.091244404177", "required": true}, {"type": "double", "name": "2584.162764729006",
+    "required": true}, {"type": "double", "name": "2582.234285053835", "required":
+    true}, {"type": "double", "name": "2580.305805378664", "required": true}, {"type":
+    "double", "name": "2578.377325703493", "required": true}, {"type": "double", "name":
+    "2576.448846028322", "required": true}, {"type": "double", "name": "2574.520366353152",
+    "required": true}, {"type": "double", "name": "2572.59188667798", "required":
+    true}, {"type": "double", "name": "2570.663407002809", "required": true}, {"type":
+    "double", "name": "2568.734927327639", "required": true}, {"type": "double", "name":
+    "2566.806447652468", "required": true}, {"type": "double", "name": "2564.877967977297",
+    "required": true}, {"type": "double", "name": "2562.949488302126", "required":
+    true}, {"type": "double", "name": "2561.021008626955", "required": true}, {"type":
+    "double", "name": "2559.092528951784", "required": true}, {"type": "double", "name":
+    "2557.164049276613", "required": true}, {"type": "double", "name": "2555.235569601442",
+    "required": true}, {"type": "double", "name": "2553.307089926272", "required":
+    true}, {"type": "double", "name": "2551.378610251101", "required": true}, {"type":
+    "double", "name": "2549.45013057593", "required": true}, {"type": "double", "name":
+    "2547.521650900759", "required": true}, {"type": "double", "name": "2545.593171225588",
+    "required": true}, {"type": "double", "name": "2543.664691550417", "required":
+    true}, {"type": "double", "name": "2541.736211875246", "required": true}, {"type":
+    "double", "name": "2539.807732200075", "required": true}, {"type": "double", "name":
+    "2537.879252524904", "required": true}, {"type": "double", "name": "2535.950772849733",
+    "required": true}, {"type": "double", "name": "2534.022293174562", "required":
+    true}, {"type": "double", "name": "2532.093813499392", "required": true}, {"type":
+    "double", "name": "2530.165333824221", "required": true}, {"type": "double", "name":
+    "2528.23685414905", "required": true}, {"type": "double", "name": "2526.308374473879",
+    "required": true}, {"type": "double", "name": "2524.379894798708", "required":
+    true}, {"type": "double", "name": "2522.451415123537", "required": true}, {"type":
+    "double", "name": "2520.522935448366", "required": true}, {"type": "double", "name":
+    "2518.594455773195", "required": true}, {"type": "double", "name": "2516.665976098025",
+    "required": true}, {"type": "double", "name": "2514.737496422853", "required":
+    true}, {"type": "double", "name": "2512.809016747683", "required": true}, {"type":
+    "double", "name": "2510.880537072512", "required": true}, {"type": "double", "name":
+    "2508.952057397341", "required": true}, {"type": "double", "name": "2507.02357772217",
+    "required": true}, {"type": "double", "name": "2505.095098046999", "required":
+    true}, {"type": "double", "name": "2503.166618371828", "required": true}, {"type":
+    "double", "name": "2501.238138696657", "required": true}, {"type": "double", "name":
+    "1849.412008488893", "required": true}, {"type": "double", "name": "1847.483528813722",
+    "required": true}, {"type": "double", "name": "1845.555049138551", "required":
+    true}, {"type": "double", "name": "1843.62656946338", "required": true}, {"type":
+    "double", "name": "1841.698089788209", "required": true}, {"type": "double", "name":
+    "1839.769610113039", "required": true}, {"type": "double", "name": "1837.841130437868",
+    "required": true}, {"type": "double", "name": "1835.912650762697", "required":
+    true}, {"type": "double", "name": "1833.984171087526", "required": true}, {"type":
+    "double", "name": "1832.055691412355", "required": true}, {"type": "double", "name":
+    "1830.127211737184", "required": true}, {"type": "double", "name": "1828.198732062013",
+    "required": true}, {"type": "double", "name": "1826.270252386842", "required":
+    true}, {"type": "double", "name": "1824.341772711671", "required": true}, {"type":
+    "double", "name": "1822.413293036501", "required": true}, {"type": "double", "name":
+    "1820.48481336133", "required": true}, {"type": "double", "name": "1818.556333686158",
+    "required": true}, {"type": "double", "name": "1816.627854010988", "required":
+    true}, {"type": "double", "name": "1814.699374335817", "required": true}, {"type":
+    "double", "name": "1812.770894660646", "required": true}, {"type": "double", "name":
+    "1810.842414985475", "required": true}, {"type": "double", "name": "1808.913935310304",
+    "required": true}, {"type": "double", "name": "1806.985455635133", "required":
+    true}, {"type": "double", "name": "1805.056975959963", "required": true}, {"type":
+    "double", "name": "1803.128496284791", "required": true}, {"type": "double", "name":
+    "1801.20001660962", "required": true}, {"type": "double", "name": "1799.27153693445",
+    "required": true}, {"type": "double", "name": "1797.343057259279", "required":
+    true}, {"type": "double", "name": "1795.414577584108", "required": true}, {"type":
+    "double", "name": "1793.486097908937", "required": true}, {"type": "double", "name":
+    "1791.557618233766", "required": true}, {"type": "double", "name": "1789.629138558595",
+    "required": true}, {"type": "double", "name": "1787.700658883424", "required":
+    true}, {"type": "double", "name": "1785.772179208253", "required": true}, {"type":
+    "double", "name": "1783.843699533082", "required": true}, {"type": "double", "name":
+    "1781.915219857912", "required": true}, {"type": "double", "name": "1779.986740182741",
+    "required": true}, {"type": "double", "name": "1778.05826050757", "required":
+    true}, {"type": "double", "name": "1776.129780832399", "required": true}, {"type":
+    "double", "name": "1774.201301157228", "required": true}, {"type": "double", "name":
+    "1772.272821482057", "required": true}, {"type": "double", "name": "1770.344341806886",
+    "required": true}, {"type": "double", "name": "1768.415862131715", "required":
+    true}, {"type": "double", "name": "1766.487382456544", "required": true}, {"type":
+    "double", "name": "1764.558902781373", "required": true}, {"type": "double", "name":
+    "1762.630423106202", "required": true}, {"type": "double", "name": "1760.701943431032",
+    "required": true}, {"type": "double", "name": "1758.773463755861", "required":
+    true}, {"type": "double", "name": "1756.84498408069", "required": true}, {"type":
+    "double", "name": "1754.916504405519", "required": true}, {"type": "double", "name":
+    "1752.988024730348", "required": true}, {"type": "double", "name": "1751.059545055177",
+    "required": true}, {"type": "double", "name": "1749.131065380006", "required":
+    true}, {"type": "double", "name": "1747.202585704835", "required": true}, {"type":
+    "double", "name": "1745.274106029664", "required": true}, {"type": "double", "name":
+    "1743.345626354494", "required": true}, {"type": "double", "name": "1741.417146679323",
+    "required": true}, {"type": "double", "name": "1739.488667004152", "required":
+    true}, {"type": "double", "name": "1737.560187328981", "required": true}, {"type":
+    "double", "name": "1735.63170765381", "required": true}, {"type": "double", "name":
+    "1733.703227978639", "required": true}, {"type": "double", "name": "1731.774748303468",
+    "required": true}, {"type": "double", "name": "1729.846268628297", "required":
+    true}, {"type": "double", "name": "1727.917788953126", "required": true}, {"type":
+    "double", "name": "1725.989309277955", "required": true}, {"type": "double", "name":
+    "1724.060829602785", "required": true}, {"type": "double", "name": "1722.132349927614",
+    "required": true}, {"type": "double", "name": "1720.203870252443", "required":
+    true}, {"type": "double", "name": "1718.275390577272", "required": true}, {"type":
+    "double", "name": "1716.346910902101", "required": true}, {"type": "double", "name":
+    "1714.41843122693", "required": true}, {"type": "double", "name": "1712.489951551759",
+    "required": true}, {"type": "double", "name": "1710.561471876588", "required":
+    true}, {"type": "double", "name": "1708.632992201417", "required": true}, {"type":
+    "double", "name": "1706.704512526246", "required": true}, {"type": "double", "name":
+    "1704.776032851076", "required": true}, {"type": "double", "name": "1702.847553175905",
+    "required": true}, {"type": "double", "name": "1700.919073500734", "required":
+    true}, {"type": "double", "name": "1698.990593825563", "required": true}, {"type":
+    "double", "name": "1697.062114150392", "required": true}, {"type": "double", "name":
+    "1695.133634475221", "required": true}, {"type": "double", "name": "1693.20515480005",
+    "required": true}, {"type": "double", "name": "1691.276675124879", "required":
+    true}, {"type": "double", "name": "1689.348195449708", "required": true}, {"type":
+    "double", "name": "1687.419715774538", "required": true}, {"type": "double", "name":
+    "1685.491236099367", "required": true}, {"type": "double", "name": "1683.562756424196",
+    "required": true}, {"type": "double", "name": "1681.634276749025", "required":
+    true}, {"type": "double", "name": "1679.705797073854", "required": true}, {"type":
+    "double", "name": "1677.777317398683", "required": true}, {"type": "double", "name":
+    "1675.848837723512", "required": true}, {"type": "double", "name": "1673.920358048341",
+    "required": true}, {"type": "double", "name": "1671.99187837317", "required":
+    true}, {"type": "double", "name": "1670.063398697999", "required": true}, {"type":
+    "double", "name": "1668.134919022829", "required": true}, {"type": "double", "name":
+    "1666.206439347658", "required": true}, {"type": "double", "name": "1664.277959672487",
+    "required": true}, {"type": "double", "name": "1662.349479997316", "required":
+    true}, {"type": "double", "name": "1660.421000322145", "required": true}, {"type":
+    "double", "name": "1658.492520646974", "required": true}, {"type": "double", "name":
+    "1656.564040971803", "required": true}, {"type": "double", "name": "1654.635561296632",
+    "required": true}, {"type": "double", "name": "1652.707081621461", "required":
+    true}, {"type": "double", "name": "1650.77860194629", "required": true}, {"type":
+    "double", "name": "1648.85012227112", "required": true}, {"type": "double", "name":
+    "1646.921642595948", "required": true}, {"type": "double", "name": "1644.993162920778",
+    "required": true}, {"type": "double", "name": "1643.064683245607", "required":
+    true}, {"type": "double", "name": "1641.136203570436", "required": true}, {"type":
+    "double", "name": "1639.207723895265", "required": true}, {"type": "double", "name":
+    "1637.279244220094", "required": true}, {"type": "double", "name": "1635.350764544923",
+    "required": true}, {"type": "double", "name": "1633.422284869752", "required":
+    true}, {"type": "double", "name": "1631.493805194581", "required": true}, {"type":
+    "double", "name": "1629.56532551941", "required": true}, {"type": "double", "name":
+    "1627.63684584424", "required": true}, {"type": "double", "name": "1625.708366169069",
+    "required": true}, {"type": "double", "name": "1623.779886493898", "required":
+    true}, {"type": "double", "name": "1621.851406818727", "required": true}, {"type":
+    "double", "name": "1619.922927143556", "required": true}, {"type": "double", "name":
+    "1617.994447468385", "required": true}, {"type": "double", "name": "1616.065967793214",
+    "required": true}, {"type": "double", "name": "1614.137488118043", "required":
+    true}, {"type": "double", "name": "1612.209008442873", "required": true}, {"type":
+    "double", "name": "1610.280528767702", "required": true}, {"type": "double", "name":
+    "1608.35204909253", "required": true}, {"type": "double", "name": "1606.42356941736",
+    "required": true}, {"type": "double", "name": "1604.495089742189", "required":
+    true}, {"type": "double", "name": "1602.566610067018", "required": true}, {"type":
+    "double", "name": "1600.638130391847", "required": true}, {"type": "double", "name":
+    "1598.709650716676", "required": true}, {"type": "double", "name": "1596.781171041505",
+    "required": true}, {"type": "double", "name": "1594.852691366334", "required":
+    true}, {"type": "double", "name": "1592.924211691163", "required": true}, {"type":
+    "double", "name": "1590.995732015992", "required": true}, {"type": "double", "name":
+    "1589.067252340822", "required": true}, {"type": "double", "name": "1587.138772665651",
+    "required": true}, {"type": "double", "name": "1585.21029299048", "required":
+    true}, {"type": "double", "name": "1583.281813315309", "required": true}, {"type":
+    "double", "name": "1581.353333640138", "required": true}, {"type": "double", "name":
+    "1579.424853964967", "required": true}, {"type": "double", "name": "1577.496374289796",
+    "required": true}, {"type": "double", "name": "1575.567894614625", "required":
+    true}, {"type": "double", "name": "1573.639414939454", "required": true}, {"type":
+    "double", "name": "1571.710935264284", "required": true}, {"type": "double", "name":
+    "1569.782455589112", "required": true}, {"type": "double", "name": "1567.853975913942",
+    "required": true}, {"type": "double", "name": "1565.925496238771", "required":
+    true}, {"type": "double", "name": "1563.9970165636", "required": true}, {"type":
+    "double", "name": "1562.068536888429", "required": true}, {"type": "double", "name":
+    "1560.140057213258", "required": true}, {"type": "double", "name": "1558.211577538087",
+    "required": true}, {"type": "double", "name": "1556.283097862916", "required":
+    true}, {"type": "double", "name": "1554.354618187745", "required": true}, {"type":
+    "double", "name": "1552.426138512574", "required": true}, {"type": "double", "name":
+    "1550.497658837404", "required": true}, {"type": "double", "name": "1548.569179162233",
+    "required": true}, {"type": "double", "name": "1546.640699487062", "required":
+    true}, {"type": "double", "name": "1544.712219811891", "required": true}, {"type":
+    "double", "name": "1542.78374013672", "required": true}, {"type": "double", "name":
+    "1540.855260461549", "required": true}, {"type": "double", "name": "1538.926780786378",
+    "required": true}, {"type": "double", "name": "1536.998301111207", "required":
+    true}, {"type": "double", "name": "1535.069821436036", "required": true}, {"type":
+    "double", "name": "1533.141341760865", "required": true}, {"type": "double", "name":
+    "1531.212862085695", "required": true}, {"type": "double", "name": "1529.284382410524",
+    "required": true}, {"type": "double", "name": "1527.355902735353", "required":
+    true}, {"type": "double", "name": "1525.427423060182", "required": true}, {"type":
+    "double", "name": "1523.498943385011", "required": true}, {"type": "double", "name":
+    "1521.57046370984", "required": true}, {"type": "double", "name": "1519.641984034669",
+    "required": true}, {"type": "double", "name": "1517.713504359498", "required":
+    true}, {"type": "double", "name": "1515.785024684327", "required": true}, {"type":
+    "double", "name": "1513.856545009157", "required": true}, {"type": "double", "name":
+    "1511.928065333986", "required": true}, {"type": "double", "name": "1509.999585658815",
+    "required": true}, {"type": "double", "name": "1508.071105983644", "required":
+    true}, {"type": "double", "name": "1506.142626308473", "required": true}, {"type":
+    "double", "name": "1504.214146633302", "required": true}, {"type": "double", "name":
+    "1502.285666958131", "required": true}, {"type": "double", "name": "1500.35718728296",
+    "required": true}, {"type": "double", "name": "1498.428707607789", "required":
+    true}, {"type": "double", "name": "1496.500227932618", "required": true}, {"type":
+    "double", "name": "1494.571748257448", "required": true}, {"type": "double", "name":
+    "1492.643268582277", "required": true}, {"type": "double", "name": "1490.714788907106",
+    "required": true}, {"type": "double", "name": "1488.786309231935", "required":
+    true}, {"type": "double", "name": "1486.857829556764", "required": true}, {"type":
+    "double", "name": "1484.929349881593", "required": true}, {"type": "double", "name":
+    "1483.000870206422", "required": true}, {"type": "double", "name": "1481.072390531251",
+    "required": true}, {"type": "double", "name": "1479.14391085608", "required":
+    true}, {"type": "double", "name": "1477.215431180909", "required": true}, {"type":
+    "double", "name": "1475.286951505739", "required": true}, {"type": "double", "name":
+    "1473.358471830568", "required": true}, {"type": "double", "name": "1471.429992155397",
+    "required": true}, {"type": "double", "name": "1469.501512480226", "required":
+    true}, {"type": "double", "name": "1467.573032805055", "required": true}, {"type":
+    "double", "name": "1465.644553129884", "required": true}, {"type": "double", "name":
+    "1463.716073454713", "required": true}, {"type": "double", "name": "1461.787593779542",
+    "required": true}, {"type": "double", "name": "1459.859114104371", "required":
+    true}, {"type": "double", "name": "1457.930634429201", "required": true}, {"type":
+    "double", "name": "1456.00215475403", "required": true}, {"type": "double", "name":
+    "1454.073675078859", "required": true}, {"type": "double", "name": "1452.145195403688",
+    "required": true}, {"type": "double", "name": "1450.216715728517", "required":
+    true}, {"type": "double", "name": "1448.288236053346", "required": true}, {"type":
+    "double", "name": "1446.359756378175", "required": true}, {"type": "double", "name":
+    "1444.431276703004", "required": true}, {"type": "double", "name": "1442.502797027833",
+    "required": true}, {"type": "double", "name": "1440.574317352662", "required":
+    true}, {"type": "double", "name": "1438.645837677491", "required": true}, {"type":
+    "double", "name": "1436.71735800232", "required": true}, {"type": "double", "name":
+    "1434.78887832715", "required": true}, {"type": "double", "name": "1432.860398651979",
+    "required": true}, {"type": "double", "name": "1430.931918976808", "required":
+    true}, {"type": "double", "name": "1429.003439301637", "required": true}, {"type":
+    "double", "name": "1427.074959626466", "required": true}, {"type": "double", "name":
+    "1425.146479951295", "required": true}, {"type": "double", "name": "1423.218000276124",
+    "required": true}, {"type": "double", "name": "1421.289520600953", "required":
+    true}, {"type": "double", "name": "1419.361040925782", "required": true}, {"type":
+    "double", "name": "1417.432561250612", "required": true}, {"type": "double", "name":
+    "1415.504081575441", "required": true}, {"type": "double", "name": "1413.57560190027",
+    "required": true}, {"type": "double", "name": "1411.647122225099", "required":
+    true}, {"type": "double", "name": "1409.718642549928", "required": true}, {"type":
+    "double", "name": "1407.790162874757", "required": true}, {"type": "double", "name":
+    "1405.861683199586", "required": true}, {"type": "double", "name": "1403.933203524415",
+    "required": true}, {"type": "double", "name": "1402.004723849244", "required":
+    true}, {"type": "double", "name": "1400.076244174074", "required": true}, {"type":
+    "double", "name": "1398.147764498902", "required": true}, {"type": "double", "name":
+    "1396.219284823732", "required": true}, {"type": "double", "name": "1394.290805148561",
+    "required": true}, {"type": "double", "name": "1392.36232547339", "required":
+    true}, {"type": "double", "name": "1390.433845798219", "required": true}, {"type":
+    "double", "name": "1388.505366123048", "required": true}, {"type": "double", "name":
+    "1386.576886447877", "required": true}, {"type": "double", "name": "1384.648406772706",
+    "required": true}, {"type": "double", "name": "1382.719927097535", "required":
+    true}, {"type": "double", "name": "1380.791447422364", "required": true}, {"type":
+    "double", "name": "1378.862967747194", "required": true}, {"type": "double", "name":
+    "1376.934488072023", "required": true}, {"type": "double", "name": "1375.006008396852",
+    "required": true}, {"type": "double", "name": "1373.077528721681", "required":
+    true}, {"type": "double", "name": "1371.14904904651", "required": true}, {"type":
+    "double", "name": "1369.220569371339", "required": true}, {"type": "double", "name":
+    "1367.292089696168", "required": true}, {"type": "double", "name": "1365.363610020997",
+    "required": true}, {"type": "double", "name": "1363.435130345826", "required":
+    true}, {"type": "double", "name": "1361.506650670656", "required": true}, {"type":
+    "double", "name": "1359.578170995484", "required": true}, {"type": "double", "name":
+    "1357.649691320314", "required": true}, {"type": "double", "name": "1355.721211645143",
+    "required": true}, {"type": "double", "name": "1353.792731969972", "required":
+    true}, {"type": "double", "name": "1351.864252294801", "required": true}, {"type":
+    "double", "name": "1349.93577261963", "required": true}, {"type": "double", "name":
+    "1348.007292944459", "required": true}, {"type": "double", "name": "1346.078813269288",
+    "required": true}, {"type": "double", "name": "1344.150333594117", "required":
+    true}, {"type": "double", "name": "1342.221853918946", "required": true}, {"type":
+    "double", "name": "1340.293374243775", "required": true}, {"type": "double", "name":
+    "1338.364894568605", "required": true}, {"type": "double", "name": "1336.436414893434",
+    "required": true}, {"type": "double", "name": "1334.507935218263", "required":
+    true}, {"type": "double", "name": "1332.579455543092", "required": true}, {"type":
+    "double", "name": "1330.650975867921", "required": true}, {"type": "double", "name":
+    "1328.72249619275", "required": true}, {"type": "double", "name": "1326.794016517579",
+    "required": true}, {"type": "double", "name": "1324.865536842408", "required":
+    true}, {"type": "double", "name": "1322.937057167237", "required": true}, {"type":
+    "double", "name": "1321.008577492067", "required": true}, {"type": "double", "name":
+    "1319.080097816896", "required": true}, {"type": "double", "name": "1317.151618141725",
+    "required": true}, {"type": "double", "name": "1315.223138466554", "required":
+    true}, {"type": "double", "name": "1313.294658791383", "required": true}, {"type":
+    "double", "name": "1311.366179116212", "required": true}, {"type": "double", "name":
+    "1309.437699441041", "required": true}, {"type": "double", "name": "1307.50921976587",
+    "required": true}, {"type": "double", "name": "1305.580740090699", "required":
+    true}, {"type": "double", "name": "1303.652260415528", "required": true}, {"type":
+    "double", "name": "1301.723780740358", "required": true}, {"type": "double", "name":
+    "1299.795301065187", "required": true}, {"type": "double", "name": "1297.866821390016",
+    "required": true}, {"type": "double", "name": "1295.938341714845", "required":
+    true}, {"type": "double", "name": "1294.009862039674", "required": true}, {"type":
+    "double", "name": "1292.081382364503", "required": true}, {"type": "double", "name":
+    "1290.152902689332", "required": true}, {"type": "double", "name": "1288.224423014161",
+    "required": true}, {"type": "double", "name": "1286.29594333899", "required":
+    true}, {"type": "double", "name": "1284.367463663819", "required": true}, {"type":
+    "double", "name": "1282.438983988648", "required": true}, {"type": "double", "name":
+    "1280.510504313478", "required": true}, {"type": "double", "name": "1278.582024638307",
+    "required": true}, {"type": "double", "name": "1276.653544963136", "required":
+    true}, {"type": "double", "name": "1274.725065287965", "required": true}, {"type":
+    "double", "name": "1272.796585612794", "required": true}, {"type": "double", "name":
+    "1270.868105937623", "required": true}, {"type": "double", "name": "1268.939626262452",
+    "required": true}, {"type": "double", "name": "1267.011146587281", "required":
+    true}, {"type": "double", "name": "1265.08266691211", "required": true}, {"type":
+    "double", "name": "1263.15418723694", "required": true}, {"type": "double", "name":
+    "1261.225707561769", "required": true}, {"type": "double", "name": "1259.297227886598",
+    "required": true}, {"type": "double", "name": "1257.368748211427", "required":
+    true}, {"type": "double", "name": "1255.440268536256", "required": true}, {"type":
+    "double", "name": "1253.511788861085", "required": true}, {"type": "double", "name":
+    "1251.583309185914", "required": true}, {"type": "double", "name": "1249.654829510743",
+    "required": true}, {"type": "double", "name": "1247.726349835572", "required":
+    true}, {"type": "double", "name": "1245.797870160402", "required": true}, {"type":
+    "double", "name": "1243.86939048523", "required": true}, {"type": "double", "name":
+    "1241.94091081006", "required": true}, {"type": "double", "name": "1240.012431134889",
+    "required": true}, {"type": "double", "name": "1238.083951459718", "required":
+    true}, {"type": "double", "name": "1236.155471784547", "required": true}, {"type":
+    "double", "name": "1234.226992109376", "required": true}, {"type": "double", "name":
+    "1232.298512434205", "required": true}, {"type": "double", "name": "1230.370032759034",
+    "required": true}, {"type": "double", "name": "1228.441553083863", "required":
+    true}, {"type": "double", "name": "1226.513073408692", "required": true}, {"type":
+    "double", "name": "1224.584593733522", "required": true}, {"type": "double", "name":
+    "1222.656114058351", "required": true}, {"type": "double", "name": "1220.72763438318",
+    "required": true}, {"type": "double", "name": "1218.799154708009", "required":
+    true}, {"type": "double", "name": "1216.870675032838", "required": true}, {"type":
+    "double", "name": "1214.942195357667", "required": true}, {"type": "double", "name":
+    "1213.013715682496", "required": true}, {"type": "double", "name": "1211.085236007325",
+    "required": true}, {"type": "double", "name": "1209.156756332154", "required":
+    true}, {"type": "double", "name": "1207.228276656984", "required": true}, {"type":
+    "double", "name": "1205.299796981813", "required": true}, {"type": "double", "name":
+    "1203.371317306642", "required": true}, {"type": "double", "name": "1201.442837631471",
+    "required": true}, {"type": "double", "name": "1199.5143579563", "required": true},
+    {"type": "double", "name": "1197.585878281129", "required": true}, {"type": "double",
+    "name": "1195.657398605958", "required": true}, {"type": "double", "name": "1193.728918930787",
+    "required": true}, {"type": "double", "name": "1191.800439255616", "required":
+    true}, {"type": "double", "name": "1189.871959580445", "required": true}, {"type":
+    "double", "name": "1187.943479905274", "required": true}, {"type": "double", "name":
+    "1186.015000230103", "required": true}, {"type": "double", "name": "1184.086520554933",
+    "required": true}, {"type": "double", "name": "1182.158040879762", "required":
+    true}, {"type": "double", "name": "1180.229561204591", "required": true}, {"type":
+    "double", "name": "1178.30108152942", "required": true}, {"type": "double", "name":
+    "1176.372601854249", "required": true}, {"type": "double", "name": "1174.444122179078",
+    "required": true}, {"type": "double", "name": "1172.515642503907", "required":
+    true}, {"type": "double", "name": "1170.587162828736", "required": true}, {"type":
+    "double", "name": "1168.658683153565", "required": true}, {"type": "double", "name":
+    "1166.730203478395", "required": true}, {"type": "double", "name": "1164.801723803224",
+    "required": true}, {"type": "double", "name": "1162.873244128053", "required":
+    true}, {"type": "double", "name": "1160.944764452882", "required": true}, {"type":
+    "double", "name": "1159.016284777711", "required": true}, {"type": "double", "name":
+    "1157.08780510254", "required": true}, {"type": "double", "name": "1155.159325427369",
+    "required": true}, {"type": "double", "name": "1153.230845752198", "required":
+    true}, {"type": "double", "name": "1151.302366077027", "required": true}, {"type":
+    "double", "name": "1149.373886401856", "required": true}, {"type": "double", "name":
+    "1147.445406726686", "required": true}, {"type": "double", "name": "1145.516927051515",
+    "required": true}, {"type": "double", "name": "1143.588447376344", "required":
+    true}, {"type": "double", "name": "1141.659967701173", "required": true}, {"type":
+    "double", "name": "1139.731488026002", "required": true}, {"type": "double", "name":
+    "1137.803008350831", "required": true}, {"type": "double", "name": "1135.87452867566",
+    "required": true}, {"type": "double", "name": "1133.946049000489", "required":
+    true}, {"type": "double", "name": "1132.017569325318", "required": true}, {"type":
+    "double", "name": "1130.089089650148", "required": true}, {"type": "double", "name":
+    "1128.160609974977", "required": true}, {"type": "double", "name": "1126.232130299806",
+    "required": true}, {"type": "double", "name": "1124.303650624635", "required":
+    true}, {"type": "double", "name": "1122.375170949464", "required": true}, {"type":
+    "double", "name": "1120.446691274293", "required": true}, {"type": "double", "name":
+    "1118.518211599122", "required": true}, {"type": "double", "name": "1116.589731923951",
+    "required": true}, {"type": "double", "name": "1114.66125224878", "required":
+    true}, {"type": "double", "name": "1112.732772573609", "required": true}, {"type":
+    "double", "name": "1110.804292898438", "required": true}, {"type": "double", "name":
+    "1108.875813223267", "required": true}, {"type": "double", "name": "1106.947333548097",
+    "required": true}, {"type": "double", "name": "1105.018853872926", "required":
+    true}, {"type": "double", "name": "1103.090374197755", "required": true}, {"type":
+    "double", "name": "1101.161894522584", "required": true}, {"type": "double", "name":
+    "1099.233414847413", "required": true}, {"type": "double", "name": "1097.304935172242",
+    "required": true}, {"type": "double", "name": "1095.376455497071", "required":
+    true}, {"type": "double", "name": "1093.447975821901", "required": true}, {"type":
+    "double", "name": "1091.51949614673", "required": true}, {"type": "double", "name":
+    "1089.591016471559", "required": true}, {"type": "double", "name": "1087.662536796388",
+    "required": true}, {"type": "double", "name": "1085.734057121217", "required":
+    true}, {"type": "double", "name": "1083.805577446046", "required": true}, {"type":
+    "double", "name": "1081.877097770875", "required": true}, {"type": "double", "name":
+    "1079.948618095704", "required": true}, {"type": "double", "name": "1078.020138420533",
+    "required": true}, {"type": "double", "name": "1076.091658745362", "required":
+    true}, {"type": "double", "name": "1074.163179070191", "required": true}, {"type":
+    "double", "name": "1072.23469939502", "required": true}, {"type": "double", "name":
+    "1070.306219719849", "required": true}, {"type": "double", "name": "1068.377740044679",
+    "required": true}, {"type": "double", "name": "1066.449260369508", "required":
+    true}, {"type": "double", "name": "1064.520780694337", "required": true}, {"type":
+    "double", "name": "1062.592301019166", "required": true}, {"type": "double", "name":
+    "1060.663821343995", "required": true}, {"type": "double", "name": "1058.735341668824",
+    "required": true}, {"type": "double", "name": "1056.806861993653", "required":
+    true}, {"type": "double", "name": "1054.878382318482", "required": true}, {"type":
+    "double", "name": "1052.949902643312", "required": true}, {"type": "double", "name":
+    "1051.021422968141", "required": true}, {"type": "double", "name": "1049.092943292969",
+    "required": true}, {"type": "double", "name": "1047.164463617799", "required":
+    true}, {"type": "double", "name": "1045.235983942628", "required": true}, {"type":
+    "double", "name": "1043.307504267457", "required": true}, {"type": "double", "name":
+    "1041.379024592286", "required": true}, {"type": "double", "name": "1039.450544917115",
+    "required": true}, {"type": "double", "name": "1037.522065241944", "required":
+    true}, {"type": "double", "name": "1035.593585566773", "required": true}, {"type":
+    "double", "name": "1033.665105891602", "required": true}, {"type": "double", "name":
+    "1031.736626216432", "required": true}, {"type": "double", "name": "1029.808146541261",
+    "required": true}, {"type": "double", "name": "1027.87966686609", "required":
+    true}, {"type": "double", "name": "1025.951187190919", "required": true}, {"type":
+    "double", "name": "1024.022707515748", "required": true}, {"type": "double", "name":
+    "1022.094227840577", "required": true}, {"type": "double", "name": "1020.165748165406",
+    "required": true}, {"type": "double", "name": "1018.237268490235", "required":
+    true}, {"type": "double", "name": "1016.308788815064", "required": true}, {"type":
+    "double", "name": "1014.380309139893", "required": true}, {"type": "double", "name":
+    "1012.451829464723", "required": true}, {"type": "double", "name": "1010.523349789552",
+    "required": true}, {"type": "double", "name": "1008.594870114381", "required":
+    true}, {"type": "double", "name": "1006.66639043921", "required": true}, {"type":
+    "double", "name": "1004.737910764039", "required": true}, {"type": "double", "name":
+    "1002.809431088868", "required": true}, {"type": "double", "name": "1000.880951413697",
+    "required": true}, {"type": "double", "name": "998.9524717385261", "required":
+    true}, {"type": "double", "name": "997.0239920633553", "required": true}, {"type":
+    "double", "name": "995.0955123881845", "required": true}, {"type": "double", "name":
+    "993.1670327130137", "required": true}, {"type": "double", "name": "991.2385530378428",
+    "required": true}, {"type": "double", "name": "989.3100733626716", "required":
+    true}, {"type": "double", "name": "987.3815936875008", "required": true}, {"type":
+    "double", "name": "985.4531140123299", "required": true}, {"type": "double", "name":
+    "983.5246343371587", "required": true}, {"type": "double", "name": "981.5961546619883",
+    "required": true}, {"type": "double", "name": "979.6676749868175", "required":
+    true}, {"type": "double", "name": "977.7391953116462", "required": true}, {"type":
+    "double", "name": "975.8107156364754", "required": true}, {"type": "double", "name":
+    "973.8822359613046", "required": true}, {"type": "double", "name": "971.9537562861337",
+    "required": true}, {"type": "double", "name": "970.0252766109629", "required":
+    true}, {"type": "double", "name": "968.0967969357921", "required": true}, {"type":
+    "double", "name": "966.1683172606208", "required": true}, {"type": "double", "name":
+    "964.23983758545", "required": true}, {"type": "double", "name": "962.3113579102792",
+    "required": true}, {"type": "double", "name": "960.3828782351084", "required":
+    true}, {"type": "double", "name": "958.4543985599371", "required": true}, {"type":
+    "double", "name": "956.5259188847667", "required": true}, {"type": "double", "name":
+    "954.5974392095954", "required": true}, {"type": "double", "name": "952.6689595344246",
+    "required": true}, {"type": "double", "name": "950.7404798592538", "required":
+    true}, {"type": "double", "name": "948.812000184083", "required": true}, {"type":
+    "double", "name": "946.8835205089117", "required": true}, {"type": "double", "name":
+    "944.9550408337414", "required": true}, {"type": "double", "name": "943.0265611585701",
+    "required": true}, {"type": "double", "name": "941.0980814833993", "required":
+    true}, {"type": "double", "name": "939.1696018082284", "required": true}, {"type":
+    "double", "name": "937.2411221330576", "required": true}, {"type": "double", "name":
+    "935.3126424578863", "required": true}, {"type": "double", "name": "933.3841627827155",
+    "required": true}, {"type": "double", "name": "931.4556831075452", "required":
+    true}, {"type": "double", "name": "929.5272034323739", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-10 17:53:25.546952'

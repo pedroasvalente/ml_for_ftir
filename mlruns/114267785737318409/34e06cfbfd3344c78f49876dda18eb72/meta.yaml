@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/34e06cfbfd3344c78f49876dda18eb72/artifacts
+end_time: 1757518730693
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 34e06cfbfd3344c78f49876dda18eb72
+run_name: polite-lark-765
+run_uuid: 34e06cfbfd3344c78f49876dda18eb72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518707091
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/e7dcc9987155485f8fffbc8bf5d8a6aa/artifacts
+end_time: 1757518659981
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: e7dcc9987155485f8fffbc8bf5d8a6aa
+run_name: calm-fawn-627
+run_uuid: e7dcc9987155485f8fffbc8bf5d8a6aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518647857
+status: 3
+tags: []
+user_id: pedroasvalente

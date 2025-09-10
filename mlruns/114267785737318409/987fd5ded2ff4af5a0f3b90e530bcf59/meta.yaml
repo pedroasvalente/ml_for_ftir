@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/987fd5ded2ff4af5a0f3b90e530bcf59/artifacts
+end_time: 1757520269533
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 987fd5ded2ff4af5a0f3b90e530bcf59
+run_name: charming-mole-826
+run_uuid: 987fd5ded2ff4af5a0f3b90e530bcf59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757520138210
+status: 3
+tags: []
+user_id: pedroasvalente

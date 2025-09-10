@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/1e8382dbdf2944829381b020cf004558/artifacts
+end_time: 1757516638441
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 1e8382dbdf2944829381b020cf004558
+run_name: gentle-penguin-384
+run_uuid: 1e8382dbdf2944829381b020cf004558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757516547842
+status: 3
+tags: []
+user_id: pedroasvalente

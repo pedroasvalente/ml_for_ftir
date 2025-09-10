@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/398535896216418e9fa77dddd36cb997/artifacts
+end_time: 1757519979624
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 398535896216418e9fa77dddd36cb997
+run_name: wistful-frog-640
+run_uuid: 398535896216418e9fa77dddd36cb997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519828287
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/008167127e3543348653df6d397d364c/artifacts
+end_time: 1757518897304
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 008167127e3543348653df6d397d364c
+run_name: indecisive-stoat-7
+run_uuid: 008167127e3543348653df6d397d364c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518871811
+status: 3
+tags: []
+user_id: pedroasvalente

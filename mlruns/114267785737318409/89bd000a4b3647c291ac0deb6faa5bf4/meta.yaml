@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/89bd000a4b3647c291ac0deb6faa5bf4/artifacts
+end_time: 1757518600833
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 89bd000a4b3647c291ac0deb6faa5bf4
+run_name: exultant-toad-677
+run_uuid: 89bd000a4b3647c291ac0deb6faa5bf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518577339
+status: 3
+tags: []
+user_id: pedroasvalente

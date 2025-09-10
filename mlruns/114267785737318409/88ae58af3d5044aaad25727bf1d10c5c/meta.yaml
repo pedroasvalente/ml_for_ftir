@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/88ae58af3d5044aaad25727bf1d10c5c/artifacts
+end_time: 1757519219009
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 88ae58af3d5044aaad25727bf1d10c5c
+run_name: resilient-skink-579
+run_uuid: 88ae58af3d5044aaad25727bf1d10c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519207859
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/3e48d1930c0440ddad5ab72096704747/artifacts
+end_time: 1757519015440
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 3e48d1930c0440ddad5ab72096704747
+run_name: capricious-skunk-611
+run_uuid: 3e48d1930c0440ddad5ab72096704747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519011725
+status: 3
+tags: []
+user_id: pedroasvalente

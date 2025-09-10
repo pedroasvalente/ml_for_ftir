@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/a9eba52dd28a4e3594e297788eb58668/artifacts
+end_time: 1757516462144
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: a9eba52dd28a4e3594e297788eb58668
+run_name: delicate-lamb-753
+run_uuid: a9eba52dd28a4e3594e297788eb58668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757516370349
+status: 3
+tags: []
+user_id: pedroasvalente

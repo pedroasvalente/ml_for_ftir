@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/b8ccf16d34b947a2b87714e841c5bd0c/artifacts
+end_time: 1757518436459
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: b8ccf16d34b947a2b87714e841c5bd0c
+run_name: able-smelt-188
+run_uuid: b8ccf16d34b947a2b87714e841c5bd0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518423549
+status: 3
+tags: []
+user_id: pedroasvalente

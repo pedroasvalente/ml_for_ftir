@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/114267785737318409
+creation_time: 1757515918130
+experiment_id: '114267785737318409'
+last_update_time: 1757515918130
+lifecycle_stage: active
+name: FTIR Supervised Training - VO2MAX_ABSOLUTE

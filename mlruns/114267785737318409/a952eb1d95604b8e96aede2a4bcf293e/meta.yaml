@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/a952eb1d95604b8e96aede2a4bcf293e/artifacts
+end_time: 1757519979624
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: a952eb1d95604b8e96aede2a4bcf293e
+run_name: carefree-roo-95
+run_uuid: a952eb1d95604b8e96aede2a4bcf293e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519828287
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/3f9691ac4dac4d9eabeb3ea66c13355e/artifacts
+end_time: 1757519015440
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 3f9691ac4dac4d9eabeb3ea66c13355e
+run_name: funny-duck-437
+run_uuid: 3f9691ac4dac4d9eabeb3ea66c13355e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519011725
+status: 3
+tags: []
+user_id: pedroasvalente

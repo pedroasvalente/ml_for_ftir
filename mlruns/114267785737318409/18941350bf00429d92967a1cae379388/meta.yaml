@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/18941350bf00429d92967a1cae379388/artifacts
+end_time: 1757520286528
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 18941350bf00429d92967a1cae379388
+run_name: righteous-goat-477
+run_uuid: 18941350bf00429d92967a1cae379388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757520275535
+status: 3
+tags: []
+user_id: pedroasvalente

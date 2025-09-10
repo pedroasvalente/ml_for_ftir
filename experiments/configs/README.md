@@ -7,7 +7,7 @@ This guide explains how to run all ML4FIR training experiments in the `experimen
 1. **Run the training command:**
 
    ```bash
-   ml4fir train experiments/configs/simple_ml/<experiment_file>.json
+   
    ```
    Replace `<experiment_file>.json` with the name of the experiment config file you want to run (e.g., `exp_il_10.json`).
 

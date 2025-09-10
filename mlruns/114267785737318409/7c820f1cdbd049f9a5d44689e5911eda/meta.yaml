@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/7c820f1cdbd049f9a5d44689e5911eda/artifacts
+end_time: 1757517160896
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 7c820f1cdbd049f9a5d44689e5911eda
+run_name: enchanting-duck-452
+run_uuid: 7c820f1cdbd049f9a5d44689e5911eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757517036521
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/2ba77c536efb416b9ebe14efcd82d17d/artifacts
+end_time: 1757517032642
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 2ba77c536efb416b9ebe14efcd82d17d
+run_name: bouncy-yak-237
+run_uuid: 2ba77c536efb416b9ebe14efcd82d17d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757516911524
+status: 3
+tags: []
+user_id: pedroasvalente

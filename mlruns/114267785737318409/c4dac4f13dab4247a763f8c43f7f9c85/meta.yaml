@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/c4dac4f13dab4247a763f8c43f7f9c85/artifacts
+end_time: 1757517517371
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: c4dac4f13dab4247a763f8c43f7f9c85
+run_name: charming-goat-18
+run_uuid: c4dac4f13dab4247a763f8c43f7f9c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757517419657
+status: 3
+tags: []
+user_id: pedroasvalente

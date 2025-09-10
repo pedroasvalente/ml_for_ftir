@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/d2fe328f99ee4180ad9985c75fb26ba7/artifacts
+end_time: 1757516015936
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: d2fe328f99ee4180ad9985c75fb26ba7
+run_name: popular-trout-466
+run_uuid: d2fe328f99ee4180ad9985c75fb26ba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757515918559
+status: 3
+tags: []
+user_id: pedroasvalente

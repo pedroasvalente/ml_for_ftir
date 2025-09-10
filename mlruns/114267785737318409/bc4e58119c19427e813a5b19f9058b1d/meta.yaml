@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/bc4e58119c19427e813a5b19f9058b1d/artifacts
+end_time: 1757518616419
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: bc4e58119c19427e813a5b19f9058b1d
+run_name: honorable-fish-957
+run_uuid: bc4e58119c19427e813a5b19f9058b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518604340
+status: 3
+tags: []
+user_id: pedroasvalente

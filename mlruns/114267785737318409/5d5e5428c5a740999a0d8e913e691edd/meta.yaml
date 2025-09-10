@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/5d5e5428c5a740999a0d8e913e691edd/artifacts
+end_time: 1757517160896
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 5d5e5428c5a740999a0d8e913e691edd
+run_name: clean-loon-783
+run_uuid: 5d5e5428c5a740999a0d8e913e691edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757517036521
+status: 3
+tags: []
+user_id: pedroasvalente

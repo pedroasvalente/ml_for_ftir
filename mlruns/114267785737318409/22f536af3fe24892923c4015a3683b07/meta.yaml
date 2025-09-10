@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/22f536af3fe24892923c4015a3683b07/artifacts
+end_time: 1757519041645
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 22f536af3fe24892923c4015a3683b07
+run_name: masked-squid-505
+run_uuid: 22f536af3fe24892923c4015a3683b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519019380
+status: 3
+tags: []
+user_id: pedroasvalente

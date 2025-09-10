@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/18232d5defde4765a06cfc7d8fd05640/artifacts
+end_time: 1757520400281
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 18232d5defde4765a06cfc7d8fd05640
+run_name: bittersweet-bear-331
+run_uuid: 18232d5defde4765a06cfc7d8fd05640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757520292021
+status: 3
+tags: []
+user_id: pedroasvalente

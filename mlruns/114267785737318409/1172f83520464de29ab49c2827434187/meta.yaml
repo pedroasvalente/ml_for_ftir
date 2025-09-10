@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/1172f83520464de29ab49c2827434187/artifacts
+end_time: 1757517517371
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 1172f83520464de29ab49c2827434187
+run_name: handsome-mink-8
+run_uuid: 1172f83520464de29ab49c2827434187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757517419657
+status: 3
+tags: []
+user_id: pedroasvalente

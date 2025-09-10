@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/907e092c87114b18aaf0fe357402fee8/artifacts
+end_time: 1757517032642
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 907e092c87114b18aaf0fe357402fee8
+run_name: exultant-finch-561
+run_uuid: 907e092c87114b18aaf0fe357402fee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757516911524
+status: 3
+tags: []
+user_id: pedroasvalente

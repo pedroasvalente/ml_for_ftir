@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/b311a7086b894490884e1eef700fa890/artifacts
+end_time: 1757518935597
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: b311a7086b894490884e1eef700fa890
+run_name: spiffy-grouse-445
+run_uuid: b311a7086b894490884e1eef700fa890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518908655
+status: 3
+tags: []
+user_id: pedroasvalente

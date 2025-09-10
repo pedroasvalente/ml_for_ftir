@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/397351e58255462ca0ebf0bde10daff8/artifacts
+end_time: 1757518376005
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 397351e58255462ca0ebf0bde10daff8
+run_name: awesome-whale-435
+run_uuid: 397351e58255462ca0ebf0bde10daff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518351251
+status: 3
+tags: []
+user_id: pedroasvalente

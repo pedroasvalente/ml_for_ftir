@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/88344f1c019d4e81958c3a0e27ca734a/artifacts
+end_time: 1757518016688
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 88344f1c019d4e81958c3a0e27ca734a
+run_name: worried-tern-68
+run_uuid: 88344f1c019d4e81958c3a0e27ca734a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757517890805
+status: 3
+tags: []
+user_id: pedroasvalente

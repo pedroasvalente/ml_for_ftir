@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/38459ed0123e4a10bd28f7bb4690e05c/artifacts
+end_time: 1757518616419
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 38459ed0123e4a10bd28f7bb4690e05c
+run_name: stately-jay-393
+run_uuid: 38459ed0123e4a10bd28f7bb4690e05c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518604340
+status: 3
+tags: []
+user_id: pedroasvalente

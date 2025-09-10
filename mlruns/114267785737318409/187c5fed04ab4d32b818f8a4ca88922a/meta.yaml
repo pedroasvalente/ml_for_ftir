@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/187c5fed04ab4d32b818f8a4ca88922a/artifacts
+end_time: 1757517888161
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 187c5fed04ab4d32b818f8a4ca88922a
+run_name: luxuriant-duck-65
+run_uuid: 187c5fed04ab4d32b818f8a4ca88922a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757517782159
+status: 3
+tags: []
+user_id: pedroasvalente

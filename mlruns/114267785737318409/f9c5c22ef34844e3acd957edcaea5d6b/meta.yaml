@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/f9c5c22ef34844e3acd957edcaea5d6b/artifacts
+end_time: 1757518616419
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: f9c5c22ef34844e3acd957edcaea5d6b
+run_name: nosy-grouse-635
+run_uuid: f9c5c22ef34844e3acd957edcaea5d6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518604340
+status: 3
+tags: []
+user_id: pedroasvalente

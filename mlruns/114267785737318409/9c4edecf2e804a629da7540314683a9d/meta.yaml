@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/9c4edecf2e804a629da7540314683a9d/artifacts
+end_time: 1757518935597
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 9c4edecf2e804a629da7540314683a9d
+run_name: bright-cub-568
+run_uuid: 9c4edecf2e804a629da7540314683a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518908655
+status: 3
+tags: []
+user_id: pedroasvalente

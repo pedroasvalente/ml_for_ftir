@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/ad09b7b5ba3e4f8b929bd5f48e644b53/artifacts
+end_time: 1757519344702
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: ad09b7b5ba3e4f8b929bd5f48e644b53
+run_name: adorable-shark-662
+run_uuid: ad09b7b5ba3e4f8b929bd5f48e644b53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757519223646
+status: 3
+tags: []
+user_id: pedroasvalente

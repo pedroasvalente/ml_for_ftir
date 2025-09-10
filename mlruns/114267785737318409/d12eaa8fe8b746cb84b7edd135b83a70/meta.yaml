@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/d12eaa8fe8b746cb84b7edd135b83a70/artifacts
+end_time: 1757517417306
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: d12eaa8fe8b746cb84b7edd135b83a70
+run_name: colorful-lamb-339
+run_uuid: d12eaa8fe8b746cb84b7edd135b83a70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757517318815
+status: 3
+tags: []
+user_id: pedroasvalente

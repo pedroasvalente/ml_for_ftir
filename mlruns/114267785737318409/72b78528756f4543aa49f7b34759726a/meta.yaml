@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/72b78528756f4543aa49f7b34759726a/artifacts
+end_time: 1757517417306
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: 72b78528756f4543aa49f7b34759726a
+run_name: bouncy-robin-142
+run_uuid: 72b78528756f4543aa49f7b34759726a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757517318815
+status: 3
+tags: []
+user_id: pedroasvalente

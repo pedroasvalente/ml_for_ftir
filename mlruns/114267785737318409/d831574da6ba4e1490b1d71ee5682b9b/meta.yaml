@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/d831574da6ba4e1490b1d71ee5682b9b/artifacts
+end_time: 1757519007227
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: d831574da6ba4e1490b1d71ee5682b9b
+run_name: vaunted-bee-455
+run_uuid: d831574da6ba4e1490b1d71ee5682b9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518982632
+status: 3
+tags: []
+user_id: pedroasvalente

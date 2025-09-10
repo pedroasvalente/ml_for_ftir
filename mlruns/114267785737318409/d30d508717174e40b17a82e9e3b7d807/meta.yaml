@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114267785737318409/d30d508717174e40b17a82e9e3b7d807/artifacts
+end_time: 1757518897304
+entry_point_name: ''
+experiment_id: '114267785737318409'
+lifecycle_stage: active
+run_id: d30d508717174e40b17a82e9e3b7d807
+run_name: rogue-jay-259
+run_uuid: d30d508717174e40b17a82e9e3b7d807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757518871811
+status: 3
+tags: []
+user_id: pedroasvalente
