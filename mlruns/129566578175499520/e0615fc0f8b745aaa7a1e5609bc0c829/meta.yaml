@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/e0615fc0f8b745aaa7a1e5609bc0c829/artifacts
+end_time: 1757492581395
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: e0615fc0f8b745aaa7a1e5609bc0c829
+run_name: debonair-dove-842
+run_uuid: e0615fc0f8b745aaa7a1e5609bc0c829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492553132
+status: 3
+tags: []
+user_id: pedroasvalente

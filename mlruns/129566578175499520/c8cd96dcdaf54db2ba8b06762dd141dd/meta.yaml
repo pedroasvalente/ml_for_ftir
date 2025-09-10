@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/c8cd96dcdaf54db2ba8b06762dd141dd/artifacts
+end_time: 1757492110427
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: c8cd96dcdaf54db2ba8b06762dd141dd
+run_name: unequaled-mouse-32
+run_uuid: c8cd96dcdaf54db2ba8b06762dd141dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492084534
+status: 3
+tags: []
+user_id: pedroasvalente

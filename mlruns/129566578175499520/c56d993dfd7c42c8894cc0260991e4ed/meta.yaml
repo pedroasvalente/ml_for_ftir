@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/c56d993dfd7c42c8894cc0260991e4ed/artifacts
+end_time: 1757491729963
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: c56d993dfd7c42c8894cc0260991e4ed
+run_name: nosy-fox-884
+run_uuid: c56d993dfd7c42c8894cc0260991e4ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491663136
+status: 3
+tags: []
+user_id: pedroasvalente

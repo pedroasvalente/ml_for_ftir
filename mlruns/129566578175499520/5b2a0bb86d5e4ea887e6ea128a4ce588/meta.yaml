@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/5b2a0bb86d5e4ea887e6ea128a4ce588/artifacts
+end_time: 1757492827682
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 5b2a0bb86d5e4ea887e6ea128a4ce588
+run_name: monumental-cod-128
+run_uuid: 5b2a0bb86d5e4ea887e6ea128a4ce588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492820151
+status: 3
+tags: []
+user_id: pedroasvalente

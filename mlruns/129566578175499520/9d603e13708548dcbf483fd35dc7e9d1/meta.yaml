@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/9d603e13708548dcbf483fd35dc7e9d1/artifacts
+end_time: 1757493369442
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 9d603e13708548dcbf483fd35dc7e9d1
+run_name: mercurial-tern-532
+run_uuid: 9d603e13708548dcbf483fd35dc7e9d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493223202
+status: 3
+tags: []
+user_id: pedroasvalente

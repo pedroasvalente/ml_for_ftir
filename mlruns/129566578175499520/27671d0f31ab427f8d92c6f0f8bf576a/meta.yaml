@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/27671d0f31ab427f8d92c6f0f8bf576a/artifacts
+end_time: 1757492421046
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 27671d0f31ab427f8d92c6f0f8bf576a
+run_name: legendary-doe-814
+run_uuid: 27671d0f31ab427f8d92c6f0f8bf576a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492396172
+status: 3
+tags: []
+user_id: pedroasvalente

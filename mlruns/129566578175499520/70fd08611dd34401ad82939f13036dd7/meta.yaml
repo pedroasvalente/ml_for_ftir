@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/70fd08611dd34401ad82939f13036dd7/artifacts
+end_time: 1757493383665
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 70fd08611dd34401ad82939f13036dd7
+run_name: rumbling-shrew-401
+run_uuid: 70fd08611dd34401ad82939f13036dd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493376143
+status: 3
+tags: []
+user_id: pedroasvalente

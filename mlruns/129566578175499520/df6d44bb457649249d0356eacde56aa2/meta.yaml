@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/df6d44bb457649249d0356eacde56aa2/artifacts
+end_time: 1757491600153
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: df6d44bb457649249d0356eacde56aa2
+run_name: gregarious-fish-29
+run_uuid: df6d44bb457649249d0356eacde56aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491573018
+status: 3
+tags: []
+user_id: pedroasvalente

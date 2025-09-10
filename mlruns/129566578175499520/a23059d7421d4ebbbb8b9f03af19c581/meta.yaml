@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/a23059d7421d4ebbbb8b9f03af19c581/artifacts
+end_time: 1757492540470
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: a23059d7421d4ebbbb8b9f03af19c581
+run_name: beautiful-trout-321
+run_uuid: a23059d7421d4ebbbb8b9f03af19c581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492511089
+status: 3
+tags: []
+user_id: pedroasvalente

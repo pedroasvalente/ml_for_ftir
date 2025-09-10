@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/49d0680c60c84830987b7d5e20e94f4c/artifacts
+end_time: 1757492429003
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 49d0680c60c84830987b7d5e20e94f4c
+run_name: glamorous-finch-830
+run_uuid: 49d0680c60c84830987b7d5e20e94f4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492425509
+status: 3
+tags: []
+user_id: pedroasvalente

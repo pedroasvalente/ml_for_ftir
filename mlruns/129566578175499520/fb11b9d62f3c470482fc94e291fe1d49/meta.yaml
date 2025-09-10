@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/fb11b9d62f3c470482fc94e291fe1d49/artifacts
+end_time: 1757492624248
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: fb11b9d62f3c470482fc94e291fe1d49
+run_name: blushing-rook-669
+run_uuid: fb11b9d62f3c470482fc94e291fe1d49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492594333
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/ed4370a2385a473f804928a4ea4855bb/artifacts
+end_time: 1757491297797
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: ed4370a2385a473f804928a4ea4855bb
+run_name: youthful-stoat-924
+run_uuid: ed4370a2385a473f804928a4ea4855bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491269163
+status: 3
+tags: []
+user_id: pedroasvalente

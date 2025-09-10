@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/7449a40057394c1f8043c411b15a791f/artifacts
+end_time: 1757491627835
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 7449a40057394c1f8043c411b15a791f
+run_name: upbeat-seal-96
+run_uuid: 7449a40057394c1f8043c411b15a791f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491602930
+status: 3
+tags: []
+user_id: pedroasvalente

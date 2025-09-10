@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/4d7d647716694eba8eb5ef91d306ef16/artifacts
+end_time: 1757492695328
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 4d7d647716694eba8eb5ef91d306ef16
+run_name: defiant-horse-648
+run_uuid: 4d7d647716694eba8eb5ef91d306ef16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492671970
+status: 3
+tags: []
+user_id: pedroasvalente

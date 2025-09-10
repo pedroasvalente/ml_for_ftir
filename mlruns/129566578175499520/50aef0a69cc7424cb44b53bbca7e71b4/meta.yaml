@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/50aef0a69cc7424cb44b53bbca7e71b4/artifacts
+end_time: 1757492248150
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 50aef0a69cc7424cb44b53bbca7e71b4
+run_name: dapper-gnat-681
+run_uuid: 50aef0a69cc7424cb44b53bbca7e71b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492224642
+status: 3
+tags: []
+user_id: pedroasvalente

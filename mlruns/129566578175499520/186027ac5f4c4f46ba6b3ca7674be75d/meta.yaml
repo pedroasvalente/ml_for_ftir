@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/186027ac5f4c4f46ba6b3ca7674be75d/artifacts
+end_time: 1757492204130
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 186027ac5f4c4f46ba6b3ca7674be75d
+run_name: fortunate-shad-520
+run_uuid: 186027ac5f4c4f46ba6b3ca7674be75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492177091
+status: 3
+tags: []
+user_id: pedroasvalente

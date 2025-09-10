@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/ea3a77fd420d48448b315bd008124079/artifacts
+end_time: 1757492383193
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: ea3a77fd420d48448b315bd008124079
+run_name: whimsical-finch-295
+run_uuid: ea3a77fd420d48448b315bd008124079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492360008
+status: 3
+tags: []
+user_id: pedroasvalente

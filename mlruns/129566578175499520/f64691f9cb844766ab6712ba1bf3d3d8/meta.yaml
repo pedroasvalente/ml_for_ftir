@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/f64691f9cb844766ab6712ba1bf3d3d8/artifacts
+end_time: 1757491627835
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: f64691f9cb844766ab6712ba1bf3d3d8
+run_name: bustling-gnu-810
+run_uuid: f64691f9cb844766ab6712ba1bf3d3d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491602930
+status: 3
+tags: []
+user_id: pedroasvalente

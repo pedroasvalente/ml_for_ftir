@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/5c36612c5f54441da4b9b10ef5354054/artifacts
+end_time: 1757492498836
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 5c36612c5f54441da4b9b10ef5354054
+run_name: masked-hen-823
+run_uuid: 5c36612c5f54441da4b9b10ef5354054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492470810
+status: 3
+tags: []
+user_id: pedroasvalente

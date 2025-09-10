@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/14d25210e6914efca6f7618dab06aa84/artifacts
+end_time: 1757492667814
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 14d25210e6914efca6f7618dab06aa84
+run_name: selective-bee-876
+run_uuid: 14d25210e6914efca6f7618dab06aa84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492664366
+status: 3
+tags: []
+user_id: pedroasvalente

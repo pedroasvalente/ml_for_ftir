@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/67127447bf0241ada89272ee7354fb83/artifacts
+end_time: 1757491415310
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 67127447bf0241ada89272ee7354fb83
+run_name: nervous-gnu-801
+run_uuid: 67127447bf0241ada89272ee7354fb83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491353833
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/4f786b7eee404bb08100fd17ebfd74a5/artifacts
+end_time: 1757493066843
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 4f786b7eee404bb08100fd17ebfd74a5
+run_name: charming-gnat-137
+run_uuid: 4f786b7eee404bb08100fd17ebfd74a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493054716
+status: 3
+tags: []
+user_id: pedroasvalente

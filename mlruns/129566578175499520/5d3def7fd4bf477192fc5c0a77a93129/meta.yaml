@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/5d3def7fd4bf477192fc5c0a77a93129/artifacts
+end_time: 1757492263716
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 5d3def7fd4bf477192fc5c0a77a93129
+run_name: wise-panda-827
+run_uuid: 5d3def7fd4bf477192fc5c0a77a93129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492251595
+status: 3
+tags: []
+user_id: pedroasvalente

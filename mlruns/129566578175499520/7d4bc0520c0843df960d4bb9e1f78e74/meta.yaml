@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/7d4bc0520c0843df960d4bb9e1f78e74/artifacts
+end_time: 1757491464622
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 7d4bc0520c0843df960d4bb9e1f78e74
+run_name: chill-pig-35
+run_uuid: 7d4bc0520c0843df960d4bb9e1f78e74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491444180
+status: 3
+tags: []
+user_id: pedroasvalente

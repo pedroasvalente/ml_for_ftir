@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/b85fa4be249b4a98b51b1f0c391da534/artifacts
+end_time: 1757493683705
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: b85fa4be249b4a98b51b1f0c391da534
+run_name: invincible-wren-906
+run_uuid: b85fa4be249b4a98b51b1f0c391da534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493614000
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/8449b96f3f5b479ca74cc145db2daf83/artifacts
+end_time: 1757493199548
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 8449b96f3f5b479ca74cc145db2daf83
+run_name: nebulous-crow-744
+run_uuid: 8449b96f3f5b479ca74cc145db2daf83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493072737
+status: 3
+tags: []
+user_id: pedroasvalente

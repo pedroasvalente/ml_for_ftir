@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/07044ce51e3847c68584d78de3610469/artifacts
+end_time: 1757501901530
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 07044ce51e3847c68584d78de3610469
+run_name: experiment_linear_salivarytestosterone
+run_uuid: 07044ce51e3847c68584d78de3610469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491170884
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/6115f5c6d4834b80b75ccb8ca01776e2/artifacts
+end_time: 1757493199548
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 6115f5c6d4834b80b75ccb8ca01776e2
+run_name: gentle-bat-659
+run_uuid: 6115f5c6d4834b80b75ccb8ca01776e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493072737
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/cfce2690534a4d39b1de7a12fa3ceb4d/artifacts
+end_time: 1757492899527
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: cfce2690534a4d39b1de7a12fa3ceb4d
+run_name: shivering-horse-616
+run_uuid: cfce2690534a4d39b1de7a12fa3ceb4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492892198
+status: 3
+tags: []
+user_id: pedroasvalente

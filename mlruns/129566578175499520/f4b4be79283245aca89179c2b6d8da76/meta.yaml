@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/f4b4be79283245aca89179c2b6d8da76/artifacts
+end_time: 1757492956504
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: f4b4be79283245aca89179c2b6d8da76
+run_name: unleashed-loon-917
+run_uuid: f4b4be79283245aca89179c2b6d8da76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492904073
+status: 3
+tags: []
+user_id: pedroasvalente

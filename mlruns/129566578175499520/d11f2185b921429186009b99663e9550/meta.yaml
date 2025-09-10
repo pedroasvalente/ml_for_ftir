@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/d11f2185b921429186009b99663e9550/artifacts
+end_time: 1757492383193
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: d11f2185b921429186009b99663e9550
+run_name: merciful-croc-580
+run_uuid: d11f2185b921429186009b99663e9550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492360008
+status: 3
+tags: []
+user_id: pedroasvalente

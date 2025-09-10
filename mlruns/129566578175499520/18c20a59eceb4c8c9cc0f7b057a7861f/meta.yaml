@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/18c20a59eceb4c8c9cc0f7b057a7861f/artifacts
+end_time: 1757491905315
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 18c20a59eceb4c8c9cc0f7b057a7861f
+run_name: receptive-smelt-336
+run_uuid: 18c20a59eceb4c8c9cc0f7b057a7861f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491882322
+status: 3
+tags: []
+user_id: pedroasvalente

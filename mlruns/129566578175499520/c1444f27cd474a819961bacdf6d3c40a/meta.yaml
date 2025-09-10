@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/c1444f27cd474a819961bacdf6d3c40a/artifacts
+end_time: 1757492421046
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: c1444f27cd474a819961bacdf6d3c40a
+run_name: secretive-bass-654
+run_uuid: c1444f27cd474a819961bacdf6d3c40a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492396172
+status: 3
+tags: []
+user_id: pedroasvalente

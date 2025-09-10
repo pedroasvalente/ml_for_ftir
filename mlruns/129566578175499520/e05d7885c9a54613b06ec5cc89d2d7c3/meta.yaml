@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/e05d7885c9a54613b06ec5cc89d2d7c3/artifacts
+end_time: 1757492703295
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: e05d7885c9a54613b06ec5cc89d2d7c3
+run_name: fearless-jay-406
+run_uuid: e05d7885c9a54613b06ec5cc89d2d7c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492699906
+status: 3
+tags: []
+user_id: pedroasvalente

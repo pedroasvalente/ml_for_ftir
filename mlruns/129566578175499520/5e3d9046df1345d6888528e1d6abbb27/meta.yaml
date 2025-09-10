@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/5e3d9046df1345d6888528e1d6abbb27/artifacts
+end_time: 1757493538264
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 5e3d9046df1345d6888528e1d6abbb27
+run_name: defiant-duck-712
+run_uuid: 5e3d9046df1345d6888528e1d6abbb27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493530004
+status: 3
+tags: []
+user_id: pedroasvalente

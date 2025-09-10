@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/ed19f447fe6e42cab2ed8b5e1612f408/artifacts
+end_time: 1757492540470
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: ed19f447fe6e42cab2ed8b5e1612f408
+run_name: bald-moose-448
+run_uuid: ed19f447fe6e42cab2ed8b5e1612f408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492511089
+status: 3
+tags: []
+user_id: pedroasvalente

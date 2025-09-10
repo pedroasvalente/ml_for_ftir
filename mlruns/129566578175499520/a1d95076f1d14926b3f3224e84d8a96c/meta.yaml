@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/a1d95076f1d14926b3f3224e84d8a96c/artifacts
+end_time: 1757492760994
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: a1d95076f1d14926b3f3224e84d8a96c
+run_name: legendary-loon-720
+run_uuid: a1d95076f1d14926b3f3224e84d8a96c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492740209
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/99a39021fbb140719a7c490660e58096/artifacts
+end_time: 1757492507117
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 99a39021fbb140719a7c490660e58096
+run_name: bold-gnat-827
+run_uuid: 99a39021fbb140719a7c490660e58096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492503471
+status: 3
+tags: []
+user_id: pedroasvalente

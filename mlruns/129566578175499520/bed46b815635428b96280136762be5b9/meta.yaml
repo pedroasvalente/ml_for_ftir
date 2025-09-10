@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/bed46b815635428b96280136762be5b9/artifacts
+end_time: 1757492581395
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: bed46b815635428b96280136762be5b9
+run_name: sedate-worm-590
+run_uuid: bed46b815635428b96280136762be5b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492553132
+status: 3
+tags: []
+user_id: pedroasvalente

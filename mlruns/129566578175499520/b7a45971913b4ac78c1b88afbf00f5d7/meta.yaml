@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/b7a45971913b4ac78c1b88afbf00f5d7/artifacts
+end_time: 1757492727055
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: b7a45971913b4ac78c1b88afbf00f5d7
+run_name: monumental-skunk-864
+run_uuid: b7a45971913b4ac78c1b88afbf00f5d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492707477
+status: 3
+tags: []
+user_id: pedroasvalente

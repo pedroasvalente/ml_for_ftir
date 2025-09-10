@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/d81daa5662984025b08dac8f1a70eecf/artifacts
+end_time: 1757493593630
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: d81daa5662984025b08dac8f1a70eecf
+run_name: dazzling-lynx-730
+run_uuid: d81daa5662984025b08dac8f1a70eecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493543563
+status: 3
+tags: []
+user_id: pedroasvalente

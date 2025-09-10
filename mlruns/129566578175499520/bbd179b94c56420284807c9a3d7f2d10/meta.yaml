@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/bbd179b94c56420284807c9a3d7f2d10/artifacts
+end_time: 1757491877100
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: bbd179b94c56420284807c9a3d7f2d10
+run_name: sedate-donkey-50
+run_uuid: bbd179b94c56420284807c9a3d7f2d10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491811818
+status: 3
+tags: []
+user_id: pedroasvalente

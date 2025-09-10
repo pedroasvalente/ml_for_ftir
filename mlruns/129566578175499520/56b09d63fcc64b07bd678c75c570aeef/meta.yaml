@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/56b09d63fcc64b07bd678c75c570aeef/artifacts
+end_time: 1757492458843
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 56b09d63fcc64b07bd678c75c570aeef
+run_name: suave-penguin-795
+run_uuid: 56b09d63fcc64b07bd678c75c570aeef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492432762
+status: 3
+tags: []
+user_id: pedroasvalente

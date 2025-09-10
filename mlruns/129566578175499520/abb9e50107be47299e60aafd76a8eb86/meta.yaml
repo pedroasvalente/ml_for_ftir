@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/abb9e50107be47299e60aafd76a8eb86/artifacts
+end_time: 1757493523654
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: abb9e50107be47299e60aafd76a8eb86
+run_name: nebulous-carp-411
+run_uuid: abb9e50107be47299e60aafd76a8eb86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493456865
+status: 3
+tags: []
+user_id: pedroasvalente

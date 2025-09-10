@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/de1a96d3d11e4cafa0399a711d123e3f/artifacts
+end_time: 1757492659543
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: de1a96d3d11e4cafa0399a711d123e3f
+run_name: aged-shoat-206
+run_uuid: de1a96d3d11e4cafa0399a711d123e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492637086
+status: 3
+tags: []
+user_id: pedroasvalente

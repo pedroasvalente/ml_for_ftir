@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/5ab3576878f74381a7659bc671b539cc/artifacts
+end_time: 1757491297797
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 5ab3576878f74381a7659bc671b539cc
+run_name: righteous-ray-452
+run_uuid: 5ab3576878f74381a7659bc671b539cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491269163
+status: 3
+tags: []
+user_id: pedroasvalente

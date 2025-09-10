@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/4ee81fdaedcf4877a47a9f083b4c8d79/artifacts
+end_time: 1757492263716
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 4ee81fdaedcf4877a47a9f083b4c8d79
+run_name: unleashed-cod-986
+run_uuid: 4ee81fdaedcf4877a47a9f083b4c8d79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492251595
+status: 3
+tags: []
+user_id: pedroasvalente

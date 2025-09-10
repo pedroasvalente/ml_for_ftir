@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/e21890d1d00540b687b260b4d0edbd0c/artifacts
+end_time: 1757491777386
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: e21890d1d00540b687b260b4d0edbd0c
+run_name: invincible-shad-923
+run_uuid: e21890d1d00540b687b260b4d0edbd0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491758782
+status: 3
+tags: []
+user_id: pedroasvalente

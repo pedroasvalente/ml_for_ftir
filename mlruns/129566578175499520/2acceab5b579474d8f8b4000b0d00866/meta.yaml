@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/2acceab5b579474d8f8b4000b0d00866/artifacts
+end_time: 1757493217317
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 2acceab5b579474d8f8b4000b0d00866
+run_name: gregarious-finch-263
+run_uuid: 2acceab5b579474d8f8b4000b0d00866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757493205450
+status: 3
+tags: []
+user_id: pedroasvalente

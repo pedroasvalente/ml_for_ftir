@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/f99711fb3c734d71b485aa87eb72de7d/artifacts
+end_time: 1757492429003
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: f99711fb3c734d71b485aa87eb72de7d
+run_name: bemused-crane-503
+run_uuid: f99711fb3c734d71b485aa87eb72de7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492425509
+status: 3
+tags: []
+user_id: pedroasvalente

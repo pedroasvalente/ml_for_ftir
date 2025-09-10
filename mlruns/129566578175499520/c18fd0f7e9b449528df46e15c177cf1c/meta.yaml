@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/c18fd0f7e9b449528df46e15c177cf1c/artifacts
+end_time: 1757491877100
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: c18fd0f7e9b449528df46e15c177cf1c
+run_name: skittish-penguin-446
+run_uuid: c18fd0f7e9b449528df46e15c177cf1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491811818
+status: 3
+tags: []
+user_id: pedroasvalente

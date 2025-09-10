@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/ec64ba9190434fe388f1058dd0ee5288/artifacts
+end_time: 1757492814971
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: ec64ba9190434fe388f1058dd0ee5288
+run_name: fortunate-carp-817
+run_uuid: ec64ba9190434fe388f1058dd0ee5288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492777528
+status: 3
+tags: []
+user_id: pedroasvalente

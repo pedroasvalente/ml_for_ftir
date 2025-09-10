@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/6232cdbcde0745319f15158e8c0fde38/artifacts
+end_time: 1757492018822
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 6232cdbcde0745319f15158e8c0fde38
+run_name: clumsy-lark-844
+run_uuid: 6232cdbcde0745319f15158e8c0fde38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491995471
+status: 3
+tags: []
+user_id: pedroasvalente

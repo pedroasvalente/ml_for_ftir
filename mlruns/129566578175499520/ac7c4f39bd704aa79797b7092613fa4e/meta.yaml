@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/ac7c4f39bd704aa79797b7092613fa4e/artifacts
+end_time: 1757492173159
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: ac7c4f39bd704aa79797b7092613fa4e
+run_name: handsome-seal-910
+run_uuid: ac7c4f39bd704aa79797b7092613fa4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492160417
+status: 3
+tags: []
+user_id: pedroasvalente

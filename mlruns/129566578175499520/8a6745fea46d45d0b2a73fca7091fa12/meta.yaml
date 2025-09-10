@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/8a6745fea46d45d0b2a73fca7091fa12/artifacts
+end_time: 1757491777386
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: 8a6745fea46d45d0b2a73fca7091fa12
+run_name: victorious-sloth-864
+run_uuid: 8a6745fea46d45d0b2a73fca7091fa12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757491758782
+status: 3
+tags: []
+user_id: pedroasvalente

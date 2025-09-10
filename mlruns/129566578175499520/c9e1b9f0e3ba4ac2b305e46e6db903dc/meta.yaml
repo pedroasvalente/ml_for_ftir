@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129566578175499520/c9e1b9f0e3ba4ac2b305e46e6db903dc/artifacts
+end_time: 1757492703295
+entry_point_name: ''
+experiment_id: '129566578175499520'
+lifecycle_stage: active
+run_id: c9e1b9f0e3ba4ac2b305e46e6db903dc
+run_name: polite-worm-474
+run_uuid: c9e1b9f0e3ba4ac2b305e46e6db903dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757492699906
+status: 3
+tags: []
+user_id: pedroasvalente
