@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/decd5c85011149c68df32ea053698869/artifacts
+end_time: 1757408256443
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: decd5c85011149c68df32ea053698869
+run_name: enchanting-moth-323
+run_uuid: decd5c85011149c68df32ea053698869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408211415
+status: 3
+tags: []
+user_id: pedroasvalente

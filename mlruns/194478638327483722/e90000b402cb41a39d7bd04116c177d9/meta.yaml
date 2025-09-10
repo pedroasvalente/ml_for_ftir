@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/e90000b402cb41a39d7bd04116c177d9/artifacts
+end_time: 1757406954387
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: e90000b402cb41a39d7bd04116c177d9
+run_name: sassy-goose-65
+run_uuid: e90000b402cb41a39d7bd04116c177d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757406945275
+status: 3
+tags: []
+user_id: pedroasvalente

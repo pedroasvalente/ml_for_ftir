@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/2f75b190011e4d1b80594764c9d56192/artifacts
+end_time: 1757408815039
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 2f75b190011e4d1b80594764c9d56192
+run_name: unleashed-pig-141
+run_uuid: 2f75b190011e4d1b80594764c9d56192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408805417
+status: 3
+tags: []
+user_id: pedroasvalente

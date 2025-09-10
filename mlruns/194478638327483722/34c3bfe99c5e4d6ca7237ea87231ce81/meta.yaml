@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/34c3bfe99c5e4d6ca7237ea87231ce81/artifacts
+end_time: 1757409069239
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 34c3bfe99c5e4d6ca7237ea87231ce81
+run_name: painted-wren-878
+run_uuid: 34c3bfe99c5e4d6ca7237ea87231ce81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408996871
+status: 3
+tags: []
+user_id: pedroasvalente

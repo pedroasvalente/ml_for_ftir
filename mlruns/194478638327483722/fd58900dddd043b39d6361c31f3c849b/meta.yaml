@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/fd58900dddd043b39d6361c31f3c849b/artifacts
+end_time: 1757406694872
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: fd58900dddd043b39d6361c31f3c849b
+run_name: upset-gull-561
+run_uuid: fd58900dddd043b39d6361c31f3c849b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757406687029
+status: 3
+tags: []
+user_id: pedroasvalente

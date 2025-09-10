@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/b2c9068a21384c8091ec99afa00f7753/artifacts
+end_time: 1757407120357
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: b2c9068a21384c8091ec99afa00f7753
+run_name: overjoyed-bear-408
+run_uuid: b2c9068a21384c8091ec99afa00f7753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407101179
+status: 3
+tags: []
+user_id: pedroasvalente

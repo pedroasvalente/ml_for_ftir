@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/41f9b71caa764186b17b7877ea1fa737/artifacts
+end_time: 1757408072270
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 41f9b71caa764186b17b7877ea1fa737
+run_name: upset-cow-159
+run_uuid: 41f9b71caa764186b17b7877ea1fa737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408068301
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/c8c97b0c54f2482a8f76f83250f9a502/artifacts
+end_time: 1757407079664
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: c8c97b0c54f2482a8f76f83250f9a502
+run_name: righteous-tern-434
+run_uuid: c8c97b0c54f2482a8f76f83250f9a502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407056237
+status: 3
+tags: []
+user_id: pedroasvalente

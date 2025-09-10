@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/6bb6633290c2470691a8d34991ca9e17/artifacts
+end_time: 1757408798789
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 6bb6633290c2470691a8d34991ca9e17
+run_name: luxuriant-ram-817
+run_uuid: 6bb6633290c2470691a8d34991ca9e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408738408
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/49a6b6419cd745859e74d5701b679b58/artifacts
+end_time: 1757407249668
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 49a6b6419cd745859e74d5701b679b58
+run_name: blushing-mink-911
+run_uuid: 49a6b6419cd745859e74d5701b679b58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407236792
+status: 3
+tags: []
+user_id: pedroasvalente

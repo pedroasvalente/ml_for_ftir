@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/1a42d2e5299343d5b6c9b2ca27fa9595/artifacts
+end_time: 1757408615559
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 1a42d2e5299343d5b6c9b2ca27fa9595
+run_name: bald-dog-761
+run_uuid: 1a42d2e5299343d5b6c9b2ca27fa9595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408554444
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/2d94f1d1dbbf4a9bbc360b98e89d3a3f/artifacts
+end_time: 1757406918534
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 2d94f1d1dbbf4a9bbc360b98e89d3a3f
+run_name: useful-ape-751
+run_uuid: 2d94f1d1dbbf4a9bbc360b98e89d3a3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757406868689
+status: 3
+tags: []
+user_id: pedroasvalente

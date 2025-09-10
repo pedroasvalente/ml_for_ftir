@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/1d978a0ae3dc4b9ca08dc2f13ebde2b5/artifacts
+end_time: 1757407828327
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 1d978a0ae3dc4b9ca08dc2f13ebde2b5
+run_name: invincible-ray-787
+run_uuid: 1d978a0ae3dc4b9ca08dc2f13ebde2b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407823819
+status: 3
+tags: []
+user_id: pedroasvalente

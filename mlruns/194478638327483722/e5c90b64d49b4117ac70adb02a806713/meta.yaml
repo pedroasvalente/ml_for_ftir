@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/e5c90b64d49b4117ac70adb02a806713/artifacts
+end_time: 1757408206865
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: e5c90b64d49b4117ac70adb02a806713
+run_name: fun-shrew-937
+run_uuid: e5c90b64d49b4117ac70adb02a806713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408202867
+status: 3
+tags: []
+user_id: pedroasvalente

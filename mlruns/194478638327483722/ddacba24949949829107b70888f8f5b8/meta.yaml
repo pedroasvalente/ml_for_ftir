@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/ddacba24949949829107b70888f8f5b8/artifacts
+end_time: 1757406987068
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: ddacba24949949829107b70888f8f5b8
+run_name: fortunate-cow-121
+run_uuid: ddacba24949949829107b70888f8f5b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757406964830
+status: 3
+tags: []
+user_id: pedroasvalente

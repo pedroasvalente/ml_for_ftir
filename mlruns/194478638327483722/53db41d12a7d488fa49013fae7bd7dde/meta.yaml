@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/53db41d12a7d488fa49013fae7bd7dde/artifacts
+end_time: 1757406794514
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 53db41d12a7d488fa49013fae7bd7dde
+run_name: amusing-koi-259
+run_uuid: 53db41d12a7d488fa49013fae7bd7dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757406732294
+status: 3
+tags: []
+user_id: pedroasvalente

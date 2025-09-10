@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/2f8ee6dec691436a8492b082a206a62a/artifacts
+end_time: 1757407382107
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 2f8ee6dec691436a8492b082a206a62a
+run_name: adorable-zebra-68
+run_uuid: 2f8ee6dec691436a8492b082a206a62a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407351802
+status: 3
+tags: []
+user_id: pedroasvalente

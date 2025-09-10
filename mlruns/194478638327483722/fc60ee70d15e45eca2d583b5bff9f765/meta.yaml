@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/fc60ee70d15e45eca2d583b5bff9f765/artifacts
+end_time: 1757417407120
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: fc60ee70d15e45eca2d583b5bff9f765
+run_name: experiment_linear_salivarycortisol
+run_uuid: fc60ee70d15e45eca2d583b5bff9f765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757406568850
+status: 3
+tags: []
+user_id: pedroasvalente

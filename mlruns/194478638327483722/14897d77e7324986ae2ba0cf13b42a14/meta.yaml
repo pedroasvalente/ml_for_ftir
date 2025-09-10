@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/14897d77e7324986ae2ba0cf13b42a14/artifacts
+end_time: 1757408139941
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 14897d77e7324986ae2ba0cf13b42a14
+run_name: nimble-sheep-80
+run_uuid: 14897d77e7324986ae2ba0cf13b42a14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408076662
+status: 3
+tags: []
+user_id: pedroasvalente

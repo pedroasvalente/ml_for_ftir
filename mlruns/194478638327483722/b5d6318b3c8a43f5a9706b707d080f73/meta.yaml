@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/b5d6318b3c8a43f5a9706b707d080f73/artifacts
+end_time: 1757408631380
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: b5d6318b3c8a43f5a9706b707d080f73
+run_name: painted-hog-400
+run_uuid: b5d6318b3c8a43f5a9706b707d080f73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408621933
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/3dac17b47d04494b8c2147dbeb5d732f/artifacts
+end_time: 1757408615559
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 3dac17b47d04494b8c2147dbeb5d732f
+run_name: thundering-carp-39
+run_uuid: 3dac17b47d04494b8c2147dbeb5d732f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408554444
+status: 3
+tags: []
+user_id: pedroasvalente

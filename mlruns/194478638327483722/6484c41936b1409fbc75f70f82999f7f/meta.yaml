@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/6484c41936b1409fbc75f70f82999f7f/artifacts
+end_time: 1757406684479
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 6484c41936b1409fbc75f70f82999f7f
+run_name: gregarious-sheep-432
+run_uuid: 6484c41936b1409fbc75f70f82999f7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757406658677
+status: 3
+tags: []
+user_id: pedroasvalente

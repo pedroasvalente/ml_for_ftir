@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/21576990834345089c5aee1a5fe6a614/artifacts
+end_time: 1757407765947
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 21576990834345089c5aee1a5fe6a614
+run_name: overjoyed-yak-430
+run_uuid: 21576990834345089c5aee1a5fe6a614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407732996
+status: 3
+tags: []
+user_id: pedroasvalente

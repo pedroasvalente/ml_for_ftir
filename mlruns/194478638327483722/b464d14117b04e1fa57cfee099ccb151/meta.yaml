@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/b464d14117b04e1fa57cfee099ccb151/artifacts
+end_time: 1757407050899
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: b464d14117b04e1fa57cfee099ccb151
+run_name: sassy-goat-113
+run_uuid: b464d14117b04e1fa57cfee099ccb151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757406990042
+status: 3
+tags: []
+user_id: pedroasvalente

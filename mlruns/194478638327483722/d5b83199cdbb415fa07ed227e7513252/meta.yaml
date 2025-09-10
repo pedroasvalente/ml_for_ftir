@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/d5b83199cdbb415fa07ed227e7513252/artifacts
+end_time: 1757408990521
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: d5b83199cdbb415fa07ed227e7513252
+run_name: gentle-kit-272
+run_uuid: d5b83199cdbb415fa07ed227e7513252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408981222
+status: 3
+tags: []
+user_id: pedroasvalente

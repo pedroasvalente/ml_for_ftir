@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/9f51756c88ff4c8d8489e67bd73c079b/artifacts
+end_time: 1757407091593
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 9f51756c88ff4c8d8489e67bd73c079b
+run_name: learned-skink-952
+run_uuid: 9f51756c88ff4c8d8489e67bd73c079b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407082889
+status: 3
+tags: []
+user_id: pedroasvalente

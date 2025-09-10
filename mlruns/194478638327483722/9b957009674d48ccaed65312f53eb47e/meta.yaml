@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/9b957009674d48ccaed65312f53eb47e/artifacts
+end_time: 1757408063215
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 9b957009674d48ccaed65312f53eb47e
+run_name: carefree-skunk-476
+run_uuid: 9b957009674d48ccaed65312f53eb47e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757408002161
+status: 3
+tags: []
+user_id: pedroasvalente

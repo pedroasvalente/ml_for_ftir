@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/b32d7c051f584c9382dc2d3bb49d5486/artifacts
+end_time: 1757407565815
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: b32d7c051f584c9382dc2d3bb49d5486
+run_name: abundant-doe-839
+run_uuid: b32d7c051f584c9382dc2d3bb49d5486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407552394
+status: 3
+tags: []
+user_id: pedroasvalente

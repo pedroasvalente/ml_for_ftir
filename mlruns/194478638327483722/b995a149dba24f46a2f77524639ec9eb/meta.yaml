@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/b995a149dba24f46a2f77524639ec9eb/artifacts
+end_time: 1757407091593
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: b995a149dba24f46a2f77524639ec9eb
+run_name: clumsy-stag-217
+run_uuid: b995a149dba24f46a2f77524639ec9eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407082889
+status: 3
+tags: []
+user_id: pedroasvalente

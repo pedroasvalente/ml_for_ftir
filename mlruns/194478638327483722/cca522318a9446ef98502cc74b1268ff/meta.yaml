@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/cca522318a9446ef98502cc74b1268ff/artifacts
+end_time: 1757406823140
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: cca522318a9446ef98502cc74b1268ff
+run_name: magnificent-swan-503
+run_uuid: cca522318a9446ef98502cc74b1268ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757406798965
+status: 3
+tags: []
+user_id: pedroasvalente

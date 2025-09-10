@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/8cc2bef6b9d048a296abc3233ad1e229/artifacts
+end_time: 1757406596283
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 8cc2bef6b9d048a296abc3233ad1e229
+run_name: unruly-colt-78
+run_uuid: 8cc2bef6b9d048a296abc3233ad1e229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757406569378
+status: 3
+tags: []
+user_id: pedroasvalente

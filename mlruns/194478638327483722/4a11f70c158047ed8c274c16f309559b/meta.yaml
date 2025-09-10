@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/4a11f70c158047ed8c274c16f309559b/artifacts
+end_time: 1757406987068
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 4a11f70c158047ed8c274c16f309559b
+run_name: nervous-cow-281
+run_uuid: 4a11f70c158047ed8c274c16f309559b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757406964830
+status: 3
+tags: []
+user_id: pedroasvalente

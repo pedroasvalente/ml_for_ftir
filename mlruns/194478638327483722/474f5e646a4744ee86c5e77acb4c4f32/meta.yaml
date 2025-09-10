@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194478638327483722/474f5e646a4744ee86c5e77acb4c4f32/artifacts
+end_time: 1757407677368
+entry_point_name: ''
+experiment_id: '194478638327483722'
+lifecycle_stage: active
+run_id: 474f5e646a4744ee86c5e77acb4c4f32
+run_name: smiling-shoat-748
+run_uuid: 474f5e646a4744ee86c5e77acb4c4f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757407664096
+status: 3
+tags: []
+user_id: pedroasvalente
