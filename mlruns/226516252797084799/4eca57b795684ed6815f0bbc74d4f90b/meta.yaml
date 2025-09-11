@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/4eca57b795684ed6815f0bbc74d4f90b/artifacts
+end_time: 1757541238272
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 4eca57b795684ed6815f0bbc74d4f90b
+run_name: victorious-cow-659
+run_uuid: 4eca57b795684ed6815f0bbc74d4f90b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541205565
+status: 3
+tags: []
+user_id: pedroasvalente

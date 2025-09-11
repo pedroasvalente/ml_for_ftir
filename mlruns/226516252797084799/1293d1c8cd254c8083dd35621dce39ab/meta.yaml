@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/1293d1c8cd254c8083dd35621dce39ab/artifacts
+end_time: 1757542310048
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 1293d1c8cd254c8083dd35621dce39ab
+run_name: rare-ant-474
+run_uuid: 1293d1c8cd254c8083dd35621dce39ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542210932
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/88ba66b582cb403d9b3a4dab5abcd212/artifacts
+end_time: 1757542026995
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 88ba66b582cb403d9b3a4dab5abcd212
+run_name: flawless-goat-251
+run_uuid: 88ba66b582cb403d9b3a4dab5abcd212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542023503
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/4f0373403dde4af4a885abb98f8876cf/artifacts
+end_time: 1757540624862
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 4f0373403dde4af4a885abb98f8876cf
+run_name: capricious-sloth-331
+run_uuid: 4f0373403dde4af4a885abb98f8876cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757540591968
+status: 3
+tags: []
+user_id: pedroasvalente

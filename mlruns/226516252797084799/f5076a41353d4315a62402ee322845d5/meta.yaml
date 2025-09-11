@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/f5076a41353d4315a62402ee322845d5/artifacts
+end_time: 1757542125960
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: f5076a41353d4315a62402ee322845d5
+run_name: thundering-lark-865
+run_uuid: f5076a41353d4315a62402ee322845d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542103930
+status: 3
+tags: []
+user_id: pedroasvalente

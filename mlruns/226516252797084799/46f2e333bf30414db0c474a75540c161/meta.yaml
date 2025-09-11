@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/46f2e333bf30414db0c474a75540c161/artifacts
+end_time: 1757541919217
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 46f2e333bf30414db0c474a75540c161
+run_name: beautiful-rat-207
+run_uuid: 46f2e333bf30414db0c474a75540c161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541915773
+status: 3
+tags: []
+user_id: pedroasvalente

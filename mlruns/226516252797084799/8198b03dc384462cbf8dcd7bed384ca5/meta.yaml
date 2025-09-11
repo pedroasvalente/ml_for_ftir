@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/8198b03dc384462cbf8dcd7bed384ca5/artifacts
+end_time: 1757542125960
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 8198b03dc384462cbf8dcd7bed384ca5
+run_name: bald-calf-254
+run_uuid: 8198b03dc384462cbf8dcd7bed384ca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542103930
+status: 3
+tags: []
+user_id: pedroasvalente

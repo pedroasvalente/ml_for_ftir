@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/be0365a72b074950a9fbabdc49969062/artifacts
+end_time: 1757540500338
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: be0365a72b074950a9fbabdc49969062
+run_name: gregarious-yak-8
+run_uuid: be0365a72b074950a9fbabdc49969062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757540432477
+status: 3
+tags: []
+user_id: pedroasvalente

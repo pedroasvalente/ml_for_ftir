@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/1da926c994db4d53b9307ff24fea0df0/artifacts
+end_time: 1757540500338
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 1da926c994db4d53b9307ff24fea0df0
+run_name: blushing-bear-381
+run_uuid: 1da926c994db4d53b9307ff24fea0df0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757540432477
+status: 3
+tags: []
+user_id: pedroasvalente

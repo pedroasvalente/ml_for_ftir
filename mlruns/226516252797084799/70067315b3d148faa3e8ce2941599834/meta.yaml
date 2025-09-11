@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/70067315b3d148faa3e8ce2941599834/artifacts
+end_time: 1757541451509
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 70067315b3d148faa3e8ce2941599834
+run_name: indecisive-seal-140
+run_uuid: 70067315b3d148faa3e8ce2941599834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541428929
+status: 3
+tags: []
+user_id: pedroasvalente

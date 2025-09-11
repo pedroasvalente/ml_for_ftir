@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/4649d0fa5643421ea96287e8b06c1db0/artifacts
+end_time: 1757543468863
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 4649d0fa5643421ea96287e8b06c1db0
+run_name: painted-foal-852
+run_uuid: 4649d0fa5643421ea96287e8b06c1db0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757543361898
+status: 3
+tags: []
+user_id: pedroasvalente

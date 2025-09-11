@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/3072bc09616345eda7f9ea561ddaeb86/artifacts
+end_time: 1757540745041
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 3072bc09616345eda7f9ea561ddaeb86
+run_name: amusing-doe-79
+run_uuid: 3072bc09616345eda7f9ea561ddaeb86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757540710085
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/ece79ab404b044dda05f82709a0fb13e/artifacts
+end_time: 1757540624862
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: ece79ab404b044dda05f82709a0fb13e
+run_name: charming-yak-957
+run_uuid: ece79ab404b044dda05f82709a0fb13e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757540591968
+status: 3
+tags: []
+user_id: pedroasvalente

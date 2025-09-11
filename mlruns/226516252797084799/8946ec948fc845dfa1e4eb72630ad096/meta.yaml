@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/8946ec948fc845dfa1e4eb72630ad096/artifacts
+end_time: 1757540624862
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 8946ec948fc845dfa1e4eb72630ad096
+run_name: exultant-midge-953
+run_uuid: 8946ec948fc845dfa1e4eb72630ad096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757540591968
+status: 3
+tags: []
+user_id: pedroasvalente

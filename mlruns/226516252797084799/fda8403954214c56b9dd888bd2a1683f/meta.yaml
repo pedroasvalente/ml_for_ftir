@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/fda8403954214c56b9dd888bd2a1683f/artifacts
+end_time: 1757541876467
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: fda8403954214c56b9dd888bd2a1683f
+run_name: sedate-squirrel-408
+run_uuid: fda8403954214c56b9dd888bd2a1683f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541853910
+status: 3
+tags: []
+user_id: pedroasvalente

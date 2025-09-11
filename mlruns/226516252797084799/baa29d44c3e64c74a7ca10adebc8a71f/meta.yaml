@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/baa29d44c3e64c74a7ca10adebc8a71f/artifacts
+end_time: 1757542019480
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: baa29d44c3e64c74a7ca10adebc8a71f
+run_name: sedate-kit-22
+run_uuid: baa29d44c3e64c74a7ca10adebc8a71f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541993220
+status: 3
+tags: []
+user_id: pedroasvalente

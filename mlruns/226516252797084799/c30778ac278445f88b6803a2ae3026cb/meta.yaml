@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/c30778ac278445f88b6803a2ae3026cb/artifacts
+end_time: 1757541404285
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: c30778ac278445f88b6803a2ae3026cb
+run_name: gentle-hog-316
+run_uuid: c30778ac278445f88b6803a2ae3026cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541359127
+status: 3
+tags: []
+user_id: pedroasvalente

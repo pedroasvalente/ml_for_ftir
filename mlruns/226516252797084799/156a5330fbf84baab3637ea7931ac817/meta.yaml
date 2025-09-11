@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/156a5330fbf84baab3637ea7931ac817/artifacts
+end_time: 1757541773307
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 156a5330fbf84baab3637ea7931ac817
+run_name: bedecked-croc-971
+run_uuid: 156a5330fbf84baab3637ea7931ac817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541761489
+status: 3
+tags: []
+user_id: pedroasvalente

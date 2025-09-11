@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/1b64e73f9ab8411d877f017e2698794b/artifacts
+end_time: 1757541508608
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 1b64e73f9ab8411d877f017e2698794b
+run_name: rogue-whale-72
+run_uuid: 1b64e73f9ab8411d877f017e2698794b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541496252
+status: 3
+tags: []
+user_id: pedroasvalente

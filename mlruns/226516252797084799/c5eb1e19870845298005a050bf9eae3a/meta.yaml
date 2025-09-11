@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/c5eb1e19870845298005a050bf9eae3a/artifacts
+end_time: 1757542586907
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: c5eb1e19870845298005a050bf9eae3a
+run_name: treasured-koi-389
+run_uuid: c5eb1e19870845298005a050bf9eae3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542468795
+status: 3
+tags: []
+user_id: pedroasvalente

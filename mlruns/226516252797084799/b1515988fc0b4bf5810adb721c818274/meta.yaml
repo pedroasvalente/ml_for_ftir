@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/b1515988fc0b4bf5810adb721c818274/artifacts
+end_time: 1757541317324
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: b1515988fc0b4bf5810adb721c818274
+run_name: caring-grouse-417
+run_uuid: b1515988fc0b4bf5810adb721c818274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541241060
+status: 3
+tags: []
+user_id: pedroasvalente

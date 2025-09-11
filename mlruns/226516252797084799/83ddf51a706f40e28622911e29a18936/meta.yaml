@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/83ddf51a706f40e28622911e29a18936/artifacts
+end_time: 1757541876467
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 83ddf51a706f40e28622911e29a18936
+run_name: gifted-asp-416
+run_uuid: 83ddf51a706f40e28622911e29a18936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541853910
+status: 3
+tags: []
+user_id: pedroasvalente

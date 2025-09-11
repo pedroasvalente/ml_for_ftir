@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/53e95217bd4c433cad49a06b9cabf516/artifacts
+end_time: 1757542744033
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 53e95217bd4c433cad49a06b9cabf516
+run_name: suave-lamb-914
+run_uuid: 53e95217bd4c433cad49a06b9cabf516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542609029
+status: 3
+tags: []
+user_id: pedroasvalente

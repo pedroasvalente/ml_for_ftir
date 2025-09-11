@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/a84fc851c43943599817e3affda5e70f/artifacts
+end_time: 1757541151138
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: a84fc851c43943599817e3affda5e70f
+run_name: luminous-elk-12
+run_uuid: a84fc851c43943599817e3affda5e70f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541120558
+status: 3
+tags: []
+user_id: pedroasvalente

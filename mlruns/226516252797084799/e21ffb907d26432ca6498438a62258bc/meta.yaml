@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/e21ffb907d26432ca6498438a62258bc/artifacts
+end_time: 1757541552076
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: e21ffb907d26432ca6498438a62258bc
+run_name: abundant-sponge-283
+run_uuid: e21ffb907d26432ca6498438a62258bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541539834
+status: 3
+tags: []
+user_id: pedroasvalente

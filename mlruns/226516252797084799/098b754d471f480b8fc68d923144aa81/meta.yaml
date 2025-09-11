@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/098b754d471f480b8fc68d923144aa81/artifacts
+end_time: 1757541116081
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 098b754d471f480b8fc68d923144aa81
+run_name: handsome-dolphin-792
+run_uuid: 098b754d471f480b8fc68d923144aa81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541052332
+status: 3
+tags: []
+user_id: pedroasvalente

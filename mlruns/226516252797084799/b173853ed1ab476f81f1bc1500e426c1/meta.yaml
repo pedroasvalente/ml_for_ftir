@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/b173853ed1ab476f81f1bc1500e426c1/artifacts
+end_time: 1757541799791
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: b173853ed1ab476f81f1bc1500e426c1
+run_name: placid-sponge-774
+run_uuid: b173853ed1ab476f81f1bc1500e426c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541777298
+status: 3
+tags: []
+user_id: pedroasvalente

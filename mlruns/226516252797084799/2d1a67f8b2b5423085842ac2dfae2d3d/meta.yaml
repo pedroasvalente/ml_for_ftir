@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/2d1a67f8b2b5423085842ac2dfae2d3d/artifacts
+end_time: 1757541492861
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 2d1a67f8b2b5423085842ac2dfae2d3d
+run_name: charming-eel-338
+run_uuid: 2d1a67f8b2b5423085842ac2dfae2d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541469828
+status: 3
+tags: []
+user_id: pedroasvalente

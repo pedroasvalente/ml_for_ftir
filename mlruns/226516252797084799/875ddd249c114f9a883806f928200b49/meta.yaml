@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/875ddd249c114f9a883806f928200b49/artifacts
+end_time: 1757542125960
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 875ddd249c114f9a883806f928200b49
+run_name: aged-ram-34
+run_uuid: 875ddd249c114f9a883806f928200b49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542103930
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/14c83ce07e6a47cc90b43bfe3005b3e2/artifacts
+end_time: 1757541596385
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 14c83ce07e6a47cc90b43bfe3005b3e2
+run_name: aged-shad-30
+run_uuid: 14c83ce07e6a47cc90b43bfe3005b3e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541583946
+status: 3
+tags: []
+user_id: pedroasvalente

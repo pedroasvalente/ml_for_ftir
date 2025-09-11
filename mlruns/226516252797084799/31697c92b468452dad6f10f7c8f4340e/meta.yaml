@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/31697c92b468452dad6f10f7c8f4340e/artifacts
+end_time: 1757541642055
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 31697c92b468452dad6f10f7c8f4340e
+run_name: big-fly-270
+run_uuid: 31697c92b468452dad6f10f7c8f4340e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541629673
+status: 3
+tags: []
+user_id: pedroasvalente

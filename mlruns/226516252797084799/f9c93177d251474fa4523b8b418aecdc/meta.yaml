@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/f9c93177d251474fa4523b8b418aecdc/artifacts
+end_time: 1757541580366
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: f9c93177d251474fa4523b8b418aecdc
+run_name: brawny-kite-391
+run_uuid: f9c93177d251474fa4523b8b418aecdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541555578
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/93271548166e4da3a6fb6cf5b8bc95bb/artifacts
+end_time: 1757542066418
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 93271548166e4da3a6fb6cf5b8bc95bb
+run_name: melodic-hound-6
+run_uuid: 93271548166e4da3a6fb6cf5b8bc95bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542062994
+status: 3
+tags: []
+user_id: pedroasvalente

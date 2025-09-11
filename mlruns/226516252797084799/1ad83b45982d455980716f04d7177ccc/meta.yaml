@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/1ad83b45982d455980716f04d7177ccc/artifacts
+end_time: 1757543205973
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 1ad83b45982d455980716f04d7177ccc
+run_name: bald-lynx-468
+run_uuid: 1ad83b45982d455980716f04d7177ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757543194720
+status: 3
+tags: []
+user_id: pedroasvalente

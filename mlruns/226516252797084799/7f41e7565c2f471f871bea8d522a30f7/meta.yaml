@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/7f41e7565c2f471f871bea8d522a30f7/artifacts
+end_time: 1757542761061
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 7f41e7565c2f471f871bea8d522a30f7
+run_name: puzzled-fly-343
+run_uuid: 7f41e7565c2f471f871bea8d522a30f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542749646
+status: 3
+tags: []
+user_id: pedroasvalente

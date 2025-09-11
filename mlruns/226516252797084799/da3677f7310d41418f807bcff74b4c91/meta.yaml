@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/da3677f7310d41418f807bcff74b4c91/artifacts
+end_time: 1757543188788
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: da3677f7310d41418f807bcff74b4c91
+run_name: caring-sheep-213
+run_uuid: da3677f7310d41418f807bcff74b4c91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757543079074
+status: 3
+tags: []
+user_id: pedroasvalente

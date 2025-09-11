@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/df8f3292d2a64e288d0e0cc6bbf5dbfc/artifacts
+end_time: 1757542165472
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: df8f3292d2a64e288d0e0cc6bbf5dbfc
+run_name: lyrical-hound-153
+run_uuid: df8f3292d2a64e288d0e0cc6bbf5dbfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542162045
+status: 3
+tags: []
+user_id: pedroasvalente

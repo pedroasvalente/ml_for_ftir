@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/6e3989b1d84c455a96656402d6762915/artifacts
+end_time: 1757542133614
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 6e3989b1d84c455a96656402d6762915
+run_name: resilient-calf-351
+run_uuid: 6e3989b1d84c455a96656402d6762915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542130192
+status: 3
+tags: []
+user_id: pedroasvalente

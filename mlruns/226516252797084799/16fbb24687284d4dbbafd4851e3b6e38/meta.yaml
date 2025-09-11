@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/16fbb24687284d4dbbafd4851e3b6e38/artifacts
+end_time: 1757543356014
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 16fbb24687284d4dbbafd4851e3b6e38
+run_name: likeable-hound-580
+run_uuid: 16fbb24687284d4dbbafd4851e3b6e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757543344920
+status: 3
+tags: []
+user_id: pedroasvalente

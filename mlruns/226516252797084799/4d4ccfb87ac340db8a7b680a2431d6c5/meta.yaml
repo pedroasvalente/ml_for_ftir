@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/4d4ccfb87ac340db8a7b680a2431d6c5/artifacts
+end_time: 1757540541820
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 4d4ccfb87ac340db8a7b680a2431d6c5
+run_name: dapper-trout-519
+run_uuid: 4d4ccfb87ac340db8a7b680a2431d6c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757540504228
+status: 3
+tags: []
+user_id: pedroasvalente

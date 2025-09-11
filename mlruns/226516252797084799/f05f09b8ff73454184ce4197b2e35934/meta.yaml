@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/f05f09b8ff73454184ce4197b2e35934/artifacts
+end_time: 1757551424306
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: f05f09b8ff73454184ce4197b2e35934
+run_name: experiment_linear_vo2max_bpm
+run_uuid: f05f09b8ff73454184ce4197b2e35934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757540393284
+status: 3
+tags: []
+user_id: pedroasvalente

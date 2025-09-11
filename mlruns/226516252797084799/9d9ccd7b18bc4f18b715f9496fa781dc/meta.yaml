@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/9d9ccd7b18bc4f18b715f9496fa781dc/artifacts
+end_time: 1757541799791
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 9d9ccd7b18bc4f18b715f9496fa781dc
+run_name: gaudy-newt-287
+run_uuid: 9d9ccd7b18bc4f18b715f9496fa781dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541777298
+status: 3
+tags: []
+user_id: pedroasvalente

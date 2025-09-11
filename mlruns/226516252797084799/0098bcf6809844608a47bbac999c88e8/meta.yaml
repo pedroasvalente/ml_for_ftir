@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/0098bcf6809844608a47bbac999c88e8/artifacts
+end_time: 1757542058786
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 0098bcf6809844608a47bbac999c88e8
+run_name: delicate-wasp-804
+run_uuid: 0098bcf6809844608a47bbac999c88e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542031064
+status: 3
+tags: []
+user_id: pedroasvalente

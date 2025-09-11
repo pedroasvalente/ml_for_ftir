@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/0a002483dddb4d45b94e6ea786219b5b/artifacts
+end_time: 1757540500338
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 0a002483dddb4d45b94e6ea786219b5b
+run_name: adventurous-stork-95
+run_uuid: 0a002483dddb4d45b94e6ea786219b5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757540432477
+status: 3
+tags: []
+user_id: pedroasvalente

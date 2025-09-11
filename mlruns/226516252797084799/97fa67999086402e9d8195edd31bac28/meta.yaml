@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/97fa67999086402e9d8195edd31bac28/artifacts
+end_time: 1757541757547
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 97fa67999086402e9d8195edd31bac28
+run_name: burly-whale-194
+run_uuid: 97fa67999086402e9d8195edd31bac28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541734293
+status: 3
+tags: []
+user_id: pedroasvalente

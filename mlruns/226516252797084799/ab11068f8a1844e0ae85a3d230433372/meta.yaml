@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/ab11068f8a1844e0ae85a3d230433372/artifacts
+end_time: 1757541815639
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: ab11068f8a1844e0ae85a3d230433372
+run_name: thoughtful-worm-68
+run_uuid: ab11068f8a1844e0ae85a3d230433372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541803870
+status: 3
+tags: []
+user_id: pedroasvalente

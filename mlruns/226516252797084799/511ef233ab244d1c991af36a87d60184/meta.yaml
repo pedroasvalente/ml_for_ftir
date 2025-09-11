@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/511ef233ab244d1c991af36a87d60184/artifacts
+end_time: 1757541672031
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 511ef233ab244d1c991af36a87d60184
+run_name: defiant-sponge-834
+run_uuid: 511ef233ab244d1c991af36a87d60184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541645765
+status: 3
+tags: []
+user_id: pedroasvalente

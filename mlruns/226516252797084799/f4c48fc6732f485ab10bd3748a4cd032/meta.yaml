@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/f4c48fc6732f485ab10bd3748a4cd032/artifacts
+end_time: 1757541196144
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: f4c48fc6732f485ab10bd3748a4cd032
+run_name: unruly-deer-501
+run_uuid: f4c48fc6732f485ab10bd3748a4cd032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541153982
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/52c26adb8b974dc88e5032df3b2172c0/artifacts
+end_time: 1757542891502
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 52c26adb8b974dc88e5032df3b2172c0
+run_name: popular-snake-704
+run_uuid: 52c26adb8b974dc88e5032df3b2172c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542766275
+status: 3
+tags: []
+user_id: pedroasvalente

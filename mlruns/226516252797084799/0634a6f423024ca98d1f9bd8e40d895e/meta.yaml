@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/0634a6f423024ca98d1f9bd8e40d895e/artifacts
+end_time: 1757540583088
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 0634a6f423024ca98d1f9bd8e40d895e
+run_name: hilarious-shoat-890
+run_uuid: 0634a6f423024ca98d1f9bd8e40d895e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757540543992
+status: 3
+tags: []
+user_id: pedroasvalente

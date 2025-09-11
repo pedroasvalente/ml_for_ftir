@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/2ec2e0ee6dd54fed9007eaecc9de1371/artifacts
+end_time: 1757543073663
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 2ec2e0ee6dd54fed9007eaecc9de1371
+run_name: able-ray-895
+run_uuid: 2ec2e0ee6dd54fed9007eaecc9de1371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757543062524
+status: 3
+tags: []
+user_id: pedroasvalente

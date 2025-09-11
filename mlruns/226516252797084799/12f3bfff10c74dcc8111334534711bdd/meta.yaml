@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/12f3bfff10c74dcc8111334534711bdd/artifacts
+end_time: 1757541151138
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 12f3bfff10c74dcc8111334534711bdd
+run_name: upbeat-wren-596
+run_uuid: 12f3bfff10c74dcc8111334534711bdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541120558
+status: 3
+tags: []
+user_id: pedroasvalente

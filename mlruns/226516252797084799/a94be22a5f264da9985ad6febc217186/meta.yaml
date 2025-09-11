@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/a94be22a5f264da9985ad6febc217186/artifacts
+end_time: 1757541317324
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: a94be22a5f264da9985ad6febc217186
+run_name: dapper-turtle-15
+run_uuid: a94be22a5f264da9985ad6febc217186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541241060
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/ab9c32be352e41088ae473115dfd4367/artifacts
+end_time: 1757541552076
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: ab9c32be352e41088ae473115dfd4367
+run_name: bold-rat-553
+run_uuid: ab9c32be352e41088ae473115dfd4367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541539834
+status: 3
+tags: []
+user_id: pedroasvalente

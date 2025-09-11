@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/3cc5e26f57d04884bbd8d11da58eb8ed/artifacts
+end_time: 1757542019480
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 3cc5e26f57d04884bbd8d11da58eb8ed
+run_name: traveling-foal-660
+run_uuid: 3cc5e26f57d04884bbd8d11da58eb8ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541993220
+status: 3
+tags: []
+user_id: pedroasvalente

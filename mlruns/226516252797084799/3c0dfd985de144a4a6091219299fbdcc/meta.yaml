@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/3c0dfd985de144a4a6091219299fbdcc/artifacts
+end_time: 1757541196144
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 3c0dfd985de144a4a6091219299fbdcc
+run_name: enchanting-bass-568
+run_uuid: 3c0dfd985de144a4a6091219299fbdcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541153982
+status: 3
+tags: []
+user_id: pedroasvalente

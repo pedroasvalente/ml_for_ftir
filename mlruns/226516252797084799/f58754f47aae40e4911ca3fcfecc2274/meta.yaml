@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/f58754f47aae40e4911ca3fcfecc2274/artifacts
+end_time: 1757541642055
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: f58754f47aae40e4911ca3fcfecc2274
+run_name: fearless-newt-756
+run_uuid: f58754f47aae40e4911ca3fcfecc2274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541629673
+status: 3
+tags: []
+user_id: pedroasvalente

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/f09b0fe46d0d4440b15f4fa61a1d5c02/artifacts
+end_time: 1757542744033
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: f09b0fe46d0d4440b15f4fa61a1d5c02
+run_name: funny-conch-886
+run_uuid: f09b0fe46d0d4440b15f4fa61a1d5c02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542609029
+status: 3
+tags: []
+user_id: pedroasvalente

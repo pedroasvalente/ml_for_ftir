@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/2d0ba9cdefd34b31bec68bc3dcd7916d/artifacts
+end_time: 1757543073663
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 2d0ba9cdefd34b31bec68bc3dcd7916d
+run_name: dashing-mink-460
+run_uuid: 2d0ba9cdefd34b31bec68bc3dcd7916d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757543062524
+status: 3
+tags: []
+user_id: pedroasvalente

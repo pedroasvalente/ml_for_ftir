@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/a7c5b8d0bfcb4258ba47010365c58c9c/artifacts
+end_time: 1757541799791
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: a7c5b8d0bfcb4258ba47010365c58c9c
+run_name: invincible-lamb-198
+run_uuid: a7c5b8d0bfcb4258ba47010365c58c9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757541777298
+status: 3
+tags: []
+user_id: pedroasvalente

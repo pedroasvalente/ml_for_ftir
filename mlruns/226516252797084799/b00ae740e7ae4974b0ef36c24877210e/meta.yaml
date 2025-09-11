@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/b00ae740e7ae4974b0ef36c24877210e/artifacts
+end_time: 1757542165472
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: b00ae740e7ae4974b0ef36c24877210e
+run_name: dapper-dog-648
+run_uuid: b00ae740e7ae4974b0ef36c24877210e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542162045
+status: 3
+tags: []
+user_id: pedroasvalente

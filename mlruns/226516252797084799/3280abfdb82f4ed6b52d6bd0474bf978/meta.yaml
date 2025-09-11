@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226516252797084799/3280abfdb82f4ed6b52d6bd0474bf978/artifacts
+end_time: 1757542586907
+entry_point_name: ''
+experiment_id: '226516252797084799'
+lifecycle_stage: active
+run_id: 3280abfdb82f4ed6b52d6bd0474bf978
+run_name: angry-penguin-192
+run_uuid: 3280abfdb82f4ed6b52d6bd0474bf978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757542468795
+status: 3
+tags: []
+user_id: pedroasvalente
