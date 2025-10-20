@@ -184,12 +184,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-# mlruns*
-# mlartifacts*
+
+# MLflow tracking artifacts
+mlruns/
+mlartifacts/
+
+# Images
 **.png
-# **.csv
-# **.json
+
+# Models
 models/**
+
+# IDE
 .idea/
 .vscode/
+
+# Misc
 things/*
