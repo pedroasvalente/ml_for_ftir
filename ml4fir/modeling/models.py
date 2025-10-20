@@ -452,7 +452,7 @@ names_dict = {
     "mlp_classifier": "MLP",
     "decision_tree": "Decision Tree",
     "xgboost": "XGBoost",
-    "fcnn":"FCNN",
+    "fcnn": "FCNN",
     "cnn": "CNN",
     "transformer": "Transformer",
     "unet": "UNet",

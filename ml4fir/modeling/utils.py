@@ -70,8 +70,6 @@ def save_results(
     configs_done,
 ):
     configs_done_df = pd.concat(configs_done)
-    # mlflow.log_table(configs_done_df, "experiment_configs_done.json")
-
     base_results_path = RESULTS_DIR
     results_df = pd.concat(all_results).reset_index(drop=True)
     cross_validation_results_df = pd.concat(
@@ -152,7 +150,9 @@ def save_results(
         )
 
         target_back_projection_iso["run_id"] = configs_done_df["run_id"].iloc[0]
-        target_back_projection_iso["run_name"] = configs_done_df["run_name"].iloc[0]
+        target_back_projection_iso["run_name"] = configs_done_df[
+            "run_name"
+        ].iloc[0]
         target_back_projection_iso_path = os.path.join(
             final_results_path,
             f"results_summary{suffix_group}_back_projection_best_per_experiment.csv",
@@ -160,40 +160,19 @@ def save_results(
         if os.path.exists(target_back_projection_iso_path):
             old_back_projection = pd.read_csv(target_back_projection_iso_path)
             old_back_projection = old_back_projection[
-                old_back_projection["run_id"] != target_back_projection_iso["run_id"].iloc[0]
+                old_back_projection["run_id"]
+                != target_back_projection_iso["run_id"].iloc[0]
             ]
             target_back_projection_iso = pd.concat(
                 [old_back_projection, target_back_projection_iso]
             ).reset_index(drop=True)
             target_back_projection_iso.to_csv(
-                target_back_projection_iso_path, index=False)
+                target_back_projection_iso_path, index=False
+            )
         else:
             target_back_projection_iso.to_csv(
                 target_back_projection_iso_path, index=False
             )
-
-
-
-
-        # Save results to Excel
-        # target_cross_validation_results.to_excel(
-        #     os.path.join(
-        #         final_results_path, f"results_summary{suffix_group}_cross.xlsx"
-        #     ),
-        #     index=False,
-        # )
-        # TODO: probably get this were in another way.
-        # TODO: get some sort of ID. mlflow?
-        # Save results to JSON
-        # save_df_with_lists_as_strings(
-        #     target_cross_validation_results,
-        #     os.path.join(
-        #         final_results_path, f"results_summary{suffix_group}_cross.json"
-        #     ),
-        #     dedup_col=target_cross_validation_results.columns.to_list(),
-        #     index=False,
-        #     json=True,
-        # )
 
 
 def log_best_child(
@@ -211,7 +190,7 @@ def log_best_child(
         metrics = child_run.data.metrics  # Get metrics from the child run
         child_run_metrics[run_id] = metrics
     child_run_metrics_df = pd.DataFrame(child_run_metrics).T
-    # TODO: probably make a metrics handler
+    # Identify best child run based on metric optimization direction
     if best_is_max:
         best_child = child_run_metrics_df[metric_to_choose].idxmax()
     else:
@@ -219,6 +198,3 @@ def log_best_child(
     mlflow.log_metrics(
         child_run_metrics[best_child], run_id=mlflow_run_obj.info.run_id
     )
-    # if save_model:
-    #     best_child_run = client.get_run(best_child)
-    #     [f for f in mlflow.artifacts.list_artifacts(run_id=best_child) if f.path=="best model"][0]

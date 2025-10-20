@@ -44,8 +44,7 @@ def save_best_model(
 
 
 def check_predict_data(file_for_prediction, target_to_predict: str):
-    # TODO: only needs saliva or uirne or etcs
-    # Check if the example file exists
+    """Validate prediction data format against training example."""
     example_path = os.path.join(
         EXPERIMENTS_DIR, target_to_predict, "example.csv"
     )
@@ -83,7 +82,7 @@ def predict(
             experiment_results["sample_type"] == sample_type
         ]
 
-    # TODO: yeah metric as a class
+    # Select best experiment based on metric
     if best_is_max:
         best_experiment = experiment_results[metric].idxmax()
     else:
@@ -131,15 +130,7 @@ def predict(
         )
 
     trained_model = mlflow.pyfunc.load_model(best_model_path)
-
     predictions = trained_model.predict(x_for_prediction)
-    # BUG: pyfunc does not load the sklearn model properly
-    # if hasattr(trained_model, "predict_proba"):
-    #     predictions = trained_model.predict(x_for_prediction)
-    #     predictions_prob = trained_model.predict_proba(x_for_prediction)
-    # else:
-    #     predictions_prob = trained_model.predict(x_for_prediction)
-    #     predictions = np.argmax(predictions_prob, axis=-1)
 
     file_to_save = file_to_save or os.path.join(
         os.path.dirname(file_for_prediction), "predictions.csv"

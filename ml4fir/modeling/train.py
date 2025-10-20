@@ -9,8 +9,12 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
-# TODO: set this is a config file
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+# MLflow configuration
+# NOTE: MLflow tracking URI can be configured via MLFLOW_TRACKING_URI environment variable
+MLFLOW_TRACKING_URI = os.environ.get(
+    "MLFLOW_TRACKING_URI", "http://127.0.0.1:5000"
+)
+mlflow.set_tracking_uri(MLFLOW_TRACKING_URI)
 mlflow.autolog(log_datasets=False)
 
 
@@ -98,10 +102,12 @@ def train(
         for n_classes in num_classes
     ]
     new_confs = pd.DataFrame(configurations)
-    new_confs.loc[new_confs["num_classes"] == 1, "apply_smote_resampling"]=False
-    new_confs.loc[new_confs["apply_pls"] == False, "n_components"]=None
-    new_confs=new_confs.drop_duplicates() 
-    configurations=new_confs.to_dict(orient="records")
+    new_confs.loc[new_confs["num_classes"] == 1, "apply_smote_resampling"] = (
+        False
+    )
+    new_confs.loc[new_confs["apply_pls"] == False, "n_components"] = None
+    new_confs = new_confs.drop_duplicates()
+    configurations = new_confs.to_dict(orient="records")
     # NOTE: each experiment can only have one target!
     datahandler = DataHandler(
         data_path=PROCESSED_TRAINING_DATA_FILEPATH, target=targets_to_predict[0]
@@ -115,7 +121,7 @@ def train(
     }
 
     done_mask = None
-    # TODO: each experiment can only have one target!
+    # NOTE: Each experiment configuration supports only one target variable
     target_exp_res_path = os.path.join(
         EXPERIMENTS_DIR,
         targets_to_predict[0],
@@ -123,14 +129,13 @@ def train(
     )
     if os.path.exists(target_exp_res_path):
         target_exp_res = pd.read_csv(target_exp_res_path)
-        same_run_mask =target_exp_res["run_name"] == run_name
-        # if same_run_mask.any():            
-        #     main_run_id = target_exp_res[same_run_mask]["main_run_id"].values[0]
-        #     main_run_args["run_id"] = main_run_id
+        same_run_mask = target_exp_res["run_name"] == run_name
         new_confs = pd.DataFrame(configurations)
         new_confs["model_type"] = new_confs["model_type"].map(names_dict)
         mask = new_confs["num_classes"] == 1
-        new_confs.loc[mask, "model_type"] = new_confs.loc[mask, "model_type"].astype(str) + " Regressor"
+        new_confs.loc[mask, "model_type"] = (
+            new_confs.loc[mask, "model_type"].astype(str) + " Regressor"
+        )
         mask = new_confs["n_components"] != new_confs["n_components"]
         new_confs.loc[mask, "n_components"] = np.nan
         new_confs["search_to_use"] = new_confs["search_to_use"].map(
@@ -174,7 +179,6 @@ def train(
                     scale=config["scale"],
                     apply_smote_resampling=config["apply_smote_resampling"],
                 )
-
 
                 target = config["target"]
                 sample_type = config["sample_type"]
@@ -223,15 +227,6 @@ def train(
                         selected_group_fam=selected_group_fam,
                         num_classes=n_classes,
                     )
-                    # dataset = datahandler.get_mlflow_dataset_complete()
-                    # mlflow.log_input(
-                    #     dataset,
-                    #     context="Complete",
-                    #     tags={
-                    #         "target": target,
-                    #         "sample_type": sample_type,
-                    #     },
-                    # )
 
                     # Skip if no valid data
                     if datahandler.X is None or datahandler.y_encoded is None:
@@ -251,20 +246,6 @@ def train(
                         n_components=n_components,
                     )
                     mlflow.autolog(log_datasets=False)
-
-                    # dataset_train, dataset_test = datahandler.get_mlflow_dataset()
-                    # tags = {
-                    #     "parent_dataset": dataset.name,
-                    #     "random_seed": random_seed,
-                    #     "scale": scale,
-                    #     "apply_pls": apply_pls,
-                    #     "apply_smote_resampling": apply_smote_resampling,
-                    #     "n_components": n_components,
-                    #     "train_percentage": train_percentage,
-                    # }
-                    # tags = {k: str(v) for k, v in tags.items()}
-                    # mlflow.log_input(dataset_train, context="Train", tags=tags)
-                    # mlflow.log_input(dataset_test, context="Eval", tags=tags)
 
                     # Train the model
                     training_results = supervised_training(
@@ -291,7 +272,7 @@ def train(
                         "back_projection_df"
                     ]
                     configs_done = training_results["configs"]
-                    configs_done["run_name"]=run_name
+                    configs_done["run_name"] = run_name
                     all_results.append(results)
                     cross_validation_results_all.append(
                         cross_validation_results
