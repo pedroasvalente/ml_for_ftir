@@ -4,14 +4,12 @@ import mlflow
 import numpy as np
 import pandas as pd
 
-from ml4fir.config import EXPERIMENTS_DIR
+from ml4fir.config import EXPERIMENTS_DIR, logger
 from ml4fir.data.config import data_cols
 from ml4fir.data.load_data import (
     filter_sample_data,
     preprocess_data,
 )
-
-# TODO: rename modules: from ml4fir.data.process import process_sample_data
 
 
 class DataHandler:
