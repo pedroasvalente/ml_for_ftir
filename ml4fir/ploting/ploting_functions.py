@@ -18,7 +18,7 @@ from ml4fir.config import (
     roc_plot_path,
 )
 
-# TODO: Seaborn is not beaing used for anything?
+# Configure seaborn style for all plots
 sns.set(style="whitegrid")
 matplotlib.use("Agg")
 
@@ -119,7 +119,7 @@ def plot_confusion_matrix(
         ax.set_ylabel("True Label")
 
         plt.tight_layout()
-        # TODO: set pathas from project config
+        # Generate save path from project config
         save_path = save_path or get_plot_path(
             confusion_matrix_plot_path, target_name, group_fam_to_use
         )

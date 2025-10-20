@@ -26,8 +26,6 @@ grid_search_args_reg_keras = {
     "verbose": 0,
 }
 
-# WHY: why are the BayesSearchCV parameters different in each model? Like this you are not comparing
-# the same search space for each model.
 search_args = {
     "random_forest": {
         "GridSearchCV": grid_search_args,

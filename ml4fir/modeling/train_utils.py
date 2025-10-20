@@ -45,9 +45,6 @@ from ml4fir.ploting import (
 client = MlflowClient()
 
 
-# mlflow.autolog()
-
-
 def get_principal_wavenumber_path(target_name, group_fam_to_use=None):
     folder = os.path.join(principal_wavenumber_path, target_name)
     if group_fam_to_use:
@@ -206,7 +203,7 @@ def generate_plots(
         target_column,
         group_fam_to_use=group_fam_to_use,
     )
-    # TODO: a metric should not be coming from the plot function.
+    # Calculate ROC AUC from plot function (returns the computed metric)
     roc_auc = plot_roc_curve(
         y_test,
         y_prob,
@@ -239,14 +236,13 @@ def perform_model_search(
         tuple: Best model, predictions, probabilities, metrics, and feature importances.
     """
     # Get model configuration
-    # TODO: we need to take this to the upper level.
+    # Determine correct model type based on task (classification vs regression)
     if "mlp" in model_type:
         if datahandler.num_classes == 1:
             model_type = "mlp_regressor"
         else:
             model_type = "mlp_classifier"
     config = models_experiment[model_type]
-    model_name = config.desc_name
     param_search_space = config.get_params(search_type)
 
     # Determine search function and parameters
@@ -346,7 +342,7 @@ def supervised_training(
     -------
         tuple: Updated results, cross-validation results, and back projection.
     """
-    # TODO: this function needs a full on refactor after model handler.
+    # NOTE: This function orchestrates the complete supervised training pipeline
     x_train = datahandler.x_train
     y_train = datahandler.y_train
     x_test = datahandler.x_test
@@ -363,7 +359,7 @@ def supervised_training(
     mlflow_run = client.get_run(mlflow_run.info.run_id)
     parent_params = mlflow_run.data.params
 
-    # TODO: temporary way to pass results out the function
+    # Container for aggregating results across all search types
     returning_results = {
         "results": [],
         "cross_validation_results": [],
@@ -371,14 +367,13 @@ def supervised_training(
         "back_projection_df": [],
         "configs": [],
     }
-    model_to_return = None, None
 
     search_to_use = search_to_use or ["grid", "bayes"]
     if not isinstance(search_to_use, list):
         search_to_use = [search_to_use]
 
     for search_type in search_to_use:
-        # TODO: lazy fuck, think this better
+        # Normalize search type to full class name
         if search_type == "grid":
             search_type = "GridSearchCV"
         elif search_type == "bayes":
@@ -434,8 +429,7 @@ def supervised_training(
 
                 best_model = search.best_estimator_
 
-                # Evaluation
-                # TODO: this most likely does not need to be a function, but we might separete into the diferent evals there.
+                # Evaluate model performance on test set
                 y_pred, y_prob, metrics, lv_importance = evaluate_model(
                     best_model, x_test, y_test, x_train, model_type
                 )
@@ -452,11 +446,7 @@ def supervised_training(
                 for k in search.best_params_.keys():
                     mlflow.log_param(k, search.best_params_[k])
 
-                # mlflow_run = client.get_run(mlflow_run.info.run_id)
-                # old_acc = mlflow_run.data.metrics.get("acc", 0)
-                # if old_acc < metrics["test_acc"]:
-                #     run_id = run.info.run_id
-
+                # Log model based on type (Keras or sklearn/xgboost)
                 if isinstance(best_model, SKLearnClassifier) or isinstance(
                     best_model, SKLearnRegressor
                 ):
@@ -479,22 +469,19 @@ def supervised_training(
                             "best model",
                             signature=signature,
                         )
-                    except:
+                    except Exception:
                         mlflow.xgboost.log_model(
                             search.best_estimator_,
                             "best model",
                             signature=signature,
                         )
 
-                # TODO: save the current run id somewheree
-                # mlflow.pyfunc.log_model(
-                #         search.best_estimator_, "best model", signature=signature
-                #     )
+                # Re-enable autolog after BayesSearchCV
                 if search_type == "BayesSearchCV":
                     mlflow.autolog(log_datasets=False)
 
-                # TODO: write better coments, and in english.
-                # Transpor os loadings
+                # Back-project feature importances to wavenumber space
+                # Transpose PLS loadings to map from LV space to wavenumber space
                 if loadings is not None:
                     pls_loadings = loadings.transpose()
                     wavenumber_importances = np.abs(
@@ -504,7 +491,7 @@ def supervised_training(
                     wavenumber_importances = np.abs(lv_importance)
                 wavenumber_importances /= wavenumber_importances.sum()
 
-                # Remover zona da água
+                # Remove water absorption region (1850-2500 cm⁻¹)
                 valid_mask = (wavenumbers < 1850) | (wavenumbers > 2500)
                 valid_wavenumbers = wavenumbers[valid_mask]
                 valid_importances = wavenumber_importances[valid_mask]
@@ -512,11 +499,9 @@ def supervised_training(
                 top_indices = np.argsort(valid_importances)[-20:][::-1]
                 top_wavenumbers = valid_wavenumbers[top_indices]
                 top_importances = valid_importances[top_indices]
-
                 test_accuracy = metrics.get("test_acc", None)
 
-                # TODO: check these paths.
-                # Determine group suffix and save path
+                # Generate plot for principal wavenumbers if accuracy threshold is met
                 group_suffix = (
                     f"_{group_fam_to_use}" if group_fam_to_use else ""
                 )
@@ -626,7 +611,6 @@ def supervised_training(
                     )
                     metrics["roc_auc"] = roc_auc
                     mlflow.log_metric("roc_auc", roc_auc)
-                n_wavenumbers = len(top_wavenumbers)
 
                 results = {
                     **best_model_results,

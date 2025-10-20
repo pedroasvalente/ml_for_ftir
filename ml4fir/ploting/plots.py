@@ -42,7 +42,7 @@ def plot(
             experiment_results["sample_type"] == sample_type
         ]
 
-    # TODO: yeah metric as a class
+    # Select best experiment based on metric
     if best_is_max:
         best_experiment = experiment_results[metric].idxmax()
     else:
@@ -103,9 +103,7 @@ def plot(
             best_model_path = mlflow_best_model_path
 
         trained_model = mlflow.pyfunc.load_model(best_model_path)
-
         predictions = trained_model.predict(x_test)
-        # BUG: pyfunc does not load the sklearn model properly
         y_prob = trained_model.get_raw_model().predict_proba(x_test)
 
         test_name = f"{row_best_experiment['model_type']} ({row_best_experiment['search_to_use']})"
