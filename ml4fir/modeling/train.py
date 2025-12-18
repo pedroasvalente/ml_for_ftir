@@ -11,12 +11,9 @@ from tqdm import tqdm
 
 # MLflow configuration
 # NOTE: MLflow tracking URI can be configured via MLFLOW_TRACKING_URI environment variable
-MLFLOW_TRACKING_URI = os.environ.get(
-    "MLFLOW_TRACKING_URI", "http://127.0.0.1:5000"
-)
-mlflow.set_tracking_uri(MLFLOW_TRACKING_URI)
-mlflow.autolog(log_datasets=False)
 
+# todo: i do feel that i just can delete this considering that this is defined on the env.
+mlflow.autolog(log_datasets=False)
 
 from ml4fir.config import (
     EXPERIMENTS_DIR,
@@ -31,7 +28,6 @@ from ml4fir.modeling.utils import save_results
 
 client = MlflowClient()
 
-
 def train(
     experiment_config: str = None,
 ):
@@ -39,6 +35,9 @@ def train(
     all_results = []
     cross_validation_results_all = []
     back_projection_all = []
+    #todo: on the training the back_projection_all is not being called,
+    # i may feel that this should be called somewhere on this func.
+
     grid_search_results_all = []
     back_projection_df_iso_all = []
     configurations_done = []
@@ -63,18 +62,7 @@ def train(
     if not np.any(PLS_regression):
         n_components_list = [None]
 
-    configurations_dict = {
-        "search_to_use": searchs_hipermetrics,
-        "model_type": model_types_to_train,
-        "train_percentage": train_percentages,
-        "sample_type": sample_types,
-        "target": targets_to_predict,
-        "scale": scale_normalization,
-        "apply_pls": PLS_regression,
-        "apply_smote_resampling": smote_resampling,
-        "n_components": n_components_list,
-        "num_classes": num_classes,
-    }
+    #todo: i do feel that this can be deleted, its like.. its not being used
 
     # Create a list of configurations
     configurations = [
