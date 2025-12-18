@@ -496,9 +496,10 @@ def supervised_training(
                 valid_wavenumbers = wavenumbers[valid_mask]
                 valid_importances = wavenumber_importances[valid_mask]
 
-                top_indices = np.argsort(valid_importances)[-20:][::-1]
-                top_wavenumbers = valid_wavenumbers[top_indices]
-                top_importances = valid_importances[top_indices]
+                sorted_indices = np.argsort(valid_wavenumbers)
+                top_wavenumbers = valid_wavenumbers[sorted_indices]
+                top_importances = valid_importances[sorted_indices]
+
                 test_accuracy = metrics.get("test_acc", None)
 
                 # Generate plot for principal wavenumbers if accuracy threshold is met
@@ -630,6 +631,7 @@ def supervised_training(
                 back_projection_df["Train Percentage"] = train_percentage
                 back_projection_df["Model"] = model_name
                 back_projection_df["Search Type"] = search_type
+
                 # NOTE: this accuracy is the one from the model, not one for each wavenumber.
                 for metric in metrics_keys_renamed:
                     metric_val = best_model_results.get(metric, None)

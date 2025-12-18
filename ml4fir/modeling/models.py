@@ -447,6 +447,8 @@ class KerasMagiaRegressor(KerasMagiaConfig):
         super().__init__(*args, sklearn_wrapper=SKLearnRegressor, **kwargs)
 
 
+#todo: what about the regressor?
+
 names_dict = {
     "random_forest": "Random Forest",
     "mlp_classifier": "MLP",
