@@ -36,7 +36,8 @@ dependencies = [
     "seaborn",
     "mlflow",
     "alquimodelia",
-    "torch"
+    "torch", 
+    "dagshub",
 ]
 requires-python = ">=3.11.0"
 
