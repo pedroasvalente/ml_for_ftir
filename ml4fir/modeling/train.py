@@ -110,6 +110,9 @@ def train(
     new_confs["timepoints"] = new_confs["timepoints"].apply(
         lambda x: json.loads(x.replace("'", "\"")) if isinstance(x, str) else x
     )
+    new_confs["timepoints"] = new_confs["timepoints"].apply(
+        lambda x: None if (isinstance(x, float) and np.isnan(x)) else x
+    )
     configurations = new_confs.to_dict(orient="records")
     # NOTE: each experiment can only have one target!
     datahandler = DataHandler(
@@ -198,6 +201,8 @@ def train(
                     n_components = int(n_components)
                 n_classes = config["num_classes"]
                 timepoint = config.get("timepoints", None)
+                if isinstance(timepoint, float) and np.isnan(timepoint):
+                    timepoint = None
                 if n_classes == 1:
                     model_type = model_type.replace("_classifier", "")
                     model_type = f"{model_type}_regressor"
