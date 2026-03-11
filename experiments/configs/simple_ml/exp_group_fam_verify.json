@@ -1,0 +1,34 @@
+{
+    "experiment_name": "FTIR Supervised Training - GROUP_FAM",
+    "run_name": "group_fam_verify",
+    "searchs_hipermetrics": [
+        "grid"
+    ],
+    "model_types_to_train": [
+        "random_forest"
+    ],
+    "train_percentages": [
+        0.8
+    ],
+    "sample_types": [
+        "PLASMA"
+    ],
+    "targets_to_predict": [
+        "group_fam"
+    ],
+    "scale": [
+        true
+    ],
+    "apply_pls": [
+        true
+    ],
+    "apply_smote_resampling": [
+        false
+    ],
+    "n_components": [
+        10
+    ],
+    "num_classes": [
+        3
+    ]
+}

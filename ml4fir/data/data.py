@@ -90,6 +90,7 @@ class DataHandler:
         target: str,
         sample_type: str,
         selected_group_fam: str | None = None,
+        timepoint: list[int] | int | None = None,
     ):
         """
         Preprocess the loaded data.
@@ -106,6 +107,7 @@ class DataHandler:
             sample_type=sample_type,
             ftir_columns=ftir_columns,
             selected_group_fam=selected_group_fam,
+            timepoint=timepoint,
         )
         self.X = X
         self.Y = y
@@ -147,6 +149,7 @@ class DataHandler:
         sample_type: str,
         selected_group_fam: str | None = None,
         num_classes: int | None = None,
+        timepoint: list[int] | int | None = None,
     ):
         target = target or self.target
         self.set_num_classes(num_classes)
@@ -154,6 +157,7 @@ class DataHandler:
             target=target,
             sample_type=sample_type,
             selected_group_fam=selected_group_fam,
+            timepoint=timepoint,
         )
         if self.num_classes == 1:
             y_encoded = y.to_numpy()

@@ -1,4 +1,5 @@
 import os
+import numpy as np
 
 import mlflow
 from mlflow.tracking import MlflowClient
@@ -53,7 +54,7 @@ def save_df_with_lists_as_strings(
     """
     df = df.copy()
     for col in df.columns:
-        if df[col].apply(lambda x: isinstance(x, (list, dict))).any():
+        if df[col].apply(lambda x: isinstance(x, (list, dict, np.ndarray))).any():
             df[col] = df[col].apply(str)
     append_and_save_csv(
         df, csv_path, dedup_col=dedup_col, index=index, json=json
@@ -127,6 +128,9 @@ def save_results(
             index=False,
         )
 
+        target_back_projection_iso = target_back_projection_iso.sort_values(
+            "Wavenumber (cm⁻¹)", ascending=False
+        ).reset_index(drop=True)
         target_back_projection_iso_path = os.path.join(
             final_results_path,
             f"results_summary{suffix_group}_back_projection.csv",

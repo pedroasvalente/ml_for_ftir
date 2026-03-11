@@ -14,6 +14,7 @@ def filter_sample_data(
     sample_type: str,
     ftir_columns: list,
     selected_group_fam: str | None = None,
+    timepoint: list[int] | int | None = None,
 ) -> tuple[pd.DataFrame | None, np.ndarray | None, np.ndarray | None]:
     """
     Filter and preprocess the sample data for a specific sample type and target.
@@ -30,6 +31,8 @@ def filter_sample_data(
         ftir_columns (list): List of FTIR columns to use as features.
         selected_group_fam (str, optional): Specific group family to filter by.
             If None, no group family filtering is applied.
+        timepoint (list[int] or int, optional): Timepoint(s) to filter by.
+            If None, no timepoint filtering is applied.
 
     Returns
     -------
@@ -48,6 +51,14 @@ def filter_sample_data(
         sample_data = sample_data[
             sample_data["group_fam"].isin(selected_group_fam)
         ]
+
+    # Filter by timepoint if specified
+    if timepoint is not None:
+        if not isinstance(timepoint, list):
+            timepoint = [timepoint]
+        logger.info(f"Filtering by timepoint: {timepoint}")
+        sample_data = sample_data[sample_data["timepoint"].isin(timepoint)]
+        logger.info(f"Samples after timepoint filter: {len(sample_data)}")
 
     # Extract spectral data and target
     spectral_data = sample_data[ftir_columns]
@@ -214,6 +225,11 @@ def preprocess_data(
     -------
         tuple: Preprocessed X_train, X_test, y_train, y_test, and optionally loadings.
     """
+    logger.info(f"[DATA] Total samples entering split: {len(y_encoded)}")
+    if num_classes > 1:
+        unique, counts = np.unique(y_encoded, return_counts=True)
+        logger.info(f"[DATA] Class distribution: {dict(zip(unique.tolist(), counts.tolist()))}")
+
     if train_percentage < 1:
         # Split the data into training and testing sets
         X_train, X_test, y_train, y_test = split_data(
@@ -232,6 +248,13 @@ def preprocess_data(
     else:
         raise ValueError("train_percentage must be between 0 and 1")
 
+    logger.info(f"[SPLIT] Train: {len(y_train)} | Test: {len(y_test)}")
+    if num_classes > 1:
+        unique_tr, counts_tr = np.unique(y_train, return_counts=True)
+        unique_te, counts_te = np.unique(y_test, return_counts=True)
+        logger.info(f"[SPLIT] Train class dist: {dict(zip(unique_tr.tolist(), counts_tr.tolist()))}")
+        logger.info(f"[SPLIT] Test class dist:  {dict(zip(unique_te.tolist(), counts_te.tolist()))}")
+
     loadings = None
 
     # Scale the data if scaling is enabled
@@ -247,6 +270,11 @@ def preprocess_data(
     # Apply SMOTE for oversampling if enabled
     # NOTE: This I really dont like. I would rather class weights in the model itself. you balance model itself, and are not feeding artifical data.
     if apply_smote_resampling:
+        n_before = len(y_train)
         X_train, y_train = apply_smote(X_train, y_train, random_seed)
+        n_after = len(y_train)
+        unique_sm, counts_sm = np.unique(y_train, return_counts=True)
+        logger.info(f"[SMOTE] Before: {n_before} samples → After: {n_after} samples (+{n_after - n_before} synthetic)")
+        logger.info(f"[SMOTE] Class dist after: {dict(zip(unique_sm.tolist(), counts_sm.tolist()))}")
 
     return X_train, X_test, y_train, y_test, loadings

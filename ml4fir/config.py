@@ -7,6 +7,20 @@ from loguru import logger
 
 # Load environment variables from .env file if it exists
 load_dotenv()
+# DagsHub + MLflow integration
+# All experiment results are tracked on DagsHub (code stays on GitHub)
+try:
+    import dagshub
+    dagshub.init(
+        repo_owner="pedroasvalente",
+        repo_name="ml_for_ftir",
+        mlflow=True,
+    )
+    logger.info("DagsHub initialized — MLflow tracking → DagsHub")
+except Exception as e:
+    logger.warning(f"DagsHub init failed, using local MLflow: {e}")
+
+
 
 # Paths
 PROJ_ROOT = Path(__file__).resolve().parents[1]
@@ -60,8 +74,6 @@ try:
     logger.add(lambda msg: tqdm.write(msg, end=""), colorize=True)
 except ModuleNotFoundError:
     pass
-
-
 try:
     import mlflow
 
@@ -97,7 +109,5 @@ try:
             handler, LoguruHandler
         ):  # Keep only the LoguruHandler
             mlflow_logger.removeHandler(handler)
-
-
 except ModuleNotFoundError:
     pass

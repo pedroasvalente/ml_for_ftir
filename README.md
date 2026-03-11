@@ -1,153 +1,183 @@
-# ml4ftir
+# ml4fir
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+[![DagsHub](https://img.shields.io/badge/DagsHub-Experiments-orange?logo=dagshub)](https://dagshub.com/pedroasvalente/ml_for_ftir)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/pedroasvalente/ml_for_ftir)
 
-Short desc
+Machine learning pipeline for classifying athletes (football players, ultrarunners, sedentary controls) using **FTIR (Fourier-Transform Infrared Spectroscopy)** data from biological samples (capillary blood, plasma, saliva, serum, urine).
 
-## Running the Prediction Script
+> **Code** is versioned on GitHub. **Experiment results** (metrics, models, artefacts) are tracked on DagsHub via MLflow.
 
-To run the `predict.py` script and make predictions using a trained model, follow these steps:
+---
 
-1. **Prepare the Input File**:
+## Setup
 
-- Ensure you have a CSV file containing the data for prediction. The file should include all the features required by the trained model.
+### Requirements
+- Python >= 3.11
+- CUDA-compatible GPU recommended (tested with NVIDIA MX550, CUDA 12.8)
 
-2. **Run the Prediction Command**:
+### Installation
 
-- Use the following command to make predictions:
-   
-   ```bash
-   ml4fir predict example.csv --target-to-predict=group_fam
-   ```
-- Replace example.csv with the path to your input file and group_fam with the target variable you want to predict.
-
-   - ***Optional: Specify Sample Type:***
-   If your model requires a specific sample type (e.g., saliva, plasma), you can include the --sample-type option
-
-3. **Output**:
-
-The predictions will be saved or displayed as defined in the predict.py script. Check the logs or output directory for the results.
-
-## Running the Training Script
-
-To run the `train.py` script, follow these steps:
-
-1. **Create a Virtual Environment**:
-   ```bash
-   python3 -m venv name_venv
-   ```
-
-2. **Activate the Virtual Environment**:
-   - On Linux/Mac:
-     ```bash
-     source name_venv/bin/activate
-     ```
-   - On Windows:
-     ```bash
-     name_venv\Scripts\activate
-     ```
-
-3. **Install the Project in Editable Mode**:
-
-   With the terminal inside the project.
-   ```bash
-   pip install -e .
-   ```
-
-4. **Create experiment json**:
-
-   Example:
-   ```json
-   {
-      "experiment_name": "FTIR Supervised Training - Phase 1",
-      "run_name": "experiment_test",
-      "searchs_hipermetrics": ["grid", "bayes"],
-      "model_types_to_train": ["random_forest", "mlp_classifier"],
-      "train_percentages": [0.8],
-      "sample_types": ["CAPILAR", "PLASMA"],
-      "targets_to_predict": ["group_fam"]
-   }
-
-   ```
-
-5. **Run the Training Script**:
-   ```bash
-   ml4fir train path_to_training.json
-   ```
-
-This will execute the training process as defined in `train.py`. Make sure to configure any necessary parameters or dependencies before running the script.
-
-6. **Open the MLflow UI**:
-
-   To monitor and visualize your training runs, open the MLflow UI:
-
-   ```bash
-   mlflow ui
-   ```
-
-This will start the MLflow tracking server. By default, the UI will be accessible at http://localhost:5000. Open this link in your browser to explore your experiment runs, metrics, parameters, and artifacts.
-
-
-## Remake the plots
-
-
-   ```bash
-   ml4fir plot group_fam
-   ```
-
-
-## Project Organization
-
-```
-├── LICENSE            <- Open-source license if one is chosen
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
-├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── docs               <- A default mkdocs project; see www.mkdocs.org for details
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│
-├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         ml4fir and configuration for tools like black
-│
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
-│
-├── setup.cfg          <- Configuration file for flake8
-│
-└── ml4fir   <- Source code for use in this project.
-    │
-    ├── __init__.py             <- Makes ml4fir a Python module
-    │
-    ├── config.py               <- Store useful variables and configuration
-    │
-    ├── dataset.py              <- Scripts to download or generate data
-    │
-    ├── features.py             <- Code to create features for modeling
-    │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
-    │   └── train.py            <- Code to train models
-    │
-    └── plots.py                <- Code to create visualizations
+```bash
+git clone https://github.com/pedroasvalente/ml_for_ftir.git
+cd ml_for_ftir
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -e .
 ```
 
---------
+### DagsHub Authentication (first time only)
 
+All MLflow experiment data is sent to DagsHub automatically. Authenticate once:
+
+```python
+import dagshub
+dagshub.auth.add_app_token(token="YOUR_TOKEN")
+```
+
+Get your token at: **DagsHub → Settings → Access Tokens**
+
+---
+
+## Usage
+
+### Train
+
+Use an existing experiment config from `experiments/configs/simple_ml/`:
+
+```bash
+ml4fir train experiments/configs/simple_ml/exp_group_fam.json
+```
+
+After training, results are available at:
+- **DagsHub:** https://dagshub.com/pedroasvalente/ml_for_ftir (metrics, models, artefacts)
+- **Local:** `experiments/<target>/experiment_configs.csv` and `results/<target>/`
+
+### Running on two machines in parallel
+
+Split the workload by sample type:
+
+```bash
+# PC 1 — CAPILAR, PLASMA, SALIVA (576 runs)
+ml4fir train experiments/configs/simple_ml/exp_group_fam_pc1.json
+
+# PC 2 — SERUM, URINE (384 runs)
+ml4fir train experiments/configs/simple_ml/exp_group_fam_pc2.json
+```
+
+Both machines send results to the same DagsHub experiment. No conflicts — each machine handles different sample types.
+
+### Predict
+
+```bash
+ml4fir predict example.csv --target-to-predict=group_fam --sample-type=PLASMA
+```
+
+### Plot
+
+```bash
+ml4fir plot --target-to-predict=group_fam --sample-type=PLASMA
+```
+
+### Clear local MLflow runs
+
+```bash
+ml4fir clear_runs
+```
+
+---
+
+## Experiment Configuration
+
+Each experiment is defined by a JSON file. Example (`exp_group_fam.json`):
+
+```json
+{
+    "experiment_name": "FTIR Supervised Training - GROUP_FAM",
+    "run_name": "group_fam",
+    "searchs_hipermetrics": ["grid", "bayes"],
+    "model_types_to_train": ["mlp_classifier", "random_forest", "decision_tree", "xgboost"],
+    "train_percentages": [0.8, 0.7, 0.6],
+    "sample_types": ["CAPILAR", "PLASMA", "SALIVA", "SERUM", "URINE"],
+    "targets_to_predict": ["group_fam"],
+    "scale": [true, false],
+    "apply_pls": [true, false],
+    "apply_smote_resampling": [true, false],
+    "n_components": [10],
+    "num_classes": [3]
+}
+```
+
+**Available models:** `random_forest`, `mlp_classifier`, `decision_tree`, `xgboost`  
+**Hyperparameter search:** `grid` (GridSearchCV), `bayes` (BayesSearchCV)  
+**36 prediction targets** available in `experiments/configs/simple_ml/`
+
+---
+
+## MLflow Run Hierarchy
+
+```
+main_run
+└── sample_type_run  (CAPILAR | PLASMA | SALIVA | SERUM | URINE)
+    └── search_run  (GridSearchCV | BayesSearchCV)
+        └── model_run  (e.g. "Random Forest_pls_no-smote_scale")
+```
+
+Each **model_run** logs:
+- **Parameters:** model, target, sample_type, scale, apply_pls, n_components, apply_smote, train_size, test_size, train_class_dist, test_class_dist
+- **Metrics:** accuracy, balanced accuracy, F1, recall, precision, ROC AUC
+- **Artefacts:** experiment config JSON, plots (confusion matrix, ROC, wavenumber importances)
+
+---
+
+## Project Structure
+
+```
+ml_for_ftir/
+├── data/
+│   └── processed/
+│       └── 001_3_cleaned_FTIR.csv   <- FTIR dataset
+├── experiments/
+│   ├── configs/
+│   │   ├── simple_ml/               <- 36 experiment JSON configs
+│   │   └── deep_learning/
+│   └── <target>/
+│       └── experiment_configs.csv   <- run history per target
+├── ml4fir/                          <- main package
+│   ├── config.py                    <- paths, env vars, DagsHub init
+│   ├── cli.py                       <- CLI entry points (typer)
+│   ├── data/
+│   │   ├── data.py                  <- DataHandler class
+│   │   └── load_data.py             <- preprocessing pipeline
+│   ├── modeling/
+│   │   ├── train.py                 <- training orchestration
+│   │   ├── train_utils.py           <- MLflow logging + model training
+│   │   ├── models.py                <- model definitions + hyperparameters
+│   │   ├── predict.py               <- inference pipeline
+│   │   └── utils.py                 <- MLflow query utilities
+│   └── ploting/
+│       └── ploting_functions.py     <- ROC, confusion matrix, feature importance
+├── results/                         <- summary CSVs per target
+├── models/                          <- saved model artefacts (local)
+├── reports/figures/                 <- generated plots
+└── pyproject.toml
+```
+
+---
+
+## Environment Variables (`ml4fir/.env`)
+
+| Variable | Default | Description |
+|---|---|---|
+| `TRAINING_DATA_FILENAME` | `001_3_cleaned_FTIR.csv` | Input dataset filename |
+| `RANDOM_SEED` | `52` | Global random seed |
+| `GLOBAL_THRESHOLD` | `70` | Minimum accuracy threshold (%) |
+| `MAIN_METRIC` | `acc` | Primary metric for classification |
+| `MAIN_METRIC_LINEAR` | `rmse` | Primary metric for regression |
+
+> `MLFLOW_TRACKING_URI` is set automatically by `dagshub.init()` — do not override it.
+
+---
+
+## License
+
+MIT — Pedro Valente

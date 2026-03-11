@@ -7,7 +7,7 @@ name = "ml4fir"
 version = "0.0.1"
 description = "Short desc"
 authors = [
-  { name = "Pedro Valente" },
+  { name = "Pedro Afonso Valente" },
 ]
 license = { file = "LICENSE" }
 readme = "README.md"

@@ -378,7 +378,6 @@ def supervised_training(
             search_type = "GridSearchCV"
         elif search_type == "bayes":
             search_type = "BayesSearchCV"
-            mlflow.autolog(disable=True)
         else:
             raise ValueError("Invalid search_type. Choose 'grid' or 'bayes'.")
 
@@ -408,13 +407,34 @@ def supervised_training(
                 config.set_databasedatributes(datahandler)
             model_name = config.desc_name
 
+            # Descriptive run name: e.g. "MLP_pls_smote_scale" or "RF_no-pls_no-smote"
+            pls_tag = "pls" if datahandler.apply_pls else "no-pls"
+            smote_tag = "smote" if datahandler.apply_smote_resampling else "no-smote"
+            scale_tag = "scale" if datahandler.scale else "no-scale"
+            desc_run_name = f"{model_name}_{pls_tag}_{smote_tag}_{scale_tag}"
             model_run_args = {
-                "run_name": f"{model_name}",
+                "run_name": desc_run_name,
                 "nested": True,
                 "parent_run_id": search_mlflow_run.info.run_id,
             }
             with mlflow.start_run(**model_run_args) as run:
                 mlflow.log_param("model_name", model_name)
+                mlflow.log_param("target", target_column)
+                mlflow.log_param("sample_type", sample_type)
+                mlflow.log_param("train_percentage", train_percentage)
+                mlflow.log_param("scale", datahandler.scale)
+                mlflow.log_param("apply_pls", datahandler.apply_pls)
+                mlflow.log_param("n_components", datahandler.n_components)
+                mlflow.log_param("apply_smote_resampling", datahandler.apply_smote_resampling)
+                mlflow.log_param("selected_group_fam", group_fam_to_use if group_fam_to_use else "all")
+                mlflow.log_param("timepoint", datahandler.timepoint if hasattr(datahandler, "timepoint") else "all")
+                mlflow.log_param("num_classes", getattr(datahandler, "num_classes", "unknown"))
+                mlflow.log_param("train_size", len(y_train))
+                mlflow.log_param("test_size", len(y_test))
+                train_classes, train_counts = np.unique(y_train, return_counts=True)
+                test_classes, test_counts = np.unique(y_test, return_counts=True)
+                mlflow.log_param("train_class_dist", dict(zip(train_classes.tolist(), train_counts.tolist())))
+                mlflow.log_param("test_class_dist", dict(zip(test_classes.tolist(), test_counts.tolist())))
                 search_mlflow_run = client.get_run(
                     search_mlflow_run.info.run_id
                 )
@@ -476,9 +496,6 @@ def supervised_training(
                             signature=signature,
                         )
 
-                # Re-enable autolog after BayesSearchCV
-                if search_type == "BayesSearchCV":
-                    mlflow.autolog(log_datasets=False)
 
                 # Back-project feature importances to wavenumber space
                 # Transpose PLS loadings to map from LV space to wavenumber space
@@ -496,9 +513,9 @@ def supervised_training(
                 valid_wavenumbers = wavenumbers[valid_mask]
                 valid_importances = wavenumber_importances[valid_mask]
 
-                top_indices = np.argsort(valid_importances)[-20:][::-1]
-                top_wavenumbers = valid_wavenumbers[top_indices]
-                top_importances = valid_importances[top_indices]
+                sorted_indices = np.argsort(valid_wavenumbers)[::-1]  # descending wavenumber
+                top_wavenumbers = valid_wavenumbers[sorted_indices]
+                top_importances = valid_importances[sorted_indices]
                 test_accuracy = metrics.get("test_acc", None)
 
                 # Generate plot for principal wavenumbers if accuracy threshold is met
@@ -596,7 +613,7 @@ def supervised_training(
                         float(f)
                         for f in search.cv_results_[f"split{i}_test_score"]
                     ]
-                if getattr(datahandler, "labels", None):
+                if getattr(datahandler, "labels", None) is not None:
                     # Generate plots
                     roc_auc = generate_plots(
                         y_test,
@@ -633,7 +650,7 @@ def supervised_training(
                 # NOTE: this accuracy is the one from the model, not one for each wavenumber.
                 for metric in metrics_keys_renamed:
                     metric_val = best_model_results.get(metric, None)
-                    if metric_val is not None:
+                    if metric_val is not None and np.isscalar(metric_val):
                         back_projection_df[metric] = metric_val
                 returning_results["results"].append(results)
                 returning_results["cross_validation_results"].append(

@@ -3,27 +3,20 @@ import os
 
 os.environ["KERAS_BACKEND"] = "torch"
 
-import mlflow
-from mlflow.tracking import MlflowClient
-import numpy as np
-import pandas as pd
-from tqdm import tqdm
-
-# MLflow configuration
-# NOTE: MLflow tracking URI can be configured via MLFLOW_TRACKING_URI environment variable
-MLFLOW_TRACKING_URI = os.environ.get(
-    "MLFLOW_TRACKING_URI", "http://127.0.0.1:5000"
-)
-mlflow.set_tracking_uri(MLFLOW_TRACKING_URI)
-mlflow.autolog(log_datasets=False)
-
-
+# Import config first — triggers dagshub.init() and sets MLflow tracking URI to DagsHub
 from ml4fir.config import (
     EXPERIMENTS_DIR,
     PROCESSED_TRAINING_DATA_FILEPATH,
     logger,
     random_seed,
 )
+
+import mlflow
+from mlflow.tracking import MlflowClient
+import numpy as np
+import pandas as pd
+from tqdm import tqdm
+
 from ml4fir.data import DataHandler
 from ml4fir.modeling.models import names_dict
 from ml4fir.modeling.train_utils import supervised_training
@@ -55,6 +48,7 @@ def train(
     experiment_name = config.get("experiment_name", "FTIR Supervised Training")
     run_name = config.get("run_name", "demo")
     num_classes = config.get("num_classes", [None])
+    timepoints = config.get("timepoints", [None])
 
     scale_normalization = config.get("scale", [True])
     PLS_regression = config.get("apply_pls", [True])
@@ -74,6 +68,7 @@ def train(
         "apply_smote_resampling": smote_resampling,
         "n_components": n_components_list,
         "num_classes": num_classes,
+        "timepoints": timepoints,
     }
 
     # Create a list of configurations
@@ -89,6 +84,7 @@ def train(
             "apply_smote_resampling": apply_smote_resampling,
             "n_components": n_c,
             "num_classes": n_classes,
+            "timepoints": tp,
         }
         for search_to_use in searchs_hipermetrics
         for model_type in model_types_to_train
@@ -100,13 +96,20 @@ def train(
         for apply_smote_resampling in smote_resampling
         for n_c in n_components_list
         for n_classes in num_classes
+        for tp in timepoints
     ]
     new_confs = pd.DataFrame(configurations)
     new_confs.loc[new_confs["num_classes"] == 1, "apply_smote_resampling"] = (
         False
     )
     new_confs.loc[new_confs["apply_pls"] == False, "n_components"] = None
+    new_confs["timepoints"] = new_confs["timepoints"].apply(
+        lambda x: str(x) if isinstance(x, list) else x
+    )
     new_confs = new_confs.drop_duplicates()
+    new_confs["timepoints"] = new_confs["timepoints"].apply(
+        lambda x: json.loads(x.replace("'", "\"")) if isinstance(x, str) else x
+    )
     configurations = new_confs.to_dict(orient="records")
     # NOTE: each experiment can only have one target!
     datahandler = DataHandler(
@@ -129,7 +132,6 @@ def train(
     )
     if os.path.exists(target_exp_res_path):
         target_exp_res = pd.read_csv(target_exp_res_path)
-        same_run_mask = target_exp_res["run_name"] == run_name
         new_confs = pd.DataFrame(configurations)
         new_confs["model_type"] = new_confs["model_type"].map(names_dict)
         mask = new_confs["num_classes"] == 1
@@ -158,6 +160,7 @@ def train(
             return
 
     with mlflow.start_run(**main_run_args) as run:
+        mlflow.log_artifact(experiment_config)
         # Process each configuration
         with tqdm(
             configurations, desc="Training Configurations"
@@ -194,6 +197,7 @@ def train(
                 if n_components is not None:
                     n_components = int(n_components)
                 n_classes = config["num_classes"]
+                timepoint = config.get("timepoints", None)
                 if n_classes == 1:
                     model_type = model_type.replace("_classifier", "")
                     model_type = f"{model_type}_regressor"
@@ -226,6 +230,7 @@ def train(
                         sample_type=sample_type,
                         selected_group_fam=selected_group_fam,
                         num_classes=n_classes,
+                        timepoint=timepoint,
                     )
 
                     # Skip if no valid data
