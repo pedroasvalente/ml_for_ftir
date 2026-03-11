@@ -103,13 +103,21 @@ Each experiment is defined by a JSON file. Example (`exp_group_fam.json`):
     "apply_pls": [true, false],
     "apply_smote_resampling": [true, false],
     "n_components": [10],
-    "num_classes": [3]
+    "num_classes": [3],
+    "timepoints": [null]
 }
 ```
 
-**Available models:** `random_forest`, `mlp_classifier`, `decision_tree`, `xgboost`  
-**Hyperparameter search:** `grid` (GridSearchCV), `bayes` (BayesSearchCV)  
+**Available models:** `random_forest`, `mlp_classifier`, `decision_tree`, `xgboost`
+**Hyperparameter search:** `grid` (GridSearchCV), `bayes` (BayesSearchCV)
 **36 prediction targets** available in `experiments/configs/simple_ml/`
+
+**`timepoints` options:**
+| Value | Meaning |
+|---|---|
+| `[null]` | All timepoints (default) |
+| `[1]` | Only timepoint 1 |
+| `[1, 2]` | Timepoints 1 and 2 (runs each separately) |
 
 ---
 
@@ -123,7 +131,7 @@ main_run
 ```
 
 Each **model_run** logs:
-- **Parameters:** model, target, sample_type, scale, apply_pls, n_components, apply_smote, train_size, test_size, train_class_dist, test_class_dist
+- **Parameters:** model, target, sample_type, scale, apply_pls, n_components, apply_smote, timepoint, train_size, test_size, train_class_dist, test_class_dist
 - **Metrics:** accuracy, balanced accuracy, F1, recall, precision, ROC AUC
 - **Artefacts:** experiment config JSON, plots (confusion matrix, ROC, wavenumber importances)
 
