@@ -506,7 +506,9 @@ def supervised_training(
                     )
                 else:
                     wavenumber_importances = np.abs(lv_importance)
-                wavenumber_importances /= wavenumber_importances.sum()
+                total = wavenumber_importances.sum()
+                if total > 0:
+                    wavenumber_importances /= total
 
                 # Remove water absorption region (1850-2500 cm⁻¹)
                 valid_mask = (wavenumbers < 1850) | (wavenumbers > 2500)

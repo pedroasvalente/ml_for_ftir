@@ -273,12 +273,13 @@ def plot_wavenumber_importances(
     # Plot left and right sections
     ax_left.plot(wav_left, imp_left, color="b")
     ax_left.set_xlim(np.max(wav_left), np.min(wav_left))
-    ax_left.set_ylim(0, np.max(valid_importances) * 1.05)
+    imp_max = np.nanmax(valid_importances) if np.any(np.isfinite(valid_importances)) else 1.0
+    ax_left.set_ylim(0, imp_max * 1.05)
     ax_left.grid(True)
 
     ax_right.plot(wav_right, imp_right, color="b")
     ax_right.set_xlim(np.max(wav_right), np.min(wav_right))
-    ax_right.set_ylim(0, np.max(valid_importances) * 1.05)
+    ax_right.set_ylim(0, imp_max * 1.05)
     ax_right.grid(True)
 
     # Invert x-axis for both sections
