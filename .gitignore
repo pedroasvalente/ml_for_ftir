@@ -198,6 +198,7 @@ models/**
 # IDE
 .idea/
 .vscode/
+.claude
 
 # Misc
 things/*

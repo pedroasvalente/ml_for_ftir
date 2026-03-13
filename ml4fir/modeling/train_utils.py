@@ -149,7 +149,9 @@ def calculate_feature_importances(model, x_train, model_type, x_test, y_test):
             key = f"f{i}"
             if key in importance_dict:
                 lv_importance[i] = importance_dict[key]
-        lv_importance /= lv_importance.sum()
+        total = lv_importance.sum()
+        if total > 0:
+            lv_importance /= total
     elif model_is_mlp or model_is_keras:
         perm_bayes = permutation_importance(
             model, x_test, y_test, random_state=random_seed
@@ -464,7 +466,10 @@ def supervised_training(
 
                 mlflow.log_metric("best score", search.best_score_)
                 for k in search.best_params_.keys():
-                    mlflow.log_param(k, search.best_params_[k])
+                    try:
+                        mlflow.log_param(k, search.best_params_[k])
+                    except Exception:
+                        pass  # autolog already logged this param
 
                 # Log model based on type (Keras or sklearn/xgboost)
                 if isinstance(best_model, SKLearnClassifier) or isinstance(
@@ -490,11 +495,14 @@ def supervised_training(
                             signature=signature,
                         )
                     except Exception:
-                        mlflow.xgboost.log_model(
-                            search.best_estimator_,
-                            "best model",
-                            signature=signature,
-                        )
+                        try:
+                            mlflow.xgboost.log_model(
+                                search.best_estimator_,
+                                "best model",
+                                signature=signature,
+                            )
+                        except Exception:
+                            pass  # DagsHub does not support log_model_metrics_for_step
 
 
                 # Back-project feature importances to wavenumber space
